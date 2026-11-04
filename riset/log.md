@@ -19,3 +19,5 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Keputusan user: keputusan 3 multi-item dengan rencana B satu butir. Sumber butir X kandidat Maynard & Hakel (1997); Y belum ketemu.
 - Maynard & Hakel (1997) dicek: 4 butir kompleksitas subjektif, α = 0,903. Disertasi Pieterson (2009) gagal diunggah (303 halaman).
 - Disertasi Pieterson (2009) dicek: Y berupa pilihan satu kanal (nominal), bukan multi-item.
+- Keputusan user: keputusan 3 final. X multi-item (Maynard & Hakel), Y satu butir (Ebbers).
+- Berikutnya: keputusan 4 (populasi dan akses).
