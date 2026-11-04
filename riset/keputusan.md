@@ -18,7 +18,14 @@ Karena waktunya mepet, keputusan di bawah diselesaikan secepatnya, satu per satu
 - Kandidat X terkuat sementara: persepsi kompleksitas tugas (*perceived task complexity*).
 - Kandidat Y: belum final.
 - Rujukan inti yang sudah dicek ada:
-  - Ebbers, Jansen, Pieterson, & van de Wijngaert (2016), *Government Information Quarterly* 33(3), 506-515, doi:10.1016/j.giq.2016.06.001. Angka 637 responden dan β = 0,07 belum dicek dari artikel asli.
+  - Ebbers, Jansen, Pieterson, & van de Wijngaert (2016), *Government Information Quarterly* 33(3), 506-515, doi:10.1016/j.giq.2016.06.001. Sudah dicek dari PDF asli (4 Nov 2026):
+    - n = 637, panel daring Belanda, usia 18+, pernah kontak dengan pemerintah kota dalam dua tahun terakhir (hlm. 510).
+    - Metode vignette, desain *incomplete block*, tiap responden menjawab tiga vignette (hlm. 510).
+    - Y: kemungkinan memakai kanal (loket/telepon/website) pada situasi itu, **satu butir per kanal**, Likert 5 poin "very unlikely" sampai "very likely" (hlm. 510).
+    - X: persepsi kompleksitas, **satu butir**, Likert 5 poin "very easy" sampai "very difficult" (hlm. 510).
+    - Multi-item + Cronbach hanya untuk trust, habit, computer self-efficacy, kepuasan (hlm. 510, Appendix 1).
+    - Complexity ke front desk β = 0,07, p = 0,001; telepon β = 0,09, p < 0,001; website β = 0,02, p = 0,173 (Tabel 6, hlm. 511). Analisis WarpPLS, taraf signifikansi 0,01.
+    - Implikasi: Ebbers tidak menyediakan skala multi-item untuk X maupun Y.
   - Pieterson & Ebbers (2020), *Government Information Quarterly* 37(3), 101478, doi:10.1016/j.giq.2020.101478.
 
 ## Empat keputusan yang belum dikunci
