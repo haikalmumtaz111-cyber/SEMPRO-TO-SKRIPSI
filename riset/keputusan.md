@@ -27,7 +27,7 @@ Penjelasan versi santainya ada di `.claude/skills/sempro/references/alur-bimbing
 
 | No | Keputusan | Status |
 |---|---|---|
-| 1 | Y mengukur apa: kemungkinan datang ke kantor, lebih suka kantor dibanding aplikasi, atau pernah datang beneran | Belum |
+| 1 | Y mengukur apa: kemungkinan datang ke kantor, lebih suka kantor dibanding aplikasi, atau pernah datang beneran | **Terkunci (4 Nov 2026)**: kemungkinan penggunaan kanal tatap muka (*likelihood of use*), skala bertingkat. Pilihan user. Sumber butir belum ketemu `[PERLU RUJUKAN]`: OpenAlex, ris.utwente.nl, core.ac.uk diblok jaringan sesi. Kandidat sumber: Ebbers dkk. (2016), Pieterson (2007/2009), Pieterson, Teerling, & Ebbers (2008) "Channel Perceptions and Usage". Redaksi butir wajib dicek dari artikel asli |
 | 2 | Kuesioner pakai cerita karangan (skenario) atau pengalaman nyata jemaah | Belum |
 | 3 | Tiap variabel diukur pakai satu pertanyaan atau beberapa pertanyaan | Belum. Catatan: panduan FDK meminta uji validitas dan Cronbach's alpha, jadi beberapa pertanyaan lebih aman |
 | 4 | Populasi dan cara menjangkau responden | Sebagian. User: "jemaah haji yang sudah terdaftar". Belum dirinci wilayah, status (masih menunggu atau tidak), dan jalur akses |
