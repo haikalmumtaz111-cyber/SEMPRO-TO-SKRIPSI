@@ -22,3 +22,4 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Keputusan user: keputusan 3 final. X multi-item (Maynard & Hakel), Y satu butir (Ebbers).
 - Berikutnya: keputusan 4 (populasi dan akses).
 - Keputusan user: wilayah Kabupaten Bandung, lokasi magang. Nomenklatur kantor belum diverifikasi.
+- Keputusan user: populasi jemaah bernomor porsi yang belum berangkat.\n
