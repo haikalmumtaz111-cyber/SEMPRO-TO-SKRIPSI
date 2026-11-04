@@ -21,3 +21,4 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Disertasi Pieterson (2009) dicek: Y berupa pilihan satu kanal (nominal), bukan multi-item.
 - Keputusan user: keputusan 3 final. X multi-item (Maynard & Hakel), Y satu butir (Ebbers).
 - Berikutnya: keputusan 4 (populasi dan akses).
+- Keputusan user: wilayah Kabupaten Bandung, lokasi magang. Nomenklatur kantor belum diverifikasi.
