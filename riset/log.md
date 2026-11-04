@@ -17,3 +17,4 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Keputusan user: keputusan 2 terkunci, skenario satu cerita.
 - PDF Ebbers dkk. (2016) dicek: X dan Y masing-masing satu butir. Angka 637 dan β = 0,07 terkonfirmasi. PDF tidak di-commit karena repo public.
 - Keputusan user: keputusan 3 multi-item dengan rencana B satu butir. Sumber butir X kandidat Maynard & Hakel (1997); Y belum ketemu.
+- Maynard & Hakel (1997) dicek: 4 butir kompleksitas subjektif, α = 0,903. Disertasi Pieterson (2009) gagal diunggah (303 halaman).
