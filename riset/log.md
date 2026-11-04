@@ -14,3 +14,4 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Keputusan user: keputusan 1 terkunci, Y = kemungkinan datang ke kantor (*likelihood of use*).
 - Pencarian sumber butir Y gagal karena OpenAlex, Crossref, ris.utwente.nl, dan core.ac.uk diblok jaringan sesi. Hanya metadata Ebbers dkk. (2016) yang terkonfirmasi lewat web search.
 - Berikutnya: keputusan 2, lalu cari redaksi butir dari artikel asli (user unduh PDF atau izinkan domain).
+- Keputusan user: keputusan 2 terkunci, skenario satu cerita.
