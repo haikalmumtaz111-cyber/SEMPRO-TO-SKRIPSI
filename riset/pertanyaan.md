@@ -6,7 +6,7 @@ Dibuat 5 November 2026. Jawaban diisi di kolom "Jawaban". Yang tidak dijawab sam
 
 | No | Pertanyaan | Dipakai di | Jawaban |
 |---|---|---|---|
-| 1 | NIM lu berapa? | Sampul | 12340701111 (11 digit, cek lagi, NIM UIN SGD biasanya 10 digit) |
+| 1 | NIM lu berapa? | Sampul | 1234070111 (dikoreksi user, 10 digit) |
 | 2 | Nama lengkap dan gelar dosen pembimbing akademik yang tanda tangan hari ini? | Sampul, lembar pengajuan | Belum lengkap (Khoirizi). Di naskah dikosongkan titik-titik |
 | 3 | Prodi punya format sampul atau lembar pengajuan proposal sendiri? Kalau ada, foto atau kirim contohnya. Kalau tidak ada, gue pakai format standar. | Sampul | Ada format sampul prodi, user minta dulu. Lembar pengajuan: user tanya dulu |
 | 4 | Nama kantor persis seperti di kop surat, papan nama, atau sertifikat magang, plus alamatnya. | Lokasi penelitian | Kantor Kementerian Haji dan Umroh Kabupaten Bandung. Alamat belum |

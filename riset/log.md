@@ -39,3 +39,10 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Dibuat `riset/briefing-dospem.md` (cek X-Y, audit penelitian terdahulu, 3 kalimat per komponen, pertanyaan dosen).
 - User minta tanpa subagen biar hemat kuota. Sesi berikutnya kerja langsung, jangan spawn agen.
 - Berikutnya: bimbingan sore ini, lalu tahap 13 sampai 15 di `riset/tahapan.md`.
+
+## 5 November 2026 (lanjutan 2)
+
+- NIM dikoreksi user jadi 1234070111.
+- Urutan naskah dicek ke PDF asli Panduan KTI FDK 2026 (hlm. 24-31, Sistematika Proposal Kuantitatif): sepuluh komponen sudah sesuai. Disesuaikan: Judul Penelitian jadi bagian 1, Daftar Pustaka 9, Kuesioner 10, Jenis Data dan Sumber Data dipecah jadi Jenis Data dan Sumber Data (primer, sekunder). Lembar persetujuan dibuang karena tidak ada di sistematika (surat usulan terpisah).
+- Sampul meniru proposal teman user yang sudah sempro (format prodi MHU): `scripts/sampul.py` + `proposal/sampul.json` + `templates/logo-uin.png`. Sampul tanpa nomor halaman.
+- Berikutnya: bimbingan, lalu tahap 13 di `riset/tahapan.md`.

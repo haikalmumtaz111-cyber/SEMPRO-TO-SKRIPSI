@@ -26,7 +26,7 @@ Handoff berhenti di tahap 4 (seleksi variabel). Keputusan 1 sampai 3 terkunci, k
 | 12 | Print dan bimbingan | User print, bawa ke dosen, catat coretan | kertas + catatan revisi | [ ] |
 | 13 | Revisi hasil bimbingan | Masukkan coretan dosen ke `proposal.md`, build ulang | docx revisi | [ ] |
 | 14 | Lunasi tanda `[PERLU ...]` | Lihat daftar di bawah | naskah tanpa tanda | [ ] |
-| 15 | Sampul resmi prodi | Ganti sampul sementara dengan format prodi + logo | docx final | [ ] |
+| 15 | Sampul resmi prodi | Meniru proposal teman yang sudah sempro, logo UIN, tanpa nomor halaman | `scripts/sampul.py` | [x] |
 
 ## Sisa tanda `[PERLU ...]` di naskah (12 buah)
 
@@ -46,4 +46,4 @@ Handoff berhenti di tahap 4 (seleksi variabel). Keputusan 1 sampai 3 terkunci, k
 ## Parkir (dibahas setelah sempro)
 
 - Media sosial kantor kurang aktif (handoff bagian 9).
-- NIM 11 digit, cek ulang.
+

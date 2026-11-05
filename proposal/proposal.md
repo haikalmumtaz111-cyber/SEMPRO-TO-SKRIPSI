@@ -1,41 +1,9 @@
----
-title: "HUBUNGAN PERSEPSI KOMPLEKSITAS PERSOALAN ESTIMASI KEBERANGKATAN DENGAN KEMUNGKINAN PENGGUNAAN LAYANAN TATAP MUKA"
-subtitle: "Survei pada Jemaah Haji Reguler Daftar Tunggu di Kantor Kementerian Haji dan Umrah Kabupaten Bandung"
-author:
-  - "Usulan Rencana Penelitian"
-  - "Diajukan kepada Program Studi Manajemen Haji dan Umrah Fakultas Dakwah dan Komunikasi UIN Sunan Gunung Djati Bandung"
-  - "Oleh: Mumtaaz Haekal, NIM 12340701111"
-date: "FAKULTAS DAKWAH DAN KOMUNIKASI UNIVERSITAS ISLAM NEGERI SUNAN GUNUNG DJATI BANDUNG 2026 M / 1448 H"
----
+<!-- Naskah proposal kuantitatif FDK. Urutan sepuluh komponen mengikuti Panduan KTI FDK 2026 hlm. 24-31. -->
+<!-- Sampul dibuat otomatis oleh scripts/sampul.py dari proposal/sampul.json saat build. -->
 
-<!-- Naskah proposal kuantitatif FDK. Urutan dan isi tiap bagian: .claude/skills/sempro/references/fdk.md -->
-<!-- Sampul di atas sementara. Format sampul resmi prodi (logo, tata letak) menyusul dari user. -->
+# Judul Penelitian
 
-```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
-```
-
-# Lembar Persetujuan {.unnumbered}
-
-Usulan Rencana Penelitian berjudul "Hubungan Persepsi Kompleksitas Persoalan Estimasi Keberangkatan dengan Kemungkinan Penggunaan Layanan Tatap Muka (Survei pada Jemaah Haji Reguler Daftar Tunggu di Kantor Kementerian Haji dan Umrah Kabupaten Bandung)" disusun oleh Mumtaaz Haekal dengan Nomor Induk Mahasiswa (NIM) 12340701111. Usulan ini telah disetujui untuk diajukan dalam seminar usulan penelitian.
-
-Bandung, ........................ 2026
-
-Menyetujui,
-
-Dosen Pembimbing Akademik,
-
-&nbsp;
-
-&nbsp;
-
-........................................................
-
-NIP. ...................................................
-
-```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
-```
+**Hubungan Persepsi Kompleksitas Persoalan Estimasi Keberangkatan dengan Kemungkinan Penggunaan Layanan Tatap Muka (Survei pada Jemaah Haji Reguler Daftar Tunggu di Kantor Kementerian Haji dan Umrah Kabupaten Bandung)**
 
 # Latar Belakang Masalah
 
@@ -140,7 +108,13 @@ Metode yang digunakan adalah survei dengan desain potong lintang (*cross-section
 
 ## Jenis Data dan Sumber Data
 
-Jenis data adalah data kuantitatif berupa skor jawaban kuesioner. Sumber data primer adalah jemaah haji reguler daftar tunggu yang menjadi responden. Sumber data sekunder meliputi data jumlah daftar tunggu dari SISKOHAT Kantor Kementerian Haji dan Umrah Kabupaten Bandung, buku tamu kantor, serta peraturan dan informasi resmi tentang kuota dan masa tunggu haji.
+### Jenis Data
+
+Pendekatan penelitian ini objektif sehingga data yang dikumpulkan berupa data kuantitatif, yaitu skor jawaban responden atas kuesioner berskala bertingkat.
+
+### Sumber Data
+
+Sumber data primer adalah jemaah haji reguler daftar tunggu Kabupaten Bandung yang memenuhi kriteria responden dan bersedia mengisi kuesioner. Sumber data sekunder meliputi data jumlah daftar tunggu dari SISKOHAT Kantor Kementerian Haji dan Umrah Kabupaten Bandung, buku tamu kantor, serta peraturan dan informasi resmi tentang kuota dan masa tunggu haji.
 
 ## Populasi dan Sampel
 
@@ -179,7 +153,7 @@ Analisis inferensial dipakai untuk menjawab pertanyaan penelitian ketiga dan men
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Daftar Pustaka {.unnumbered}
+# Daftar Pustaka
 
 Bahar, Z., & Saepudin, S. (2026). Aplikasi web informasi layanan haji pada Kementerian Haji dan Umrah Kota Sukabumi dengan menggunakan framework Zachman. *SINTA Jurnal Sistem Informasi dan Teknologi Komputasi, 3*(1), 24-35. https://doi.org/10.61124/sinta.v3i1.140
 
@@ -219,7 +193,7 @@ Wargadinata, E. L., & Tendean, N. R. P. (2024). Amidst the euphoria of digitaliz
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Lampiran: Kuesioner (Tentatif) {.unnumbered}
+# Kuesioner (Tentatif)
 
 **Lembar Persetujuan Responden**
 
