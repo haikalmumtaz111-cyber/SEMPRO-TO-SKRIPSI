@@ -4,11 +4,11 @@ Sumber: cerita lisan user yang ditranskrip, disimpan utuh di bagian paling bawah
 
 ## A. Pengamatan langsung user (boleh ditulis sebagai pengamatan awal peneliti)
 
-1. User magang sekitar enam bulan di kantor yang ia sebut Kementerian Haji dan Umrah Kabupaten Bandung, pada 2026. Periode persis `[PERLU KONFIRMASI]`.
+1. User magang sekitar enam bulan di kantor yang ia sebut Kementerian Haji dan Umrah Kabupaten Bandung, pada 2026. Periode di kantor ini: Februari sampai Juni 2026 (Januari magang di travel).
 2. Tugas magang bergiliran: front office, input data, dan dokumen (paspor, visa, manifes). Masa magang bertepatan dengan masa sibuk beberapa bulan sebelum keberangkatan haji. Pendaftaran tetap dibuka.
 3. Tidak sedikit jemaah datang ke kantor menanyakan estimasi keberangkatan. Asalnya dari berbagai kalangan, muda maupun tua.
 4. Alur layanan: jemaah menyerahkan nomor porsi, petugas memasukkannya ke sistem yang user sebut "Siskohat Gen 2", lalu muncul identitas, tanggal awal daftar, dan estimasi tahun keberangkatan.
-5. Jemaah lalu bertanya kenapa estimasinya berubah. Contoh yang diceritakan: pengecekan awal setelah daftar menunjukkan 2025, pengecekan ulang setahun sebelum jadwal menunjukkan 2026, 2030, atau 2035. Tahun-tahun ini **contoh ilustrasi** `[PERLU KONFIRMASI: kasus nyata atau ilustrasi]`.
+5. Jemaah lalu bertanya kenapa estimasinya berubah. Contoh yang diceritakan: pengecekan awal setelah daftar menunjukkan 2025, pengecekan ulang setahun sebelum jadwal menunjukkan 2026, 2030, atau 2035. Tahun-tahun ini **ilustrasi**; kasusnya nyata, angka tahunnya beragam (konfirmasi user 5 Nov).
 6. Pertanyaan merembet: apakah bisa dipercepat.
 7. Penjelasan petugas (termasuk user) ke jemaah:
    - estimasi berubah karena beberapa faktor, yang paling berpengaruh menurut petugas adalah perubahan regulasi setelah penyelenggaraan haji pindah dari Kementerian Agama ke Kementerian Haji dan Umrah;
@@ -29,9 +29,9 @@ Catatan kritis: dugaan B1 dan B2 menyangkut **isi informasi kanal digital**. Var
 
 | No | Klaim dari cerita | Status |
 |---|---|---|
-| 1 | Penyelenggaraan haji diambil alih Kementerian Haji dan Umrah dari Kementerian Agama | `[PERLU VERIFIKASI]` dasar hukum (kandidat: Perpres 92/2025, UU perubahan UU 8/2019) |
+| 1 | Penyelenggaraan haji diambil alih Kementerian Haji dan Umrah dari Kementerian Agama | Terverifikasi lewat web: Perpres 92/2025 tentang Kementerian Haji dan Umrah (8 Sept 2025, peraturan.bpk.go.id), dasar UU 14/2025 perubahan ketiga UU 8/2019. Bunyi pasal pengalihan belum dibaca langsung |
 | 2 | Dulu masa tunggu beda tiap daerah (contoh user: Bandung 25, Tasik 15, Jatim 10, Kalimantan 40 sampai 45 tahun) | Angka ini ingatan user, **jangan dikutip** tanpa data resmi |
-| 3 | Regulasi baru menyamaratakan masa tunggu jadi 26 tahun | `[PERLU VERIFIKASI]` nama regulasi, tanggal, angka |
+| 3 | Regulasi baru menyamaratakan masa tunggu jadi 26 tahun | Sebagian: formula baru Kemenhaj, masa tunggu seragam sekitar 26,4 tahun (Bisnis.com, 30 Nov 2025). Kuota Jabar 38.723 (2025) jadi 29.643 (2026), sekitar 9.000 tertunda (detikHikmah). NU Online 28 Sept 2026: rencana pangkas ke 14 tahun. Regulasi formalnya belum ketemu |
 | 4 | Porsi jemaah wafat bisa dilimpahkan ke ahli waris | `[PERLU VERIFIKASI]` dasar aturan |
 | 5 | Porsi jemaah batal hangus dan antrean maju | `[PERLU VERIFIKASI]` |
 | 6 | Masa tunggu haji khusus sekitar 5 sampai 11 tahun | `[PERLU VERIFIKASI]` |

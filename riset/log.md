@@ -29,3 +29,13 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Cerita magang user disimpan di `riset/fenomena-magang.md`, dipilah jadi pengamatan, dugaan, dan klaim regulasi yang wajib dicek.
 - Dibuat `riset/tahapan.md` (12 tahap sampai print, dengan target jam) dan `riset/pertanyaan.md` (19 pertanyaan).
 - Berikutnya: user jawab `riset/pertanyaan.md`, lalu eksekusi tahap 2 sampai 10 sekaligus.
+
+## 5 November 2026 (lanjutan)
+
+- User menjawab `riset/pertanyaan.md`. Keputusan 4 terkunci: reguler, N = 46.210, Slovin 10% (n = 100), purposive, sebar lewat kantor, KBIHU, loket.
+- User ACC rekomendasi: judul "Hubungan", skala 5 poin, regresi linear sederhana (cadangan Spearman).
+- Regulasi dicek lewat web: Perpres 92/2025, UU 14/2025, formula masa tunggu 26,4 tahun, kuota Jabar turun.
+- Naskah sepuluh komponen ditulis utuh, Word dibuild (23 halaman). Script `rapikan_tabel.py` ditambahkan ke build supaya tabel tidak gepeng.
+- Dibuat `riset/briefing-dospem.md` (cek X-Y, audit penelitian terdahulu, 3 kalimat per komponen, pertanyaan dosen).
+- User minta tanpa subagen biar hemat kuota. Sesi berikutnya kerja langsung, jangan spawn agen.
+- Berikutnya: bimbingan sore ini, lalu tahap 13 sampai 15 di `riset/tahapan.md`.

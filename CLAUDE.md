@@ -18,6 +18,7 @@ Semua pekerjaan proposal jalan lewat skill `sempro` di `.claude/skills/sempro/SK
 - Satu keputusan satu waktu. Kasih 2 sampai 3 pilihan, sebut untung ruginya, kasih rekomendasi beserta alasan, lalu minta user milih. Jangan nyodorin lima pertanyaan sekaligus.
 - Kritis, jangan asal setuju. Bedakan fakta, opini, dan dugaan.
 - Naskah proposal tetap ditulis pakai bahasa akademik baku.
+- User pakai paket Claude Pro. Hemat kuota: jangan spawn subagen (Agent/Workflow), baca file seperlunya pakai grep, jangan baca ulang handoff utuh.
 
 ## Aturan mati
 

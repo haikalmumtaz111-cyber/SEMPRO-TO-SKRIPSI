@@ -1,63 +1,49 @@
 # Peta Tahapan: dari Posisi Terakhir sampai File Word
 
-Dibuat: Kamis, 5 November 2026, 10.35 WIB
-Deadline: draf utuh tercetak, dibawa ke dosen pembimbing akademik **hari ini siang (sekitar 14.00 WIB)**.
+Dibuat: Kamis, 5 November 2026. Diperbarui setelah eksekusi sekaligus pada hari yang sama.
 
-Ini acuan tunggal. Sesi mana pun yang melanjutkan: baca file ini, cari tahap pertama yang belum `[x]`, kerjakan tahap itu saja. Jangan nambah tahap baru tanpa persetujuan user. Kalau ada hal di luar daftar ini, catat di bagian "Parkir" paling bawah, jangan dikerjakan.
+Ini acuan tunggal. Sesi mana pun yang melanjutkan: baca file ini, cari tahap pertama yang belum `[x]`, kerjakan tahap itu saja. Jangan nambah tahap baru tanpa persetujuan user. Ide di luar daftar masuk "Parkir".
 
-## Posisi start
+## Posisi start (sebelum 5 November 2026)
 
-Dari `riset/keputusan.md`: keputusan 1, 2, 3 terkunci. Keputusan 4 baru setengah (wilayah Kabupaten Bandung dan status jemaah bernomor porsi belum berangkat sudah terkunci). Naskah `proposal/proposal.md` masih kerangka kosong.
+Handoff berhenti di tahap 4 (seleksi variabel). Keputusan 1 sampai 3 terkunci, keputusan 4 setengah, naskah kosong.
 
-Yang sudah terkunci:
+## Tahapan proses
 
-- X: persepsi kompleksitas persoalan, 4 butir adaptasi Maynard & Hakel (1997).
-- Y: kemungkinan memakai layanan tatap muka di kantor, 1 butir mengikuti Ebbers dkk. (2016:510).
-- Desain: satu skenario (*vignette*) yang sama untuk semua responden.
-- Wilayah: Kabupaten Bandung. Populasi: jemaah bernomor porsi yang belum berangkat.
+| No | Tahap | Isi kerja | Hasil fisik | Status |
+|---|---|---|---|---|
+| 1 | Simpan fenomena | Cerita magang dipilah jadi pengamatan, dugaan, klaim regulasi | `riset/fenomena-magang.md` | [x] |
+| 2 | Kumpulkan data dari user | 19 pertanyaan | `riset/pertanyaan.md` | [x] |
+| 3 | Kunci sisa keputusan | Reguler, populasi 46.210, Slovin 10% (n = 100), *purposive*, skala 5 poin, regresi linear sederhana, judul "Hubungan" | `riset/keputusan.md` | [x] |
+| 4 | Cek keselarasan X dan Y | Apakah X dan Y nyambung secara teori, punya sumber butir, dan cocok dengan fenomena | `riset/briefing-dospem.md` bagian A | [x] |
+| 5 | Audit penelitian terdahulu | Baca 10 sumber di `Sumber/`, ambil metadata, metode, temuan, halaman. Rumuskan celah penelitian | `riset/briefing-dospem.md` bagian B, latar belakang paragraf terakhir | [x] |
+| 6 | Verifikasi regulasi resmi | Perpres 92/2025, UU 14/2025, kebijakan masa tunggu 26,4 tahun, kuota Jabar | `riset/fenomena-magang.md` tabel C, daftar pustaka | [x] sebagian (lihat sisa tanda) |
+| 7 | Susun instrumen | Skenario, 4 butir X, 1 butir Y, data responden, persetujuan | Lampiran kuesioner di `proposal.md` | [x] |
+| 8 | Tulis naskah sepuluh komponen FDK | Judul sampai daftar pustaka | `proposal/proposal.md` | [x] |
+| 9 | Cek bahasa dan kaidah | `periksa.py`, `metrik.py`, sapu pola AI, nol em dash | naskah bersih (temuan K = 0) | [x] |
+| 10 | Build Word | `build_docx.sh` + rapikan tabel | `output/proposal.docx` (23 halaman) | [x] |
+| 11 | Briefing user | 3 kalimat per komponen, pertanyaan dosen yang mungkin muncul | `riset/briefing-dospem.md` | [x] |
+| 12 | Print dan bimbingan | User print, bawa ke dosen, catat coretan | kertas + catatan revisi | [ ] |
+| 13 | Revisi hasil bimbingan | Masukkan coretan dosen ke `proposal.md`, build ulang | docx revisi | [ ] |
+| 14 | Lunasi tanda `[PERLU ...]` | Lihat daftar di bawah | naskah tanpa tanda | [ ] |
+| 15 | Sampul resmi prodi | Ganti sampul sementara dengan format prodi + logo | docx final | [ ] |
 
-## Tahapan
+## Sisa tanda `[PERLU ...]` di naskah (12 buah)
 
-Prinsip tiap tahap: ada hasil fisik (file atau isian), ada batas waktu. Lewat batas waktu, yang belum beres diberi tanda `[PERLU ...]` lalu lanjut. Draf bertanda jauh lebih berguna daripada naskah sempurna yang tidak jadi.
+1. Foto dasbor SISKOHAT dan tanggal data 46.210.
+2. Rekap buku tamu (jumlah penanya estimasi).
+3. Surat izin penelitian.
+4. Rujukan rumus Slovin (buku metodologi).
+5. Rujukan batas alfa 0,70.
+6. Rujukan dasar pengukuran satu butir untuk Y.
+7. Data kuota Jabar ke sumber resmi Kemenhaj (sekarang dari detikHikmah).
+8. Alamat dan nomenklatur resmi kantor.
+9. Bunyi Pasal 65 Perpres 92/2025.
+10. Nama dan status aplikasi cek estimasi tahun 2026.
+11. Berita NU Online soal masa tunggu 14 tahun.
+12. Halaman artikel Budiman dkk. (2026) dan nama lengkap jurnal Safitra dkk. (2023).
 
-| No | Tahap | Hasil fisik | Butuh dari user | Target selesai (WIB) | Status |
-|---|---|---|---|---|---|
-| 0 | Simpan cerita magang dan peta tahapan ke repo | `riset/fenomena-magang.md`, file ini, `riset/pertanyaan.md` | tidak | 10.45 | [x] |
-| 1 | User menjawab daftar pertanyaan | isian di `riset/pertanyaan.md` | **ya** | 11.00 | [ ] |
-| 2 | Kunci sisa keputusan 4 dan keputusan metode (reguler/khusus, jalur sebar, jumlah populasi, rumus sampel, teknik sampling, teknik analisis, skala, kata "pengaruh"/"hubungan") | tabel "Setelah empat keputusan terkunci" di `keputusan.md` terisi | ACC saja | 11.05 | [ ] |
-| 3 | Verifikasi fakta resmi lewat web: nomenklatur Kemenhaj dan dasar hukumnya, nama aplikasi cek estimasi, nama SISKOHAT, regulasi masa tunggu (klaim 26 tahun), aturan pelimpahan porsi dan pembatalan, kuota Kabupaten Bandung kalau ada | tabel C di `fenomena-magang.md` terisi sumber atau tetap `[PERLU VERIFIKASI]` | tidak | 11.25 | [ ] |
-| 4 | Susun instrumen: redaksi skenario, 4 butir X terjemahan adaptasi, 1 butir Y, data identitas responden, lembar persetujuan | lampiran kuesioner di `proposal.md` | tidak | 11.40 | [ ] |
-| 5 | Matriks penelitian terdahulu dari folder `Sumber/` (6 sampai 8 yang paling relevan) dan rumusan *research gap* | tabel di `riset/matriks-terdahulu.md` | tidak | 12.00 | [ ] |
-| 6 | Tulis naskah sepuluh komponen FDK berurutan: latar belakang, perumusan masalah, tujuan, kegunaan, kerangka pemikiran (teori, skema, matriks operasionalisasi), hipotesis, langkah penelitian a sampai h, daftar pustaka, judul final | `proposal/proposal.md` utuh | tidak | 13.00 | [ ] |
-| 7 | Cek konsistensi judul, rumusan, tujuan, hipotesis, matriks, butir, analisis. Jalankan `periksa.py` dan `metrik.py`, sapu pola bahasa AI | naskah bersih, daftar sisa `[PERLU ...]` | tidak | 13.15 | [ ] |
-| 8 | Build Word pakai `build_docx.sh`, rapikan halaman sampul | `output/proposal.docx` | cek di HP/laptop | 13.25 | [ ] |
-| 9 | Briefing: tiap komponen dijelasin 3 kalimat santai, plus 5 pertanyaan dosen yang paling mungkin dan jawabannya | `riset/briefing-dospem.md` | baca | 13.35 | [ ] |
-| 10 | Update `keputusan.md` dan `log.md`, commit, push | commit di `main` | tidak | 13.40 | [ ] |
-| 11 | Print, bawa ke dosen | kertas | **ya** | 14.00 | [ ] |
-
-## Default metode kalau user tidak sempat menjawab
-
-Dipakai di tahap 2 kalau jawaban user belum masuk sampai 11.05. Semuanya ditulis jujur di naskah sebagai rencana yang masih bisa direvisi saat seminar.
-
-| Hal | Default | Alasan singkat |
-|---|---|---|
-| Jenis jemaah | Haji reguler | Pendaftaran reguler dilayani kantor kabupaten. Haji khusus lewat penyelenggara swasta `[PERLU VERIFIKASI]` |
-| Jumlah populasi | `[PERLU DATA]` dari kantor | Angka tidak boleh dikarang |
-| Rumus sampel | Slovin, galat 10%, kalau N ada. Lemeshow kalau N tidak ada | Slovin disebut panduan FDK |
-| Teknik sampling | *Purposive* dengan kriteria (bernomor porsi, belum berangkat, terdaftar di Kabupaten Bandung) | Tidak ada akses daftar lengkap jemaah. Keterbatasan generalisasi ditulis |
-| Jalur sebar | Kuesioner daring dan cetak lewat bantuan kantor, tidak hanya di loket | Kalau cuma di loket, semua responden sudah memilih tatap muka (bias, handoff bagian 44) |
-| Skala | X dan Y sama-sama 5 poin | Responden banyak yang lansia. Perubahan dari 7 poin Maynard & Hakel ditulis sebagai adaptasi |
-| Analisis | Deskriptif, uji validitas (korelasi butir-total), Cronbach untuk X, uji asumsi, regresi linear sederhana. Cadangan: korelasi Spearman kalau asumsi tidak terpenuhi | Bentuk Y skor 1 sampai 5 satu butir |
-| Kata di judul | "Hubungan" | Survei potong lintang tidak membuktikan sebab akibat (CLAUDE.md aturan 5) |
-
-## Batas yang tidak boleh dilanggar selama eksekusi
-
-1. Tidak membuka ulang keputusan 1 sampai 3.
-2. Tidak menambah variabel.
-3. Angka dan regulasi yang belum dicek diberi tanda, tidak dikarang.
-4. Komponen yang mentok lebih dari batas waktunya ditandai lalu ditinggal.
-
-## Parkir (ide di luar tahapan, dibahas setelah sempro)
+## Parkir (dibahas setelah sempro)
 
 - Media sosial kantor kurang aktif (handoff bagian 9).
-- Kanal digital tanpa fitur tanya jawab atau chatbot (dugaan user), cocok jadi bahan saran praktis di kegunaan penelitian.
+- NIM 11 digit, cek ulang.

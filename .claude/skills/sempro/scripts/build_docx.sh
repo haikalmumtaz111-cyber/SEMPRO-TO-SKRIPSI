@@ -19,5 +19,6 @@ SISA=$(grep -c "\[PERLU" "$SRC" || true)
 echo "Sisa penanda [PERLU ...] di naskah: $SISA"
 
 "$PANDOC" "$SRC" -o "$OUT" --reference-doc="$REF" --number-sections
+python3 "$SKILL/scripts/rapikan_tabel.py" "$OUT" || echo "Rapikan tabel gagal, cek manual"
 echo "Selesai: $OUT"
 echo "Cek manual di Word: halaman judul, nomor halaman tajuk, tabel, pemenggalan halaman."
