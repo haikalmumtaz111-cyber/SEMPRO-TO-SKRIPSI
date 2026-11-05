@@ -4,9 +4,10 @@ Repo kerja proposal skripsi (Usulan Rencana Penelitian) Mumtaaz Haekal, Prodi Ma
 
 ## Baca dulu tiap sesi
 
-1. `riset/keputusan.md` : status keputusan penelitian dan target terdekat. Selalu mulai dari sini.
-2. `riset/log.md` : catatan sesi sebelumnya.
-3. `riset/handoff.md` : konteks lengkap fenomena, teori, kandidat variabel, rujukan. Baca bagian yang perlu saja, jangan dibaca ulang utuh tiap sesi.
+1. `riset/tahapan.md` : peta tahapan sampai file Word. Cari tahap pertama yang belum `[x]`, kerjakan itu saja.
+2. `riset/keputusan.md` : status keputusan penelitian dan target terdekat.
+3. `riset/log.md` : catatan sesi sebelumnya.
+4. `riset/handoff.md` : konteks lengkap fenomena, teori, kandidat variabel, rujukan. Baca bagian yang perlu saja, jangan dibaca ulang utuh tiap sesi.
 
 Semua pekerjaan proposal jalan lewat skill `sempro` di `.claude/skills/sempro/SKILL.md`.
 
@@ -45,6 +46,9 @@ Semua pekerjaan proposal jalan lewat skill `sempro` di `.claude/skills/sempro/SK
 
 ```
 CLAUDE.md                 file ini
+riset/tahapan.md          peta tahapan sampai Word, acuan tunggal eksekusi
+riset/pertanyaan.md       data yang diminta dari user dan jawabannya
+riset/fenomena-magang.md  cerita magang user (5 Nov 2026), dipilah fakta/dugaan
 riset/keputusan.md        status keputusan, target, hal terbuka
 riset/log.md              log per sesi
 riset/handoff.md          konteks riset lengkap dari diskusi sebelumnya

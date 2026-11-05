@@ -23,3 +23,9 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Berikutnya: keputusan 4 (populasi dan akses).
 - Keputusan user: wilayah Kabupaten Bandung, lokasi magang. Nomenklatur kantor belum diverifikasi.
 - Keputusan user: populasi jemaah bernomor porsi yang belum berangkat.
+
+## 5 November 2026
+
+- Cerita magang user disimpan di `riset/fenomena-magang.md`, dipilah jadi pengamatan, dugaan, dan klaim regulasi yang wajib dicek.
+- Dibuat `riset/tahapan.md` (12 tahap sampai print, dengan target jam) dan `riset/pertanyaan.md` (19 pertanyaan).
+- Berikutnya: user jawab `riset/pertanyaan.md`, lalu eksekusi tahap 2 sampai 10 sekaligus.
