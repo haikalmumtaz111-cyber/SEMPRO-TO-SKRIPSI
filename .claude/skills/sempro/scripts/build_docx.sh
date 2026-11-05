@@ -18,7 +18,7 @@ fi
 SISA=$(grep -c "\[PERLU" "$SRC" || true)
 echo "Sisa penanda [PERLU ...] di naskah: $SISA"
 
-"$PANDOC" "$SRC" -o "$OUT" --reference-doc="$REF" --number-sections --metadata title-meta="Proposal Penelitian"
+"$PANDOC" "$SRC" -o "$OUT" --reference-doc="$REF" --metadata title-meta="Proposal Penelitian"
 python3 "$SKILL/scripts/sampul.py" "$OUT" || echo "Sampul gagal, cek manual"
 python3 "$SKILL/scripts/rapikan_tabel.py" "$OUT" || echo "Rapikan tabel gagal, cek manual"
 echo "Selesai: $OUT"

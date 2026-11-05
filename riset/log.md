@@ -46,3 +46,9 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Urutan naskah dicek ke PDF asli Panduan KTI FDK 2026 (hlm. 24-31, Sistematika Proposal Kuantitatif): sepuluh komponen sudah sesuai. Disesuaikan: Judul Penelitian jadi bagian 1, Daftar Pustaka 9, Kuesioner 10, Jenis Data dan Sumber Data dipecah jadi Jenis Data dan Sumber Data (primer, sekunder). Lembar persetujuan dibuang karena tidak ada di sistematika (surat usulan terpisah).
 - Sampul meniru proposal teman user yang sudah sempro (format prodi MHU): `scripts/sampul.py` + `proposal/sampul.json` + `templates/logo-uin.png`. Sampul tanpa nomor halaman.
 - Berikutnya: bimbingan, lalu tahap 13 di `riset/tahapan.md`.
+
+## 5 November 2026 (lanjutan 3)
+
+- Format disesuaikan permintaan user: nomor halaman tengah bawah (sampul tanpa nomor), tajuk A sampai G, subbab 1, 2, sub-subbab a, b. Judul tanpa nomor, ditulis sebagai blok "PROPOSAL SKRIPSI" di awal halaman isi. DAFTAR PUSTAKA dan LAMPIRAN tanpa huruf, rata tengah.
+- `build_docx.sh` tidak lagi memakai `--number-sections`. Label A/1/a ditulis langsung di `proposal.md`.
+- File proposal metodologi milik user belum terkirim (yang terunggah file teman yang sama). Format A/1/a mengikuti penjelasan lisan user.

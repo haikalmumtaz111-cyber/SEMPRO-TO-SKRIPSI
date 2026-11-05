@@ -1,11 +1,7 @@
-<!-- Naskah proposal kuantitatif FDK. Urutan sepuluh komponen mengikuti Panduan KTI FDK 2026 hlm. 24-31. -->
+<!-- Naskah proposal kuantitatif FDK. Urutan mengikuti Panduan KTI FDK 2026 hlm. 24-31. Penomoran A, 1, a mengikuti format bimbingan user. Judul ditulis sampul.py di awal halaman isi. -->
 <!-- Sampul dibuat otomatis oleh scripts/sampul.py dari proposal/sampul.json saat build. -->
 
-# Judul Penelitian
-
-**Hubungan Persepsi Kompleksitas Persoalan Estimasi Keberangkatan dengan Kemungkinan Penggunaan Layanan Tatap Muka (Survei pada Jemaah Haji Reguler Daftar Tunggu di Kantor Kementerian Haji dan Umrah Kabupaten Bandung)**
-
-# Latar Belakang Masalah
+# A. Latar Belakang Masalah
 
 Pemerintah di banyak negara memindahkan layanan publik ke kanal daring dengan harapan warga cukup mengurus keperluannya lewat situs web atau aplikasi. Harapan itu tidak sepenuhnya terwujud. Pieterson dan Ebbers (2020:1) membandingkan data perilaku kanal warga Belanda tahun 2008 dan 2017. Preferensi dan penggunaan umum memang bergeser ke kanal daring, tetapi pergeseran itu tidak merata untuk semua jenis urusan, dan pada keperluan tertentu warga tetap memilih kanal tradisional. Gejala serupa muncul di Indonesia. Wargadinata dan Tendean (2024:335) menemukan bahwa sebagian besar pemohon layanan di tingkat kota tetap memakai layanan konvensional, antara lain karena merasa aplikasi digital rumit. Pusvita dan Muttaqin (2023:1) mencatat bahwa tatap muka masih bertahan sebagai kanal tradisional dalam layanan pengaduan nasional SP4N meskipun kanal digital mendominasi.
 
@@ -23,7 +19,7 @@ Topik ini berkaitan langsung dengan kajian Manajemen Haji dan Umrah. Pelayanan i
 
 Alasan akademiknya terletak pada celah konteks dan metode. Di antara penelitian yang ditelaah, studi pemilihan kanal yang menguji kompleksitas secara kuantitatif dilakukan di Belanda (Ebbers, et al., 2016; Pieterson & Ebbers, 2020) dan Tunisia (Jabri & Ahmad, 2025). Penelitian pemilihan kanal di Indonesia yang ditelaah memakai pendekatan kualitatif (Safitra, et al., 2023), analisis deskriptif statistik layanan (Pusvita & Muttaqin, 2023), atau survei kepercayaan dan preferensi kanal di sektor air minum (Budiman, et al., 2026). Penelitian bertema haji yang ditelaah berfokus pada sistem informasi dan kualitas pelayanan (Bahar & Saepudin, 2026; Wardana, et al., 2024). Belum ditemukan, di antara penelitian yang ditelaah, studi yang menguji hubungan persepsi kompleksitas persoalan dengan kemungkinan penggunaan layanan tatap muka pada jemaah haji. Penelitian ini mengisi celah tersebut dengan menguji model satu variabel bebas dan satu variabel terikat pada jemaah haji reguler daftar tunggu di Kabupaten Bandung.
 
-# Perumusan Masalah
+# B. Perumusan Masalah
 
 Jemaah haji reguler dapat memeriksa estimasi keberangkatan melalui kanal digital, tetapi sebagian dari mereka tetap datang ke Kantor Kementerian Haji dan Umrah Kabupaten Bandung ketika estimasi itu berubah. Literatur pemilihan kanal menduga bahwa makin rumit suatu persoalan dirasakan, makin besar kemungkinan orang memilih kanal tatap muka. Dugaan ini belum diuji pada jemaah haji. Masalah penelitian ini dirumuskan sebagai berikut: apakah persepsi kompleksitas persoalan perubahan estimasi keberangkatan berhubungan dengan kemungkinan jemaah haji reguler menggunakan layanan tatap muka?
 
@@ -33,7 +29,7 @@ Rumusan tersebut dirinci menjadi tiga pertanyaan penelitian.
 2) Bagaimana kemungkinan jemaah haji reguler daftar tunggu Kabupaten Bandung menggunakan layanan tatap muka di kantor ketika menghadapi persoalan tersebut?
 3) Seberapa besar hubungan persepsi kompleksitas persoalan dengan kemungkinan penggunaan layanan tatap muka pada jemaah haji reguler daftar tunggu Kabupaten Bandung?
 
-# Tujuan Penelitian
+# C. Tujuan Penelitian
 
 Sejalan dengan pertanyaan penelitian, penelitian ini bertujuan untuk:
 
@@ -41,17 +37,17 @@ Sejalan dengan pertanyaan penelitian, penelitian ini bertujuan untuk:
 2) mengetahui kemungkinan jemaah haji reguler daftar tunggu Kabupaten Bandung menggunakan layanan tatap muka di kantor ketika menghadapi persoalan tersebut;
 3) mengetahui arah dan besar hubungan persepsi kompleksitas persoalan dengan kemungkinan penggunaan layanan tatap muka.
 
-# Kegunaan Penelitian
+# D. Kegunaan Penelitian
 
-## Kegunaan Akademis
+## 1. Kegunaan Akademis
 
 Penelitian ini menguji temuan studi pemilihan kanal di Eropa dan Afrika Utara pada konteks yang berbeda, yaitu jemaah haji di Indonesia yang menghadapi informasi keberangkatan dengan masa tunggu puluhan tahun. Hasilnya menambah bukti tentang berlaku atau tidaknya hubungan kompleksitas dan pemilihan kanal tatap muka di luar layanan pemerintah kota. Bagi kajian Manajemen Haji dan Umrah, penelitian ini membawa teori pemilihan kanal dan kekayaan media ke dalam pembahasan pelayanan informasi jemaah, yang selama ini lebih banyak dikaji dari sisi sistem informasi dan kualitas pelayanan.
 
-## Kegunaan Praktis
+## 2. Kegunaan Praktis
 
 Bagi Kantor Kementerian Haji dan Umrah Kabupaten Bandung, hasil penelitian ini dapat menjadi bahan pertimbangan dalam menyiapkan petugas loket, terutama pada masa ketika kebijakan kuota atau masa tunggu berubah. Bagi Kementerian Haji dan Umrah, hasil penelitian dapat menjadi masukan dalam merancang kanal digital, misalnya menambahkan keterangan penyebab perubahan estimasi atau fasilitas tanya jawab pada aplikasi sehingga jemaah tidak harus datang ke kantor hanya untuk memperoleh penjelasan. Bagi kelompok bimbingan ibadah haji dan umrah (KBIHU), hasil penelitian dapat menunjukkan jenis informasi yang perlu disampaikan lebih jelas kepada jemaah binaannya.
 
-# Kerangka Pemikiran
+# E. Kerangka Pemikiran
 
 Penelitian ini bertumpu pada teori kekayaan media (*media richness theory*) dari Daft dan Lengel (1986). Teori ini membedakan dua kebutuhan informasi. Kebutuhan pertama muncul karena informasi kurang, dan dapat dipenuhi dengan menambah data. Kebutuhan kedua muncul karena persoalan bersifat ekuivokal, yakni memungkinkan beberapa tafsiran yang saling bertentangan sehingga pertanyaan sederhana berjawaban ya atau tidak tidak lagi memadai (Daft & Lengel, 1986:556). Media berbeda dalam kemampuannya mengubah pemahaman, dan tatap muka menempati urutan teratas karena memberi umpan balik seketika, isyarat nonverbal, dan bahasa alami sehingga paling sanggup mengurangi kerancuan tafsir (Daft & Lengel, 1986:560).
 
@@ -82,7 +78,7 @@ Matriks operasionalisasi variabel disajikan pada tabel berikut.
 
 Butir X diadaptasi dari skala tujuh poin Maynard dan Hakel (1997:313) menjadi lima poin agar seragam dengan butir Y dan lebih mudah dijawab responden lanjut usia. Kata "tugas" pada butir asli diganti dengan "persoalan" agar sesuai dengan skenario. Y diukur dengan satu butir mengikuti Ebbers, et al. (2016:510), yang juga mengukur kemungkinan memakai tiap kanal dengan satu butir. Konsekuensinya, reliabilitas Y tidak dapat dihitung dengan *Alpha Cronbach*. Pilihan ini diambil karena konstruk Y bersifat konkret dan tunggal, yaitu kemungkinan melakukan satu tindakan tertentu dalam satu situasi tertentu [PERLU RUJUKAN: dasar metodologis pengukuran satu butir].
 
-# Hipotesis
+# F. Hipotesis
 
 Berdasarkan kerangka pemikiran, hipotesis penelitian ini dirumuskan sebagai berikut.
 
@@ -92,31 +88,31 @@ H~1~: Terdapat hubungan positif yang signifikan antara persepsi kompleksitas per
 
 Secara statistik, H~0~: β~1~ = 0 dan H~1~: β~1~ > 0, diuji pada taraf signifikansi 0,05.
 
-# Langkah-langkah Penelitian
+# G. Langkah-langkah Penelitian
 
-## Lokasi Penelitian
+## 1. Lokasi Penelitian
 
 Penelitian dilakukan di wilayah kerja Kantor Kementerian Haji dan Umrah Kabupaten Bandung [PERLU VERIFIKASI: alamat lengkap dan nomenklatur resmi kantor]. Lokasi ini dipilih karena tiga alasan. Pertama, peneliti menemukan gejala penelitian di kantor ini selama magang pada Februari sampai Juni 2026. Kedua, daftar tunggu jemaah haji reguler Kabupaten Bandung cukup besar, yaitu 46.210 orang sehingga persoalan estimasi keberangkatan menyangkut banyak jemaah. Ketiga, peneliti memiliki akses ke staf kantor dan pengelola KBIHU di wilayah ini untuk membantu penyebaran kuesioner.
 
-## Paradigma dan Pendekatan
+## 2. Paradigma dan Pendekatan
 
 Penelitian ini memakai paradigma positivisme dengan pendekatan objektif. Gejala diperlakukan sebagai sesuatu yang dapat diukur, dan hubungan antarvariabel diuji melalui data angka dan statistik. Pendekatan yang dipakai adalah pendekatan kuantitatif.
 
-## Metode Penelitian
+## 3. Metode Penelitian
 
 Metode yang digunakan adalah survei dengan desain potong lintang (*cross-sectional*), yaitu data dikumpulkan satu kali pada satu waktu. Instrumen survei berbasis skenario. Karena data diambil satu kali dan tidak ada manipulasi variabel, hasil penelitian dibaca sebagai hubungan atau asosiasi, bukan bukti sebab akibat.
 
-## Jenis Data dan Sumber Data
+## 4. Jenis Data dan Sumber Data
 
-### Jenis Data
+### a. Jenis Data
 
 Pendekatan penelitian ini objektif sehingga data yang dikumpulkan berupa data kuantitatif, yaitu skor jawaban responden atas kuesioner berskala bertingkat.
 
-### Sumber Data
+### b. Sumber Data
 
 Sumber data primer adalah jemaah haji reguler daftar tunggu Kabupaten Bandung yang memenuhi kriteria responden dan bersedia mengisi kuesioner. Sumber data sekunder meliputi data jumlah daftar tunggu dari SISKOHAT Kantor Kementerian Haji dan Umrah Kabupaten Bandung, buku tamu kantor, serta peraturan dan informasi resmi tentang kuota dan masa tunggu haji.
 
-## Populasi dan Sampel
+## 5. Populasi dan Sampel
 
 Populasi penelitian adalah jemaah haji reguler Kabupaten Bandung yang telah memperoleh nomor porsi dan belum berangkat. Berdasarkan data SISKOHAT kantor, jumlahnya 46.210 orang, mencakup jemaah dengan estimasi keberangkatan tahun 2027 sampai sekitar tahun 2050 [PERLU DATA: foto dasbor SISKOHAT dan tanggal pengambilan data].
 
@@ -135,15 +131,15 @@ Sampel diambil dengan teknik *purposive sampling*, yaitu responden dipilih berda
 
 Teknik ini dipilih karena peneliti tidak memiliki akses ke daftar lengkap jemaah beserta kontaknya, dan data pribadi jemaah tidak boleh digunakan tanpa izin. Konsekuensinya, hasil penelitian tidak dapat digeneralisasi secara ketat ke seluruh populasi. Hal ini dinyatakan sebagai keterbatasan penelitian.
 
-## Teknik Pengumpulan Data
+## 6. Teknik Pengumpulan Data
 
 Data dikumpulkan dengan kuesioner (angket) dalam dua bentuk, yaitu formulir daring dan lembar cetak. Kuesioner disebarkan melalui tiga jalur: (1) staf Kantor Kementerian Haji dan Umrah Kabupaten Bandung dan mahasiswa magang yang bertugas di kantor, (2) pengelola KBIHU di wilayah Kabupaten Bandung melalui grup jemaah binaannya, dan (3) jemaah yang datang ke loket kantor. Penyebaran melalui beberapa jalur dimaksudkan untuk mengurangi bias, sebab responden yang hanya diambil dari loket sudah pasti memilih datang langsung. Peneliti terlebih dahulu mengajukan izin penelitian kepada kantor [PERLU DATA: surat izin penelitian]. Setiap responden membaca lembar persetujuan sebelum mengisi, dan kuesioner tidak meminta nama maupun nomor porsi.
 
-## Validitas dan Reliabilitas
+## 7. Validitas dan Reliabilitas
 
 Validitas butir diuji dengan korelasi *Pearson product moment* antara skor tiap butir X dan skor total X menggunakan SPSS. Butir dinyatakan valid apabila r hitung lebih besar daripada r tabel pada taraf signifikansi 0,05. Reliabilitas variabel X diuji dengan *Alpha Cronbach*, dan instrumen dinyatakan reliabel apabila nilai alfa sekurang-kurangnya 0,70 [PERLU RUJUKAN: batas nilai alfa]. Sebagai pembanding, skala asli Maynard dan Hakel (1997:313) memiliki alfa 0,903. Variabel Y diukur dengan satu butir sehingga tidak diuji dengan *Alpha Cronbach*. Kecocokan isi butir Y dijaga dengan mengikuti redaksi butir Ebbers, et al. (2016:510) yang disesuaikan dengan skenario.
 
-## Teknik Analisis Data
+## 8. Teknik Analisis Data
 
 Analisis deskriptif dipakai untuk menjawab pertanyaan penelitian pertama dan kedua. Data karakteristik responden disajikan dalam frekuensi dan persentase. Skor X dan Y disajikan dalam rata-rata, simpangan baku, dan sebaran jawaban, lalu dikelompokkan ke dalam kategori rendah, sedang, dan tinggi.
 
@@ -153,7 +149,7 @@ Analisis inferensial dipakai untuk menjawab pertanyaan penelitian ketiga dan men
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Daftar Pustaka
+# DAFTAR PUSTAKA
 
 Bahar, Z., & Saepudin, S. (2026). Aplikasi web informasi layanan haji pada Kementerian Haji dan Umrah Kota Sukabumi dengan menggunakan framework Zachman. *SINTA Jurnal Sistem Informasi dan Teknologi Komputasi, 3*(1), 24-35. https://doi.org/10.61124/sinta.v3i1.140
 
@@ -193,7 +189,7 @@ Wargadinata, E. L., & Tendean, N. R. P. (2024). Amidst the euphoria of digitaliz
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Kuesioner (Tentatif)
+# LAMPIRAN: KUESIONER (TENTATIF)
 
 **Lembar Persetujuan Responden**
 
