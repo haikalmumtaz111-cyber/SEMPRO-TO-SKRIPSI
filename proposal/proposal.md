@@ -1,246 +1,627 @@
-<!-- Naskah proposal kuantitatif FDK. Urutan mengikuti Panduan KTI FDK 2026 hlm. 24-31. Penomoran A, 1, a mengikuti format bimbingan user. Judul ditulis sampul.py di awal halaman isi. -->
-<!-- Sampul dibuat otomatis oleh scripts/sampul.py dari proposal/sampul.json saat build. -->
+<!-- Naskah proposal kuantitatif FDK, versi revisi 7 Nov 2026 (dari Proposal_Skripsi_Hasil_Revisi_Lengkap2.docx). Sampul dibuat scripts/sampul.py dari proposal/sampul.json. -->
 
-# A. Latar Belakang Masalah
+# A. LATAR BELAKANG MASALAH
 
-Pemerintah di banyak negara memindahkan layanan publik ke kanal daring dengan harapan warga cukup mengurus keperluannya lewat situs web atau aplikasi. Harapan itu tidak sepenuhnya terwujud. Pieterson dan Ebbers (2020:1) membandingkan data perilaku kanal warga Belanda tahun 2008 dan 2017. Preferensi dan penggunaan umum memang bergeser ke kanal daring, tetapi pergeseran itu tidak merata untuk semua jenis urusan, dan pada keperluan tertentu warga tetap memilih kanal tradisional. Gejala serupa muncul di Indonesia. Wargadinata dan Tendean (2024:335) menemukan bahwa sebagian besar pemohon layanan di tingkat kota tetap memakai layanan konvensional, antara lain karena merasa aplikasi digital rumit. Pusvita dan Muttaqin (2023:1) mencatat bahwa tatap muka masih bertahan sebagai kanal tradisional dalam layanan pengaduan nasional SP4N meskipun kanal digital mendominasi.
+Digitalisasi memperluas cara masyarakat memperoleh informasi pelayanan publik melalui situs web dan aplikasi. Meskipun demikian, keberadaan kanal digital tidak menghilangkan kebutuhan terhadap komunikasi langsung. Pieterson dan Ebbers (2020:2-5) menunjukkan bahwa pergeseran penggunaan kanal di Belanda antara 2008 dan 2017 tidak berlangsung seragam pada semua jenis urusan. Wargadinata dan Tendean (2024:335-336) menemukan bahwa kenyamanan terhadap layanan konvensional, persepsi kerumitan aplikasi, literasi digital, dan pengalaman turut berkaitan dengan penerimaan layanan digital di Indonesia.
 
-Penyelenggaraan ibadah haji di Indonesia sedang berada dalam masa peralihan. Peraturan Presiden Nomor 92 Tahun 2025 membentuk Kementerian Haji dan Umrah, dan urusan haji yang sebelumnya dipegang Kementerian Agama dialihkan ke kementerian baru tersebut mulai tahun 2026 (Perpres Nomor 92 Tahun 2025, Pasal 65) [PERLU VERIFIKASI: bunyi pasal]. Pada masa yang sama pemerintah mengubah cara membagi kuota haji per provinsi. Kementerian Haji dan Umrah memperkenalkan formula baru yang membuat masa tunggu jemaah haji reguler di seluruh Indonesia seragam, sekitar 26,4 tahun (Bisnis.com, 2025). Bagi Jawa Barat, kebijakan ini menurunkan kuota dari 38.723 jemaah pada 2025 menjadi 29.643 jemaah pada 2026 sehingga sekitar 9.000 jemaah tertunda keberangkatannya (detikHikmah, t.t.) [PERLU VERIFIKASI ke sumber resmi Kementerian Haji dan Umrah]. Arah kebijakan itu pun belum berhenti karena pada September 2026 diberitakan rencana pemerintah memangkas rata-rata masa tunggu menjadi 14 tahun (Nahdlatul Ulama Online [NU Online], 2026) [PERLU VERIFIKASI]. Akibatnya, tahun estimasi keberangkatan yang dilihat jemaah dapat berubah dari satu pengecekan ke pengecekan berikutnya.
+Pemilihan kanal juga bergantung pada kebutuhan informasi. Safitra et al. (2023:199-211) menemukan bahwa informan memilih kanal daring untuk informasi dasar, aplikasi percakapan untuk perubahan prosedur, dan loket untuk pemecahan masalah aplikasi. Pusvita dan Muttaqin (2023:1-2) menunjukkan dominasi kanal digital dalam SP4N-LAPOR!, tetapi tatap muka tetap muncul sebagai kanal yang digunakan. Temuan tersebut menunjukkan perlunya memahami kondisi yang berkaitan dengan penggunaan kanal langsung, bukan menganggap semua kebutuhan otomatis beralih ke kanal digital.
 
-Jemaah haji reguler sebenarnya dapat memeriksa estimasi keberangkatan sendiri. Setelah pendaftaran selesai dan nomor porsi terbit, jemaah diarahkan untuk mengecek estimasi melalui aplikasi Haji Pintar atau Satu Haji, aplikasi Pusaka Kementerian Agama, atau situs web Kementerian Haji dan Umrah [PERLU VERIFIKASI: nama dan status aplikasi yang berlaku tahun 2026]. Di kantor, petugas memeriksa data yang sama melalui Sistem Informasi dan Komputerisasi Haji Terpadu (SISKOHAT), sistem berbasis web yang hanya dapat diakses dari perangkat kantor yang terdaftar.
+Dalam pelayanan haji, perubahan estimasi keberangkatan merupakan salah satu konteks kebutuhan informasi jemaah. Perubahan kelembagaan penyelenggaraan haji memiliki dasar dalam Undang-Undang Nomor 14 Tahun 2025 dan Peraturan Presiden Nomor 92 Tahun 2025. Pasal 59 peraturan presiden tersebut mengatur peralihan tugas, fungsi, dan kewenangan penyelenggaraan haji dan umrah kepada Kementerian Haji dan Umrah. Konteks kelembagaan ini menjadi dasar penyebutan instansi penyelenggara layanan dalam penelitian.
 
-Peneliti mengamati gejala ini selama magang di Kantor Kementerian Haji dan Umrah Kabupaten Bandung pada Februari sampai Juni 2026. Masa magang itu bertepatan dengan persiapan operasional haji sehingga kantor melayani pendaftaran, dokumen paspor dan visa, serta manifes sekaligus. Di tengah kesibukan tersebut, kantor menerima pendaftar hingga sekitar 30 orang per hari, dan jemaah yang datang khusus untuk menanyakan estimasi keberangkatan berjumlah kurang dari 15 orang per hari. Angka ini merupakan perkiraan pengamatan peneliti, bukan hasil pencatatan sistematis [PERLU DATA: rekap buku tamu kantor]. Mereka datang dari berbagai kalangan usia, dan pola layanannya hampir selalu sama: jemaah menyerahkan nomor porsi, petugas memasukkannya ke SISKOHAT, lalu estimasi terbaru ditampilkan. Pertanyaan jemaah biasanya berlanjut ke alasan estimasi yang dulu tercatat lebih dekat kini menjadi lebih jauh, lalu ke kemungkinan keberangkatan dipercepat. Petugas menjelaskan peran perubahan regulasi, kuota, serta pembatalan dan pelimpahan porsi, dan menegaskan bahwa masa tunggu tidak dapat dipercepat atas permintaan jemaah.
+Perubahan alokasi kuota memberi konteks bagi informasi perkiraan keberangkatan. Dalam pemberitaan ANTARA tanggal 18 November 2025, kuota Jawa Barat untuk 2026 disebut sebesar 29.643 orang, dibandingkan 38.723 orang pada 2025. Rincian Kabupaten Bandung dalam pemberitaan tersebut adalah 2.425 orang pada 2025 dan 430 orang pada 2026. Angka ini merupakan alokasi yang diberitakan pada tanggal sumber, bukan data realisasi akhir keberangkatan maupun bukti bahwa sejumlah tertentu jemaah pasti tertunda (Prayoga, 2025).
 
-Pengamatan tersebut memunculkan dugaan awal. Jemaah tampaknya datang bukan sekadar untuk mengetahui tahun keberangkatan, karena angka itu sudah dapat mereka lihat di aplikasi. Yang mereka cari adalah penjelasan atas perubahan angka tersebut, sementara aplikasi hanya menampilkan tahun estimasi tanpa keterangan penyebab dan tanpa fasilitas tanya jawab. Dugaan ini belum diuji, dan pengamatan magang juga tidak dapat menunjukkan apakah jemaah yang memilih datang memiliki kesulitan memakai aplikasi, kurang memercayai informasi digital, atau mempunyai alasan lain.
+Informasi masa tunggu perlu dibedakan menurut kelompok dan dasar penghitungannya. Keterangan pemerintah pada 28 September 2026 menyebut rata-rata masa tunggu faktual sekitar 14 tahun bagi jemaah yang berangkat pada tahun tersebut. Angka ini tidak menunjukkan bahwa setiap jemaah yang masih menunggu akan berangkat setelah 14 tahun (Sekretariat Presiden, 2026).
 
-Literatur pemilihan kanal (*channel choice*) memberi satu penjelasan yang dapat diuji. Daft dan Lengel (1986:560) menyebut tatap muka sebagai media paling kaya karena memberi umpan balik langsung sehingga tafsiran dapat dicek saat itu juga. Pieterson dan Ebbers (2020:4) merangkum bahwa makin kompleks suatu urusan, makin besar kecenderungan warga memilih kanal tradisional. Ebbers, et al. (2016:511) menguji hubungan itu pada 637 warga Belanda dan menemukan bahwa persepsi kompleksitas berhubungan positif dengan kemungkinan memakai loket (β = 0,07; p = 0,001), sedangkan hubungannya dengan kemungkinan memakai situs web tidak signifikan (β = 0,02; p = 0,173). Jabri dan Ahmad (2025:1) menemukan pola serupa di Tunisia: kanal daring dipakai untuk mencari informasi, sedangkan interaksi tatap muka dipilih untuk urusan yang kompleks atau berisiko tinggi. Perubahan estimasi keberangkatan haji memenuhi gambaran itu, sebab jemaah harus memahami kaitan antara nomor porsi, kuota, dan regulasi yang terus berubah, dan taruhannya adalah kepastian berangkat ke Tanah Suci.
+Pada tingkat Kabupaten Bandung, tangkapan layar dashboard SISKOHAT Gen.2 menampilkan 46.210 jemaah dan masa tunggu 25 tahun. Peneliti telah memastikan bahwa tampilan tersebut merujuk pada jemaah haji reguler yang berada dalam daftar tunggu. Angka itu digunakan sebagai gambaran administratif pada tampilan yang didokumentasikan, bukan jumlah pasti populasi dewasa yang memenuhi seluruh kriteria penelitian. Tangkapan layar bertanggal 5 November 2026 juga menampilkan filter estimasi keberangkatan dengan 24 pilihan dan label “Update: 19 Oktober 2026”. Cakupan pilihan estimasi serta arti label pembaruan tidak digunakan untuk menetapkan jumlah populasi atau tanggal pemutakhiran data tanpa keterangan administratif tambahan (Haekal, 2026a).
 
-Topik ini berkaitan langsung dengan kajian Manajemen Haji dan Umrah. Pelayanan informasi kepada jemaah merupakan bagian dari pengelolaan penyelenggaraan ibadah haji, dan kantor kabupaten adalah titik layanan yang paling dekat dengan jemaah. Wardana, et al. (2024:416) menunjukkan bahwa pelayanan informasi kepada calon jemaah di tingkat kabupaten bertumpu pada komunikasi antarpribadi petugas. Bahar dan Saepudin (2026:24) mencatat bahwa di Kementerian Haji dan Umrah Kota Sukabumi jemaah masih harus datang langsung ke kantor pada jam kerja untuk memperoleh informasi. Pemahaman tentang alasan jemaah memilih kanal tatap muka dapat membantu kantor menata pembagian beban antara loket dan kanal digital, sekaligus menunjukkan informasi apa yang perlu ditambahkan pada aplikasi.
+Pengalaman pelayanan awal diperoleh selama Praktik Profesi Mahasiswa (PPM) pada 18 Februari sampai 20 Juni 2026. Logbook mencatat kegiatan konsultasi dan pengecekan estimasi keberangkatan melalui SISKOHAT, antara lain pada 1 April, 7 April, 22 April, 25 Mei, dan 29 Mei 2026. Catatan tersebut mendukung keberadaan konsultasi estimasi sebagai bagian pelayanan yang dijumpai peneliti. Namun, logbook tidak mencatat jumlah jemaah yang kebingungan atau alasan setiap kunjungan sehingga tidak digunakan sebagai ukuran prevalensi masalah (Haekal, 2026b).
 
-Alasan akademiknya terletak pada celah konteks dan metode. Di antara penelitian yang ditelaah, studi pemilihan kanal yang menguji kompleksitas secara kuantitatif dilakukan di Belanda (Ebbers, et al., 2016; Pieterson & Ebbers, 2020) dan Tunisia (Jabri & Ahmad, 2025). Penelitian pemilihan kanal di Indonesia yang ditelaah memakai pendekatan kualitatif (Safitra, et al., 2023), analisis deskriptif statistik layanan (Pusvita & Muttaqin, 2023), atau survei kepercayaan dan preferensi kanal di sektor air minum (Budiman, et al., 2026). Penelitian bertema haji yang ditelaah berfokus pada sistem informasi dan kualitas pelayanan (Bahar & Saepudin, 2026; Wardana, et al., 2024). Belum ditemukan, di antara penelitian yang ditelaah, studi yang menguji hubungan persepsi kompleksitas persoalan dengan kemungkinan penggunaan layanan tatap muka pada jemaah haji. Penelitian ini mengisi celah tersebut dengan menguji model satu variabel bebas dan satu variabel terikat pada jemaah haji reguler daftar tunggu di Kabupaten Bandung.
+Konteks tersebut menimbulkan pertanyaan mengenai hubungan antara penilaian jemaah terhadap kerumitan memahami perubahan estimasi dan kemungkinan menggunakan layanan langsung. Seseorang dapat merasa informasi yang sama mudah dipahami, sedangkan orang lain menilainya memerlukan banyak usaha berpikir. Penelitian ini menggunakan konsep persepsi kompleksitas tugas, yaitu penilaian subjektif terhadap kerumitan tugas, yang dibedakan dari kompleksitas objektif dan karakteristik sistem secara keseluruhan (Campbell, 1988:40-48).
 
-# B. Perumusan Masalah
+Penelitian dilaksanakan melalui satu skenario hipotetis: estimasi keberangkatan berubah dari 2035 menjadi 2037, sementara informasi yang tersedia berupa penjelasan umum tentang perubahan kuota dan regulasi. Penjelasan individual tentang nomor porsi belum tersedia dalam skenario. Responden menilai kerumitan tugas memahami situasi yang dibayangkan tersebut dan kemungkinan datang langsung ke kantor. Dengan demikian, penelitian tidak mengukur keberhasilan mengerjakan tugas pemahaman atau kompleksitas yang dialami setelah menyelesaikan tugas nyata.
 
-Jemaah haji reguler dapat memeriksa estimasi keberangkatan melalui kanal digital, tetapi sebagian dari mereka tetap datang ke Kantor Kementerian Haji dan Umrah Kabupaten Bandung ketika estimasi itu berubah. Literatur pemilihan kanal menduga bahwa makin rumit suatu persoalan dirasakan, makin besar kemungkinan orang memilih kanal tatap muka. Dugaan ini belum diuji pada jemaah haji. Masalah penelitian ini dirumuskan sebagai berikut: apakah persepsi kompleksitas persoalan perubahan estimasi keberangkatan berhubungan dengan kemungkinan jemaah haji reguler menggunakan layanan tatap muka?
+Maynard dan Hakel (1997:313, 330) mengembangkan empat butir kompleksitas subjektif setelah peserta mengerjakan tugas penjadwalan. Penelitian ini mengadaptasi makna butir tersebut untuk penilaian terhadap tugas yang dibayangkan. Perbedaan konteks, waktu penilaian, bahasa, dan pilihan jawaban diperiksa melalui penilaian ahli, uji keterbacaan, dan uji coba sebelum pengumpulan data utama.
 
-Rumusan tersebut dirinci menjadi tiga pertanyaan penelitian.
+Daft dan Lengel (1986:556, 560) menjelaskan bahwa komunikasi tatap muka menyediakan umpan balik segera, isyarat nonverbal, dan bahasa alami yang dapat membantu klarifikasi. Teori kekayaan media dipakai sebagai penjelasan pendukung mengenai karakteristik kanal, bukan untuk menyamakan kompleksitas dengan ambiguitas. Ebbers et al. (2016:510-511) menemukan bahwa persepsi kompleksitas berkaitan positif dengan kemungkinan menggunakan loket dan telepon, sedangkan hubungan dengan penggunaan situs web tidak signifikan. Karena hanya mengukur tatap muka, penelitian ini tidak membuktikan bahwa tatap muka lebih dipilih atau lebih unggul daripada telepon maupun kanal lainnya.
 
-1) Bagaimana persepsi kompleksitas jemaah haji reguler daftar tunggu Kabupaten Bandung terhadap persoalan perubahan estimasi keberangkatan?
-2) Bagaimana kemungkinan jemaah haji reguler daftar tunggu Kabupaten Bandung menggunakan layanan tatap muka di kantor ketika menghadapi persoalan tersebut?
-3) Seberapa besar hubungan persepsi kompleksitas persoalan dengan kemungkinan penggunaan layanan tatap muka pada jemaah haji reguler daftar tunggu Kabupaten Bandung?
+Penelitian pelayanan haji di Indonesia telah membahas efektivitas SISKOHAT, akses dan kualitas layanan, komunikasi interpersonal, serta pengembangan portal informasi (Munawaroh et al., 2015:225-248; Fahmi, 2021:58-70; Wardana et al., 2024:416-423; Nurbaiti et al., 2022:303-314; Bahar dan Saepudin, 2026:24-35). Dalam sumber yang ditelaah, belum ditemukan pengujian yang secara khusus menghubungkan persepsi kompleksitas tugas memahami perubahan estimasi dan kemungkinan penggunaan tatap muka pada konteks jemaah reguler dewasa Kabupaten Bandung. Kontribusi penelitian terletak pada penerapan konsep dan pengukuran dalam konteks tersebut, bukan pengembangan teori baru.
 
-# C. Tujuan Penelitian
+Topik ini relevan dengan Manajemen Haji dan Umrah karena menyangkut kebutuhan informasi jemaah dan penyelenggaraan akses konsultasi. Survei daring melalui WhatsApp dengan bantuan staf Kementerian Haji dan Umrah serta pihak KBIHU memungkinkan pengumpulan penilaian jemaah yang terjangkau melalui jaringan tersebut. Hasilnya diharapkan menjadi masukan awal bagi penyiapan penjelasan estimasi dan akses konsultasi, dengan tetap memperhatikan keterbatasan jangkauan digital serta pemilihan responden secara sukarela.
 
-Sejalan dengan pertanyaan penelitian, penelitian ini bertujuan untuk:
+# B. PERUMUSAN MASALAH
 
-1) mengetahui persepsi kompleksitas jemaah haji reguler daftar tunggu Kabupaten Bandung terhadap persoalan perubahan estimasi keberangkatan;
-2) mengetahui kemungkinan jemaah haji reguler daftar tunggu Kabupaten Bandung menggunakan layanan tatap muka di kantor ketika menghadapi persoalan tersebut;
-3) mengetahui arah dan besar hubungan persepsi kompleksitas persoalan dengan kemungkinan penggunaan layanan tatap muka.
+Konsultasi estimasi keberangkatan dijumpai dalam kegiatan pelayanan, tetapi belum diketahui apakah persepsi kerumitan tugas memahami perubahan estimasi berkaitan dengan kemungkinan penggunaan kanal tatap muka. Penelitian ini menelaah hubungan tersebut melalui satu skenario kemunduran estimasi selama dua tahun dengan penjelasan umum yang belum menjelaskan perubahan pada nomor porsi individual. Pertanyaan penelitian dirumuskan sebagai berikut.
 
-# D. Kegunaan Penelitian
+1\. Bagaimana persepsi responden terhadap kompleksitas tugas memahami perubahan estimasi keberangkatan dalam skenario penelitian?
+
+2\. Bagaimana distribusi penilaian responden mengenai kemungkinan menggunakan kanal tatap muka dalam skenario tersebut?
+
+3\. Bagaimana arah dan kekuatan hubungan antara persepsi kompleksitas tugas memahami perubahan estimasi keberangkatan dan kemungkinan penggunaan kanal tatap muka pada responden penelitian?
+
+Responden yang dimaksud adalah jemaah haji reguler dewasa dalam daftar tunggu Kabupaten Bandung yang memenuhi kriteria, terjangkau melalui saluran perekrutan, dan bersedia mengisi kuesioner. Pertanyaan penelitian tidak ditujukan untuk memperkirakan persentase seluruh populasi yang benar-benar akan datang ke kantor.
+
+# C. TUJUAN PENELITIAN
+
+Penelitian ini bertujuan untuk:
+
+1\. menggambarkan persepsi responden terhadap kompleksitas tugas memahami perubahan estimasi keberangkatan dalam skenario penelitian;
+
+2\. menggambarkan distribusi penilaian responden mengenai kemungkinan menggunakan kanal tatap muka dalam skenario tersebut; dan
+
+3\. menganalisis arah dan kekuatan hubungan antara persepsi kompleksitas tugas memahami perubahan estimasi keberangkatan dan kemungkinan penggunaan kanal tatap muka pada responden penelitian.
+
+# D. KEGUNAAN PENELITIAN
 
 ## 1. Kegunaan Akademis
 
-Penelitian ini menguji temuan studi pemilihan kanal di Eropa dan Afrika Utara pada konteks yang berbeda, yaitu jemaah haji di Indonesia yang menghadapi informasi keberangkatan dengan masa tunggu puluhan tahun. Hasilnya menambah bukti tentang berlaku atau tidaknya hubungan kompleksitas dan pemilihan kanal tatap muka di luar layanan pemerintah kota. Bagi kajian Manajemen Haji dan Umrah, penelitian ini membawa teori pemilihan kanal dan kekayaan media ke dalam pembahasan pelayanan informasi jemaah, yang selama ini lebih banyak dikaji dari sisi sistem informasi dan kualitas pelayanan.
+Penelitian diharapkan menambah bukti empiris tentang hubungan persepsi kompleksitas tugas dan kemungkinan penggunaan kanal dalam konteks pelayanan informasi haji. Adaptasi skenario dan instrumen dapat menjadi bahan pembanding bagi penelitian berikutnya, terutama mengenai batas pengukuran penilaian hipotetis pada responden survei daring.
 
 ## 2. Kegunaan Praktis
 
-Bagi Kantor Kementerian Haji dan Umrah Kabupaten Bandung, hasil penelitian ini dapat menjadi bahan pertimbangan dalam menyiapkan petugas loket, terutama pada masa ketika kebijakan kuota atau masa tunggu berubah. Bagi Kementerian Haji dan Umrah, hasil penelitian dapat menjadi masukan dalam merancang kanal digital, misalnya menambahkan keterangan penyebab perubahan estimasi atau fasilitas tanya jawab pada aplikasi sehingga jemaah tidak harus datang ke kantor hanya untuk memperoleh penjelasan. Bagi kelompok bimbingan ibadah haji dan umrah (KBIHU), hasil penelitian dapat menunjukkan jenis informasi yang perlu disampaikan lebih jelas kepada jemaah binaannya.
+Bagi Kantor Kementerian Haji dan Umrah Kabupaten Bandung serta KBIHU, hasil penelitian dapat menjadi masukan awal untuk menyiapkan penjelasan perubahan estimasi yang mudah dipahami dan memperjelas akses konsultasi. Bagi jemaah, manfaat yang diharapkan bersifat tidak langsung melalui penggunaan masukan tersebut oleh penyelenggara layanan. Penelitian tidak menguji peningkatan kepuasan, keberhasilan pemahaman, atau kualitas pelayanan setelah intervensi sehingga manfaat tersebut tidak dinyatakan sebagai hasil yang sudah terbukti.
 
-# E. Kerangka Pemikiran
+# E. KERANGKA PEMIKIRAN
 
-Penelitian ini bertumpu pada teori kekayaan media (*media richness theory*) dari Daft dan Lengel (1986). Teori ini membedakan dua kebutuhan informasi. Kebutuhan pertama muncul karena informasi kurang, dan dapat dipenuhi dengan menambah data. Kebutuhan kedua muncul karena persoalan bersifat ekuivokal, yakni memungkinkan beberapa tafsiran yang saling bertentangan sehingga pertanyaan sederhana berjawaban ya atau tidak tidak lagi memadai (Daft & Lengel, 1986:556). Media berbeda dalam kemampuannya mengubah pemahaman, dan tatap muka menempati urutan teratas karena memberi umpan balik seketika, isyarat nonverbal, dan bahasa alami sehingga paling sanggup mengurangi kerancuan tafsir (Daft & Lengel, 1986:560).
+## 1. Persepsi Kompleksitas Tugas
 
-Literatur pemilihan kanal layanan publik menurunkan gagasan itu ke perilaku warga. Pieterson dan Ebbers (2020:4) menyebut kompleksitas tugas sebagai variabel yang paling sering diteliti dalam studi pemilihan kanal, dan merangkum temuan umumnya: makin kompleks urusan, makin besar kecenderungan warga memilih kanal tradisional. Ebbers, et al. (2016:511) membuktikannya melalui survei berbasis skenario. Persepsi kompleksitas berhubungan positif dengan kemungkinan memakai loket dan telepon, tetapi tidak berhubungan signifikan dengan kemungkinan memakai situs web.
+Campbell (1988:40-48) membahas kompleksitas sebagai pengalaman psikologis, interaksi antara tugas dan individu, serta karakteristik objektif tugas. Penilaian subjektif dapat berbeda menurut kemampuan, pengalaman, waktu, dan alat bantu. Karena itu, kerumitan yang dirasakan seseorang tidak sama dengan banyaknya tahapan objektif suatu sistem.
 
-Kompleksitas dalam penelitian ini dipahami sebagai kompleksitas yang dirasakan. Campbell (1988:40) memetakan tiga cara memandang kompleksitas tugas, yaitu sebagai pengalaman psikologis, sebagai interaksi antara tugas dan orang yang mengerjakannya, dan sebagai ciri objektif tugas. Maynard dan Hakel (1997:313) mengukur kompleksitas subjektif dengan empat butir yang menanyakan seberapa rumit, seberapa menguras pikiran, seberapa banyak pertimbangan yang dibutuhkan, dan seberapa menantang tugas itu bagi pelakunya. Persepsi kompleksitas dipilih karena jemaah yang menghadapi perubahan estimasi yang sama dapat merasakannya secara berbeda. Sebagian cukup menerima angka baru, sebagian lain merasa perlu memahami kaitan nomor porsi, kuota, dan regulasi.
+Dalam penelitian ini, tugas dibatasi pada memahami perubahan estimasi keberangkatan yang digambarkan dalam skenario. Persepsi kompleksitas merujuk pada kerumitan dan tuntutan berpikir yang diperkirakan responden ketika membayangkan tugas tersebut. Penelitian tidak mengukur kerumitan aplikasi SISKOHAT, keseluruhan pengurusan haji, atau kemampuan responden menjelaskan penyebab perubahan estimasi secara benar.
 
-Logika alur penelitian ini sebagai berikut. Jemaah yang melihat estimasi keberangkatannya mundur menghadapi persoalan yang tidak terjawab oleh angka di aplikasi. Makin rumit persoalan itu dirasakan, makin besar kebutuhannya akan penjelasan dua arah yang dapat langsung ditanyakan ulang. Kebutuhan tersebut paling mudah dipenuhi melalui layanan tatap muka di kantor. Oleh sebab itu, persepsi kompleksitas persoalan (X) diduga berhubungan positif dengan kemungkinan penggunaan layanan tatap muka (Y). Model ini sengaja dibatasi pada satu hubungan. Faktor lain seperti kebiasaan, kemampuan memakai aplikasi, dan kepercayaan pada kanal digital tidak diuji, dan hal ini ditulis sebagai keterbatasan penelitian.
+## 2. Dasar Adaptasi Pengukuran Variabel X
 
-Skema alur penelitian digambarkan sebagai berikut.
+Maynard dan Hakel (1997:313, 330) mengembangkan empat butir yang menilai kompleksitas, tuntutan mental, kebutuhan berpikir dan pemecahan masalah, serta sifat menantang suatu tugas. Peserta penelitian asli menilai setelah mengerjakan tugas penjadwalan, dengan tujuh pilihan jawaban. Koefisien alpha yang dilaporkan pada bagian pengukuran adalah 0,903. Nilai tersebut berlaku pada data penelitian asli dan tidak menjadi hasil reliabilitas penelitian ini.
 
-| Variabel bebas (X) | | Variabel terikat (Y) |
-|:------------------------------:|:-----:|:------------------------------:|
-| Persepsi kompleksitas persoalan perubahan estimasi keberangkatan | → | Kemungkinan penggunaan layanan tatap muka |
-| (Maynard & Hakel, 1997; Campbell, 1988) | | (Ebbers, et al., 2016; Daft & Lengel, 1986) |
+Adaptasi dilakukan pada objek tugas, bahasa, bentuk penilaian hipotetis, dan jumlah pilihan jawaban menjadi lima. Butir tentang pemecahan masalah dirumuskan sebagai kebutuhan memikirkan dan menghubungkan informasi agar tidak bergeser menjadi tindakan mencari layanan. Kata “menantang” diberi konteks usaha berpikir agar tidak semata-mata berarti menarik atau menyenangkan. Keempat butir diperlakukan sebagai indikator satu konstruk, bukan empat dimensi teoretis yang berdiri sendiri. Kesetaraan maknanya diperiksa sebelum instrumen digunakan.
 
-Kedua variabel diukur dengan survei berbasis skenario (*vignette*). Semua responden membaca satu cerita yang sama tentang jemaah yang mendapati estimasi keberangkatannya mundur, lalu menilai persoalan itu dan kemungkinan dirinya datang ke kantor. Cara ini mengikuti desain Ebbers, et al. (2016:510) dan memastikan semua responden menilai persoalan yang sama.
+## 3. Teori Kekayaan Media
 
-Matriks operasionalisasi variabel disajikan pada tabel berikut.
+Daft dan Lengel (1986:556, 560) membedakan kebutuhan akibat kekurangan informasi dan kebutuhan akibat kemungkinan berbagai penafsiran. Media memiliki kemampuan berbeda dalam menyediakan umpan balik dan menyampaikan isyarat. Komunikasi tatap muka menyediakan umpan balik segera, isyarat nonverbal, dan bahasa alami sehingga dapat digunakan untuk klarifikasi.
 
-| Variabel | Definisi operasional | Indikator | Butir | Skala | Sumber |
-|------------------|----------------------|----------------|------|----------------|--------------|
-| Persepsi kompleksitas persoalan (X) | Penilaian responden tentang tingkat kerumitan persoalan perubahan estimasi keberangkatan dalam skenario | Kerumitan | 1 | Ordinal, Likert 1 sampai 5 (sangat tidak setuju sampai sangat setuju), skor diperlakukan sebagai interval | Maynard & Hakel (1997:313, 330), diadaptasi |
-| | | Tuntutan pikiran | 2 | | |
-| | | Kebutuhan pertimbangan dan pemecahan masalah | 3 | | |
-| | | Tingkat tantangan | 4 | | |
-| Kemungkinan penggunaan layanan tatap muka (Y) | Penilaian responden tentang seberapa mungkin ia datang langsung ke kantor untuk meminta penjelasan bila menghadapi persoalan dalam skenario | Kemungkinan datang ke kantor | 5 | Ordinal, 1 sampai 5 (sangat tidak mungkin sampai sangat mungkin) | Ebbers, et al. (2016:510), diadaptasi |
+Kompleksitas tugas dan ambiguitas informasi tidak disamakan. Teori kekayaan media digunakan untuk menjelaskan mengapa tatap muka dapat dipertimbangkan ketika seseorang memerlukan klarifikasi. Penelitian tidak mengukur kekayaan media atau kebutuhan klarifikasi sebagai variabel tersendiri dan tidak menguji mekanisme mediasi. Telepon juga dapat menyediakan umpan balik langsung sehingga alasan pemilihan tatap muka dalam penelitian adalah batas fokus pelayanan yang ditelaah, bukan klaim keunggulannya atas semua kanal.
 
-Butir X diadaptasi dari skala tujuh poin Maynard dan Hakel (1997:313) menjadi lima poin agar seragam dengan butir Y dan lebih mudah dijawab responden lanjut usia. Kata "tugas" pada butir asli diganti dengan "persoalan" agar sesuai dengan skenario. Y diukur dengan satu butir mengikuti Ebbers, et al. (2016:510), yang juga mengukur kemungkinan memakai tiap kanal dengan satu butir. Konsekuensinya, reliabilitas Y tidak dapat dihitung dengan *Alpha Cronbach*. Pilihan ini diambil karena konstruk Y bersifat konkret dan tunggal, yaitu kemungkinan melakukan satu tindakan tertentu dalam satu situasi tertentu [PERLU RUJUKAN: dasar metodologis pengukuran satu butir].
+## 4. Kemungkinan Penggunaan Kanal Tatap Muka
 
-# F. Hipotesis
+Kemungkinan penggunaan kanal (*likelihood of channel use*) merupakan penilaian mengenai seberapa mungkin seseorang menggunakan kanal dalam situasi tertentu. Konsep ini berbeda dari preferensi, yang menunjukkan pilihan yang lebih disukai, dan perilaku aktual, yang menunjukkan tindakan yang sudah dilakukan. Penelitian ini mengukur kemungkinan datang langsung ke kantor untuk meminta penjelasan dalam situasi hipotetis.
 
-Berdasarkan kerangka pemikiran, hipotesis penelitian ini dirumuskan sebagai berikut.
+Ebbers et al. (2016:510-511) menggunakan beberapa skenario dan meminta penilaian kemungkinan menggunakan loket, telepon, serta situs web pada skala lima poin. Penelitian ini mengadaptasi pendekatan pertanyaan situasional tersebut dengan satu skenario dan satu kanal. Dengan demikian, penelitian bukan replikasi keseluruhan desain, instrumen kompleksitas, atau model analisis Ebbers et al. Penggunaan satu butir Y dipertimbangkan karena tindakan, tujuan, dan situasinya spesifik. Bergkvist dan Rossiter (2007:175-184) memberi pertimbangan tambahan tentang pengukuran satu butir pada kondisi tertentu, bukan bukti langsung bahwa butir adaptasi ini telah valid.
 
-H~0~: Tidak terdapat hubungan positif yang signifikan antara persepsi kompleksitas persoalan perubahan estimasi keberangkatan dan kemungkinan penggunaan layanan tatap muka pada jemaah haji reguler daftar tunggu Kabupaten Bandung.
+## 5. Penelitian Terdahulu
 
-H~1~: Terdapat hubungan positif yang signifikan antara persepsi kompleksitas persoalan perubahan estimasi keberangkatan dan kemungkinan penggunaan layanan tatap muka pada jemaah haji reguler daftar tunggu Kabupaten Bandung.
+Tabel 1 merangkum objek atau metode, temuan utama, dan posisi penelitian terdahulu. Ringkasan membedakan hasil penelitian dari manfaat yang baru diharapkan oleh penulis sumber.
 
-Secara statistik, H~0~: β~1~ = 0 dan H~1~: β~1~ > 0, diuji pada taraf signifikansi 0,05.
+Tabel 1. Penelitian terdahulu dan posisi penelitian
 
-# G. Langkah-langkah Penelitian
+| **Penelitian**                 | **Objek dan metode**                                                                        | **Temuan dan relevansi**                                                                                                                                                                                            |
+|--------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Maynard dan Hakel (1997)       | Eksperimen tugas penjadwalan; empat butir kompleksitas subjektif.                           | Kompleksitas objektif dan subjektif memberikan informasi berbeda tentang kinerja. Menjadi dasar adaptasi X; peserta sumber menilai setelah tugas nyata, sedangkan penelitian ini memakai tugas yang dibayangkan.    |
+| Ebbers et al. (2016)           | Survei skenario pada 637 warga Belanda; loket, telepon, dan situs web.                      | Kompleksitas berkaitan positif dengan kemungkinan memakai loket dan telepon, tetapi tidak signifikan untuk situs web. Penelitian ini hanya mengadaptasi pertanyaan situasional, bukan keseluruhan model multikanal. |
+| Pieterson dan Ebbers (2020)    | Perbandingan data perilaku kanal warga Belanda tahun 2008 dan 2017.                         | Penggunaan kanal daring meningkat dan kesenjangan usia menyempit, tetapi pergeseran tidak seragam pada semua tugas. Memberi konteks keberlanjutan kanal tradisional.                                                |
+| Wargadinata dan Tendean (2024) | Kajian kualitatif penerimaan layanan digital pada 13 aplikasi layanan pemerintah daerah.    | Kenyamanan proses konvensional, persepsi kerumitan aplikasi, literasi digital, dan pengalaman menjadi hambatan penerimaan. Kerumitan aplikasi berbeda dari konstruk tugas memahami estimasi.                        |
+| Safitra et al. (2023)          | Penelitian kualitatif melalui wawancara tujuh informan wajib pajak.                         | Kanal daring dipilih untuk informasi dasar, aplikasi percakapan untuk perubahan prosedur, dan loket untuk pemecahan masalah aplikasi. Menjelaskan perbedaan kebutuhan kanal, bukan korelasi X-Y pada jemaah.        |
+| Pusvita dan Muttaqin (2023)    | Analisis deskriptif statistik nasional SP4N tahun 2013-2022.                                | SMS, situs web, dan Android menjadi kanal dominan; tatap muka tetap digunakan meskipun kontribusinya lebih kecil. Menjadi konteks multikanal, bukan bukti dominasi tatap muka.                                      |
+| Wardana et al. (2024)          | Deskriptif kualitatif pelayanan informasi calon jemaah di Kabupaten Wajo.                   | Pembahasan menekankan keterbukaan, empati, dukungan, sikap positif, dan kesetaraan dalam komunikasi interpersonal. Tidak menguji hubungan kompleksitas dan kemungkinan penggunaan kanal.                            |
+| Bahar dan Saepudin (2026)      | Analisis kebutuhan arsitektur informasi layanan haji Kota Sukabumi dengan kerangka Zachman. | Menghasilkan pemetaan kebutuhan dan rancangan arsitektur sistem layanan. Peningkatan kepuasan merupakan manfaat yang diharapkan, bukan hasil uji hubungan X-Y.                                                      |
+| Nurbaiti et al. (2022)         | Pengembangan portal layanan haji Kabupaten Sambas dengan metode prototipe.                  | Portal mencakup informasi manasik, perjalanan, estimasi, data jemaah, pesan, dan laporan. Menghasilkan sistem informasi, bukan pengujian perilaku kanal.                                                            |
+| Fahmi (2021)                   | Sensus 30 pengurus KBIH, pegawai Kemenag, dan pegawai bank mitra di Garut; analisis jalur.  | Melaporkan hubungan positif dan signifikan dalam model SISKOHAT, akses, dan kualitas layanan. Responden merupakan pelaksana atau mitra layanan, berbeda dari jemaah pada penelitian ini.                            |
+| Jabri dan Ahmad (2025)         | Survei penggunaan kanal pelayanan publik di wilayah Beja, Tunisia.                          | Kanal luring tetap dominan; daring terutama untuk pencarian informasi, sedangkan tatap muka untuk urusan kompleks atau berisiko tinggi. Menjadi pembanding lintas konteks.                                          |
+| Munawaroh et al. (2015)        | Kajian efektivitas SISKOHAT dalam penyelenggaraan ibadah haji di Jawa Tengah.               | Menilai penerapan SISKOHAT efektif dalam mendukung pelayanan dan membahas faktor pendukung serta penghambatnya. Fokus pada sistem dan penyelenggaraan, bukan penilaian hipotetis jemaah.                            |
 
-## 1. Lokasi Penelitian
+Posisi penelitian ini adalah pengujian hubungan dua penilaian subjektif pada skenario pelayanan informasi haji Kabupaten Bandung. Perbedaan konteks, responden, dan instrumen membuat hasil penelitian terdahulu tidak dapat langsung dianggap berlaku pada responden penelitian ini. Kebaruan dibatasi pada penerapan konsep dan adaptasi pengukuran dalam konteks tersebut.
 
-Penelitian dilakukan di wilayah kerja Kantor Kementerian Haji dan Umrah Kabupaten Bandung [PERLU VERIFIKASI: alamat lengkap dan nomenklatur resmi kantor]. Lokasi ini dipilih karena tiga alasan. Pertama, peneliti menemukan gejala penelitian di kantor ini selama magang pada Februari sampai Juni 2026. Kedua, daftar tunggu jemaah haji reguler Kabupaten Bandung cukup besar, yaitu 46.210 orang sehingga persoalan estimasi keberangkatan menyangkut banyak jemaah. Ketiga, peneliti memiliki akses ke staf kantor dan pengelola KBIHU di wilayah ini untuk membantu penyebaran kuesioner.
+## 6. Definisi Operasional Variabel
+
+### a. Variabel X
+
+Persepsi kompleksitas tugas memahami perubahan estimasi keberangkatan adalah penilaian subjektif responden mengenai kerumitan dan tuntutan berpikir yang diperkirakan untuk memahami perubahan estimasi dalam skenario. Skor X dihitung sebagai rata-rata X1-X4 apabila semua butir terisi. Semua butir berarah sama; skor lebih tinggi menunjukkan kompleksitas yang dipersepsikan lebih tinggi.
+
+### b. Variabel Y
+
+Kemungkinan penggunaan kanal tatap muka adalah penilaian responden mengenai seberapa mungkin dirinya datang langsung ke Kantor Kementerian Haji dan Umrah Kabupaten Bandung untuk meminta penjelasan pada situasi dalam skenario. Skor Y berasal dari Y1 dengan lima kategori jawaban. Skor bukan probabilitas numerik 0-100% dan tidak menunjukkan tindakan nyata.
+
+## 7. Alur Logika Penelitian
+
+Skenario memberikan situasi yang sama kepada semua responden. Penilaian terhadap tuntutan memahami situasi tersebut dapat berbeda. Semakin tinggi kompleksitas yang dipersepsikan, semakin mungkin responden mempertimbangkan kanal yang memungkinkan klarifikasi langsung. Berdasarkan temuan Ebbers et al. (2016:510-511), hubungan positif antara X dan Y menjadi dugaan teoretis penelitian.
+
+**X ↔ Y**
+
+X: Persepsi kompleksitas tugas memahami perubahan estimasi keberangkatan  
+Y: Kemungkinan penggunaan kanal tatap muka
+
+Gambar 1. Hubungan yang diuji dalam penelitian
+
+Tanda hubungan tidak menunjukkan sebab-akibat. Kekurangan penjelasan individual, kekhawatiran, kepercayaan, kemampuan digital, dan akses ke kantor dapat turut berkaitan dengan jawaban. Faktor-faktor itu tidak dikendalikan dalam analisis utama. Kebutuhan klarifikasi hanya menjadi penjelasan konseptual, bukan variabel perantara yang diuji.
+
+## 8. Matriks Operasionalisasi Variabel
+
+Tabel 2. Operasionalisasi variabel
+
+<table>
+<colgroup>
+<col style="width: 22%" />
+<col style="width: 37%" />
+<col style="width: 40%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Variabel dan skor</strong></th>
+<th><strong>Aspek yang diukur</strong></th>
+<th><strong>Dasar dan bentuk pengukuran</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>X: rata-rata X1-X4; rentang 1-5</td>
+<td>X1: kerumitan tugas yang dibayangkan.<br />
+X2: tuntutan upaya berpikir.<br />
+X3: pemikiran dan penghubungan informasi.<br />
+X4: tantangan dalam usaha berpikir.</td>
+<td>Adaptasi Maynard dan Hakel (1997:313, 330). Empat indikator satu konstruk; persetujuan lima kategori dari sangat tidak setuju sampai sangat setuju.</td>
+</tr>
+<tr class="even">
+<td>Y: skor Y1; rentang 1-5</td>
+<td>Kemungkinan datang langsung ke kantor untuk meminta penjelasan dalam skenario.</td>
+<td>Adaptasi pertanyaan situasional Ebbers et al. (2016:510). Satu butir; lima kategori dari sangat tidak mungkin sampai sangat mungkin.</td>
+</tr>
+</tbody>
+</table>
+
+# F. HIPOTESIS
+
+Hipotesis statistik dirumuskan untuk menilai hubungan monotonik dalam kerangka analisis korelasi. Karena perekrutan gabungan menghasilkan sampel nonprobabilitas, pengujian ini bersifat eksploratif dan tidak menjadi dasar generalisasi berbasis desain kepada seluruh daftar tunggu Kabupaten Bandung.
+
+H₀: Koefisien korelasi Spearman antara persepsi kompleksitas tugas memahami perubahan estimasi keberangkatan dan kemungkinan penggunaan kanal tatap muka sama dengan nol (ρₛ = 0).
+
+H₁: Koefisien korelasi Spearman kedua variabel tidak sama dengan nol (ρₛ ≠ 0).
+
+Pengujian dilakukan dua arah pada taraf signifikansi 0,05. Dugaan teoretis mengarah pada hubungan positif. Hasil positif dan signifikan sejalan dengan dugaan tersebut; hasil negatif dan signifikan menunjukkan arah berlawanan. Hasil tidak signifikan berarti bukti statistik belum cukup untuk menunjukkan hubungan pada kondisi analisis, bukan bukti bahwa hubungan pasti tidak ada.
+
+# G. LANGKAH-LANGKAH PENELITIAN
+
+## 1. Lokasi dan Cakupan Penelitian
+
+Konteks penelitian adalah pelayanan informasi pada Kantor Kementerian Haji dan Umrah Kabupaten Bandung. Pemilihan konteks didasarkan pada pengalaman PPM dan keberadaan kegiatan konsultasi estimasi dalam logbook, bukan hanya kemudahan akses peneliti. Pengumpulan data dilakukan secara daring melalui Google Forms, dengan tautan yang disampaikan melalui WhatsApp oleh staf kantor dan pihak KBIHU yang membantu distribusi. Peneliti tidak merencanakan pertemuan langsung dengan jemaah untuk pengumpulan data utama.
 
 ## 2. Paradigma dan Pendekatan
 
-Penelitian ini memakai paradigma positivisme dengan pendekatan objektif. Gejala diperlakukan sebagai sesuatu yang dapat diukur, dan hubungan antarvariabel diuji melalui data angka dan statistik. Pendekatan yang dipakai adalah pendekatan kuantitatif.
+Penelitian menggunakan paradigma positivisme dengan pendekatan kuantitatif. Persepsi responden dioperasionalkan menjadi butir terukur dan dianalisis melalui prosedur yang dinyatakan sebelum pengumpulan data. Objektivitas merujuk pada keterbukaan prosedur, pemeriksaan instrumen, dan pelaporan hasil; objek yang dinilai tetap berupa persepsi subjektif.
 
 ## 3. Metode Penelitian
 
-Metode yang digunakan adalah survei dengan desain potong lintang (*cross-sectional*), yaitu data dikumpulkan satu kali pada satu waktu. Instrumen survei berbasis skenario. Karena data diambil satu kali dan tidak ada manipulasi variabel, hasil penelitian dibaca sebagai hubungan atau asosiasi, bukan bukti sebab akibat.
+Metode penelitian adalah survei korelasional potong lintang (*cross-sectional*) berbasis satu skenario (*vignette*). Setiap responden mengisi satu kali dan menerima redaksi skenario yang sama. Tidak ada pembagian perlakuan atau manipulasi tingkat kompleksitas antarresponden. Analisis menilai hubungan penilaian X dan Y, bukan perubahan perilaku atau pengaruh kausal.
 
-## 4. Jenis Data dan Sumber Data
+## 4. Jenis dan Sumber Data
 
-### a. Jenis Data
-
-Pendekatan penelitian ini objektif sehingga data yang dikumpulkan berupa data kuantitatif, yaitu skor jawaban responden atas kuesioner berskala bertingkat.
-
-### b. Sumber Data
-
-Sumber data primer adalah jemaah haji reguler daftar tunggu Kabupaten Bandung yang memenuhi kriteria responden dan bersedia mengisi kuesioner. Sumber data sekunder meliputi data jumlah daftar tunggu dari SISKOHAT Kantor Kementerian Haji dan Umrah Kabupaten Bandung, buku tamu kantor, serta peraturan dan informasi resmi tentang kuota dan masa tunggu haji.
+Data utama berupa skor X1-X4, skor Y1, jawaban penyaring, serta karakteristik responden. Data primer diperoleh langsung dari jawaban jemaah melalui kuesioner. Data sekunder berasal dari dokumentasi dashboard, logbook PPM, peraturan, artikel jurnal, dan sumber resmi yang relevan. Data pribadi administratif tidak disalin ke kuesioner.
 
 ## 5. Populasi dan Sampel
 
-Populasi penelitian adalah jemaah haji reguler Kabupaten Bandung yang telah memperoleh nomor porsi dan belum berangkat. Berdasarkan data SISKOHAT kantor, jumlahnya 46.210 orang, mencakup jemaah dengan estimasi keberangkatan tahun 2027 sampai sekitar tahun 2050 [PERLU DATA: foto dasbor SISKOHAT dan tanggal pengambilan data].
+### a. Populasi sasaran dan populasi terjangkau
 
-Ukuran sampel dihitung dengan rumus Slovin [PERLU RUJUKAN: buku metodologi yang memuat rumus Slovin]:
+Populasi sasaran adalah jemaah haji reguler yang tercatat dalam daftar tunggu Kabupaten Bandung, telah memiliki nomor porsi, belum berangkat dengan nomor porsi tersebut, dan berusia minimal 18 tahun ketika mengisi kuesioner. Batas usia 18 tahun merupakan kriteria penelitian. Batas ini berbeda dari usia minimal pendaftaran haji reguler 12 tahun dalam Peraturan Menteri Haji dan Umrah Nomor 3 Tahun 2025, Pasal 2 ayat (2).
 
-n = N / (1 + N e^2^)
+Populasi terjangkau adalah bagian dari populasi sasaran yang dapat menerima tautan melalui jaringan WhatsApp staf kantor atau KBIHU dan mampu memahami kuesioner tertulis berbahasa Indonesia. Responden harus menentukan jawaban sendiri. Bantuan teknis membuka tautan diperbolehkan, tetapi bantuan menjelaskan skenario, menerjemahkan pertanyaan, atau memilih jawaban tidak termasuk prosedur pengisian utama. Pembatasan ini menimbulkan keterbatasan cakupan terhadap jemaah dengan akses digital atau kemampuan membaca yang terbatas.
 
-dengan n sebagai ukuran sampel, N sebagai ukuran populasi, dan e sebagai batas kesalahan yang ditoleransi, yaitu 10%. Dengan N = 46.210, diperoleh n = 46.210 / (1 + 46.210 × 0,01) = 46.210 / 463,1 = 99,78, dibulatkan menjadi 100 responden. Batas kesalahan 10% dipilih dengan mempertimbangkan waktu dan sumber daya peneliti.
+Angka 46.210 pada dashboard tidak digunakan sebagai jumlah pasti populasi sasaran atau penyebut perhitungan sampel. Berdasarkan konfirmasi awal yang diperoleh peneliti, daftar jemaah dapat diakses melalui kantor. Penggunaan daftar tetap mengikuti izin tertulis, penyaringan status dan usia, serta pencatatan tanggal data oleh kantor. Tidak ada jumlah populasi dewasa yang ditetapkan sebelum rekap sesuai kriteria tersedia.
 
-Sampel diambil dengan teknik *purposive sampling*, yaitu responden dipilih berdasarkan kriteria berikut:
+### b. Teknik perekrutan dan pengambilan sampel
 
-1) terdaftar sebagai jemaah haji reguler di Kabupaten Bandung;
-2) telah memiliki nomor porsi;
-3) belum berangkat haji;
-4) bersedia mengisi kuesioner.
+Penelitian menggunakan sampling nonprobabilitas berbasis kriteria dengan partisipasi sukarela. Perekrutan menggabungkan undangan pribadi kepada nama yang dipilih secara acak dari daftar yang dapat digunakan secara sah dan penyebaran tautan melalui grup atau kontak yang tersedia pada staf serta pihak KBIHU. Karena peserta dari jalur grup ikut berdasarkan keterjangkauan dan kesediaan, probabilitas masuk seluruh sampel gabungan tidak diketahui. Sampel gabungan tidak disebut sampel acak sederhana (Baker et al., 2013:1).
 
-Teknik ini dipilih karena peneliti tidak memiliki akses ke daftar lengkap jemaah beserta kontaknya, dan data pribadi jemaah tidak boleh digunakan tanpa izin. Konsekuensinya, hasil penelitian tidak dapat digeneralisasi secara ketat ke seluruh populasi. Hal ini dinyatakan sebagai keterbatasan penelitian.
+Untuk jalur undangan pribadi, petugas menyaring daftar berdasarkan kriteria administratif dan menggunakan bilangan acak untuk memilih penerima dari daftar tersebut. Pemilihan ini tidak menjadikan keseluruhan sampel gabungan sebagai sampel probabilitas. Untuk jalur grup atau kontak, pesan undangan memuat kriteria partisipasi dan larangan menjawab mewakili orang lain. Peneliti mencatat asal tautan yang dilaporkan responden agar komposisi kedua jalur dapat diperiksa.
+
+Staf dan pihak KBIHU berperan sebagai penghubung distribusi. Mereka tidak memilih jawaban, mengisi atas nama jemaah, atau mengarahkan partisipasi berdasarkan dugaan jawaban tertentu. Pesan boleh diteruskan hanya kepada jemaah yang diperkirakan memenuhi kriteria; pengisian tetap harus melewati pertanyaan penyaring. Keikutsertaan tidak terkait dengan hak antrean atau pemberian layanan.
+
+### c. Perencanaan jumlah data
+
+Target analisis direncanakan menggunakan acuan sensitivitas uji korelasi, bukan rumus Slovin atau klaim margin galat survei acak. May dan Looney (2020, Tabel 2) memberikan acuan 194 pasangan data untuk mendeteksi korelasi Spearman 0,20 dengan taraf signifikansi 0,05, kekuatan uji 80%, dan pengujian dua arah. Angka ini adalah acuan perencanaan statistik berdasarkan asumsi, bukan jaminan kekuatan uji aktual pada data ordinal yang memiliki banyak peringkat sama atau pada perekrutan nonprobabilitas.
+
+Nilai 0,20 dipilih sebagai batas sensitivitas awal agar perencanaan tidak hanya diarahkan pada hubungan yang besar. Pilihan ini merupakan pertimbangan desain untuk menangkap hubungan yang relatif lemah, bukan hasil pendahuluan atau ambang kebermaknaan praktis yang telah terbukti dalam pelayanan haji. Hubungan yang lebih kecil masih mungkin ada tetapi lebih sulit dideteksi. Tabel 3 menunjukkan konsekuensi ukuran sampel dari beberapa asumsi hubungan.
+
+Tabel 3. Acuan perencanaan jumlah data untuk uji Spearman
+
+| **Korelasi yang ingin dideteksi** | **Acuan pasangan data** |
+|-----------------------------------|-------------------------|
+| 0,10                              | 783                     |
+| 0,20                              | 194                     |
+| 0,30                              | 85                      |
+| 0,40                              | 47                      |
+| 0,50                              | 30                      |
+
+Sumber: May dan Looney (2020, Tabel 2); α = 0,05, kekuatan uji 80%, dua arah.
+
+Penelitian menargetkan sedikitnya 200 data layak analisis dan merencanakan sekitar 225 kiriman kuesioner sebagai penyangga awal bagi penyaringan dan data yang tidak layak. Kelayakan data diperiksa sebelum analisis hubungan. Pengumpulan ditutup pada akhir periode yang ditetapkan apabila target data layak telah tercapai; semua data layak dalam periode tersebut digunakan. Jika target belum tercapai, periode diperpanjang dengan prosedur perekrutan yang sama setelah koordinasi. Penghentian atau perpanjangan tidak didasarkan pada nilai korelasi atau signifikansi sementara.
+
+Jumlah undangan tidak disamakan dengan target jawaban. Sebagai ilustrasi perencanaan, apabila 60% undangan pribadi menghasilkan data layak, sekitar 334 undangan diperlukan untuk memperoleh 200 data layak. Persentase 60% bukan data tingkat respons penelitian ini. Untuk distribusi grup yang jumlah penerima uniknya tidak diketahui, peneliti tidak menghitung tingkat respons dengan penyebut rekaan. Jumlah pesan distribusi, undangan pribadi yang tercatat, kiriman yang masuk, penolakan yang tercatat, dan hasil penyaringan dilaporkan sesuai data yang tersedia (American Association for Public Opinion Research \[AAPOR\], 2023:78).
+
+### d. Kriteria responden
+
+1\. terdaftar sebagai jemaah haji reguler dalam daftar tunggu Kabupaten Bandung dan memiliki nomor porsi;
+
+2\. belum berangkat haji dengan nomor porsi tersebut;
+
+3\. berusia minimal 18 tahun pada saat pengisian;
+
+4\. dapat membaca serta memahami skenario dan pertanyaan berbahasa Indonesia, kemudian memilih jawaban sendiri;
+
+5\. belum mengirimkan jawaban pada survei yang sama; dan
+
+6\. bersedia berpartisipasi setelah membaca penjelasan penelitian.
 
 ## 6. Teknik Pengumpulan Data
 
-Data dikumpulkan dengan kuesioner (angket) dalam dua bentuk, yaitu formulir daring dan lembar cetak. Kuesioner disebarkan melalui tiga jalur: (1) staf Kantor Kementerian Haji dan Umrah Kabupaten Bandung dan mahasiswa magang yang bertugas di kantor, (2) pengelola KBIHU di wilayah Kabupaten Bandung melalui grup jemaah binaannya, dan (3) jemaah yang datang ke loket kantor. Penyebaran melalui beberapa jalur dimaksudkan untuk mengurangi bias, sebab responden yang hanya diambil dari loket sudah pasti memilih datang langsung. Peneliti terlebih dahulu mengajukan izin penelitian kepada kantor [PERLU DATA: surat izin penelitian]. Setiap responden membaca lembar persetujuan sebelum mengisi, dan kuesioner tidak meminta nama maupun nomor porsi.
+Data dikumpulkan menggunakan Google Forms melalui tautan WhatsApp. Formulir memuat persetujuan, penyaring, karakteristik responden, skenario, Y1, X1-X4, dan pernyataan pengisian sendiri. Urutan Y sebelum X dipertahankan agar pertanyaan kompleksitas tidak lebih dahulu mengarahkan penilaian kemungkinan datang. Urutan yang sama digunakan untuk semua responden; kemungkinan efek urutan tetap diakui sebagai keterbatasan.
 
-## 7. Validitas dan Reliabilitas
+Pengisian bersifat mandiri secara daring. Pengantar menerangkan bahwa skenario adalah ilustrasi, bukan perubahan pada data keberangkatan responden. Formulir tidak meminta unggahan bukti pendaftaran, nama, nomor porsi, nomor telepon, alamat lengkap, atau alamat surel. Pengaturan pengumpulan surel dinonaktifkan dan responden tidak diwajibkan menyerahkan identitas akun kepada peneliti. Petunjuk satu kali pengisian digunakan; keterbatasan deteksi pengisian berulang tanpa identitas dinyatakan dalam laporan.
 
-Validitas butir diuji dengan korelasi *Pearson product moment* antara skor tiap butir X dan skor total X menggunakan SPSS. Butir dinyatakan valid apabila r hitung lebih besar daripada r tabel pada taraf signifikansi 0,05. Reliabilitas variabel X diuji dengan *Alpha Cronbach*, dan instrumen dinyatakan reliabel apabila nilai alfa sekurang-kurangnya 0,70 [PERLU RUJUKAN: batas nilai alfa]. Sebagai pembanding, skala asli Maynard dan Hakel (1997:313) memiliki alfa 0,903. Variabel Y diukur dengan satu butir sehingga tidak diuji dengan *Alpha Cronbach*. Kecocokan isi butir Y dijaga dengan mengikuti redaksi butir Ebbers, et al. (2016:510) yang disesuaikan dengan skenario.
+Pengingat diberikan paling banyak dua kali selama periode pengumpulan melalui saluran distribusi yang sama. Pesan pengingat menyatakan bahwa jemaah yang sudah mengisi tidak perlu mengisi kembali. Untuk undangan pribadi, petugas mencatat jumlah penerima dan tanggal pengiriman tanpa menyerahkan daftar kontak kepada peneliti. Pencatatan distribusi grup tidak dianggap sebagai jumlah penerima unik. Petunjuk teknis distribusi terdapat pada Lampiran 3.
+
+## 7. Pemeriksaan Validitas dan Reliabilitas
+
+### a. Pemeriksaan makna dan validitas isi
+
+Sebelum pengumpulan data utama, makna empat butir sumber dibandingkan dengan draf Indonesia. Peneliti menyiapkan catatan perubahan bahasa, konteks, waktu penilaian, dan skala jawaban. Pemeriksaan kesetaraan makna dilakukan oleh penilai yang mampu memahami sumber bahasa Inggris. Penilaian isi melibatkan sekurang-kurangnya dua orang dengan kompetensi yang secara bersama mencakup pengukuran atau metodologi, pelayanan haji, dan bahasa. Jika cakupan tersebut belum terpenuhi, penilai tambahan dilibatkan. Jumlah dan identitas penilai dilaporkan setelah kegiatan berlangsung.
+
+Penilai memeriksa relevansi butir, keterwakilan konstruk, kejelasan, penilaian terhadap tugas yang dibayangkan, serta potensi pencampuran X dengan pencarian informasi atau Y. Pemeriksaan khusus dilakukan pada padanan pemecahan masalah, makna “menantang”, dan kategori tengah Y. Setiap masukan beserta keputusan mempertahankan atau merevisi butir dicatat. Pedoman pemeriksaan terdapat pada Lampiran 4.
+
+### b. Uji keterbacaan dan uji coba
+
+Uji keterbacaan direncanakan pada sekitar 5-8 jemaah yang memenuhi kriteria di luar sampel utama. Pelaksanaan dilakukan secara daring melalui formulir uji keterbacaan atau pesan tertulis, tanpa mengharuskan pertemuan langsung. Peserta diminta menjelaskan kembali maksud skenario, butir X3, kata “menantang”, dan kategori tengah Y. Pertanyaan pemahaman ini merupakan pemeriksaan instrumen, bukan wawancara sebagai metode pengumpulan data utama. Kejelasan skenario juga diperiksa melalui pertanyaan apakah estimasi dalam ilustrasi maju atau mundur.
+
+Setelah revisi keterbacaan, uji coba direncanakan pada sekitar 30 responden lain di luar sampel utama. Uji coba memeriksa fungsi penyaring, alur formulir, distribusi kategori, data kosong, keseragaman ekstrem jawaban, dan konsistensi internal X. Jumlah 30 adalah rencana praktis, bukan jaminan validitas. Jika hampir semua jawaban berada pada kategori tertinggi, peneliti meninjau apakah redaksi terlalu menggiring atau variasi persepsi memang terbatas. Perubahan substansial diperiksa kembali sebelum instrumen akhir ditetapkan.
+
+### c. Evaluasi skor X dan butir Y
+
+Konsistensi internal X diperiksa dengan koefisien alpha Cronbach dan korelasi butir-total terkoreksi. Nilai alpha sekitar 0,70 dipakai sebagai petunjuk awal, bukan syarat tunggal. Kesesuaian makna, hubungan antarbutir, dan cakupan konstruk tetap dipertimbangkan. Alpha tinggi tidak membuktikan validitas atau satu dimensi dengan sendirinya; butir tidak dihapus hanya untuk menaikkan alpha (Taber, 2018). Pemeriksaan dilakukan pada uji coba dan diulangi pada data utama menggunakan instrumen yang sudah ditetapkan.
+
+Y hanya memiliki satu butir sehingga tidak diuji dengan alpha Cronbach. Kelayakannya ditelaah melalui validitas isi, kesesuaian konteks tindakan, dan keterbacaan. Instrumen yang digunakan pada pengumpulan utama ditetapkan sebelum analisis hubungan. Jika pada data utama ditemukan masalah serius pada X, hasil komposit dinyatakan terbatas atau tidak layak, dan hasil butir dilaporkan secara deskriptif; butir tidak diubah setelah melihat hubungan dengan Y.
 
 ## 8. Teknik Analisis Data
 
-Analisis deskriptif dipakai untuk menjawab pertanyaan penelitian pertama dan kedua. Data karakteristik responden disajikan dalam frekuensi dan persentase. Skor X dan Y disajikan dalam rata-rata, simpangan baku, dan sebaran jawaban, lalu dikelompokkan ke dalam kategori rendah, sedang, dan tinggi.
+### a. Pemeriksaan dan pengodean
 
-Analisis inferensial dipakai untuk menjawab pertanyaan penelitian ketiga dan menguji hipotesis. Teknik yang digunakan adalah regresi linear sederhana dengan persamaan Y = a + bX. Sebelum regresi, data diuji normalitas residualnya dengan uji *Kolmogorov-Smirnov* dan diuji linearitasnya. Hipotesis diuji dengan uji t pada taraf signifikansi 0,05, sedangkan kekuatan hubungan dibaca dari koefisien korelasi dan koefisien determinasi (R^2^). Apabila asumsi regresi tidak terpenuhi, hubungan kedua variabel diuji dengan korelasi *Spearman rank*, karena Y diukur dengan satu butir berskala lima poin. Seluruh analisis dikerjakan dengan SPSS.
+Data disimpan dalam salinan asli dan salinan kerja yang terpisah. Pemeriksaan awal mencakup persetujuan, pemenuhan kriteria, rentang skor, kelengkapan X dan Y, serta laporan pernah mengisi. Data tanpa persetujuan atau tidak memenuhi kriteria dikeluarkan dari analisis. Data tanpa salah satu skor X1-X4 atau Y1 tidak masuk analisis korelasi; tidak dilakukan pengisian nilai yang hilang. Karakteristik opsional yang kosong tidak otomatis menggugurkan data utama.
 
-```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
-```
+Duplikasi teknis yang identik akibat penggabungan atau ekspor berulang dihapus dengan mempertahankan satu rekaman asal. Pengakuan telah mengisi dipakai untuk menghentikan pengisian ulang. Kemiripan pola jawaban, usia, atau kecamatan saja tidak dijadikan bukti bahwa dua rekaman berasal dari orang yang sama. Karena tidak mengumpulkan identitas, deteksi duplikasi individu tidak dapat dijamin sempurna. Semua pengeluaran data dicatat beserta alasan dan jumlahnya sebelum pengujian hipotesis.
+
+Skor X dihitung dengan rumus X = (X1 + X2 + X3 + X4)/4. Skor Y adalah jawaban Y1. Tidak ada pembalikan skor. Jawaban tinggi, rendah, seragam, atau tidak sejalan dengan hipotesis tidak otomatis dianggap tidak sah. Jawaban yang dipilihkan pihak lain dikeluarkan berdasarkan pernyataan pengisian sendiri pada akhir formulir.
+
+### b. Analisis deskriptif
+
+Karakteristik dan jawaban setiap butir disajikan sebagai frekuensi dan persentase dengan penyebut yang jelas. Median dan rentang antarkuartil menjadi ringkasan utama skor ordinal; rata-rata dan simpangan baku dapat ditambahkan untuk skor komposit X dengan penjelasan penggunaannya. Kategori rendah, sedang, dan tinggi tidak dibentuk tanpa dasar yang dinyatakan. Rata-rata Y tidak diubah menjadi persentase peluang datang.
+
+Komposisi responden dilaporkan menurut sumber tautan, usia, pendidikan, kecamatan, pengalaman menggunakan kanal, dan bantuan teknis. Perbedaan komposisi jalur undangan pribadi dan grup diperiksa secara deskriptif untuk menunjukkan kemungkinan seleksi. Identitas grup atau nama jemaah tidak dipublikasikan. Kecamatan digunakan sebagai konteks wilayah, bukan ukuran langsung jarak atau waktu perjalanan.
+
+### c. Analisis hubungan
+
+Hubungan X dan Y dianalisis menggunakan korelasi peringkat Spearman dengan uji dua arah pada α = 0,05. Pemeriksaan pola dilakukan melalui diagram pencar peringkat dengan penanganan titik bertumpuk dan ringkasan distribusi. Hubungan monotonik berarti kecenderungan bergerak dalam satu arah meskipun tidak linear. Jika pola tidak monotonik, koefisien Spearman tidak dipakai sebagai ringkasan tunggal dan pola dijelaskan secara deskriptif. Perangkat lunak digunakan untuk menangani peringkat sama; rumus sederhana tanpa koreksi peringkat sama tidak digunakan.
+
+Hasil memuat jumlah pasangan data, koefisien rₛ, arah, nilai p, dan interval kepercayaan 95%. Interval direncanakan melalui bootstrap persentil dengan 5.000 pengambilan ulang pasangan responden. Metode, perangkat lunak, dan pengaturan bilangan acak dicatat. Analisis dapat dilakukan menggunakan SPSS, dengan perhitungan bootstrap melalui perangkat lunak statistik yang mendukung prosedur tersebut. Jika data salah satu variabel konstan atau banyak pengambilan ulang tidak menghasilkan koefisien terdefinisi, keadaan itu dilaporkan dan interval tidak dipaksakan.
+
+Nilai p dan interval tersebut merupakan ringkasan ketidakpastian bersyarat pada data serta asumsi analisis, termasuk asumsi kemandirian antarresponden. Keterkaitan responden dalam jaringan atau grup dapat melanggar asumsi itu. Bootstrap tidak memperbaiki bias cakupan, pemilihan sukarela, atau ketergantungan antarpeserta. Karena itu, hasil tidak dilaporkan sebagai margin galat populasi atau bukti representativitas. Analisis bersifat bivariat tanpa pengendalian faktor lain; hasil tidak membuktikan sebab-akibat, mediasi, atau keunggulan satu kanal.
+
+## 9. Etika Penelitian
+
+1\. Partisipasi bersifat sukarela. Menolak, berhenti sebelum mengirim, atau tidak menjawab bagian opsional tidak memengaruhi antrean maupun pelayanan haji.
+
+2\. Pengumpulan dilakukan setelah izin yang diperlukan diperoleh. Akses daftar administratif dan distribusi undangan mengikuti kewenangan kantor; daftar kontak tidak dipublikasikan.
+
+3\. Kuesioner tidak meminta identitas langsung. Kode sumber distribusi hanya menunjukkan jalur penerimaan tautan, bukan kode individual yang terhubung dengan nomor porsi. Daftar kontak untuk undangan tetap dikelola petugas.
+
+4\. Bila diperlukan penautan identitas untuk tujuan baru, prosedurnya harus ditinjau ulang sebelum diterapkan; peneliti tidak diam-diam menambahkan pengumpulan identitas.
+
+5\. Berkas jawaban disimpan pada akun dan perangkat berpassword. Akses diberikan hanya kepada peneliti dan pembimbing untuk keperluan akademik. Tautan hasil tidak dibuka untuk umum.
+
+6\. Rencana retensi data adalah dua tahun setelah skripsi dinyatakan selesai, kemudian dihapus dari penyimpanan aktif, dengan penyesuaian jika institusi menetapkan masa retensi lain. Salinan kontak sementara untuk distribusi, jika dibuat secara sah oleh petugas, dihapus setelah distribusi selesai sesuai kebijakan kantor.
+
+7\. Karena jawaban tidak disertai identitas langsung, peneliti tidak menjanjikan dapat menemukan dan menarik kembali satu jawaban setelah terkirim. Keterbatasan ini diterangkan pada lembar persetujuan.
+
+8\. Pelaporan dilakukan secara agregat. Kombinasi karakteristik yang sangat jarang digabungkan atau tidak ditampilkan jika berpotensi mengungkap identitas.
+
+## 10. Batasan Penelitian
+
+Penelitian hanya menelaah satu skenario kemunduran estimasi dua tahun dengan penjelasan individual yang belum tersedia. X adalah persepsi terhadap tugas yang dibayangkan; Y adalah kemungkinan tindakan yang dinyatakan. Penelitian tidak menguji pemahaman nyata, kunjungan aktual, atau preferensi relatif antarjenis kanal. Instrumen adaptasi dan pengukuran Y satu butir memiliki keterbatasan yang harus dibahas bersama hasil.
+
+Perekrutan melalui WhatsApp staf dan KBIHU membatasi cakupan pada jemaah yang terjangkau, dapat memahami kuesioner tertulis, dan bersedia menjawab. Penggabungan undangan terarah dengan distribusi grup menghasilkan sampel nonprobabilitas. Hasil tidak digeneralisasikan secara statistik kepada seluruh daftar tunggu Kabupaten Bandung. Ukuran sampel yang besar tidak menghilangkan bias seleksi, keterbatasan literasi digital, kemungkinan duplikasi yang tidak terdeteksi, atau ketergantungan antarresponden dalam jaringan yang sama.
+
+Penilaian X dan Y berasal dari orang yang sama pada satu waktu dan satu formulir sehingga dapat dipengaruhi kecenderungan jawaban bersama serta urutan pertanyaan. Usia, pendidikan, kebiasaan, kemampuan digital, kepercayaan, kekhawatiran, dan akses geografis tidak dikendalikan dalam analisis utama. Hubungan yang ditemukan merupakan asosiasi bivariat dalam konteks sampel dan skenario penelitian.
+
+## 11. Rencana Jadwal Penelitian
+
+Tabel 4. Jadwal dan urutan pelaksanaan
+
+| **Kegiatan**                                                             | **Waktu rencana**   | **Prasyarat**                                                             |
+|--------------------------------------------------------------------------|---------------------|---------------------------------------------------------------------------|
+| Penyempurnaan konsep dan konfirmasi mekanisme distribusi                 | Nov.-Des. 2026      | Kesesuaian dengan arahan pembimbing                                       |
+| Seminar proposal dan pengurusan izin                                     | Des. 2026-Jan. 2027 | Persetujuan akademik dan administratif                                    |
+| Penilaian ahli, uji keterbacaan, uji coba, dan revisi                    | Jan. 2027           | Izin yang diperlukan; tidak memakai peserta uji coba sebagai sampel utama |
+| Penetapan instrumen, pencatatan jalur perekrutan, dan penyiapan undangan | Akhir Jan. 2027     | Instrumen selesai diperiksa                                               |
+| Pengumpulan data dan pengingat                                           | Feb. 2027           | Formulir akhir dan pengantar yang seragam                                 |
+| Pemeriksaan, analisis, penulisan, dan revisi laporan                     | Feb.-Mar. 2027      | Aturan data ditetapkan sebelum uji hubungan                               |
+
+Jadwal merupakan rencana. Waktu dapat disesuaikan dengan seminar, izin, hasil uji coba, dan pencapaian target data layak. Revisi instrumen setelah uji coba diberi waktu sebelum pengumpulan utama. Perubahan jadwal dan prosedur dicatat; kegiatan yang belum dilakukan tidak ditulis sebagai hasil pelaksanaan.
 
 # DAFTAR PUSTAKA
 
-Bahar, Z., & Saepudin, S. (2026). Aplikasi web informasi layanan haji pada Kementerian Haji dan Umrah Kota Sukabumi dengan menggunakan framework Zachman. *SINTA Jurnal Sistem Informasi dan Teknologi Komputasi, 3*(1), 24-35. https://doi.org/10.61124/sinta.v3i1.140
+American Association for Public Opinion Research. (2023). *Standard definitions: Final dispositions of case codes and outcome rates for surveys* (Edisi ke-10). https://aapor.org/wp-content/uploads/2024/03/Standards-Definitions-10th-edition.pdf
 
-Bisnis.com. (2025, 30 November). *Ada formula baru, Kemenhaj sebut masa tunggu haji di RI 26,4 tahun*. https://ekonomi.bisnis.com/read/20251130/12/1932833/ada-formula-baru-kemenhaj-sebut-masa-tunggu-haji-di-ri-264-tahun
+Bahar, Z., & Saepudin, S. (2026). Aplikasi web informasi layanan haji pada Kementerian Haji dan Umrah Kota Sukabumi dengan menggunakan framework Zachman. *SINTA Jurnal Sistem Informasi dan Teknologi Komputasi*, 3(1), 24-35. https://doi.org/10.61124/sinta.v3i1.140
 
-Budiman, F. A., Andriani, A. D., Jamilah, P., & Darmawan, E. D. (2026). Kepercayaan dan preferensi kanal dalam komunikasi kebijakan BUMD air minum. *AKSELERASI: Jurnal Ilmiah Nasional, 9*(3), [halaman PERLU VERIFIKASI].
+Baker, R., Brick, J. M., Bates, N. A., Battaglia, M., Couper, M. P., Dever, J. A., Gile, K. J., & Tourangeau, R. (2013). *Report of the AAPOR task force on non-probability sampling*. American Association for Public Opinion Research. https://aapor.org/wp-content/uploads/2022/11/NPS_TF_Report_Final_7_revised_FNL_6_22_13.pdf
 
-Campbell, D. J. (1988). Task complexity: A review and analysis. *Academy of Management Review, 13*(1), 40-52. http://www.jstor.org/stable/258353
+Bergkvist, L., & Rossiter, J. R. (2007). The predictive validity of multiple-item versus single-item measures of the same constructs. *Journal of Marketing Research*, 44(2), 175-184. https://doi.org/10.1509/jmkr.44.2.175
 
-Daft, R. L., & Lengel, R. H. (1986). Organizational information requirements, media richness and structural design. *Management Science, 32*(5), 554-571. https://doi.org/10.1287/mnsc.32.5.554
+Campbell, D. J. (1988). Task complexity: A review and analysis. *Academy of Management Review*, 13(1), 40-52. https://www.jstor.org/stable/258353
 
-detikHikmah. (t.t.). *Dampak daftar tunggu disamaratakan, 9.000 jemaah haji Jabar tertunda berangkat* [tanggal PERLU VERIFIKASI]. https://www.detik.com/hikmah/haji-dan-umrah/d-8189200/dampak-daftar-tunggu-disamaratakan-9-000-jemaah-haji-jabar-tertunda-berangkat
+Daft, R. L., & Lengel, R. H. (1986). Organizational information requirements, media richness and structural design. *Management Science*, 32(5), 554-571. https://doi.org/10.1287/mnsc.32.5.554
 
-Ebbers, W. E., Jansen, M. G. M., Pieterson, W. J., & van de Wijngaert, L. A. L. (2016). Facts and feelings: The role of rational and irrational factors in citizens' channel choices. *Government Information Quarterly, 33*(3), 506-515. https://doi.org/10.1016/j.giq.2016.06.001
+Ebbers, W. E., Jansen, M. G. M., Pieterson, W. J., & van de Wijngaert, L. A. L. (2016). Facts and feelings: The role of rational and irrational factors in citizens’ channel choices. *Government Information Quarterly*, 33(3), 506-515. https://doi.org/10.1016/j.giq.2016.06.001
 
-Jabri, A., & Ahmad, M. M. (2025). Enhancing public service delivery through adaptive multichannel management in Northern Tunisia. *Cogent Social Sciences, 11*(1), Artikel 2495189. https://doi.org/10.1080/23311886.2025.2495189
+Fahmi, H. I. (2021). Pengaruh penerapan sistem informasi dan komputerisasi haji terpadu (SISKOHAT) terhadap akses layanan haji dalam mewujudkan kualitas pelayanan haji di Kabupaten Garut. *Jurnal Publik*, 15(2), 58-70.
 
-Maynard, D. C., & Hakel, M. D. (1997). Effects of objective and subjective task complexity on performance. *Human Performance, 10*(4), 303-330. https://doi.org/10.1207/s15327043hup1004_1
+Haekal, M. (2026a). *Dokumentasi dashboard SISKOHAT Gen.2 daftar tunggu jemaah haji reguler Kabupaten Bandung, 5 November 2026* \[Tangkapan layar tidak diterbitkan\].
 
-NU Online. (2026, 28 September). *Kabar baik, Kemenhaj turunkan masa tunggu haji jadi 14 tahun* [PERLU VERIFIKASI]. https://nu.or.id/nasional/kabar-baik-kemenhaj-turunkan-masa-tunggu-haji-jadi-14-tahun-pSTr3
+Haekal, M. (2026b). *Logbook Praktik Profesi Mahasiswa di Kantor Kementerian Haji dan Umrah Kabupaten Bandung, 18 Februari sampai 20 Juni 2026* \[Dokumen internal tidak diterbitkan\].
+
+Jabri, A., & Ahmad, M. M. (2025). Enhancing public service delivery through adaptive multichannel management in Northern Tunisia. *Cogent Social Sciences*, 11(1), Artikel 2495189. https://doi.org/10.1080/23311886.2025.2495189
+
+Kementerian Haji dan Umrah. (2025). Peraturan Menteri Haji dan Umrah Nomor 3 Tahun 2025 tentang Penyelenggaraan Ibadah Haji Reguler. https://peraturan.go.id/files/permen-haji-umrah-no-3-tahun-2025.pdf
+
+May, J. O., & Looney, S. W. (2020). Sample size charts for Spearman and Kendall coefficients. *Journal of Biometrics & Biostatistics*, 11(6), Artikel 440. https://doi.org/10.37421/2155-6180.2020.11.440
+
+Maynard, D. C., & Hakel, M. D. (1997). Effects of objective and subjective task complexity on performance. *Human Performance*, 10(4), 303-330. https://doi.org/10.1207/s15327043hup1004_1
+
+Munawaroh, Z., Mudhofi, M., & Susanto, D. (2015). Efektivitas sistem informasi dan komputerisasi haji terpadu (SISKOHAT) dalam penyelenggaraan ibadah haji. *Jurnal Ilmu Dakwah*, 35(2), 225-248. https://doi.org/10.21580/jid.35.2.1608
+
+Nurbaiti, N., Astuti, T. W., & Lena, S. (2022). Portal informasi pelayanan calon jamaah haji berbasis web pada Kementerian Agama Kabupaten Sambas. *Jurnal Sistem Informasi (JASISFO)*, 3(2), 303-314. https://jurnal.polsri.ac.id/index.php/jasisfo/article/view/6611
 
 Peraturan Presiden Republik Indonesia Nomor 92 Tahun 2025 tentang Kementerian Haji dan Umrah. (2025). https://peraturan.bpk.go.id/Details/331574/perpres-no-92-tahun-2025
 
-Pieterson, W. J., & Ebbers, W. (2020). Channel choice evolution: An empirical analysis of shifting channel behavior across demographics and tasks. *Government Information Quarterly, 37*(3), Artikel 101478. https://doi.org/10.1016/j.giq.2020.101478
+Pieterson, W. J., & Ebbers, W. (2020). Channel choice evolution: An empirical analysis of shifting channel behavior across demographics and tasks. *Government Information Quarterly*, 37(3), Artikel 101478. https://doi.org/10.1016/j.giq.2020.101478
 
-Pusvita, V., & Muttaqin, M. (2023). Satu dekade LAPOR: Tren penggunaan kanal layanan SP4N. *Jurnal Pekommas, 8*(1), 1-10. https://doi.org/10.56873/jpkm.v8i1.5138
+Prayoga, R. (2025, 18 November). Kemenhaj: Kuota haji Jawa Barat turun 2026 karena perubahan distribusi. ANTARA News Jawa Barat. https://jabar.antaranews.com/berita/659513/kemenhaj-kuota-haji-jawa-barat-turun-2026-karena-perubahan-distribusi
 
-Safitra, D. A., Muamarah, H. S., & Nugroho, R. (2023). Pilihan layanan multikanal wajib pajak. *Nominal [nama lengkap jurnal PERLU VERIFIKASI], 12*(2), 199-211. https://doi.org/10.21831/nominal.v12i2.59070
+Pusvita, V., & Muttaqin, M. (2023). Satu dekade LAPOR: Tren penggunaan kanal layanan SP4N. *Jurnal Pekommas*, 8(1), 1-10. https://doi.org/10.56873/jpkm.v8i1.5138
+
+Safitra, D. A., Muamarah, H. S., & Nugroho, R. (2023). Pilihan layanan multikanal wajib pajak. *Nominal: Barometer Riset Akuntansi dan Manajemen*, 12(2), 199-211. https://doi.org/10.21831/nominal.v12i2.59070
+
+Sekretariat Presiden. (2026, 28 September). *Tindak lanjut arahan Presiden Prabowo, antrean faktual haji turun jadi 14 tahun*. https://presidenri.go.id/foto/tindak-lanjut-arahan-presiden-prabowo-antrean-faktual-haji-turun-jadi-14-tahun/
+
+Taber, K. S. (2018). The use of Cronbach’s alpha when developing and reporting research instruments in science education. *Research in Science Education*, 48, 1273-1296. https://doi.org/10.1007/s11165-016-9602-2
 
 Undang-Undang Republik Indonesia Nomor 14 Tahun 2025 tentang Perubahan Ketiga atas Undang-Undang Nomor 8 Tahun 2019 tentang Penyelenggaraan Ibadah Haji dan Umrah. (2025). https://peraturan.bpk.go.id/Details/331538/uu-no-14-tahun-2025
 
-Wardana, N., Sultan, M. I., & Farid, M. (2024). Analisis pelayanan informasi bagi calon jamaah haji dalam meningkatkan penyelenggaraan ibadah haji di Kementrian Agama Kab. Wajo. *JIIP (Jurnal Ilmiah Ilmu Pendidikan), 7*(1), 416-423.
+Wardana, N., Sultan, M. I., & Farid, M. (2024). Analisis pelayanan informasi bagi calon jamaah haji dalam meningkatkan penyelenggaraan ibadah haji di Kementrian Agama Kab. Wajo. *JIIP: Jurnal Ilmiah Ilmu Pendidikan*, 7(1), 416-423.
 
-Wargadinata, E. L., & Tendean, N. R. P. (2024). Amidst the euphoria of digitalization public services in municipal government: Raising public acceptance. *Jurnal Bina Praja, 16*(2), 335-346. https://doi.org/10.21787/jbp.16.2024.335-346
+Wargadinata, E. L., & Tendean, N. R. P. (2024). Amidst the euphoria of digitalization public services in municipal government: Raising public acceptance. *Jurnal Bina Praja*, 16(2), 335-346. https://doi.org/10.21787/jbp.16.2024.335-346
 
-```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
-```
+# LAMPIRAN 1 KUESIONER PENELITIAN
 
-# LAMPIRAN: KUESIONER (TENTATIF)
+**Kuesioner untuk jemaah haji reguler dalam daftar tunggu Kabupaten Bandung**
 
-**Lembar Persetujuan Responden**
+Yth. Bapak/Ibu, saya Mumtaaz Haekal, mahasiswa Program Studi Manajemen Haji dan Umrah, Fakultas Dakwah dan Komunikasi, UIN Sunan Gunung Djati Bandung. Saya mengundang Bapak/Ibu mengikuti penelitian mengenai penilaian terhadap informasi estimasi keberangkatan dan kemungkinan datang ke kantor untuk meminta penjelasan. Kuesioner memuat satu cerita ilustrasi. Cerita tersebut bukan pemberitahuan perubahan keberangkatan Bapak/Ibu.
 
-Assalamu'alaikum warahmatullahi wabarakatuh.
+## A. Penjelasan dan Persetujuan
 
-Bapak/Ibu yang kami hormati, saya Mumtaaz Haekal, mahasiswa Program Studi Manajemen Haji dan Umrah, Fakultas Dakwah dan Komunikasi, UIN Sunan Gunung Djati Bandung. Saya sedang meneliti cara jemaah haji memperoleh informasi keberangkatan. Kuesioner ini membutuhkan waktu sekitar lima menit. Tidak ada jawaban benar atau salah. Bapak/Ibu tidak diminta menuliskan nama maupun nomor porsi, dan jawaban hanya dipakai untuk keperluan penelitian.
+Keikutsertaan bersifat sukarela. Bapak/Ibu dapat berhenti sebelum mengirim jawaban. Keputusan ikut atau menolak tidak memengaruhi nomor antrean, hak, maupun layanan haji. Tidak ada jawaban benar atau salah pada penilaian pribadi. Mohon menjawab sendiri dan hanya mengisi satu kali.
 
-Dengan melanjutkan pengisian, Bapak/Ibu menyatakan bersedia menjadi responden.
+Formulir tidak meminta nama, nomor porsi, nomor telepon, atau alamat surel. Jawaban digunakan untuk kepentingan akademik dan dilaporkan secara gabungan. Akses data dibatasi kepada peneliti dan pembimbing. Data direncanakan disimpan dua tahun setelah skripsi selesai, mengikuti ketentuan institusi yang berlaku. Karena jawaban tidak memuat identitas langsung, peneliti mungkin tidak dapat menemukan jawaban tertentu untuk dihapus setelah dikirim. Pertanyaan tentang penelitian dapat disampaikan melalui pihak yang mengirim undangan untuk diteruskan kepada peneliti.
 
-**Bagian A. Penyaring**
+Apakah Bapak/Ibu bersedia mengikuti penelitian ini?
 
-1) Apakah Bapak/Ibu terdaftar sebagai jemaah haji reguler di Kabupaten Bandung dan sudah memiliki nomor porsi? (Ya / Tidak)
-2) Apakah Bapak/Ibu sudah pernah berangkat haji dengan nomor porsi tersebut? (Sudah / Belum)
+○ Bersedia ○ Tidak bersedia
 
-Pengisian hanya dilanjutkan apabila jawaban nomor 1 "Ya" dan nomor 2 "Belum".
+Petunjuk alur: jika memilih Tidak bersedia, pengisian selesai.
 
-**Bagian B. Data Responden**
+## B. Pertanyaan Penyaring
 
-1) Jenis kelamin: Laki-laki / Perempuan
-2) Usia: ..... tahun
-3) Pendidikan terakhir: SD / SMP / SMA sederajat / Diploma / Sarjana / Pascasarjana
-4) Tahun mendaftar haji: .....
-5) Apakah Bapak/Ibu pernah mengecek estimasi keberangkatan melalui aplikasi atau situs web? (Pernah / Belum pernah)
-6) Apakah Bapak/Ibu pernah datang ke kantor untuk menanyakan estimasi keberangkatan? (Pernah / Belum pernah)
+S1. Apakah Bapak/Ibu terdaftar sebagai jemaah haji reguler dalam daftar tunggu Kabupaten Bandung dan memiliki nomor porsi?
 
-**Bagian C. Skenario**
+○ Ya ○ Tidak
 
-Bacalah cerita berikut, lalu bayangkan Bapak/Ibu berada dalam situasi tersebut.
+S2. Apakah Bapak/Ibu belum berangkat haji dengan nomor porsi tersebut?
 
-> Bapak/Ibu sudah beberapa tahun terdaftar sebagai jemaah haji reguler dan memiliki nomor porsi. Saat pertama kali mengecek melalui aplikasi, estimasi keberangkatan Bapak/Ibu tertulis tahun 2027. Hari ini Bapak/Ibu mengecek kembali dengan nomor porsi yang sama, dan estimasi keberangkatan berubah menjadi tahun 2031. Aplikasi hanya menampilkan tahun estimasi yang baru, tanpa keterangan mengapa estimasi itu berubah.
+○ Ya ○ Tidak
 
-**Bagian D. Penilaian terhadap Persoalan dalam Cerita**
+S3. Apakah Bapak/Ibu berusia 18 tahun atau lebih?
 
-Berilah tanda centang (✓) pada satu jawaban yang paling sesuai.
-Keterangan: 1 = sangat tidak setuju, 2 = tidak setuju, 3 = ragu-ragu, 4 = setuju, 5 = sangat setuju.
+○ Ya ○ Tidak
 
-| No | Pernyataan | 1 | 2 | 3 | 4 | 5 |
-|------|------------------------------------------------------|:----:|:----:|:----:|:----:|:----:|
-| 1 | Saya merasa persoalan dalam cerita tersebut rumit. | | | | | |
-| 2 | Memahami persoalan tersebut menguras pikiran saya. | | | | | |
-| 3 | Persoalan tersebut membutuhkan banyak pertimbangan dan pemecahan masalah. | | | | | |
-| 4 | Saya merasa persoalan tersebut menantang untuk dipahami. | | | | | |
+S4. Apakah Bapak/Ibu dapat membaca dan memahami pertanyaan berbahasa Indonesia serta memilih jawaban sendiri?
 
-**Bagian E. Kemungkinan Datang ke Kantor**
+○ Ya ○ Tidak
 
-Keterangan: 1 = sangat tidak mungkin, 2 = tidak mungkin, 3 = ragu-ragu, 4 = mungkin, 5 = sangat mungkin.
+S5. Apakah Bapak/Ibu sudah pernah mengirim jawaban pada kuesioner penelitian ini?
 
-| No | Pertanyaan | 1 | 2 | 3 | 4 | 5 |
-|------|------------------------------------------------------|:----:|:----:|:----:|:----:|:----:|
-| 5 | Dalam situasi tersebut, seberapa mungkin Bapak/Ibu datang langsung ke Kantor Kementerian Haji dan Umrah Kabupaten Bandung untuk meminta penjelasan? | | | | | |
+○ Sudah ○ Belum
 
-Terima kasih atas kesediaan Bapak/Ibu. Wassalamu'alaikum warahmatullahi wabarakatuh.
+Petunjuk alur: lanjutkan hanya jika S1-S4 = Ya dan S5 = Belum. Jawaban lain mengakhiri pengisian.
 
-<!-- Butir 1-4 adaptasi Maynard & Hakel (1997:330): (1) I found this to be a complex task. (2) This task was mentally demanding. (3) This task required a lot of thought and problem-solving. (4) I found this to be a challenging task. Butir 5 adaptasi Ebbers dkk. (2016:510). Tahun 2027 dan 2031 di skenario adalah ilustrasi. -->
+## C. Karakteristik Responden
+
+C1. Jenis kelamin
+
+○ Laki-laki ○ Perempuan ○ Memilih tidak menjawab
+
+C2. Kelompok usia
+
+○ 18-29 tahun ○ 30-39 tahun ○ 40-49 tahun  
+○ 50-59 tahun ○ 60 tahun atau lebih
+
+C3. Pendidikan terakhir yang diselesaikan
+
+○ Tidak/belum tamat SD ○ SD/sederajat ○ SMP/sederajat  
+○ SMA/sederajat ○ Diploma ○ Sarjana ○ Pascasarjana  
+○ Memilih tidak menjawab
+
+C4. Kecamatan tempat tinggal saat ini
+
+Jawaban singkat: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (boleh dikosongkan)
+
+C5. Tahun pendaftaran haji
+
+Jawaban singkat: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (boleh dikosongkan)
+
+C6. Apakah Bapak/Ibu pernah memeriksa estimasi keberangkatan melalui situs atau aplikasi resmi?
+
+○ Pernah ○ Belum pernah ○ Tidak ingat
+
+C7. Apakah Bapak/Ibu pernah datang langsung ke kantor untuk menanyakan estimasi keberangkatan?
+
+○ Pernah ○ Belum pernah ○ Tidak ingat
+
+C8. Dari mana Bapak/Ibu memperoleh tautan yang sedang digunakan?
+
+○ Pesan pribadi staf Kemenhaj ○ Pesan pribadi pihak KBIHU  
+○ Grup WhatsApp ○ Diteruskan orang lain ○ Tidak ingat
+
+C9. Apakah ada orang yang membantu membuka tautan atau mengoperasikan perangkat?
+
+○ Tidak, saya membuka dan mengisi sendiri  
+○ Ada bantuan teknis, tetapi saya membaca dan memilih jawaban sendiri
+
+## D. Skenario Penelitian
+
+Bayangkan Bapak/Ibu memeriksa perkiraan keberangkatan haji melalui portal informasi resmi. Pada pengecekan sebelumnya, perkiraan keberangkatan menunjukkan tahun 2035. Ketika nomor porsi yang sama diperiksa kembali, perkiraannya berubah menjadi tahun 2037.
+
+Portal memberikan keterangan umum bahwa perkiraan keberangkatan dapat berubah mengikuti perubahan kuota dan regulasi. Dalam cerita ini, belum tersedia penjelasan khusus mengenai alasan perubahan pada nomor porsi Bapak/Ibu.
+
+Tahun 2035 dan 2037 hanya digunakan sebagai ilustrasi. Bapak/Ibu tidak perlu mencari penyebab perubahan atau memeriksa nomor porsi asli. Bayangkan situasi tersebut, kemudian berikan penilaian pribadi pada pertanyaan berikut.
+
+## E. Kemungkinan Menggunakan Layanan Tatap Muka
+
+Y1. Dalam situasi tersebut, seberapa mungkin Bapak/Ibu datang langsung ke Kantor Kementerian Haji dan Umrah Kabupaten Bandung untuk meminta penjelasan tentang perubahan perkiraan keberangkatan?
+
+○ 1 ,  Sangat tidak mungkin
+
+○ 2 ,  Tidak mungkin
+
+○ 3 ,  Kemungkinan datang dan tidak datang sama besar
+
+○ 4 ,  Mungkin
+
+○ 5 ,  Sangat mungkin
+
+## F. Penilaian terhadap Tugas Memahami Perubahan
+
+Bayangkan usaha berpikir yang Bapak/Ibu perlukan untuk memahami perubahan dalam cerita tadi. Berikan satu jawaban pada setiap pernyataan. Pertanyaan ini menilai kerumitan yang Bapak/Ibu bayangkan, bukan menguji apakah Bapak/Ibu mengetahui penyebab perubahan.
+
+Pilihan jawaban untuk X1-X4:  
+1 = Sangat tidak setuju  
+2 = Tidak setuju  
+3 = Tidak setuju maupun setuju  
+4 = Setuju  
+5 = Sangat setuju
+
+X1. Saya membayangkan bahwa memahami perubahan perkiraan keberangkatan tersebut merupakan tugas yang rumit.
+
+○ 1 ○ 2 ○ 3 ○ 4 ○ 5
+
+X2. Saya membayangkan bahwa memahami perubahan tersebut membutuhkan banyak upaya berpikir.
+
+○ 1 ○ 2 ○ 3 ○ 4 ○ 5
+
+X3. Saya membayangkan bahwa untuk memahami perubahan tersebut, saya perlu memikirkan dan menghubungkan beberapa informasi.
+
+○ 1 ○ 2 ○ 3 ○ 4 ○ 5
+
+X4. Saya membayangkan bahwa memahami perubahan tersebut merupakan tugas yang menantang dalam hal usaha berpikir.
+
+○ 1 ○ 2 ○ 3 ○ 4 ○ 5
+
+## G. Pernyataan Pengisian
+
+P1. Apakah semua jawaban penilaian di atas dipilih sendiri oleh Bapak/Ibu?
+
+○ Ya ○ Tidak
+
+Jika Tidak, jawaban tidak digunakan dalam analisis utama. Terima kasih atas partisipasi Bapak/Ibu.
+
+# LAMPIRAN 2 DOKUMENTASI DASHBOARD
+
+Tangkapan layar SISKOHAT Gen.2 menunjukkan 46.210 jemaah dan tampilan masa tunggu 25 tahun pada wilayah Kabupaten Bandung. Berdasarkan kepastian yang disampaikan peneliti, data yang ditampilkan merupakan jemaah haji reguler dalam daftar tunggu. Angka ini belum merupakan jumlah jemaah dewasa yang memenuhi seluruh kriteria penelitian dan tidak digunakan sebagai penyebut perhitungan sampel.
+
+Pada gambar asli, tanggal komputer menunjukkan 5 November 2026 dan terdapat label “Update: 19 Oktober 2026”. Tanggal label tersebut tidak dinyatakan sebagai tanggal pemutakhiran data karena maknanya belum ditetapkan melalui keterangan administratif. Tampilan memuat filter estimasi keberangkatan dengan 24 pilihan. Dokumentasi ini tidak disertai klaim adanya konfirmasi tertulis atau rekap usia yang belum tersedia.
+
+![](proposal/media/image2.png){width=14cm}
+
+Gambar 2. Tampilan dashboard daftar tunggu Kabupaten Bandung
+
+Sumber: Haekal (2026a), dokumentasi peneliti. Gambar merupakan bagian tampilan dashboard; angka dan filter tidak diubah.
+
+# LAMPIRAN 3 PEDOMAN DISTRIBUSI KUESIONER
+
+## A. Pengaturan Formulir
+
+> 1\. Gunakan satu versi akhir setelah penilaian ahli dan uji coba. Tidak ada pengubahan butir di tengah pengumpulan utama tanpa menghentikan dan mendokumentasikan perubahan prosedur.
+>
+> 2\. Pisahkan persetujuan, pertanyaan penyaring, skenario, penilaian, dan pernyataan pengisian ke dalam bagian formulir yang jelas. Terapkan alur berhenti sesuai jawaban penyaring.
+>
+> 3\. Jangan aktifkan pengumpulan nama atau surel dan jangan meminta unggahan dokumen identitas. Tetapkan skor inti sebagai jawaban wajib untuk pengiriman lengkap; responden tetap dapat berhenti sebelum mengirim.
+>
+> 4\. Kategori karakteristik yang sensitif diberi pilihan tidak menjawab. Tahun pendaftaran dan kecamatan boleh kosong. Pastikan formulir dapat dibaca pada telepon genggam.
+>
+> 5\. Lakukan percobaan seluruh jalur penyaring dengan data uji, lalu hapus data uji sebelum pengumpulan utama. Catat versi formulir dan tanggal pembukaan.
+
+## B. Pesan Undangan WhatsApp
+
+Assalamualaikum, Bapak/Ibu. Saya Mumtaaz Haekal, mahasiswa Manajemen Haji dan Umrah UIN Sunan Gunung Djati Bandung. Saya mengundang jemaah haji reguler dalam daftar tunggu Kabupaten Bandung yang berusia minimal 18 tahun untuk mengisi kuesioner penelitian tentang informasi estimasi keberangkatan. Pengisian bersifat sukarela, tidak memengaruhi antrean atau pelayanan, dan tidak meminta nama maupun nomor porsi. Mohon membaca serta memilih jawaban sendiri dan hanya mengisi satu kali. Jika sudah pernah mengisi, tidak perlu mengisi kembali. Tautan kuesioner akan disertakan pada pesan distribusi resmi penelitian. Terima kasih.
+
+## C. Tugas Penghubung Distribusi
+
+> 1\. Sampaikan pesan pengantar yang sama pada seluruh jalur. Jangan menjanjikan manfaat layanan, percepatan keberangkatan, atau imbalan yang tidak ditetapkan.
+>
+> 2\. Catat tanggal, jalur distribusi, jumlah undangan pribadi yang dapat dihitung, serta jumlah grup yang menerima pesan. Jumlah anggota grup tidak otomatis dianggap jumlah jemaah memenuhi syarat yang membaca undangan.
+>
+> 3\. Untuk daftar undangan yang dipilih acak, simpan catatan prosedur pemilihan di pihak kantor. Jangan menyerahkan nomor porsi atau daftar kontak kepada peneliti bila tidak diperlukan.
+>
+> 4\. Berikan paling banyak dua pengingat. Jangan menanyakan skor jawaban jemaah. Teruskan pertanyaan teknis kepada peneliti tanpa menjelaskan atau menyarankan jawaban substantif.
+>
+> 5\. Catat gangguan teknis dan perubahan periode. Laporan kemajuan hanya memuat jumlah respons serta kelayakan administratif, bukan korelasi sementara.
+
+## D. Buku Kode Data
+
+Tabel 5. Buku kode ringkas
+
+| **Kode** | **Isi**                                          | **Penggunaan**                                      |
+|----------|--------------------------------------------------|-----------------------------------------------------|
+| S1-S5    | Penyaring kriteria dan pernah mengisi            | Penetapan kelayakan; bukan skor konstruk            |
+| C1-C9    | Karakteristik, sumber tautan, dan bantuan teknis | Deskriptif; tidak otomatis menjadi variabel kontrol |
+| Y1       | Kemungkinan datang; 1-5                          | Skor Y                                              |
+| X1-X4    | Persetujuan; masing-masing 1-5                   | Rata-rata empat butir lengkap                       |
+| P1       | Jawaban dipilih sendiri atau tidak               | Kelayakan pengisian mandiri                         |
+
+# LAMPIRAN 4 RENCANA PEMERIKSAAN INSTRUMEN
+
+## A. Pemetaan Makna Butir X
+
+Tabel 6. Pemeriksaan kesetaraan makna adaptasi
+
+| **Butir** | **Makna pada sumber**                            | **Fokus pemeriksaan adaptasi**                                                                                   |
+|-----------|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| X1        | Tugas dipersepsikan kompleks                     | Apakah responden menilai tugas memahami, bukan buruknya kebijakan?                                               |
+| X2        | Tugas menuntut secara mental                     | Apakah upaya berpikir dipahami sebagai tuntutan kognitif, bukan kecemasan?                                       |
+| X3        | Tugas memerlukan pemikiran dan pemecahan masalah | Apakah memikirkan dan menghubungkan informasi mempertahankan makna yang relevan tanpa menjadi pencarian layanan? |
+| X4        | Tugas dipersepsikan menantang                    | Apakah tantangan usaha berpikir dipahami konsisten, bukan sekadar menarik atau menyenangkan?                     |
+
+## B. Pertanyaan untuk Penilai dan Peserta Uji Keterbacaan
+
+> 1\. Apakah setiap butir sesuai dengan definisi persepsi kompleksitas tugas yang dibayangkan?
+>
+> 2\. Apakah skenario terlalu mengarahkan peserta untuk memilih datang ke kantor?
+>
+> 3\. Apakah Y1 dipahami sebagai kemungkinan tindakan, bukan kewajiban atau preferensi relatif?
+>
+> 4\. Bagaimana peserta menjelaskan kembali perubahan dari 2035 menjadi 2037?
+>
+> 5\. Apa arti “menghubungkan beberapa informasi” dan “menantang dalam hal usaha berpikir” menurut peserta?
+>
+> 6\. Apa arti kategori tengah Y bagi peserta, dan apakah berbeda dari belum dapat menilai?
+>
+> 7\. Apakah ada istilah, panjang kalimat, atau tampilan pada telepon genggam yang menghambat pemahaman?
+
+## C. Pencatatan Hasil Pemeriksaan
+
+Catat penilai atau peserta dengan kode, tanggal, butir yang ditelaah, masalah yang ditemukan, usulan perubahan, keputusan, dan alasan keputusan. Nama penilai akademik dicantumkan dalam laporan setelah keterlibatannya dikonfirmasi. Tidak ada nilai validitas, reliabilitas, hasil uji coba, atau persetujuan ahli yang diisi sebelum pemeriksaan benar-benar dilakukan.
+
+Jika perubahan menyentuh makna konstruk atau skenario, ulangi pemeriksaan bagian yang berubah. Simpan versi sebelum dan sesudah revisi. Draf kuesioner pada Lampiran 1 merupakan instrumen usulan yang akan ditetapkan menjadi versi akhir setelah rangkaian pemeriksaan ini selesai.

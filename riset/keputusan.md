@@ -52,3 +52,7 @@ Isi tabel ini lalu mulai tulis `proposal/proposal.md`.
 | Desain pengukuran | Survei potong lintang, satu skenario yang sama untuk semua responden |
 | Populasi dan sampel | N = 46.210, n = 100 (Slovin 10%), purposive |
 | Teknik analisis | Deskriptif, validitas Pearson, Cronbach untuk X, uji asumsi, regresi linear sederhana; cadangan Spearman |
+
+## Pembaruan 7 November 2026
+
+Keputusan lama (Slovin 10% n = 100, purposive, regresi linear, populasi 46.210 sebagai penyebut) DIGANTI desain di `proposal/proposal.md` versi revisi: Spearman dua arah, sampel gabungan nonprobabilitas via Google Forms + WhatsApp (staf Kemenhaj, KBIHU), target >= 200 data layak (~225 kiriman), skenario estimasi 2035 jadi 2037. Belum di-ACC dospem.

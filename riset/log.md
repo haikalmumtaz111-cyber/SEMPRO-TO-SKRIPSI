@@ -52,3 +52,11 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Format disesuaikan permintaan user: nomor halaman tengah bawah (sampul tanpa nomor), tajuk A sampai G, subbab 1, 2, sub-subbab a, b. Judul tanpa nomor, ditulis sebagai blok "PROPOSAL SKRIPSI" di awal halaman isi. DAFTAR PUSTAKA dan LAMPIRAN tanpa huruf, rata tengah.
 - `build_docx.sh` tidak lagi memakai `--number-sections`. Label A/1/a ditulis langsung di `proposal.md`.
 - File proposal metodologi milik user belum terkirim (yang terunggah file teman yang sama). Format A/1/a mengikuti penjelasan lisan user.
+
+## 7 November 2026
+
+- User kirim arsip audit (32 temuan awal, 25 pokok/125 tindakan) dan `Proposal_Skripsi_Hasil_Revisi_Lengkap2.docx`.
+- `proposal/proposal.md` diganti isi docx revisi: X jadi kompleksitas tugas memahami perubahan estimasi (dibayangkan), Y satu butir, Spearman dua arah, sampel gabungan nonprobabilitas, target >= 200 data layak, distribusi daring. Keputusan Slovin/regresi/purposive di `keputusan.md` lama sudah gugur.
+- `sampul.json` pakai judul baru. Gambar dashboard di `proposal/media/`. En dash prosa diganti tanda hubung, 3 koma "sehingga" dibuang. periksa.py: K = 0, G = 11.
+- Word dibuild ulang (44 halaman).
+- Berikutnya: bawa ke bimbingan, minta ACC desain nonprobabilitas + Spearman sebelum uji instrumen.
