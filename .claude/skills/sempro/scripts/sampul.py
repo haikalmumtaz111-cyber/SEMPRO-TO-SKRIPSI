@@ -1,3 +1,4 @@
+import re
 """Sisipkan halaman sampul di awal docx. Isi dari proposal/sampul.json.
 Tata letak meniru proposal FDK yang sudah lolos sempro (contoh dari teman user)."""
 import json, sys
@@ -43,7 +44,11 @@ baris(cfg["subjudul"], 12, True, 18)
 
 # Tajuk tanpa huruf (DAFTAR PUSTAKA, LAMPIRAN) diletakkan di tengah
 for para in doc.paragraphs:
-    if para.style.name.startswith("Heading") and para.text.isupper():
+    if not para.style.name.startswith("Heading"):
+        continue
+    if re.match(r"^[A-Z0-9]+\. ", para.text.strip()):
+        para.alignment = WD_ALIGN_PARAGRAPH.LEFT
+    elif para.text.isupper():
         para.alignment = WD_ALIGN_PARAGRAPH.CENTER
 # Sampul tanpa nomor halaman, halaman sesudahnya mulai dari 1
 from docx.oxml import OxmlElement
