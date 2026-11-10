@@ -15,14 +15,19 @@ Proposal tema 2 disusun user bersama ChatGPT (proyek "Menulis"). Claude bertugas
 - Desain: kuantitatif, survei korelasional. Sampling kandidat: consecutive.
 - Tahap di backup: Prioritas A (kajian pustaka dan teori).
 
+## Keputusan terkunci
+
+- 10 Nov 2026: acuan tahap pakai Roadmap Induk 31 tahap (V1.1).
+- 10 Nov 2026: CMM (Eveland, 2001) jadi teori pendukung untuk Y kognitif saja, bukan teori utama. Teori untuk Y afektif dan konatif dicari terpisah.
+
 ## Keputusan terbuka (urut prioritas)
 
-1. Jembatan teori X ke Y dan arah hipotesis. [PERLU RUJUKAN]
+1. Teori untuk Y afektif dan konatif, lalu arah hipotesis. Kandidat awal yang perlu ditelaah: diskonfirmasi harapan (Oliver, 1980). [PERLU VERIFIKASI kecocokan]
 2. Bentuk Y: satu skor, atau satu dimensi utama ditambah analisis tambahan.
 3. X dua subskala atau satu indeks.
 4. Populasi, periode, ukuran sampel. [PERLU DATA] jumlah pendaftar baru per bulan dari kantor.
 
 ## Menunggu dari user
 
-- Acuan tahap: 31 tahap Roadmap Induk (keputusan user). Tahap aktif: 7 sampai 9 berdampingan. Menunggu roadmap V1.1 dari ChatGPT.
+- Laporan sesi 2 ChatGPT (teori Y afektif). Bekal: `riset/chatgpt/bekal-sesi-2.md`, prompt: `riset/chatgpt/prompt-sesi-baru.md`.
 - Cek Library ChatGPT, hapus `proposal.docx` dan `Proposal_Skripsi_Hasil_Revisi_Lengkap.docx` kalau tidak dipakai.

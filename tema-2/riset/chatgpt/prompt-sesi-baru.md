@@ -1,31 +1,43 @@
-# Prompt Pembuka Sesi Baru ChatGPT (Tema 2)
+# Prompt Sesi ChatGPT (Tema 2)
 
-Versi 2, 10 November 2026. Menggantikan versi 1 (berbasis backup V4).
+Versi 3, 10 November 2026. Untuk sesi 2 dan seterusnya.
 
-Cara pakai: buka percakapan baru di proyek "Menulis", unggah **satu berkas saja**:
-`roadmap-induk-v1-2026-11-10.md` (atau versi roadmap terbaru), lalu tempel teks di bawah garis.
-Backup V4 tidak perlu diunggah karena isinya sudah tercakup di roadmap.
+Cara pakai: chat baru di proyek "Menulis", unggah **dua berkas**: roadmap terbaru
+(`roadmap-induk-v1.1-2026-11-10.md`) dan bekal terbaru (`bekal-sesi-2.md`). Tempel Perintah 1.
+Sesudah 3 sampai 4 perintah kerja, tutup dengan `prompt-laporan.md`.
 
 ---
 
-Kita lanjutkan penyusunan skripsi kuantitatif saya. Satu-satunya dasar percakapan ini adalah berkas yang saya unggah di pesan ini: Roadmap Induk Skripsi Kuantitatif Versi 1.0. Baca seluruhnya sebelum menjawab.
+## Perintah 1 (pembuka + kerja pertama)
+
+Kita lanjutkan penyusunan skripsi kuantitatif saya. Dasar percakapan ini hanya dua berkas yang saya unggah: Roadmap Induk Versi 1.1 dan Bekal Sesi 2. Baca keduanya sampai habis. Kalau isinya berbeda, Bekal Sesi 2 yang dipakai.
 
 Aturan selama percakapan ini:
+1. Judul kerja, X, dan Y diambil dari roadmap. Jangan mengganti, menamai ulang, atau menambah variabel tanpa saya minta.
+2. Jangan memakai berkas, judul, atau keputusan dari percakapan lain, Library, atau memori di luar proyek ini. Penelitian "persepsi kompleksitas tugas" dan "kanal/layanan tatap muka" adalah proposal lama saya yang tidak dipakai lagi. Kalau pencarian berkas menemukan berkas lain, sebutkan namanya dan tanyakan dulu.
+3. Jangan mengarang rujukan, DOI, angka, atau isi penelitian. Rujukan baru ditulis lengkap (penulis, tahun, judul, jurnal/penerbit, volume, halaman, DOI). Kalau tidak yakin, tulis [PERLU VERIFIKASI]. Bedakan isi sumber, pengalaman PPM saya, dan interpretasimu.
+4. Penelitian ini korelasional. Jangan memakai bahasa sebab akibat.
+5. Kerjakan hanya tahap yang saya tetapkan. Jangan menulis kerangka pemikiran, hipotesis, kisi-kisi, atau kuesioner sebelum saya minta.
+6. Satu keputusan satu waktu: beri 2 sampai 3 pilihan, untung ruginya, rekomendasimu, lalu tunggu saya memilih.
+7. Akhiri setiap jawaban dengan satu baris: "Tahap: ... | Keputusan baru: ... | Yang perlu dicek: ...".
 
-1. Judul kerja, variabel X, dan variabel Y diambil dari roadmap. Jangan mengganti, menamai ulang, atau menambah variabel tanpa saya minta.
-2. Jangan memakai berkas, judul, atau keputusan dari percakapan lain, Library, atau memori di luar proyek ini. Penelitian "persepsi kompleksitas tugas" dan "kanal/layanan tatap muka" adalah proposal lama saya yang tidak dipakai lagi. Kalau pencarian berkas menemukan berkas lain, sebutkan namanya dan tanyakan dulu, jangan dipakai.
-3. Sumber format dan bahasa hanya yang ada di tab Sumber proyek: Panduan KTI FDK UIN Sunan Gunung Djati Bandung, EYD Edisi V, dan Tata Bahasa Baku Bahasa Indonesia.
-4. Jangan mengarang rujukan, DOI, angka, atau isi penelitian terdahulu. Yang belum dicek diberi tanda [PERLU VERIFIKASI] atau [PERLU RUJUKAN]. Bedakan fakta sumber, pengalaman PPM saya, dan interpretasi.
-5. Penelitian ini korelasional. Jangan memakai bahasa sebab akibat.
-6. Penomoran tahap mengikuti 31 tahap roadmap. Kerjakan hanya tahap yang saya tetapkan. Jangan pindah tahap sebelum saya bilang selesai.
-7. Satu keputusan satu waktu. Beri 2 sampai 3 pilihan beserta untung ruginya dan rekomendasimu, lalu tunggu saya memilih.
-8. Di akhir setiap jawaban, tulis satu baris: "Tahap: ... | Keputusan baru: ... | Yang perlu dicek: ...".
+Tugas sekarang, Tahap 9: carikan teori untuk dimensi afektif Y, yaitu respons emosional calon jemaah (terkejut, khawatir, tenang/terbantu) setelah mendengar penjelasan petugas tentang masa tunggu. Teorinya harus bisa menjelaskan mengapa respons itu diduga berbeda antara calon jemaah yang sebelumnya sering terpapar informasi masa tunggu dan yang jarang atau belum pernah.
 
-Tugas pertama: perbarui roadmap menjadi Versi 1.1 dengan empat koreksi berikut, tanpa mengubah bagian lain.
+Berikan 2 sampai 3 kandidat. Salah satunya harus telaah kritis atas arah "logika harapan" yang tertulis di Bekal Sesi 2 (Oliver, 1980); kamu boleh menyimpulkan arah itu tidak cocok. Untuk tiap kandidat tulis:
+- nama teori/konsep, tokoh, dan rujukan primer lengkap;
+- bidang asal teori dan seberapa jauh jaraknya dari konteks informasi layanan haji;
+- penjelasan sederhana bagaimana teori itu menghubungkan paparan sebelumnya (X) dengan respons emosional, pakai contoh calon jemaah yang baru selesai mendaftar;
+- arah hubungan yang diprediksi (positif, negatif, atau tidak tentu), untuk emosi yang mana;
+- apakah teori itu juga bisa menjelaskan dimensi konatif (niat bertanya, mencari informasi resmi, memantau pembaruan);
+- kelemahan atau risikonya untuk penelitian ini.
 
-1. Bagian 13.3 dan 38: tambahkan pekerjaan "mencari dasar teoretis mengapa paparan informasi sebelum pendaftaran diduga berhubungan dengan respons setelah penjelasan petugas" sebagai langkah terdekat nomor 1. Jangan isi dengan teori atau rujukan yang belum saya setujui; tulis sebagai pekerjaan yang belum selesai.
-2. Tahap 14: Panduan KTI FDK hanya meminta lampiran draf kuesioner tentatif. Ubah agar sebelum seminar cukup validasi isi oleh pembimbing, sedangkan uji coba, validitas, dan reliabilitas dilakukan setelah proposal disahkan, kecuali pembimbing meminta lain.
-3. Rapikan penomoran fase: tabel bagian 4, judul fase di badan dokumen, dan checklist memakai rentang tahap yang sama, termasuk judul Fase E.
-4. Bagian 38: posisi aktif ditulis Tahap 7 sampai 9 berjalan berdampingan (penelitian terdahulu, research gap, teori). Gap tidak dikunci sebelum Ginting (2025) diperiksa. Samakan checklist nomor 1 dengan tabel status.
+Tutup dengan rekomendasi dan alasannya, lalu tunggu saya memilih.
 
-Tampilkan dulu daftar bagian yang berubah beserta isi barunya, lalu buat berkas Roadmap V1.1 utuh dalam format Markdown. Setelah itu berhenti dan tunggu arahan saya. Jangan mulai mengerjakan tahap 7, 8, atau 9.
+## Perintah lanjutan (contoh, sesuaikan dengan jawaban)
+
+- "Saya memilih kandidat nomor [N]. Telaah kritis kandidat itu: struktur asli teorinya, konsep utamanya, kecocokan dengan X dan dimensi afektif Y, dan batas penerapannya. Jangan menulis kerangka pemikiran atau hipotesis."
+- "Apakah dimensi konatif Y butuh teori sendiri atau cukup dijelaskan oleh teori yang sudah dipilih? Beri 2 pilihan, untung ruginya, dan rekomendasimu."
+
+## Perintah penutup
+
+Pakai `prompt-laporan.md`.

@@ -43,3 +43,4 @@
 - Keputusan user di sesi ChatGPT: memilih kandidat 1 (CMM) untuk ditelaah. Posisi akhir CMM belum diputuskan.
 - Evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-1.md`. Prompt laporan diperbaiki (nomor tahap, daftar kandidat yang tidak dipilih).
 - Tugas berikutnya: user memutuskan posisi CMM, lalu Claude menyusun bekal sesi 2.
+- Keputusan user: pilihan A, CMM jadi teori pendukung Y kognitif, cari teori lain untuk Y afektif dan konatif. Dibuat `riset/chatgpt/bekal-sesi-2.md`, prompt sesi diperbarui ke versi 3. Tugas berikutnya: user buka sesi 2 ChatGPT, kirim laporan.
