@@ -52,3 +52,7 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Format disesuaikan permintaan user: nomor halaman tengah bawah (sampul tanpa nomor), tajuk A sampai G, subbab 1, 2, sub-subbab a, b. Judul tanpa nomor, ditulis sebagai blok "PROPOSAL SKRIPSI" di awal halaman isi. DAFTAR PUSTAKA dan LAMPIRAN tanpa huruf, rata tengah.
 - `build_docx.sh` tidak lagi memakai `--number-sections`. Label A/1/a ditulis langsung di `proposal.md`.
 - File proposal metodologi milik user belum terkirim (yang terunggah file teman yang sama). Format A/1/a mengikuti penjelasan lisan user.
+
+## 10 November 2026
+
+- Folder riset, proposal, output, dan Sumber dipindah ke `tema-1/` karena user mulai proposal kedua di `tema-2/`. Isi file tidak diubah. Build ulang: `bash .claude/skills/sempro/scripts/build_docx.sh tema-1`.

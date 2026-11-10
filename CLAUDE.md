@@ -1,6 +1,15 @@
 # SEMPRO-TO-SKRIPSI
 
-Repo kerja proposal skripsi (Usulan Rencana Penelitian) Mumtaaz Haekal, Prodi Manajemen Haji dan Umrah, Fakultas Dakwah dan Komunikasi, UIN Sunan Gunung Djati Bandung. Penelitian kuantitatif.
+Repo kerja proposal skripsi (Usulan Rencana Penelitian) Mumtaaz Haekal, Prodi Manajemen Haji dan Umrah, Fakultas Dakwah dan Komunikasi, UIN Sunan Gunung Djati Bandung. Penelitian kuantitatif. Repo memuat beberapa proposal dengan tema berbeda, satu folder per tema.
+
+## Tema aktif
+
+Repo ini memuat lebih dari satu proposal. Tiap tema punya folder sendiri dan tidak boleh saling mengubah.
+
+- `tema-1/` : proposal pertama (sudah jadi). Jangan diubah kecuali user minta eksplisit.
+- `tema-2/` : proposal kedua (paparan informasi pra-pendaftaran dan respons calon jemaah). Disusun user bersama ChatGPT. Peran Claude di tema 2: pengarah dan evaluator, bukan penyusun, lihat `tema-2/riset/pengarah-chatgpt.md`.
+
+**Tema aktif sekarang: `tema-2`.** Kalau user tidak menyebut tema, kerjakan tema aktif. Kalau ragu, tanya dulu. Semua path `riset/`, `proposal/`, `output/`, `Sumber/` di bawah ini relatif terhadap folder tema aktif.
 
 ## Baca dulu tiap sesi
 
@@ -9,7 +18,7 @@ Repo kerja proposal skripsi (Usulan Rencana Penelitian) Mumtaaz Haekal, Prodi Ma
 3. `riset/log.md` : catatan sesi sebelumnya.
 4. `riset/handoff.md` : konteks lengkap fenomena, teori, kandidat variabel, rujukan. Baca bagian yang perlu saja, jangan dibaca ulang utuh tiap sesi.
 
-Semua pekerjaan proposal jalan lewat skill `sempro` di `.claude/skills/sempro/SKILL.md`.
+Semua pekerjaan proposal jalan lewat skill `sempro` di `.claude/skills/sempro/SKILL.md`, termasuk merapikan bahasa (`references/poles.md`). Skill claude.ai `naskah-natural` (sumbernya di `skill-claude/naskah-natural/`) bisa ikut termuat karena tersinkron dari akun user. Di repo ini yang menang `sempro`, karena hanya `sempro` yang mengatur panduan FDK, sitasi running note, dan folder tema. Kalau aturan poles diubah, ubah keduanya supaya tetap sama.
 
 ## Cara ngobrol
 
@@ -46,20 +55,26 @@ Semua pekerjaan proposal jalan lewat skill `sempro` di `.claude/skills/sempro/SK
 ## Peta repo
 
 ```
-CLAUDE.md                 file ini
-riset/tahapan.md          peta tahapan sampai Word, acuan tunggal eksekusi
-riset/pertanyaan.md       data yang diminta dari user dan jawabannya
-riset/fenomena-magang.md  cerita magang user (5 Nov 2026), dipilah fakta/dugaan
-riset/keputusan.md        status keputusan, target, hal terbuka
-riset/log.md              log per sesi
-riset/handoff.md          konteks riset lengkap dari diskusi sebelumnya
-acuan/                    panduan FDK, EYD V, TBBBI (teks)
-proposal/proposal.md      naskah proposal, satu file
-.claude/skills/sempro/    skill utama + rujukan + script + templat
-output/                   hasil build docx (dibuat script)
-LISENSI/                  lisensi repo sumber yang dicomot
+CLAUDE.md                        file ini
+acuan/                           panduan FDK, EYD V, TBBBI (teks), dipakai semua tema
+.claude/skills/sempro/           skill utama + rujukan + script + templat, dipakai semua tema
+LISENSI/                         lisensi repo sumber yang dicomot
+tema-1/                          proposal pertama (selesai)
+tema-2/                          proposal kedua (baru mulai)
+
+Isi tiap folder tema:
+<tema>/riset/tahapan.md          peta tahapan sampai Word, acuan tunggal eksekusi
+<tema>/riset/keputusan.md        status keputusan, target, hal terbuka
+<tema>/riset/log.md              log per sesi
+<tema>/riset/handoff.md          konteks riset lengkap (tema-1 sudah ada)
+<tema>/riset/pertanyaan.md       data yang diminta dari user dan jawabannya
+<tema>/riset/fenomena-*.md       fenomena lapangan, dipilah fakta/dugaan
+<tema>/Sumber/                   bahan bacaan penelitian terdahulu
+<tema>/proposal/proposal.md      naskah proposal, satu file
+<tema>/proposal/sampul.json      isi halaman sampul
+<tema>/output/                   hasil build docx (dibuat script)
 ```
 
 ## Akhir sesi
 
-Perbarui `riset/keputusan.md` kalau ada keputusan baru dan tambahkan satu entri di `riset/log.md`: tanggal, yang dikerjakan, keputusan user, tugas berikutnya. Commit dengan pesan yang jelas.
+Perbarui `<tema>/riset/keputusan.md` kalau ada keputusan baru dan tambahkan satu entri di `<tema>/riset/log.md`: tanggal, yang dikerjakan, keputusan user, tugas berikutnya. Commit dengan pesan yang jelas.

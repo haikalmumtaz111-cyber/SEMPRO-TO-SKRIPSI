@@ -8,7 +8,7 @@ User belum paham istilah metodologi dan waktunya mepet. Tugas mode bimbing: biki
 2. Kasih 2 sampai 3 pilihan, masing-masing dengan untung dan rugi satu baris.
 3. Kasih rekomendasi dan alasannya, termasuk kaitannya dengan aturan FDK.
 4. Minta user memilih. Kalau user bilang "terserah", pakai rekomendasi, catat bahwa itu rekomendasi yang disetujui user.
-5. Tulis hasilnya di `riset/keputusan.md` dan lanjut ke keputusan berikutnya.
+5. Tulis hasilnya di `<tema>/riset/keputusan.md` dan lanjut ke keputusan berikutnya.
 
 Urutannya 1, 2, 3, 4 karena saling bergantung. Pilihan Y menentukan bentuk pertanyaan. Bentuk pertanyaan menentukan butuh skenario atau tidak. Jumlah pertanyaan menentukan uji validitas dan reliabilitas.
 
@@ -32,7 +32,7 @@ Contoh.
 - **Skenario** (*vignette*): kuesioner nyodorin cerita karangan peneliti. "Bayangkan Bapak melihat estimasi keberangkatan berubah dan ingin tahu penyebabnya." Lalu responden menilai seberapa rumit dan seberapa mungkin datang ke kantor. Semua responden dapat cerita yang sama.
 - **Pengalaman nyata**: "Ingat terakhir kali Bapak butuh penjelasan soal informasi haji." Lalu responden menilai pengalaman itu sendiri.
 
-Untung rugi ada di `riset/handoff.md` bagian X (nomor 38 sampai 41). Ringkasnya, skenario bikin situasi seragam dan bisa dijawab orang yang belum pernah ngalamin, tapi jawabannya hipotetis. Pengalaman nyata lebih dekat ke kenyataan, tapi pengalaman tiap orang beda dan ada yang belum pernah ngalamin.
+Untung rugi ada di `<tema>/riset/handoff.md` bagian X (nomor 38 sampai 41). Ringkasnya, skenario bikin situasi seragam dan bisa dijawab orang yang belum pernah ngalamin, tapi jawabannya hipotetis. Pengalaman nyata lebih dekat ke kenyataan, tapi pengalaman tiap orang beda dan ada yang belum pernah ngalamin.
 
 Kalau pakai lebih dari satu skenario untuk orang yang sama, jawabannya tidak boleh dianalisis seolah dari orang berbeda. Ini menambah rumit analisis, jadi untuk target Kamis, satu skenario atau pengalaman nyata lebih realistis.
 

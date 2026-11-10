@@ -21,16 +21,11 @@ File di `references/comotan/` disalin utuh dari repo sumber. Lisensinya ada di f
 | `naskah-id/bagian-naskah.md` | Isi wajar tiap bagian naskah ilmiah |
 | `lugas/bahasa-indonesia.md` | Kalkir dan translationese |
 | `lugas/evidential-verbs.md` | Pilihan kata kerja pelapor (menemukan, melaporkan, menyatakan) |
+| `lugas/evidence-preservation.md` | Kontrak penjagaan angka, sitasi, arah hubungan, dan derajat kepastian saat menulis ulang |
+| `lugas/paraphrasing.md` | Parafrase sumber orang lain tanpa kehilangan atribusi |
+| `naskah-id/kontrak.md` | Kontrak naskah-id dan templat pernyataan penggunaan AI |
 
-Langkah poles:
-1. Simpan versi sebelum dipoles: `cp proposal/proposal.md /tmp/sebelum.md`.
-2. Poles.
-3. Cek tidak ada angka, sitasi, atau kutipan yang berubah:
-   ```bash
-   python .claude/skills/sempro/scripts/periksa.py --banding /tmp/sebelum.md proposal/proposal.md
-   python .claude/skills/sempro/scripts/guard.py check /tmp/sebelum.md proposal/proposal.md
-   ```
-4. Lint gaya: `python .claude/skills/sempro/scripts/metrik.py proposal/proposal.md --preset akademik`.
+Langkah poles lengkap ada di `references/poles.md`.
 
 ## Cek (mode cek)
 

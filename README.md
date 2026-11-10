@@ -8,14 +8,14 @@ Repo kerja proposal skripsi kuantitatif FDK UIN Sunan Gunung Djati Bandung, dipa
 
 Buka repo ini di Claude Code, lalu ngobrol biasa. Contoh:
 
-- "lanjut dari terakhir" : Claude baca `riset/keputusan.md` lalu lanjut.
+- "lanjut dari terakhir" : Claude baca `<tema>/riset/keputusan.md` lalu lanjut.
 - "jelasin keputusan nomor 1" : mode bimbing.
 - "tulis latar belakang" : mode tulis.
 - "cek nyambung ga rumusan masalah sama hipotesisnya" : mode cek.
 - "rapikan bahasa bagian kerangka pemikiran" : mode poles.
 - "cek semua daftar pustaka" : mode pustaka.
 - "simulasi dospem" : mode uji.
-- "bikin Word buat diprint" : mode cetak, hasilnya `output/proposal.docx`.
+- "bikin Word buat diprint" : mode cetak, hasilnya `<tema>/output/proposal.docx`.
 
 ## Isi
 
@@ -34,3 +34,7 @@ Skill `sempro` merangkai bagian pilihan dari repo berikut. Lisensi masing-masing
 | 4212rachmaul-moh/Proyek_akademik_mahasiswa | MIT | Daftar periksa metodologi, rubrik kelayakan, panduan literatur, belangko |
 
 Tidak dipakai: HKUSTDial/Supervisor-Skills, Imbad0202/academic-research-skills, matkumatmat/very-deep-search, BetonBertulang/Template-Tesis-Magister.
+
+## Skill untuk claude.ai
+
+`skill-claude/naskah-natural.zip` adalah skill gabungan untuk menulis dan menyunting naskah bahasa Indonesia supaya baku tapi tidak kaku dan tidak terbaca AI. Unggah lewat claude.ai: Pengaturan, Skills, Tambahkan, Unggah Skill. Sumber skill yang belum di-zip ada di `skill-claude/naskah-natural/`. Fitur Eksekusi kode (Artefak) harus nyala supaya script dan grep acuan bisa jalan.

@@ -1,4 +1,4 @@
-"""Sisipkan halaman sampul di awal docx. Isi dari proposal/sampul.json.
+"""Sisipkan halaman sampul di awal docx. Isi dari <tema>/proposal/sampul.json.
 Tata letak meniru proposal FDK yang sudah lolos sempro (contoh dari teman user)."""
 import json, sys
 from pathlib import Path
@@ -6,8 +6,9 @@ from docx import Document
 from docx.shared import Pt, Cm
 from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
 
-out = sys.argv[1] if len(sys.argv) > 1 else "output/proposal.docx"
-cfg = json.loads(Path("proposal/sampul.json").read_text(encoding="utf-8"))
+out = sys.argv[1] if len(sys.argv) > 1 else "tema-1/output/proposal.docx"
+sampul = sys.argv[2] if len(sys.argv) > 2 else "tema-1/proposal/sampul.json"
+cfg = json.loads(Path(sampul).read_text(encoding="utf-8"))
 logo = Path(__file__).resolve().parent.parent / "templates" / "logo-uin.png"
 
 doc = Document(out)
