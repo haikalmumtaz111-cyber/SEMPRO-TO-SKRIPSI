@@ -27,3 +27,8 @@
 ## 10 November 2026 (lanjutan 4)
 
 - User mengirim urutan 16 tahap kuantitatif (fenomena sampai skripsi final). Disimpan di `riset/tahapan.md` beserta status per backup V4. Tahap aktif: 5 (membangun teori).
+
+## 10 November 2026 (lanjutan 5)
+
+- User mengirim Roadmap Induk V1 (31 tahap) dari sesi ChatGPT baru. Disimpan di `riset/chatgpt/roadmap-induk-v1-2026-11-10.md`, evaluasinya di `riset/chatgpt/evaluasi-roadmap-v1.md`.
+- Menunggu keputusan user: acuan tahap pakai 16 tahap atau roadmap 31 tahap.
