@@ -34,3 +34,7 @@ Skill `sempro` merangkai bagian pilihan dari repo berikut. Lisensi masing-masing
 | 4212rachmaul-moh/Proyek_akademik_mahasiswa | MIT | Daftar periksa metodologi, rubrik kelayakan, panduan literatur, belangko |
 
 Tidak dipakai: HKUSTDial/Supervisor-Skills, Imbad0202/academic-research-skills, matkumatmat/very-deep-search, BetonBertulang/Template-Tesis-Magister.
+
+## Skill untuk claude.ai
+
+`skill-claude/naskah-natural.zip` adalah skill gabungan untuk menulis dan menyunting naskah bahasa Indonesia supaya baku tapi tidak kaku dan tidak terbaca AI. Unggah lewat claude.ai: Pengaturan, Skills, Tambahkan, Unggah Skill. Sumber skill yang belum di-zip ada di `skill-claude/naskah-natural/`. Fitur Eksekusi kode (Artefak) harus nyala supaya script dan grep acuan bisa jalan.
