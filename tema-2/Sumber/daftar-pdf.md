@@ -24,18 +24,25 @@ Metadata cocok dengan Crossref. Perannya di penelitian belum ada, belum ditelaah
 | Mehrabian & Russell (1974), The basic emotional impact of environments. Perceptual and Motor Skills 38(1), 283-301 | 10.2466/pms.1974.38.1.283 |
 | Greenwald (1968), Cognitive learning, cognitive response to persuasion, and attitude change. Bab dalam Psychological Foundations of Attitudes, hlm. 147-170, Academic Press [editor PERLU VERIFIKASI] | 10.1016/B978-1-4832-3071-9.50012-X |
 
-## Sudah diverifikasi tetapi PDF belum dipegang (urut prioritas)
+## Tambahan PDF (kiriman kedua, 10 November 2026)
 
-Empat PDF "baru" di atas berasal dari tautan yang diberikan ChatGPT di sesi 2 atas permintaan user.
+Halaman pertama kelimanya cocok dengan rujukan terverifikasi.
 
-| Prioritas | Penulis | Judul | Jurnal | DOI |
-|---|---|---|---|---|
-| 1 | Niederdeppe, Hornik, Kelly, Frosch, Romantan, Stevens, Barg, Weiner, & Schwartz (2007) | Examining the dimensions of cancer-related information seeking and scanning behavior | Health Communication 22(2), 153-167 | 10.1080/10410230701454189 |
-| 2 | Kelly, Niederdeppe, & Hornik (2009) | Validating measures of scanned information exposure in the context of cancer prevention and screening behaviors | Journal of Health Communication 14(8), 721-740 | 10.1080/10810730903295559 |
-| 3 | Lewis, Andrews, Keefe, & Walter (2024) | A meta-analytical review of the relationship, antecedents, and consequences of information seeking and information scanning | Human Communication Research 50(4), 468-479 | 10.1093/hcr/hqae012 |
-| 4 | Breckler (1984) | Empirical validation of affect, behavior, and cognition as distinct components of attitude | Journal of Personality and Social Psychology 47(6), 1191-1205 | 10.1037/0022-3514.47.6.1191 |
-| 5 | Eveland, Shah, & Kwak (2003) | Assessing causality in the cognitive mediation model | Communication Research 30(4), 359-386 | 10.1177/0093650203253369 |
-| 6 | Eveland (2002) | News information processing as mediator of the relationship between motivations and political knowledge | Journalism & Mass Communication Quarterly 79(1), 26-40 | 10.1177/107769900207900103 |
+| Rujukan | DOI | Peran sekarang |
+|---|---|---|
+| Niederdeppe dkk. (2007), Health Communication 22(2), 153-167 | 10.1080/10410230701454189 | dasar X (seeking dan scanning) |
+| Kelly, Niederdeppe, & Hornik (2009), J. of Health Communication 14(8), 721-740 | 10.1080/10810730903295559 | dasar pengukuran X (scanning) |
+| Breckler (1984), J. of Personality and Social Psychology 47(6), 1191-1205 | 10.1037/0022-3514.47.6.1191 | struktur Y tiga komponen |
+| Eveland, Shah, & Kwak (2003), Communication Research 30(4), 359-386 | 10.1177/0093650203253369 | pelengkap CMM |
+| Eveland (2002), Journalism & Mass Communication Quarterly 79(1), 26-40 | 10.1177/107769900207900103 | pelengkap CMM |
 
-Tidak perlu dicari sekarang: Roseman (1984), bab buku, tidak dipakai selama naskahnya belum ada.
-Oliver (1980) sudah dilepas sebagai teori, PDF-nya cukup disimpan.
+## Belum dipegang
+
+- Lewis, Andrews, Keefe, & Walter (2024), Human Communication Research 50(4), 468-479,
+  10.1093/hcr/hqae012. Akses tertutup. OpenAlex (10 November 2026) tidak mencatat salinan terbuka
+  di repositori mana pun. Sebelum naskah lengkap didapat, yang boleh diklaim hanya isi abstrak.
+- Roseman (1984), bab buku. Tidak dipakai selama naskahnya belum ada.
+
+Total PDF dipegang: 14 (10 rujukan terverifikasi yang dipakai atau ditelaah, ditambah Oliver 1980
+yang sudah dilepas, dan 3 lain yang perannya belum ditetapkan selain Brashers/Rains yang akan
+ditelaah di sesi 3).
