@@ -36,3 +36,10 @@
 - Roadmap V1.1 diterima dari sesi ChatGPT baru. Empat koreksi masuk. Sisa: bagian 41 masih "Versi 1.0, Tahap 9--10", judul masih VERSI 1.0, catatan Alpha Cronbach terhapus. Evaluasi di `riset/chatgpt/evaluasi-roadmap-v1.1.md`.
 - Keputusan user: 3 sampai 4 perintah per sesi ChatGPT, ditutup prompt laporan. Claude yang menyusun bekal sesi berikutnya dari laporan yang sudah dikoreksi. Dibuat `riset/chatgpt/prompt-laporan.md`, siklus dicatat di `riset/pengarah-chatgpt.md`.
 - Roadmap V1.1 revisi kedua diterima: tiga sisa beres, tidak ada perubahan lain. V1.1 final.
+
+## 10 November 2026 (lanjutan 6)
+
+- Laporan sesi 1 ChatGPT diterima (Tahap 9, kandidat teori nomor 1: Cognitive Mediation Model, Eveland 2001). Lima rujukan dicek ke Crossref: semua ada dan cocok. Kelly dkk. (2009), Lewis dkk. (2024), Breckler (1984) dari backup V4 juga cocok.
+- Keputusan user di sesi ChatGPT: memilih kandidat 1 (CMM) untuk ditelaah. Posisi akhir CMM belum diputuskan.
+- Evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-1.md`. Prompt laporan diperbaiki (nomor tahap, daftar kandidat yang tidak dipilih).
+- Tugas berikutnya: user memutuskan posisi CMM, lalu Claude menyusun bekal sesi 2.
