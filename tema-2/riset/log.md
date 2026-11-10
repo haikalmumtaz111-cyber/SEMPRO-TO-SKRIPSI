@@ -52,3 +52,9 @@
 - Keputusan user di sesi ChatGPT: memilih Pilihan A (Roseman 1984 dan 1996, Oliver 1980) untuk ditelaah. Belum dikunci sebagai teori proposal.
 - Catatan evaluasi: Pilihan B hilang dari laporan (prompt laporan diperketat), Oliver berpotensi tumpang-tindih dengan *unexpectedness*, risiko empat teori untuk satu Y, "tenang/merasa terbantu" dua hal berbeda.
 - Tugas berikutnya: user memilih peran harapan dan Oliver (A, B, atau C) dan mengecek PDF Roseman (1996). Setelah itu Claude menyusun bekal sesi 3.
+
+## 10 November 2026 (lanjutan 8)
+
+- User mengirim 9 PDF. Lima cocok dengan rujukan terverifikasi, empat baru (Rains & Tukachinsky 2015, Brashers 2001, Mehrabian & Russell 1974, Greenwald 1968), metadata cocok di Crossref. Daftar di `Sumber/daftar-pdf.md`.
+- Penulis Roseman (1996) dipastikan tunggal dari halaman sampul PDF.
+- Tugas berikutnya: user memilih A, B, atau C soal Oliver, dan menjelaskan asal serta peran empat PDF baru.

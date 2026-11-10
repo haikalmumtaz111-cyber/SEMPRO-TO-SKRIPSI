@@ -31,12 +31,9 @@ karena laporan sendiri menyebut kecocokannya masih terbuka (hal terbuka nomor 1 
 | Eveland (2001), Communication Research 28(5), 571-601 | 10.1177/009365001028005001 | ada, cocok (sudah dicek di sesi 1) |
 | Roseman (1984), bab dalam Shaver (Ed.), Review of Personality and Social Psychology Vol. 5, hlm. 11-36, Sage | tidak ada | **tidak bisa dicek otomatis.** `openalex.py cek` tidak menemukannya (bab buku lama tanpa DOI). Tetap [PERLU VERIFIKASI] |
 
-**Catatan penulis Roseman (1996).** Crossref, OpenAlex, dan Semantic Scholar mencatat Ira J.
-Roseman sebagai penulis tunggal, sama dengan koreksi ChatGPT. Tetapi menurut ingatan Claude
-(bukan hasil cek, bisa keliru), artikel ini sering dikutip di literatur sebagai Roseman,
-Antoniou, dan Jose (1996), halaman 241-277. Metadata penerbit untuk artikel lama kadang hanya
-mencatat penulis pertama. Jadi belum aman. [PERLU VERIFIKASI]: user buka halaman pertama PDF,
-lihat nama penulis di bawah judul dan rentang halaman, lalu laporkan.
+**Catatan penulis Roseman (1996).** Selesai dicek. Halaman sampul PDF dari penerbit (dikirim
+user, 10 November 2026) menulis "Ira J. Roseman (1996)", penulis tunggal, sama dengan Crossref,
+OpenAlex, dan Semantic Scholar. Koreksi ChatGPT benar. Ingatan Claude soal tiga penulis keliru.
 
 ## 4. Koreksi dan lubang
 
@@ -94,7 +91,7 @@ Rekomendasi Claude: A.
 
 ## 6. Tugas user sebelum sesi 3
 
-1. Buka PDF Roseman (1996), cek nama penulis dan halaman di halaman pertama.
+1. (Selesai) Penulis Roseman (1996) sudah dicek dari PDF: tunggal.
 2. Baca abstrak dan tabel/gambar model di Roseman (1996).
 3. Cari tahu apakah bab Roseman (1984) bisa diperoleh (perpustakaan atau pembimbing). Kalau tidak,
    bilang ke Claude.
