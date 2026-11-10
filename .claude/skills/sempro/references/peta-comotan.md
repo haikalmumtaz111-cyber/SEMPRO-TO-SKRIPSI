@@ -23,14 +23,14 @@ File di `references/comotan/` disalin utuh dari repo sumber. Lisensinya ada di f
 | `lugas/evidential-verbs.md` | Pilihan kata kerja pelapor (menemukan, melaporkan, menyatakan) |
 
 Langkah poles:
-1. Simpan versi sebelum dipoles: `cp proposal/proposal.md /tmp/sebelum.md`.
+1. Simpan versi sebelum dipoles: `cp <tema>/proposal/proposal.md /tmp/sebelum.md`.
 2. Poles.
 3. Cek tidak ada angka, sitasi, atau kutipan yang berubah:
    ```bash
-   python .claude/skills/sempro/scripts/periksa.py --banding /tmp/sebelum.md proposal/proposal.md
-   python .claude/skills/sempro/scripts/guard.py check /tmp/sebelum.md proposal/proposal.md
+   python .claude/skills/sempro/scripts/periksa.py --banding /tmp/sebelum.md <tema>/proposal/proposal.md
+   python .claude/skills/sempro/scripts/guard.py check /tmp/sebelum.md <tema>/proposal/proposal.md
    ```
-4. Lint gaya: `python .claude/skills/sempro/scripts/metrik.py proposal/proposal.md --preset akademik`.
+4. Lint gaya: `python .claude/skills/sempro/scripts/metrik.py <tema>/proposal/proposal.md --preset akademik`.
 
 ## Cek (mode cek)
 

@@ -8,14 +8,14 @@ Repo kerja proposal skripsi kuantitatif FDK UIN Sunan Gunung Djati Bandung, dipa
 
 Buka repo ini di Claude Code, lalu ngobrol biasa. Contoh:
 
-- "lanjut dari terakhir" : Claude baca `riset/keputusan.md` lalu lanjut.
+- "lanjut dari terakhir" : Claude baca `<tema>/riset/keputusan.md` lalu lanjut.
 - "jelasin keputusan nomor 1" : mode bimbing.
 - "tulis latar belakang" : mode tulis.
 - "cek nyambung ga rumusan masalah sama hipotesisnya" : mode cek.
 - "rapikan bahasa bagian kerangka pemikiran" : mode poles.
 - "cek semua daftar pustaka" : mode pustaka.
 - "simulasi dospem" : mode uji.
-- "bikin Word buat diprint" : mode cetak, hasilnya `output/proposal.docx`.
+- "bikin Word buat diprint" : mode cetak, hasilnya `<tema>/output/proposal.docx`.
 
 ## Isi
 

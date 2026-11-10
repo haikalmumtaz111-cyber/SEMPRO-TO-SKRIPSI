@@ -5,16 +5,16 @@ description: Skill utama untuk menyusun, mengecek, memoles, dan mencetak proposa
 
 # Sempro
 
-Skill ini membantu user menyelesaikan proposal kuantitatif FDK dari keputusan variabel sampai file Word siap print. Sebelum apa pun, baca `riset/keputusan.md` untuk tahu posisi terakhir dan target terdekat.
+Skill ini membantu user menyelesaikan proposal kuantitatif FDK dari keputusan variabel sampai file Word siap print. Repo memuat lebih dari satu proposal. `<tema>` berarti folder tema yang sedang dikerjakan (`tema-1`, `tema-2`, dan seterusnya), lihat bagian "Tema aktif" di `CLAUDE.md`. Jangan mengubah file di folder tema lain. Sebelum apa pun, baca `<tema>/riset/keputusan.md` untuk tahu posisi terakhir dan target terdekat.
 
 ## Pilih mode
 
-Tentukan mode dari permintaan user. Kalau tidak jelas, lihat `riset/keputusan.md`: selama empat keputusan belum terkunci, mode default adalah **bimbing**.
+Tentukan mode dari permintaan user. Kalau tidak jelas, lihat `<tema>/riset/keputusan.md`: selama empat keputusan belum terkunci, mode default adalah **bimbing**.
 
 | Mode | Pemicu | Baca |
 |---|---|---|
 | bimbing | bingung, belum paham, pilih variabel, "maksudnya apa", keputusan masih kosong | `references/alur-bimbingan.md` |
-| tulis | "tulis latar belakang", "susun rumusan masalah", "lanjut nulis" | `references/fdk.md`, `riset/keputusan.md`, bagian relevan `riset/handoff.md` |
+| tulis | "tulis latar belakang", "susun rumusan masalah", "lanjut nulis" | `references/fdk.md`, `<tema>/riset/keputusan.md`, bagian relevan `<tema>/riset/handoff.md` |
 | cek | "cek nyambung ga", "cek metodologi", "matriks operasionalisasi" | `references/peta-comotan.md` bagian Cek |
 | poles | "rapikan bahasa", "biar ga kaku", "cek EYD" | `references/peta-comotan.md` bagian Bahasa |
 | pustaka | "cari rujukan", "cek DOI", "daftar pustaka" | `references/peta-comotan.md` bagian Pustaka |
@@ -25,18 +25,18 @@ Baca hanya file yang dibutuhkan mode itu. Jangan memuat semua rujukan sekaligus.
 
 ## Mode tulis
 
-Naskah ada di satu file, `proposal/proposal.md`, dengan urutan sepuluh komponen FDK di `references/fdk.md`. Jangan bikin struktur Bab I sampai III, karena proposal kuantitatif FDK tidak memakai bab.
+Naskah ada di satu file, `<tema>/proposal/proposal.md`, dengan urutan sepuluh komponen FDK di `references/fdk.md`. Jangan bikin struktur Bab I sampai III, karena proposal kuantitatif FDK tidak memakai bab.
 
 Urutan kerja tiap komponen:
 
-1. Cek prasyarat. Komponen butuh keputusan yang belum terkunci di `riset/keputusan.md`? Berhenti, pindah ke mode bimbing untuk keputusan itu saja.
-2. Kumpulkan bahan dari `riset/keputusan.md` dan `riset/handoff.md`. Fakta lapangan hanya dari handoff atau dari user. Jangan ditambah.
+1. Cek prasyarat. Komponen butuh keputusan yang belum terkunci di `<tema>/riset/keputusan.md`? Berhenti, pindah ke mode bimbing untuk keputusan itu saja.
+2. Kumpulkan bahan dari `<tema>/riset/keputusan.md` dan `<tema>/riset/handoff.md`. Fakta lapangan hanya dari handoff atau dari user. Jangan ditambah.
 3. Tulis draf sesuai ketentuan komponen di `references/fdk.md`. Sitasi pakai running note FDK, misalnya (Ebbers, et al., 2016:510). Halaman yang belum dicek ditulis `(Ebbers, et al., 2016:[hlm. PERLU VERIFIKASI])`.
 4. Pertahankan batas klaim. Fenomena magang adalah pengamatan awal, bukan data. Dugaan penyebab ditulis sebagai dugaan.
 5. Jalankan pemeriksa:
    ```bash
-   python .claude/skills/sempro/scripts/periksa.py proposal/proposal.md
-   python .claude/skills/sempro/scripts/metrik.py proposal/proposal.md --preset akademik
+   python .claude/skills/sempro/scripts/periksa.py <tema>/proposal/proposal.md
+   python .claude/skills/sempro/scripts/metrik.py <tema>/proposal/proposal.md --preset akademik
    ```
    Temuan K (kaidah) diperbaiki. Temuan gaya dibaca dalam konteks, bukan dituruti buta.
 6. Jelaskan ke user dalam 3 kalimat santai: komponen ini ngomongin apa, kenapa begitu, dan bagian mana yang masih bertanda `[PERLU ...]`.
@@ -57,13 +57,13 @@ Urutan penulisan yang disarankan kalau waktu mepet: latar belakang, perumusan ma
 ## Cetak
 
 ```bash
-bash .claude/skills/sempro/scripts/build_docx.sh
+bash .claude/skills/sempro/scripts/build_docx.sh <tema>   # contoh: tema-1
 ```
 
-Script mengubah `proposal/proposal.md` jadi `output/proposal.docx` memakai `templates/reference-fdk.docx` (A4, margin atas 4 cm, kiri 4 cm, bawah 3 cm, kanan 3 cm, Times New Roman 12, spasi 2, menjorok 1,25 cm). Sebelum build, cari sisa tanda `[PERLU` di naskah dan laporkan jumlahnya ke user:
+Script mengubah `<tema>/proposal/proposal.md` jadi `<tema>/output/proposal.docx` memakai `templates/reference-fdk.docx` (A4, margin atas 4 cm, kiri 4 cm, bawah 3 cm, kanan 3 cm, Times New Roman 12, spasi 2, menjorok 1,25 cm). Sebelum build, cari sisa tanda `[PERLU` di naskah dan laporkan jumlahnya ke user:
 
 ```bash
-grep -n "\[PERLU" proposal/proposal.md
+grep -n "\[PERLU" <tema>/proposal/proposal.md
 ```
 
 Setelah build, bilang ke user bagian yang tetap harus dicek manual di Word: halaman judul (ukuran huruf 16 pt dan 14 pt sesuai panduan), nomor halaman, tabel, dan pemenggalan halaman.

@@ -12,7 +12,7 @@ Ringkasan dari `acuan/panduan-kti-fdk.md`. Nomor baris di kurung merujuk file it
 
 ## Sepuluh komponen proposal kuantitatif (baris 333-379)
 
-Pakai ini sebagai judul bagian di `proposal/proposal.md`, sesuai urutan.
+Pakai ini sebagai judul bagian di `<tema>/proposal/proposal.md`, sesuai urutan.
 
 1. **Judul Penelitian.** Menggambarkan variabel atau hubungan antarvariabel secara spesifik, padat, lugas. Bukan kalimat berita, bukan kalimat tanya.
 2. **Latar Belakang Masalah.** Diuraikan deduktif, memuat gejala empiris atau praktis/teoretis dakwah dan komunikasi:

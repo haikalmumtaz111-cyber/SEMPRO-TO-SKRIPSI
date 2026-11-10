@@ -5,7 +5,7 @@ from docx.shared import Pt
 from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
 
-path = sys.argv[1] if len(sys.argv) > 1 else "output/proposal.docx"
+path = sys.argv[1] if len(sys.argv) > 1 else "tema-1/output/proposal.docx"
 doc = Document(path)
 for t in doc.tables:
     tblPr = t._tbl.tblPr
