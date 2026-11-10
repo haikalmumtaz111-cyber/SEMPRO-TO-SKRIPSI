@@ -70,3 +70,8 @@
 
 - User mengirim 5 PDF lagi: Niederdeppe dkk. (2007), Kelly dkk. (2009), Breckler (1984), Eveland, Shah, & Kwak (2003), Eveland (2002). Semua cocok. Lewis dkk. (2024) belum didapat karena akses tertutup.
 - Tugas berikutnya: user buka sesi 3 ChatGPT dengan bekal sesi 3 dan prompt versi 4.
+
+## 10 November 2026 (lanjutan 11)
+
+- Koreksi: artikel appraisal 1996 ditulis Roseman, Antoniou, dan Jose (hlm. 241-277), terlihat di halaman pertama artikel. Koreksi ChatGPT di laporan sesi 2 (penulis tunggal) salah, begitu juga catatan Claude di lanjutan 8. Bekal sesi 3, prompt, evaluasi, keputusan, dan daftar PDF sudah dibetulkan.
+- Cara kerja baca sumber: Claude membaca PDF dan membuat ringkasan berhalaman, user membaca ringkasan lalu mengecek bagian kunci di PDF.

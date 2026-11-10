@@ -30,7 +30,7 @@ Berikan 2 sampai 3 kandidat. Salah satunya harus telaah kritis atas *uncertainty
 - bidang asal teori dan seberapa jauh jaraknya dari konteks informasi layanan haji;
 - penjelasan sederhana bagaimana teori itu menghubungkan paparan sebelumnya (X) dengan niat tersebut, pakai contoh calon jemaah yang baru selesai mendaftar;
 - arah hubungan yang diprediksi (positif, negatif, atau tidak tentu);
-- apakah teori itu bisa berdampingan dengan teori appraisal Roseman (1996) tanpa tumpang-tindih, dan apakah bisa menjadi payung untuk ketiga dimensi Y;
+- apakah teori itu bisa berdampingan dengan teori appraisal Roseman, Antoniou, dan Jose (1996) tanpa tumpang-tindih, dan apakah bisa menjadi payung untuk ketiga dimensi Y;
 - kelemahan atau risikonya untuk penelitian ini.
 
 Tutup dengan rekomendasi dan alasannya, lalu tunggu saya memilih.

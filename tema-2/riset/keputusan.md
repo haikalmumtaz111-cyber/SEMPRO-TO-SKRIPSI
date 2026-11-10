@@ -20,8 +20,8 @@ Proposal tema 2 disusun user bersama ChatGPT (proyek "Menulis"). Claude bertugas
 - 10 Nov 2026: acuan tahap pakai Roadmap Induk 31 tahap (V1.1).
 - 10 Nov 2026: CMM (Eveland, 2001) jadi teori pendukung untuk Y kognitif saja, bukan teori utama. Teori untuk Y afektif dan konatif dicari terpisah.
 
-- 10 Nov 2026 (sesi 2 ChatGPT): teori appraisal Roseman dipilih user untuk **ditelaah** sebagai dasar Y afektif. Belum dikunci sebagai teori proposal. Roseman (1996) dan Oliver (1980) ada di Crossref. Roseman (1984) bab buku, [PERLU VERIFIKASI]. Penulis Roseman (1996) tunggal, sudah dicek dari PDF.
-- 10 Nov 2026: Oliver (1980) dilepas. Y afektif memakai Roseman (1996) saja, logika harapan lewat *unexpectedness*. Harapan dan appraisal tidak diukur sebagai variabel. Roseman (1984) tidak dipakai selama naskahnya belum ada.
+- 10 Nov 2026 (sesi 2 ChatGPT): teori appraisal Roseman dipilih user untuk **ditelaah** sebagai dasar Y afektif. Belum dikunci sebagai teori proposal. Roseman (1996) dan Oliver (1980) ada di Crossref. Roseman (1984) bab buku, [PERLU VERIFIKASI]. Penulis artikel 1996: Roseman, Antoniou, dan Jose, hlm. 241-277 (dicek dari halaman pertama artikel; Crossref hanya mencatat Roseman).
+- 10 Nov 2026: Oliver (1980) dilepas. Y afektif memakai Roseman, Antoniou, dan Jose (1996) saja, logika harapan lewat *unexpectedness*. Harapan dan appraisal tidak diukur sebagai variabel. Roseman (1984) tidak dipakai selama naskahnya belum ada.
 
 ## Keputusan terbuka (urut prioritas)
 
