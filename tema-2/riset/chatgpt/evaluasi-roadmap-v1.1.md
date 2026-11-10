@@ -19,3 +19,7 @@ Ada dua sisa yang belum ikut diperbarui. Perbaiki dulu sebelum mulai tahap 7 sam
 1. **Bagian 41 (pegangan sesi berikutnya) masih menulis "Versi 1.0" dan "Posisi aktif ada pada Tahap 9--10".** Ini yang paling berbahaya, karena bagian itu yang ditempel ke sesi berikutnya dan akan membuat ChatGPT melompat ke tahap 9 sampai 10.
 2. **Judul baris pertama masih "VERSI 1.0"**, padahal metadata dan penutup sudah 1.1.
 3. Kalimat "Panduan KTI FDK menyebut validitas dan reliabilitas serta Alpha Cronbach untuk konsistensi instrumen angket bertingkat" ikut terhapus dari catatan tahap 14. Kalimat itu benar (Panduan KTI FDK, BAB III, komponen langkah penelitian huruf g) dan nanti dibutuhkan saat menulis rencana uji instrumen. Sebaiknya dikembalikan.
+
+## Revisi kedua (10 November 2026)
+
+Tiga sisa sudah beres: judul VERSI 1.1, bagian 41 disamakan dengan bagian 38 (Tahap 7 sampai 9, gap tidak dikunci sebelum Ginting), kalimat Alpha Cronbach kembali. Tidak ada perubahan lain. Roadmap V1.1 final, menggantikan versi sebelumnya di repo.

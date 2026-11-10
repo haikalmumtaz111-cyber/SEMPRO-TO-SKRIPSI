@@ -35,3 +35,4 @@
 - User memilih buka sesi ChatGPT baru (sesi lama sudah panjang). `riset/chatgpt/prompt-sesi-baru.md` diganti versi 2: unggah roadmap V1 saja, tugas pertama membuat V1.1 dengan empat koreksi lalu berhenti.
 - Roadmap V1.1 diterima dari sesi ChatGPT baru. Empat koreksi masuk. Sisa: bagian 41 masih "Versi 1.0, Tahap 9--10", judul masih VERSI 1.0, catatan Alpha Cronbach terhapus. Evaluasi di `riset/chatgpt/evaluasi-roadmap-v1.1.md`.
 - Keputusan user: 3 sampai 4 perintah per sesi ChatGPT, ditutup prompt laporan. Claude yang menyusun bekal sesi berikutnya dari laporan yang sudah dikoreksi. Dibuat `riset/chatgpt/prompt-laporan.md`, siklus dicatat di `riset/pengarah-chatgpt.md`.
+- Roadmap V1.1 revisi kedua diterima: tiga sisa beres, tidak ada perubahan lain. V1.1 final.

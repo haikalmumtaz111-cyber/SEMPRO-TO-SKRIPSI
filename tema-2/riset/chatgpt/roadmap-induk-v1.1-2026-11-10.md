@@ -1,4 +1,4 @@
-# ROADMAP INDUK SKRIPSI KUANTITATIF --- VERSI 1.0
+# ROADMAP INDUK SKRIPSI KUANTITATIF --- VERSI 1.1
 
 ## Dari Penemuan Fenomena sampai Skripsi Final
 
@@ -1006,7 +1006,9 @@ dalam Google Forms. - Jangan menggunakan satu prosedur uji untuk semua
 bentuk item tanpa mempertimbangkan skala. - Skala frekuensi, kategori
 sumber, tes pengetahuan, dan skala Likert tidak selalu diperlakukan
 sama. - Pengujian instrumen harus mengikuti bentuk instrumen dan arahan
-pembimbing.
+pembimbing. - Panduan KTI FDK menyebut validitas dan reliabilitas serta
+Alpha Cronbach untuk konsistensi instrumen angket bertingkat; penerapan
+harus mengikuti bentuk instrumen dan arahan pembimbing.
 
 **Output tahap 14:** draf kuesioner tentatif yang telah melalui
 pemeriksaan dan validasi isi oleh pembimbing untuk lampiran proposal;
@@ -1785,11 +1787,14 @@ Gunakan instruksi berikut jika percakapan dilanjutkan pada sesi baru:
 > populasi, sampling, ukuran sampel, kuesioner, dan proposal belum
 > final.
 >
-> **Lanjutkan mengikuti Roadmap Induk Skripsi Kuantitatif Versi 1.0.
-> Posisi aktif ada pada Tahap 9--10, yaitu pemantapan teori dan
-> operasionalisasi. Jangan mengulang dari awal. Gunakan hanya percakapan
-> dan file yang saya berikan sebagai acuan. Jangan mengambil referensi
-> dari luar tanpa izin saya.**
+> **Lanjutkan mengikuti Roadmap Induk Skripsi Kuantitatif Versi 1.1.
+> Posisi aktif ada pada Tahap 7 sampai 9 yang berjalan berdampingan,
+> yaitu penelitian terdahulu (Tahap 7), research gap (Tahap 8), dan
+> teori serta kerangka konseptual (Tahap 9). Research gap tidak boleh
+> dikunci atau difinalkan sebelum naskah lengkap Ginting (2025)
+> diperiksa. Jangan mengulang dari awal. Gunakan hanya percakapan dan
+> file yang saya berikan sebagai acuan. Jangan mengambil referensi dari
+> luar tanpa izin saya.**
 
 ------------------------------------------------------------------------
 
