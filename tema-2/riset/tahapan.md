@@ -1,11 +1,11 @@
 # Tahapan Tema 2: Acuan 31 Tahap (Roadmap Induk)
 
 Keputusan user, 10 November 2026: acuan tahap memakai penomoran 31 tahap dari Roadmap Induk
-ChatGPT (`riset/chatgpt/roadmap-induk-v1-2026-11-10.md`, nanti diganti V1.1). Rincian tiap
+ChatGPT (versi terbaru: `riset/chatgpt/roadmap-induk-v1.1-2026-11-10.md`). Rincian tiap
 tahap dan tanda selesainya ada di berkas roadmap. Tabel ini dipakai Claude untuk mengecek posisi
 ChatGPT.
 
-`[x]` selesai, `[~]` sedang jalan atau masih draf, `[ ]` belum. Status per roadmap V1 dan
+`[x]` selesai, `[~]` sedang jalan atau masih draf, `[ ]` belum. Status per roadmap V1.1 dan
 evaluasi Claude.
 
 | No | Tahap | Ringkasan 16 | Status | Catatan |

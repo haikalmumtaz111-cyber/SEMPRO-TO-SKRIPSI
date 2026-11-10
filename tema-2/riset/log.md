@@ -33,3 +33,4 @@
 - User mengirim Roadmap Induk V1 (31 tahap) dari sesi ChatGPT baru. Disimpan di `riset/chatgpt/roadmap-induk-v1-2026-11-10.md`, evaluasinya di `riset/chatgpt/evaluasi-roadmap-v1.md`.
 - Keputusan user: acuan tahap pakai roadmap 31 tahap. `riset/tahapan.md` diganti. Prompt koreksi V1.1 dikirim user ke ChatGPT.
 - User memilih buka sesi ChatGPT baru (sesi lama sudah panjang). `riset/chatgpt/prompt-sesi-baru.md` diganti versi 2: unggah roadmap V1 saja, tugas pertama membuat V1.1 dengan empat koreksi lalu berhenti.
+- Roadmap V1.1 diterima dari sesi ChatGPT baru. Empat koreksi masuk. Sisa: bagian 41 masih "Versi 1.0, Tahap 9--10", judul masih VERSI 1.0, catatan Alpha Cronbach terhapus. Evaluasi di `riset/chatgpt/evaluasi-roadmap-v1.1.md`.
