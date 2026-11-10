@@ -69,3 +69,11 @@ supaya tidak terambil lagi.
 4. Lubang logika dan metodologi (fakta, opini, dugaan dipisah).
 5. Vonis: lanjut di sesi yang sama, koreksi pakai prompt, atau buka sesi baru.
 6. Prompt yang siap ditempel (kalau perlu).
+
+## Siklus per sesi (keputusan user, 10 November 2026)
+
+1. User melempar 3 sampai 4 perintah kerja per sesi ChatGPT.
+2. Perintah terakhir: `riset/chatgpt/prompt-laporan.md`.
+3. User mengirim laporan ke Claude. Claude mengoreksi, mengecek rujukan ke Crossref/OpenAlex atau sumber resmi, memperbarui `riset/keputusan.md` dan `riset/tahapan.md`, lalu menyusun `riset/chatgpt/bekal-sesi-N.md`: keputusan kumulatif yang sudah dicek, rujukan terverifikasi, tahap aktif, hal terbuka.
+4. Sesi baru: user mengunggah roadmap terbaru + bekal terbaru, lalu menempel prompt pembuka.
+ChatGPT tidak lagi membuat handoff sendiri. Bekal sesi selalu disusun Claude dari laporan yang sudah dikoreksi.
