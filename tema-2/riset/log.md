@@ -31,4 +31,4 @@
 ## 10 November 2026 (lanjutan 5)
 
 - User mengirim Roadmap Induk V1 (31 tahap) dari sesi ChatGPT baru. Disimpan di `riset/chatgpt/roadmap-induk-v1-2026-11-10.md`, evaluasinya di `riset/chatgpt/evaluasi-roadmap-v1.md`.
-- Menunggu keputusan user: acuan tahap pakai 16 tahap atau roadmap 31 tahap.
+- Keputusan user: acuan tahap pakai roadmap 31 tahap. `riset/tahapan.md` diganti. Prompt koreksi V1.1 dikirim user ke ChatGPT.

@@ -24,5 +24,5 @@ Proposal tema 2 disusun user bersama ChatGPT (proyek "Menulis"). Claude bertugas
 
 ## Menunggu dari user
 
-- Tahapan acuan sudah diterima dan disimpan di `riset/tahapan.md` (16 tahap). Tahap aktif: 5, membangun teori.
+- Acuan tahap: 31 tahap Roadmap Induk (keputusan user). Tahap aktif: 7 sampai 9 berdampingan. Menunggu roadmap V1.1 dari ChatGPT.
 - Cek Library ChatGPT, hapus `proposal.docx` dan `Proposal_Skripsi_Hasil_Revisi_Lengkap.docx` kalau tidak dipakai.
