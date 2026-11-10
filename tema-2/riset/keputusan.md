@@ -24,5 +24,5 @@ Proposal tema 2 disusun user bersama ChatGPT (proyek "Menulis"). Claude bertugas
 
 ## Menunggu dari user
 
-- File tahapan acuan (markdown) dari awal sampai dokumen jadi. Setelah diterima, ganti isi `riset/tahapan.md`.
+- Tahapan acuan sudah diterima dan disimpan di `riset/tahapan.md` (16 tahap). Tahap aktif: 5, membangun teori.
 - Cek Library ChatGPT, hapus `proposal.docx` dan `Proposal_Skripsi_Hasil_Revisi_Lengkap.docx` kalau tidak dipakai.
