@@ -7,7 +7,7 @@ Repo kerja proposal skripsi (Usulan Rencana Penelitian) Mumtaaz Haekal, Prodi Ma
 Repo ini memuat lebih dari satu proposal. Tiap tema punya folder sendiri dan tidak boleh saling mengubah.
 
 - `tema-1/` : proposal pertama (sudah jadi). Jangan diubah kecuali user minta eksplisit.
-- `tema-2/` : proposal kedua, tema belum ditentukan user.
+- `tema-2/` : proposal kedua (paparan informasi pra-pendaftaran dan respons calon jemaah). Disusun user bersama ChatGPT. Peran Claude di tema 2: pengarah dan evaluator, bukan penyusun, lihat `tema-2/riset/pengarah-chatgpt.md`.
 
 **Tema aktif sekarang: `tema-2`.** Kalau user tidak menyebut tema, kerjakan tema aktif. Kalau ragu, tanya dulu. Semua path `riset/`, `proposal/`, `output/`, `Sumber/` di bawah ini relatif terhadap folder tema aktif.
 
