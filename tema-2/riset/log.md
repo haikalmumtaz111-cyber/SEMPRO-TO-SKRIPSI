@@ -44,3 +44,11 @@
 - Evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-1.md`. Prompt laporan diperbaiki (nomor tahap, daftar kandidat yang tidak dipilih).
 - Tugas berikutnya: user memutuskan posisi CMM, lalu Claude menyusun bekal sesi 2.
 - Keputusan user: pilihan A, CMM jadi teori pendukung Y kognitif, cari teori lain untuk Y afektif dan konatif. Dibuat `riset/chatgpt/bekal-sesi-2.md`, prompt sesi diperbarui ke versi 3. Tugas berikutnya: user buka sesi 2 ChatGPT, kirim laporan.
+
+## 10 November 2026 (lanjutan 7)
+
+- Laporan sesi 2 ChatGPT diterima (Tahap 9, teori Y afektif). Disimpan di `riset/chatgpt/laporan-sesi-2-2026-11-10.md`, evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-2.md`.
+- Cek rujukan: Roseman (1996), Oliver (1980), Eveland (2001) ada dan cocok di Crossref. Roseman (1984) bab buku tidak bisa dicek otomatis. Penulis Roseman (1996) tunggal menurut tiga basis data, tetapi perlu dicek ke halaman pertama PDF.
+- Keputusan user di sesi ChatGPT: memilih Pilihan A (Roseman 1984 dan 1996, Oliver 1980) untuk ditelaah. Belum dikunci sebagai teori proposal.
+- Catatan evaluasi: Pilihan B hilang dari laporan (prompt laporan diperketat), Oliver berpotensi tumpang-tindih dengan *unexpectedness*, risiko empat teori untuk satu Y, "tenang/merasa terbantu" dua hal berbeda.
+- Tugas berikutnya: user memilih peran harapan dan Oliver (A, B, atau C) dan mengecek PDF Roseman (1996). Setelah itu Claude menyusun bekal sesi 3.
