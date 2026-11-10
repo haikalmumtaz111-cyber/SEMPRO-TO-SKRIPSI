@@ -2,15 +2,16 @@
 
 Versi 4, 10 November 2026. Untuk sesi 3.
 
-Cara pakai: chat baru di proyek "Menulis", unggah **dua berkas**: roadmap terbaru
-(`roadmap-induk-v1.1-2026-11-10.md`) dan bekal terbaru (`bekal-sesi-3.md`). Tempel Perintah 1.
+Cara pakai: chat baru di proyek "Menulis", unggah roadmap terbaru
+(`roadmap-induk-v1.1-2026-11-10.md`), bekal terbaru (`bekal-sesi-3.md`), dan tiga PDF: Brashers (2001),
+Rains & Tukachinsky (2015), Roseman, Antoniou, & Jose (1996). PDF lain tidak diunggah. Tempel Perintah 1.
 Sesudah 3 sampai 4 perintah kerja, tutup dengan `prompt-laporan.md`.
 
 ---
 
 ## Perintah 1 (pembuka + kerja pertama)
 
-Kita lanjutkan penyusunan skripsi kuantitatif saya. Dasar percakapan ini hanya dua berkas yang saya unggah: Roadmap Induk Versi 1.1 dan Bekal Sesi 3. Baca keduanya sampai habis. Kalau isinya berbeda, Bekal Sesi 3 yang dipakai.
+Kita lanjutkan penyusunan skripsi kuantitatif saya. Dasar percakapan ini hanya dua berkas yang saya unggah: Roadmap Induk Versi 1.1 dan Bekal Sesi 3. Baca keduanya sampai habis. Kalau isinya berbeda, Bekal Sesi 3 yang dipakai. Saya juga mengunggah tiga PDF artikel: Brashers (2001), Rains dan Tukachinsky (2015), serta Roseman, Antoniou, dan Jose (1996). Setiap kali menjelaskan isi ketiga artikel itu, ambil dari PDF-nya dan sebutkan nomor halamannya. Jangan menjelaskan isinya dari ingatan.
 
 Aturan selama percakapan ini:
 1. Judul kerja, X, dan Y diambil dari roadmap. Jangan mengganti, menamai ulang, atau menambah variabel tanpa saya minta.
