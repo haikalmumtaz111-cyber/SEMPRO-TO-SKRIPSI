@@ -18,7 +18,7 @@ Repo ini memuat lebih dari satu proposal. Tiap tema punya folder sendiri dan tid
 3. `riset/log.md` : catatan sesi sebelumnya.
 4. `riset/handoff.md` : konteks lengkap fenomena, teori, kandidat variabel, rujukan. Baca bagian yang perlu saja, jangan dibaca ulang utuh tiap sesi.
 
-Semua pekerjaan proposal jalan lewat skill `sempro` di `.claude/skills/sempro/SKILL.md`.
+Semua pekerjaan proposal jalan lewat skill `sempro` di `.claude/skills/sempro/SKILL.md`, termasuk merapikan bahasa (`references/poles.md`). Skill claude.ai `naskah-natural` (sumbernya di `skill-claude/naskah-natural/`) bisa ikut termuat karena tersinkron dari akun user. Di repo ini yang menang `sempro`, karena hanya `sempro` yang mengatur panduan FDK, sitasi running note, dan folder tema. Kalau aturan poles diubah, ubah keduanya supaya tetap sama.
 
 ## Cara ngobrol
 

@@ -16,7 +16,7 @@ Tentukan mode dari permintaan user. Kalau tidak jelas, lihat `<tema>/riset/keput
 | bimbing | bingung, belum paham, pilih variabel, "maksudnya apa", keputusan masih kosong | `references/alur-bimbingan.md` |
 | tulis | "tulis latar belakang", "susun rumusan masalah", "lanjut nulis" | `references/fdk.md`, `<tema>/riset/keputusan.md`, bagian relevan `<tema>/riset/handoff.md` |
 | cek | "cek nyambung ga", "cek metodologi", "matriks operasionalisasi" | `references/peta-comotan.md` bagian Cek |
-| poles | "rapikan bahasa", "biar ga kaku", "cek EYD" | `references/peta-comotan.md` bagian Bahasa |
+| poles | "rapikan bahasa", "biar ga kaku", "humanize", "cek EYD" | `references/poles.md` (alur lengkap), rujukan per masalah di `references/peta-comotan.md` bagian Bahasa |
 | pustaka | "cari rujukan", "cek DOI", "daftar pustaka" | `references/peta-comotan.md` bagian Pustaka |
 | uji | "simulasi dospem", "apa yang bakal ditanya penguji", "layak ga" | `references/peta-comotan.md` bagian Uji |
 | cetak | "bikin Word", "siap print" | bagian Cetak di bawah |
@@ -38,7 +38,7 @@ Urutan kerja tiap komponen:
    python .claude/skills/sempro/scripts/periksa.py <tema>/proposal/proposal.md
    python .claude/skills/sempro/scripts/metrik.py <tema>/proposal/proposal.md --preset akademik
    ```
-   Temuan K (kaidah) diperbaiki. Temuan gaya dibaca dalam konteks, bukan dituruti buta.
+   Temuan K (kaidah) diperbaiki. Temuan gaya dibaca dalam konteks, bukan dituruti buta. Jalankan juga uji wajib di `references/poles.md` langkah 4 (kalke, personifikasi, pembuka template, kalimat pendek berderet), karena metrik lolos belum berarti naskah natural.
 6. Jelaskan ke user dalam 3 kalimat santai: komponen ini ngomongin apa, kenapa begitu, dan bagian mana yang masih bertanda `[PERLU ...]`.
 7. Minta user membaca dan mengoreksi. User yang memutuskan isi.
 
