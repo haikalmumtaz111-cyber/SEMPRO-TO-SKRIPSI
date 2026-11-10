@@ -21,18 +21,18 @@ Proposal tema 2 disusun user bersama ChatGPT (proyek "Menulis"). Claude bertugas
 - 10 Nov 2026: CMM (Eveland, 2001) jadi teori pendukung untuk Y kognitif saja, bukan teori utama. Teori untuk Y afektif dan konatif dicari terpisah.
 
 - 10 Nov 2026 (sesi 2 ChatGPT): teori appraisal Roseman dipilih user untuk **ditelaah** sebagai dasar Y afektif. Belum dikunci sebagai teori proposal. Roseman (1996) dan Oliver (1980) ada di Crossref. Roseman (1984) bab buku, [PERLU VERIFIKASI]. Penulis Roseman (1996) tunggal, sudah dicek dari PDF.
+- 10 Nov 2026: Oliver (1980) dilepas. Y afektif memakai Roseman (1996) saja, logika harapan lewat *unexpectedness*. Harapan dan appraisal tidak diukur sebagai variabel. Roseman (1984) tidak dipakai selama naskahnya belum ada.
 
 ## Keputusan terbuka (urut prioritas)
 
-1. Peran harapan dan Oliver (1980) untuk Y afektif: (A) Roseman (1996) saja, Oliver dilepas, (B) Roseman ditambah Oliver sebagai penjelas konseptual, (C) harapan diukur sebagai variabel perantara. Rekomendasi Claude: A. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-2.md`.
-1a. Teori untuk Y konatif (belum ada kandidat), payung teori Y, lalu arah hipotesis.
+1. Teori untuk Y konatif. Kandidat yang akan ditelaah di sesi 3: *uncertainty management theory* (Brashers, 2001). Lalu rujukan untuk "paparan membentuk perkiraan" [PERLU RUJUKAN], payung teori Y, dan arah hipotesis.
 2. Bentuk Y: satu skor, atau satu dimensi utama ditambah analisis tambahan.
 3. X dua subskala atau satu indeks.
 4. Populasi, periode, ukuran sampel. [PERLU DATA] jumlah pendaftar baru per bulan dari kantor.
 
 ## Menunggu dari user
 
-- Pilihan A, B, atau C untuk peran harapan dan Oliver (1980).
-- Peran empat PDF baru (Rains & Tukachinsky 2015, Brashers 2001, Mehrabian & Russell 1974, Greenwald 1968): dari mana asalnya dan mau dipakai untuk apa. Daftar di `Sumber/daftar-pdf.md`.
-- Kabar apakah bab Roseman (1984) bisa diperoleh.
+- Laporan sesi 3 ChatGPT (teori Y konatif). Bekal: `riset/chatgpt/bekal-sesi-3.md`, prompt: `riset/chatgpt/prompt-sesi-baru.md` (versi 4).
+- Unduh PDF yang belum dipegang, daftar di `Sumber/daftar-pdf.md`.
+- Baca abstrak dan gambar model Roseman (1996).
 - Cek Library ChatGPT, hapus `proposal.docx` dan `Proposal_Skripsi_Hasil_Revisi_Lengkap.docx` kalau tidak dipakai.

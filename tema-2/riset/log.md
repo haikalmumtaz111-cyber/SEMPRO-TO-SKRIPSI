@@ -58,3 +58,10 @@
 - User mengirim 9 PDF. Lima cocok dengan rujukan terverifikasi, empat baru (Rains & Tukachinsky 2015, Brashers 2001, Mehrabian & Russell 1974, Greenwald 1968), metadata cocok di Crossref. Daftar di `Sumber/daftar-pdf.md`.
 - Penulis Roseman (1996) dipastikan tunggal dari halaman sampul PDF.
 - Tugas berikutnya: user memilih A, B, atau C soal Oliver, dan menjelaskan asal serta peran empat PDF baru.
+
+## 10 November 2026 (lanjutan 9)
+
+- Keputusan user: pilihan A. Oliver (1980) dilepas, Y afektif memakai Roseman (1996) saja, harapan tidak diukur.
+- Empat PDF baru berasal dari tautan ChatGPT di sesi 2 (tidak tercatat di laporan). Aturan nomor 8 ditambahkan ke prompt sesi.
+- Dibuat `riset/chatgpt/bekal-sesi-3.md`, prompt sesi diperbarui ke versi 4 (tugas: teori Y konatif). Daftar PDF yang belum dipegang ada di `Sumber/daftar-pdf.md`.
+- Tugas berikutnya: user unduh PDF prioritas, buka sesi 3 ChatGPT, kirim laporan.
