@@ -205,3 +205,7 @@
 ## 11 November 2026 (lanjutan 22)
 
 - User menjelaskan posisi penelitian dengan kalimat sendiri, tepat. Tahap 8 ditutup. Tahap 10 dibuka, keputusan pertama: bentuk ukur Y kognitif.
+
+## 11 November 2026 (lanjutan 23)
+
+- Keputusan user: Y kognitif skor utama pemahaman yang dirasakan (Likert), soal faktual sebagai tambahan.
