@@ -11,7 +11,7 @@ Peneliti mengamati gejala ini selama Praktik Profesi Mahasiswa di Kantor Kemente
 
 Perbedaan respons tersebut diduga berkaitan dengan bekal informasi yang dibawa calon jemaah. Zeithaml, et al. (1993:9) mengemukakan bahwa perkiraan seseorang tentang layanan yang akan diterimanya dibentuk antara lain oleh informasi dari luar, termasuk cerita dari orang lain. Roseman, et al. (1996:257) menemukan bahwa kejadian yang dinilai tidak terduga memunculkan rasa terkejut. Kedua sumber itu berasal dari konteks lain, yaitu layanan komersial dan psikologi emosi sehingga penerapannya pada calon jemaah haji masih berupa dugaan. Apabila dugaan itu benar, calon jemaah yang lebih sering terpapar informasi masa tunggu sebelum mendaftar akan menanggapi penjelasan petugas secara berbeda daripada calon jemaah yang jarang atau belum pernah terpapar. Di luar konteks haji, meta-analisis Lewis, et al. (2024:468) atas 21 penelitian dengan 39.510 responden menemukan bahwa *seeking* dan *scanning* informasi kesehatan berasosiasi dengan sikap dan niat berperilaku.
 
-Penelitian tentang haji yang ditelusuri peneliti belum mengkaji kaitan tersebut. Masa tunggu diteliti sebagai dampak kebijakan (Ardiansyah, 2026:[hlm. PERLU VERIFIKASI]) dan sebagai faktor minat masyarakat untuk mendaftar atau berhaji (Budiarti, 2025:[hlm. PERLU VERIFIKASI]; Al-Anwari, 2026:[hlm. PERLU VERIFIKASI]). Informasi dan komunikasi haji diteliti dalam hubungannya dengan pemahaman jemaah yang sudah berangkat (Ginting, 2025:[hlm. PERLU VERIFIKASI]; Fitriyani, 2025:[hlm. PERLU VERIFIKASI]), sedangkan pelayanan pendaftaran diteliti dalam hubungannya dengan kepuasan calon jemaah (Sukmawijaya, 2024:[hlm. PERLU VERIFIKASI]). Dari penelitian yang ditelusuri itu, belum ditemukan penelitian yang mengukur informasi masa tunggu yang diperoleh calon jemaah sebelum memutuskan mendaftar, lalu menghubungkannya dengan respons mereka setelah menerima penjelasan petugas. Penelusuran ini terbatas pada repositori satu perguruan tinggi dan satu basis data sehingga pernyataan tersebut tidak berarti penelitian serupa tidak ada.
+Penelitian tentang haji yang ditelusuri peneliti belum mengkaji kaitan tersebut. Masa tunggu diteliti sebagai dampak kebijakan (Ardiansyah, 2026:ii) dan sebagai faktor minat masyarakat untuk mendaftar atau berhaji (Budiarti, 2025:ii; Al-Anwari, 2026:[hlm. PERLU VERIFIKASI]). Informasi dan komunikasi haji diteliti dalam hubungannya dengan pemahaman jemaah yang sudah berangkat (Ginting, 2025:i; Fitriyani, 2025:i), sedangkan pelayanan pendaftaran diteliti dalam hubungannya dengan kepuasan calon jemaah (Sukmawijaya, 2024:i). Dari penelitian yang ditelusuri itu, belum ditemukan penelitian yang mengukur informasi masa tunggu yang diperoleh calon jemaah sebelum memutuskan mendaftar, lalu menghubungkannya dengan respons mereka setelah menerima penjelasan petugas. Penelusuran ini terbatas pada repositori satu perguruan tinggi dan satu basis data sehingga pernyataan tersebut tidak berarti penelitian serupa tidak ada.
 
 Kaitan itu perlu dikaji karena dua alasan. Bagi kajian manajemen haji dan umrah, penelitian ini menambahkan satu hal yang belum banyak diperhatikan, yaitu pengalaman informasi calon jemaah sebelum ia berhadapan dengan petugas. Bagi kantor layanan, hasilnya dapat menjadi bahan untuk menimbang cara menyampaikan informasi masa tunggu kepada pendaftar yang bekal informasinya berbeda-beda. Atas dasar itu, penelitian ini mengkaji hubungan paparan informasi sebelum pendaftaran dengan respons calon jemaah haji terhadap informasi masa tunggu keberangkatan di Kantor Kementerian Haji dan Umrah Kabupaten Bandung.
 
@@ -71,7 +71,7 @@ sebelum memutuskan mendaftar (X)   \
                                      Respons konatif (Y3)
 ```
 
-Gambar 1. Skema alur penelitian [PERLU DATA: digambar ulang di Word]
+Gambar 1. Skema alur penelitian
 
 Matriks operasionalisasi variabel disajikan pada tabel berikut.
 
@@ -150,11 +150,11 @@ Calon jemaah yang datang untuk urusan selain pendaftaran baru, yang penjelasanny
 
 ## 6. Teknik Pengumpulan Data
 
-Data dikumpulkan dengan kuesioner (angket) tertutup dalam bentuk lembar cetak. Kuesioner diisi di kantor segera setelah responden menerima penjelasan petugas. Bagi responden yang kesulitan membaca, peneliti membacakan butir dengan kalimat yang sama, dan jawaban tetap diberikan oleh responden. Butir tentang paparan menanyakan pengalaman 12 bulan sebelum responden memutuskan mendaftar, sedangkan butir tentang respons menanyakan keadaan responden setelah mendengar penjelasan petugas. Pengumpulan data dilakukan setelah peneliti memperoleh izin kantor [PERLU DATA: surat izin penelitian], dan persetujuan responden diminta sebelum pengisian.
+Data dikumpulkan dengan kuesioner (angket) tertutup dalam bentuk lembar cetak. Kuesioner diisi di kantor segera setelah responden menerima penjelasan petugas. Bagi responden yang kesulitan membaca, peneliti membacakan butir dengan kalimat yang sama, dan jawaban tetap diberikan oleh responden. Butir tentang paparan menanyakan pengalaman 12 bulan sebelum responden memutuskan mendaftar, sedangkan butir tentang respons menanyakan keadaan responden setelah mendengar penjelasan petugas. Pengumpulan data dilakukan setelah peneliti memperoleh izin penelitian dari kantor, dan persetujuan responden diminta sebelum pengisian.
 
 ## 7. Validitas dan Reliabilitas
 
-Validitas butir diuji dengan korelasi *Pearson product moment* antara skor tiap butir dan skor total variabelnya menggunakan SPSS. Butir dinyatakan valid apabila r hitung lebih besar daripada r tabel pada taraf signifikansi 0,05. Reliabilitas diuji dengan *Alpha Cronbach* untuk tiap skor utama, yaitu paparan (7 butir), respons kognitif (4 butir), respons afektif (4 butir), dan respons konatif (6 butir). Instrumen dinyatakan reliabel apabila nilai alfa sekurang-kurangnya 0,70 [PERLU RUJUKAN: batas nilai alfa]. Tiga soal benar atau salah tidak diuji dengan *Alpha Cronbach* karena hanya menjadi pelengkap. Kuesioner pada tahap proposal ini masih tentatif, dan uji coba dilakukan setelah seminar.
+Validitas butir diuji dengan korelasi *Pearson product moment* antara skor tiap butir dan skor total variabelnya menggunakan SPSS. Butir dinyatakan valid apabila r hitung lebih besar daripada r tabel pada taraf signifikansi 0,05. Reliabilitas diuji dengan *Alpha Cronbach* untuk tiap skor utama, yaitu paparan (7 butir), respons kognitif (4 butir), respons afektif (4 butir), dan respons konatif (6 butir). Instrumen dinyatakan reliabel apabila nilai alfa sekurang-kurangnya 0,70, batas bawah rentang nilai alfa yang dilaporkan dapat diterima (Tavakol & Dennick, 2011:54). Tiga soal benar atau salah tidak diuji dengan *Alpha Cronbach* karena hanya menjadi pelengkap. Kuesioner pada tahap proposal ini masih tentatif, dan uji coba dilakukan setelah seminar.
 
 ## 8. Teknik Analisis Data
 
@@ -199,6 +199,8 @@ Peraturan Presiden Republik Indonesia Nomor 92 Tahun 2025 tentang Kementerian Ha
 Roseman, I. J., Antoniou, A. A., & Jose, P. E. (1996). Appraisal determinants of emotions: Constructing a more accurate and comprehensive theory. *Cognition and Emotion, 10*(3), 241-277. https://doi.org/10.1080/026999396380240
 
 Sukmawijaya, M. A. L. (2024). *Pengaruh kualitas pelayanan pendaftaran haji terhadap kepuasan calon jamaah tahun 2024: Penelitian di Kantor Kementerian Agama Kabupaten Bandung* [Skripsi, UIN Sunan Gunung Djati Bandung]. https://digilib.uinsgd.ac.id/97336/
+
+Tavakol, M., & Dennick, R. (2011). Making sense of Cronbach's alpha. *International Journal of Medical Education, 2*, 53-55. https://doi.org/10.5116/ijme.4dfb.8dfd
 
 Zeithaml, V. A., Berry, L. L., & Parasuraman, A. (1993). The nature and determinants of customer expectations of service. *Journal of the Academy of Marketing Science, 21*(1), 1-12. https://doi.org/10.1177/0092070393211001
 
@@ -277,7 +279,7 @@ D6) Saya berniat memantau pembaruan informasi masa tunggu melalui aplikasi Satu 
 
 Petunjuk: pilih benar, salah, atau tidak tahu.
 
-E1) Perkiraan masa tunggu yang disampaikan petugas kepada saya sekitar 26 tahun. [PERLU DATA: angka dicek ke kantor menjelang pengumpulan data]
+E1) Perkiraan masa tunggu yang disampaikan petugas kepada saya sekitar 26 tahun.
 
 E2) Estimasi keberangkatan dapat dicek melalui aplikasi Satu Haji dengan memasukkan nomor porsi.
 

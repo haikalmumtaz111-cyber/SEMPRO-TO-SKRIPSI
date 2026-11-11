@@ -263,3 +263,9 @@
 ## 11 November 2026 (lanjutan 36)
 
 - User membaca latar belakang, menjelaskannya, dan mengonfirmasi isi paragraf pengamatan PPM. Tanda PERLU untuk SPPH, nama aplikasi, dan jumlah pendaftar ditutup. Klaim bunyi Pasal 65 Perpres 92/2025 dihapus dari naskah karena laman BPK tidak bisa dibuka (HTTP 403); kalimat diganti dengan yang hanya bersandar pada judul peraturan dan pengamatan peneliti.
+
+## 11 November 2026 (lanjutan 37)
+
+- User menjelaskan bagian B, C, D, F, dan G dengan kalimat sendiri, tepat.
+- Tanda PERLU ditutup: halaman abstrak lima skripsi (dicek dari PDF abstrak di repositori: Ginting i, Fitriyani i, Sukmawijaya i, Ardiansyah ii, Budiarti ii), batas alfa (Tavakol & Dennick, 2011:54, dibaca dari PDF artikel). Dua artikel metodologi lain (Setia 2016; Schober dkk. 2018) ada di Crossref tetapi isinya tidak bisa dibuka, jadi tidak dipakai.
+- Word draf dibuat: `output/proposal.docx`. Sisa 6 tanda di naskah.
