@@ -45,15 +45,18 @@ Yang dibaca Claude langsung dari PDF:
   informasi, mengikuti penilaian dan emosi itu.
 - Rains & Tukachinsky (2015), abstrak: eksperimen laboratorium, N = 157, konteks kanker kulit.
   Tingkat ketidakpastian yang diinginkan memprediksi intensitas appraisal, dan intensitas
-  appraisal memprediksi kedalaman pencarian informasi.
+  appraisal memprediksi kedalaman pencarian informasi, tetapi hubungan yang kedua ini arahnya
+  berlawanan dengan yang diduga penelitinya. Jadi dukungan empiris untuk rantai appraisal ke
+  pencarian informasi di artikel ini tidak bersih.
 
 Penilaian:
 
 1. **UMT memuat rantai emosi lalu pencarian informasi dalam satu teori.** Itu persis Y afektif
    lalu Y konatif. Kalau cocok, jumlah teori turun dari tiga (CMM, Roseman dkk., TPB) menjadi dua
    (CMM, UMT), atau UMT menjadi payung dan Roseman dkk. hanya perinci emosi. Kelemahan UMT: lahir
-   dari konteks penyakit, konstruk intinya ketidakpastian (tidak diukur di desain ini), dan orang
-   bisa juga menghindari informasi sehingga arah hubungan tidak tunggal.
+   dari konteks penyakit, konstruk intinya ketidakpastian (tidak diukur di desain ini), orang bisa
+   juga menghindari informasi sehingga arah hubungan tidak tunggal, dan uji Rains & Tukachinsky
+   (2015) sendiri menemukan arah yang berlawanan dengan dugaan.
 2. **TPB tidak punya kotak untuk X.** Tiga penentu niat di TPB adalah sikap terhadap perilaku,
    norma subjektif, dan persepsi kontrol. Ketiganya tidak diukur. Jadi TPB hanya menamai Y konatif
    sebagai "niat", tidak menjelaskan kenapa X berhubungan dengannya.
