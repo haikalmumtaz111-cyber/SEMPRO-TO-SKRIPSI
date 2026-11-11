@@ -125,3 +125,9 @@
 
 - Keputusan user: Y dianalisis per dimensi, tiga skor dan tiga hipotesis.
 - Tugas berikutnya: user memilih isi Y afektif.
+
+## 11 November 2026 (lanjutan 8)
+
+- Data lapangan dari user (PPM): respons jemaah bermacam-macam, ada yang tenang, biasa saja, menganggap selesai, dan bertanya apakah bisa dipercepat.
+- Keputusan user: Y afektif dua emosi (terkejut, khawatir), satu skor.
+- Tugas berikutnya: user memilih bentuk Y konatif.
