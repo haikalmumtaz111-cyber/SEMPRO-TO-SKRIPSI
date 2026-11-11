@@ -53,7 +53,7 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 - 11 Nov 2026: **sampel** memakai rumus Slovin galat 10% dengan *consecutive sampling*, target sekitar 80 responden (dihitung ulang dengan N dari kantor). Rancangan metode versi kerja di `riset/metode.md`.
 - 11 Nov 2026: **teknik uji**: uji normalitas lebih dulu, Pearson bila normal, Spearman bila tidak. Tidak memakai regresi.
 - 11 Nov 2026: kriteria responden disesuaikan dengan keterangan lapangan: responden harus mendengar sendiri penjelasan petugas, calon jemaah yang penjelasannya hanya didengar pendamping tidak ikut. Batas usia minimal 17 tahun masih usulan.
-- 11 Nov 2026: data populasi diterima: 7.368 catatan SPH elektronik di Siskohat Gen.2 Kab. Bandung untuk 1 Januari 2025 sampai 11 November 2026, rata-rata sekitar 329 per bulan. Sampel Slovin 10% menjadi 77 responden. Angka kerja sementara (300 sampai 600) tidak dipakai lagi. Masih [PERLU VERIFIKASI]: satu catatan sama dengan satu pendaftar baru, dan izin kantor untuk mengutip. Tangkapan layar memuat nama dan nomor porsi jemaah, **tidak disimpan di repo**.
+- 11 Nov 2026: data populasi diterima: 7.368 catatan SPH elektronik di Siskohat Gen.2 Kab. Bandung untuk 1 Januari 2025 sampai 11 November 2026, rata-rata sekitar 330 per bulan. Sampel Slovin 10% menjadi 77 responden. Angka kerja sementara (300 sampai 600) tidak dipakai lagi. Masih [PERLU VERIFIKASI]: satu catatan sama dengan satu pendaftar baru, dan izin kantor untuk mengutip. Tangkapan layar memuat nama dan nomor porsi jemaah, **tidak disimpan di repo**.
 
 ## Keputusan terbuka (urut prioritas)
 
