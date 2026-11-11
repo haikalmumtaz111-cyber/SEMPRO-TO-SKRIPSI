@@ -19,8 +19,8 @@ evaluasi Claude.
 | 7 | Mengumpulkan dan memeriksa penelitian terdahulu | 6 | [x] | Selesai 11 Nov untuk enam skripsi terdekat (abstrak; Ginting sampai BAB I). Matriks di `riset/penelitian-terdahulu.md`. Penelusuran luar kampus masih awal |
 | 8 | Merumuskan research gap | 6 | [x] | Selesai 11 Nov. Rumusan posisi di `riset/penelitian-terdahulu.md`. Klaim dibatasi "dari yang ditelusuri belum ditemukan" |
 | 9 | Menetapkan teori dan kerangka konseptual | 5 | [x] | Selesai 11 Nov. Teori dikunci, kerangka versi kerja di `riset/kerangka-konseptual.md`. Belum dilihat pembimbing |
-| 10 | Definisi konseptual, dimensi, indikator, operasionalisasi | 4 | [~] | **Aktif.** Bentuk skor X dan Y sudah diputuskan. Sedang: bentuk ukur Y kognitif |
-| 11 | Populasi, unit analisis, kriteria, sampel | 7 | [ ] | Kandidat consecutive sampling |
+| 10 | Definisi konseptual, dimensi, indikator, operasionalisasi | 4 | [x] | Selesai 11 Nov. Matriks di `riset/matriks-operasionalisasi.md`. Satu indikator masih [PERLU RUJUKAN] |
+| 11 | Populasi, unit analisis, kriteria, sampel | 7 | [~] | **Aktif, tertahan.** Menunggu jumlah pendaftar baru per bulan dari kantor. Kandidat consecutive sampling |
 | 12 | Jenis data, sumber data, teknik pengumpulan | 7 | [ ] | |
 | 13 | Menyusun kuesioner dan kisi-kisi | 8 | [ ] | |
 | 14 | Validasi isi, uji coba, validitas, reliabilitas | 8 | [ ] | Sebelum sempro cukup validasi isi (Panduan FDK: kuesioner tentatif) |
@@ -49,7 +49,7 @@ November 2026): 1 fenomena, 2 topik, 3 judul, 4 variabel, 5 teori, 6 research ga
 
 ## Aturan pakai
 
-- ChatGPT mengerjakan tahap aktif saja (sekarang 10). Tahap 10 boleh
+- ChatGPT mengerjakan tahap aktif saja (sekarang 11, sambil menunggu data kantor boleh 12, 13, 15). Tahap 10 boleh
   disentuh hanya untuk keputusan yang bergantung langsung pada teori.
 - Pekerjaan tahap 11 ke atas sebelum tahap 7 sampai 10 selesai dianggap loncat tahap.
 - Status diperbarui setiap kali user mengirim backup atau roadmap baru.

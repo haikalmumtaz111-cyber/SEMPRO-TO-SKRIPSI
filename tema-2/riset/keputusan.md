@@ -47,18 +47,18 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 - 11 Nov 2026: sumber informasi untuk X, dari keterangan lapangan user: media sosial, internet atau portal berita, dan datang sendiri ke kantor. Ditambah keluarga, teman, tetangga dari literatur (belum dikonfirmasi lapangan). Seeking 4 butir, scanning 3 butir (kantor tidak masuk scanning).
 - 11 Nov 2026: **skala X** empat tingkat dengan hitungan (tidak pernah, 1 sampai 2 kali, 3 sampai 5 kali, lebih dari 5 kali), dipakai untuk seeking dan scanning. Adaptasi dari Kelly dkk. (2009), batas tingkat ditetapkan peneliti.
 - 11 Nov 2026: **Y konatif diubah dari tiga menjadi dua indikator**: niat bertanya kepada petugas dan niat mengecek lewat aplikasi resmi (masing-masing 3 butir). "Niat mencari informasi resmi" dilebur karena tumpang-tindih. Skor tetap satu. Pada Y kognitif, indikator "sanggup menjelaskan kembali" dipertahankan [PERLU RUJUKAN].
+- 11 Nov 2026: **Tahap 10 ditutup.** User menjelaskan cara ukur X dan Y kognitif dengan kalimat sendiri, tepat.
 
 ## Keputusan terbuka (urut prioritas)
 
 1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.
 2. (Selesai) Bentuk Y sudah diputuskan, lihat keputusan terkunci.
-3. Tahap 10: matriks sudah lengkap keputusannya (`riset/matriks-operasionalisasi.md`). Menunggu user menjelaskannya dengan kalimat sendiri. Lalu Tahap 11 (populasi dan sampel), yang butuh data jumlah pendaftar dari kantor.
+3. Tahap 11 (populasi dan sampel) tertahan data kantor. Sambil menunggu: Tahap 12 (jenis data dan teknik pengumpulan), Tahap 13 (butir kuesioner tentatif), Tahap 15 (rencana analisis).
 4. Populasi, periode, ukuran sampel. [PERLU DATA] jumlah pendaftar baru per bulan dari kantor.
 
 ## Menunggu dari user
 
-- Penjelasan matriks dengan kalimat sendiri (X diukur bagaimana, tiga Y diukur bagaimana).
-- Jumlah pendaftar haji baru per bulan dari kantor (untuk Tahap 11).
+- Dari kantor: (1) jumlah pendaftar haji baru per bulan, 3 sampai 6 bulan terakhir; (2) estimasi masa tunggu yang sekarang disampaikan ke pendaftar baru; (3) benar tidaknya jeda 3 hari sebelum estimasi bisa dicek, dan nama resmi aplikasinya.
 - Balasan email penulis Lewis dkk. (2024), kalau ada.
 
 ## Tugas Claude
