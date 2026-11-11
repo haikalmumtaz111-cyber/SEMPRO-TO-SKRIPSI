@@ -137,3 +137,9 @@
 - Keputusan user: Y konatif satu skor dengan tiga indikator.
 - Belum dijawab user: halaman Eveland untuk klaim elaborasi (ditanya dua kali), dan data lapangan soal niat memantau informasi sendiri.
 - Tugas berikutnya: user memilih bentuk X.
+
+## 11 November 2026 (lanjutan 10)
+
+- Data lapangan dari user: alur penjelasan petugas sesudah pendaftaran (estimasi keberangkatan, cara cek di aplikasi, jeda 3 hari), sebagian jemaah sudah tahu cara cek dan sebagian belum, ada yang bilang mau mengecek sendiri. Dicatat di `keputusan.md`.
+- Keputusan user: X satu skor utama, seeking dan scanning sebagai analisis tambahan.
+- Tugas berikutnya: user memilih bentuk hipotesis.

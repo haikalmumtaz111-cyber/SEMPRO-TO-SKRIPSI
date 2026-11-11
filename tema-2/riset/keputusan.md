@@ -28,19 +28,20 @@ Proposal tema 2 disusun user bersama ChatGPT (proyek "Menulis"). Claude bertugas
 - 11 Nov 2026: **teori dikunci** sesudah user membaca ringkasan, mengecek PDF, dan menjelaskan tiap teori dengan kalimatnya sendiri. X: Niederdeppe dkk. (2007), Kelly dkk. (2009). Y kognitif: CMM (Eveland, 2001). Y afektif: Roseman, Antoniou, & Jose (1996). Y konatif: konsep niat TPB (Ajzen, 1991). Struktur Y: Breckler (1984). Semua dipakai terbatas sesuai batas di `riset/ringkasan-jurnal.md`.
 - 11 Nov 2026: **Y dianalisis per dimensi**: tiga skor (kognitif, afektif, konatif) dan tiga hipotesis. Tidak ada skor gabungan Y. Konsekuensi: tiap dimensi butuh butir yang cukup dan uji reliabilitas sendiri.
 - 11 Nov 2026: **Y afektif diisi dua emosi, terkejut dan khawatir, satu skor** (kuat lemahnya reaksi emosi). "Tenang/merasa terbantu" tidak dijadikan indikator. Catatan lapangan dari user (PPM): ada jemaah yang tenang, ada yang biasa saja, ada yang menganggap selesai sesudah dijelaskan, ada yang bertanya apakah bisa dipercepat. Jemaah yang tenang atau biasa saja akan tercatat sebagai skor rendah. Batas: skor rendah tidak membedakan "lega" dari "tidak bereaksi".
-- 11 Nov 2026: **Y konatif satu skor, tiga indikator** (niat bertanya kepada petugas, mencari informasi resmi, memantau pembaruan), nama kerja "niat menindaklanjuti informasi". Pengaman: kalau saat uji coba tiga indikator tidak kompak, hasil dilaporkan per indikator sebagai analisis tambahan. Dasar lapangan: bertanya kepada petugas ada (PPM). Mencari informasi resmi dan memantau pembaruan [PERLU DATA], belum dikonfirmasi user.
+- 11 Nov 2026: **Y konatif satu skor, tiga indikator** (niat bertanya kepada petugas, mencari informasi resmi, memantau pembaruan), nama kerja "niat menindaklanjuti informasi". Pengaman: kalau saat uji coba tiga indikator tidak kompak, hasil dilaporkan per indikator sebagai analisis tambahan. Dasar lapangan ada untuk bertanya kepada petugas dan mengecek lewat aplikasi (lihat catatan lapangan 11 Nov).
+- 11 Nov 2026: **X satu skor paparan sebagai variabel utama** (tiga hipotesis utama), seeking dan scanning dilaporkan terpisah sebagai analisis tambahan tanpa hipotesis.
+- Catatan lapangan dari user (PPM, 11 Nov 2026): sesudah pendaftaran dan penyerahan surat, petugas menyampaikan estimasi keberangkatan (berapa tahun) dan cara mengeceknya di aplikasi. Sebagian jemaah sudah tahu cara mengecek, sebagian belum. Jemaah diberi tahu estimasi baru bisa dicek 3 hari sesudah mendaftar. Ada jemaah yang bilang mau mengecek sendiri. Nama aplikasi yang disebut user: Satu Haji [PERLU VERIFIKASI nama resmi aplikasi dan aturan 3 hari ke sumber resmi sebelum ditulis di naskah].
 
 ## Keputusan terbuka (urut prioritas)
 
 1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.
 2. (Selesai) Bentuk Y sudah diputuskan, lihat keputusan terkunci.
-3. **Sedang diputuskan.** Bentuk X: (A) satu skor paparan, 3 hipotesis, (B) dua subskala seeking dan scanning, 6 hipotesis, (C) satu skor utama dengan seeking dan scanning sebagai analisis tambahan. Rekomendasi Claude: C. Bahan: Lewis dkk. (2024), r seeking dengan scanning = 0,35 (berbeda tetapi berkaitan), dan abstraknya menyebut asosiasi keduanya dengan sikap dan niat setara.
+3. **Sedang diputuskan.** Bentuk hipotesis: (A) berarah, (B) tidak berarah dengan dugaan arah ditulis di kerangka pemikiran. Rekomendasi Claude: B.
 4. Populasi, periode, ukuran sampel. [PERLU DATA] jumlah pendaftar baru per bulan dari kantor.
 
 ## Menunggu dari user
 
-- Pilihan A, B, atau C untuk bentuk X.
-- Jawaban: saat PPM, adakah jemaah yang bilang mau mengecek aplikasi atau memantau informasi sendiri sesudah mendaftar?
-- Halaman di Eveland (2001) yang menunjukkan elaborasi paling konsisten berhubungan dengan pengetahuan.
+- Pilihan A atau B untuk bentuk hipotesis.
+- Asal kalimat user "di data Eveland yang paling konsisten ngaruh itu elaborasi": dari PDF (halaman berapa) atau bukan.
 - Balasan email penulis Lewis dkk. (2024), kalau ada.
 - Cek Library ChatGPT, hapus `proposal.docx` dan `Proposal_Skripsi_Hasil_Revisi_Lengkap.docx` kalau tidak dipakai.
