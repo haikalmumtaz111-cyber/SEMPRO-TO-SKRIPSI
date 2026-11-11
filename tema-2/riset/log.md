@@ -229,3 +229,7 @@
 ## 11 November 2026 (lanjutan 28)
 
 - User menjelaskan matriks dengan kalimat sendiri, tepat. **Tahap 10 ditutup.** Tahap 11 tertahan data kantor.
+
+## 11 November 2026 (lanjutan 29)
+
+- Data lapangan user: pendaftar bisa sampai sekitar 30 orang per hari (puncak), masa tunggu 26 tahun, jeda cek estimasi 3 hari. Tahap 11 dijalankan dengan angka kerja sementara bertanda [PERLU DATA].

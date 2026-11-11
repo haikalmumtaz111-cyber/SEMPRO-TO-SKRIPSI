@@ -20,7 +20,7 @@ evaluasi Claude.
 | 8 | Merumuskan research gap | 6 | [x] | Selesai 11 Nov. Rumusan posisi di `riset/penelitian-terdahulu.md`. Klaim dibatasi "dari yang ditelusuri belum ditemukan" |
 | 9 | Menetapkan teori dan kerangka konseptual | 5 | [x] | Selesai 11 Nov. Teori dikunci, kerangka versi kerja di `riset/kerangka-konseptual.md`. Belum dilihat pembimbing |
 | 10 | Definisi konseptual, dimensi, indikator, operasionalisasi | 4 | [x] | Selesai 11 Nov. Matriks di `riset/matriks-operasionalisasi.md`. Satu indikator masih [PERLU RUJUKAN] |
-| 11 | Populasi, unit analisis, kriteria, sampel | 7 | [~] | **Aktif, tertahan.** Menunggu jumlah pendaftar baru per bulan dari kantor. Kandidat consecutive sampling |
+| 11 | Populasi, unit analisis, kriteria, sampel | 7 | [~] | **Aktif.** Jalan dengan angka kerja sementara [PERLU DATA], diganti saat data kantor ada. Kandidat consecutive sampling |
 | 12 | Jenis data, sumber data, teknik pengumpulan | 7 | [ ] | |
 | 13 | Menyusun kuesioner dan kisi-kisi | 8 | [ ] | |
 | 14 | Validasi isi, uji coba, validitas, reliabilitas | 8 | [ ] | Sebelum sempro cukup validasi isi (Panduan FDK: kuesioner tentatif) |

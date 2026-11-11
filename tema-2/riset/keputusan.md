@@ -48,17 +48,20 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 - 11 Nov 2026: **skala X** empat tingkat dengan hitungan (tidak pernah, 1 sampai 2 kali, 3 sampai 5 kali, lebih dari 5 kali), dipakai untuk seeking dan scanning. Adaptasi dari Kelly dkk. (2009), batas tingkat ditetapkan peneliti.
 - 11 Nov 2026: **Y konatif diubah dari tiga menjadi dua indikator**: niat bertanya kepada petugas dan niat mengecek lewat aplikasi resmi (masing-masing 3 butir). "Niat mencari informasi resmi" dilebur karena tumpang-tindih. Skor tetap satu. Pada Y kognitif, indikator "sanggup menjelaskan kembali" dipertahankan [PERLU RUJUKAN].
 - 11 Nov 2026: **Tahap 10 ditutup.** User menjelaskan cara ukur X dan Y kognitif dengan kalimat sendiri, tepat.
+- 11 Nov 2026, catatan lapangan user (pengamatan PPM Februari sampai Juni 2026): pendaftar haji bisa sampai sekitar 30 orang per hari (angka puncak, bukan rata-rata; jumlah per bulan belum diketahui). Masa tunggu yang disampaikan petugas 26 tahun. Estimasi baru bisa dicek 3 hari sesudah mendaftar. User menyatakan ketiganya dari pengalaman langsung. Di naskah ditulis sebagai pengamatan peneliti selama PPM, bukan sebagai ketentuan resmi. Angka masa tunggu dan jeda hari dicek ulang ke kantor menjelang pengumpulan data (Tahap 20), karena menjadi kunci jawaban soal faktual.
+- 11 Nov 2026: Tahap 11 dikerjakan dengan **angka kerja sementara** untuk jumlah pendaftar (kisaran 300 sampai 600 per bulan, turunan kasar dari pengamatan user) bertanda [PERLU DATA], diganti begitu data kantor diperoleh.
 
 ## Keputusan terbuka (urut prioritas)
 
 1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.
 2. (Selesai) Bentuk Y sudah diputuskan, lihat keputusan terkunci.
-3. Tahap 11 (populasi dan sampel) tertahan data kantor. Sambil menunggu: Tahap 12 (jenis data dan teknik pengumpulan), Tahap 13 (butir kuesioner tentatif), Tahap 15 (rencana analisis).
+3. **Sedang diputuskan (Tahap 11).** Ukuran dan teknik sampel: (A) Slovin galat 10% dengan consecutive sampling, (B) seluruh pendaftar dalam periode tertentu, (C) Slovin galat 5%. Rekomendasi Claude: A. Sesudah itu Tahap 12, 13, 15.
 4. Populasi, periode, ukuran sampel. [PERLU DATA] jumlah pendaftar baru per bulan dari kantor.
 
 ## Menunggu dari user
 
-- Dari kantor: (1) jumlah pendaftar haji baru per bulan, 3 sampai 6 bulan terakhir; (2) estimasi masa tunggu yang sekarang disampaikan ke pendaftar baru; (3) benar tidaknya jeda 3 hari sebelum estimasi bisa dicek, dan nama resmi aplikasinya.
+- Pilihan A, B, atau C untuk ukuran dan teknik sampel.
+- Dari kantor: jumlah pendaftar haji baru per bulan, 3 sampai 6 bulan terakhir (user sedang menanyakan).
 - Balasan email penulis Lewis dkk. (2024), kalau ada.
 
 ## Tugas Claude
