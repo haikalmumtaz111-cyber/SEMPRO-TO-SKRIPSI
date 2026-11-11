@@ -46,12 +46,11 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 
 1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.
 2. (Selesai) Bentuk Y sudah diputuskan, lihat keputusan terkunci.
-3. Tahap 7: memeriksa penelitian terdahulu dari konteks haji. Prioritas empat naskah: Ginting (2025), Fitriyani, Aziz, & Fitriani (2025), Khoirunnisak (2026), Sukmawijaya (2024). Judul lengkap dan sumbernya [PERLU VERIFIKASI], di roadmap hanya tercatat nama dan topik. Ardiansyah (2026) sudah diperiksa menurut backup V4.
+3. Tahap 7: matriks empat penelitian terdekat sudah diisi dari abstrak repositori (`riset/penelitian-terdahulu.md`). Sisa: teori Ginting (2025) dari BAB I atau II, Khoirunnisak (2026) [PERLU VERIFIKASI], dan penelusuran di luar repositori UIN. Lalu Tahap 8 (research gap).
 4. Populasi, periode, ukuran sampel. [PERLU DATA] jumlah pendaftar baru per bulan dari kantor.
 
 ## Menunggu dari user
 
-- Naskah (minimal abstrak dan BAB I) empat penelitian terdahulu prioritas, dari repositori UIN atau sumber aslinya.
 - Jumlah pendaftar haji baru per bulan dari kantor (untuk Tahap 11).
 - Balasan email penulis Lewis dkk. (2024), kalau ada.
 

@@ -192,3 +192,7 @@
 
 - User menjelaskan tiga hubungan kerangka dengan kalimat sendiri, tepat. **Tahap 9 ditutup.**
 - Tahap 7 dibuka. Roadmap mencatat 14 penelitian terdahulu, baru Ardiansyah (2026) yang diperiksa. Pencarian otomatis di OpenAlex gagal (HTTP 429, kuota tanpa kunci). Prioritas empat naskah diminta dari user.
+
+## 11 November 2026 (lanjutan 20)
+
+- Claude mengambil abstrak langsung dari repositori UIN untuk Ginting (2025), Fitriyani (2025), Sukmawijaya (2024). Matriks di `riset/penelitian-terdahulu.md`. Koreksi roadmap: Fitriyani (2025) satu penulis, Khoirunnisak (2026) tidak ditemukan di repositori UIN.
