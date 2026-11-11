@@ -233,3 +233,7 @@
 ## 11 November 2026 (lanjutan 29)
 
 - Data lapangan user: pendaftar bisa sampai sekitar 30 orang per hari (puncak), masa tunggu 26 tahun, jeda cek estimasi 3 hari. Tahap 11 dijalankan dengan angka kerja sementara bertanda [PERLU DATA].
+
+## 11 November 2026 (lanjutan 30)
+
+- Keputusan user: Slovin galat 10% dengan consecutive sampling. Dibuat `riset/metode.md` (populasi, sampel, kriteria, jenis data, cara pengumpulan, rencana uji instrumen). Teknik uji hubungan sedang diputuskan.

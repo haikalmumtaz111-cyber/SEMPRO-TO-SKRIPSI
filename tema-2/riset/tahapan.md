@@ -20,11 +20,11 @@ evaluasi Claude.
 | 8 | Merumuskan research gap | 6 | [x] | Selesai 11 Nov. Rumusan posisi di `riset/penelitian-terdahulu.md`. Klaim dibatasi "dari yang ditelusuri belum ditemukan" |
 | 9 | Menetapkan teori dan kerangka konseptual | 5 | [x] | Selesai 11 Nov. Teori dikunci, kerangka versi kerja di `riset/kerangka-konseptual.md`. Belum dilihat pembimbing |
 | 10 | Definisi konseptual, dimensi, indikator, operasionalisasi | 4 | [x] | Selesai 11 Nov. Matriks di `riset/matriks-operasionalisasi.md`. Satu indikator masih [PERLU RUJUKAN] |
-| 11 | Populasi, unit analisis, kriteria, sampel | 7 | [~] | **Aktif.** Jalan dengan angka kerja sementara [PERLU DATA], diganti saat data kantor ada. Kandidat consecutive sampling |
-| 12 | Jenis data, sumber data, teknik pengumpulan | 7 | [ ] | |
+| 11 | Populasi, unit analisis, kriteria, sampel | 7 | [~] | Slovin 10%, consecutive sampling, kriteria versi kerja di `riset/metode.md`. Kurang: N dari kantor [PERLU DATA] |
+| 12 | Jenis data, sumber data, teknik pengumpulan | 7 | [~] | Versi kerja di `riset/metode.md`, menunggu koreksi user |
 | 13 | Menyusun kuesioner dan kisi-kisi | 8 | [ ] | |
 | 14 | Validasi isi, uji coba, validitas, reliabilitas | 8 | [ ] | Sebelum sempro cukup validasi isi (Panduan FDK: kuesioner tentatif) |
-| 15 | Rencana analisis data | 7 | [ ] | |
+| 15 | Rencana analisis data | 7 | [~] | **Aktif.** Teknik uji sedang diputuskan |
 | 16 | Menulis dokumen proposal | 9 | [ ] | Sepuluh komponen FDK |
 | 17 | Konsultasi, revisi, pemeriksaan administratif | 9 | [ ] | |
 | 18 | Pengajuan dan seminar usulan | 10 | [ ] | |
