@@ -21,8 +21,8 @@ evaluasi Claude.
 | 9 | Menetapkan teori dan kerangka konseptual | 5 | [x] | Selesai 11 Nov. Teori dikunci, kerangka versi kerja di `riset/kerangka-konseptual.md`. Belum dilihat pembimbing |
 | 10 | Definisi konseptual, dimensi, indikator, operasionalisasi | 4 | [x] | Selesai 11 Nov. Matriks di `riset/matriks-operasionalisasi.md`. Satu indikator masih [PERLU RUJUKAN] |
 | 11 | Populasi, unit analisis, kriteria, sampel | 7 | [~] | Slovin 10%, consecutive sampling, kriteria versi kerja di `riset/metode.md`. Kurang: N dari kantor [PERLU DATA] |
-| 12 | Jenis data, sumber data, teknik pengumpulan | 7 | [~] | Versi kerja di `riset/metode.md`, menunggu koreksi user |
-| 13 | Menyusun kuesioner dan kisi-kisi | 8 | [ ] | |
+| 12 | Jenis data, sumber data, teknik pengumpulan | 7 | [x] | Selesai 11 Nov, di `riset/metode.md` |
+| 13 | Menyusun kuesioner dan kisi-kisi | 8 | [~] | **Aktif.** Draf di `riset/kuesioner-tentatif.md`, menunggu koreksi user |
 | 14 | Validasi isi, uji coba, validitas, reliabilitas | 8 | [ ] | Sebelum sempro cukup validasi isi (Panduan FDK: kuesioner tentatif) |
 | 15 | Rencana analisis data | 7 | [x] | Selesai 11 Nov: normalitas, lalu Pearson atau Spearman. Rujukan teknik [PERLU RUJUKAN] |
 | 16 | Menulis dokumen proposal | 9 | [ ] | Sepuluh komponen FDK |
@@ -49,7 +49,7 @@ November 2026): 1 fenomena, 2 topik, 3 judul, 4 variabel, 5 teori, 6 research ga
 
 ## Aturan pakai
 
-- ChatGPT mengerjakan tahap aktif saja (sekarang 11, sambil menunggu data kantor boleh 12, 13, 15). Tahap 10 boleh
+- ChatGPT mengerjakan tahap aktif saja (sekarang 13; Tahap 11 tinggal menunggu N dari kantor). Tahap 10 boleh
   disentuh hanya untuk keputusan yang bergantung langsung pada teori.
 - Pekerjaan tahap 11 ke atas sebelum tahap 7 sampai 10 selesai dianggap loncat tahap.
 - Status diperbarui setiap kali user mengirim backup atau roadmap baru.

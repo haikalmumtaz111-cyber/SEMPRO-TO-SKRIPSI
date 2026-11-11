@@ -241,3 +241,8 @@
 ## 11 November 2026 (lanjutan 31)
 
 - Keputusan user: uji normalitas, lalu Pearson atau Spearman. Tahap 15 selesai. Kriteria responden menunggu jawaban lapangan.
+
+## 11 November 2026 (lanjutan 32)
+
+- Data lapangan user: penjelasan petugas biasanya didengar calon jemaah sendiri, untuk yang lanjut usia kadang berdua dengan anak atau oleh anaknya saja, dan ada pendaftar anak serta remaja. Kriteria responden di `riset/metode.md` disesuaikan. Tahap 12 selesai.
+- Dibuat `riset/kuesioner-tentatif.md`: 4 pertanyaan identitas, 21 butir skala, 3 soal faktual.

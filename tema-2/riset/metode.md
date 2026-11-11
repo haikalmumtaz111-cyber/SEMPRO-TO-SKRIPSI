@@ -15,13 +15,23 @@ Tanda `[PERLU ...]` berarti belum boleh dianggap jadi.
   begitu N dari kantor diperoleh. Rujukan rumus [PERLU RUJUKAN, lihat cara kakak tingkat mengutipnya].
 - **Teknik**: *consecutive sampling*. Setiap pendaftar yang memenuhi kriteria dan bersedia diminta
   mengisi, berurutan, sampai jumlah sampel terpenuhi. Rujukan teknik [PERLU RUJUKAN].
-- **Kriteria masuk** (usulan Claude, menunggu koreksi user):
+- **Kriteria masuk** (disesuaikan dengan keterangan lapangan user, 11 Nov):
   1. Baru menyelesaikan pendaftaran haji reguler pada hari itu.
-  2. Sudah menerima penjelasan petugas tentang estimasi keberangkatan.
-  3. Mendaftar untuk dirinya sendiri dan hadir sendiri.
+  2. Mendengar sendiri penjelasan petugas tentang estimasi keberangkatan.
+  3. Berusia minimal 17 tahun [USULAN batas usia, menunggu persetujuan user dan pembimbing].
   4. Bersedia mengisi kuesioner.
-- **Kriteria keluar** (usulan): datang untuk urusan selain pendaftaran baru (misalnya pelimpahan
-  nomor porsi atau pembatalan), atau tidak sanggup menjawab walaupun dibacakan.
+- **Kriteria keluar**:
+  1. Datang untuk urusan selain pendaftaran baru (misalnya pelimpahan nomor porsi atau pembatalan).
+  2. Penjelasan petugas hanya didengar pendamping, bukan oleh calon jemaah sendiri.
+  3. Tidak sanggup menjawab walaupun butir dibacakan.
+- **Pendamping**: bila calon jemaah lanjut usia mendengar penjelasan bersama anaknya, yang menjadi
+  responden tetap calon jemaah. Butir boleh dibacakan, tetapi jawaban harus dari calon jemaah.
+- **Dasar lapangan** (keterangan user): penjelasan biasanya didengar calon jemaah sendiri. Untuk
+  calon jemaah lanjut usia, kadang didengar berdua dengan anak, kadang oleh anaknya saja. Ada
+  pendaftar anak dan remaja yang didampingi orang tua. User menyebut batas usia daftar 12 tahun
+  [PERLU VERIFIKASI ke peraturan sebelum ditulis].
+- **Keterbatasan akibat kriteria**: calon jemaah lanjut usia yang penjelasannya diwakili anak tidak
+  ikut, sehingga kelompok paling sepuh kurang terwakili.
 - **Batas**: sampel tidak acak, jadi hasil hanya berlaku untuk pendaftar pada periode dan kantor
   itu. Ini ditulis terang di naskah.
 

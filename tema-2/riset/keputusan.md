@@ -52,17 +52,18 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 - 11 Nov 2026: Tahap 11 dikerjakan dengan **angka kerja sementara** untuk jumlah pendaftar (kisaran 300 sampai 600 per bulan, turunan kasar dari pengamatan user) bertanda [PERLU DATA], diganti begitu data kantor diperoleh.
 - 11 Nov 2026: **sampel** memakai rumus Slovin galat 10% dengan *consecutive sampling*, target sekitar 80 responden (dihitung ulang dengan N dari kantor). Rancangan metode versi kerja di `riset/metode.md`.
 - 11 Nov 2026: **teknik uji**: uji normalitas lebih dulu, Pearson bila normal, Spearman bila tidak. Tidak memakai regresi.
+- 11 Nov 2026: kriteria responden disesuaikan dengan keterangan lapangan: responden harus mendengar sendiri penjelasan petugas, calon jemaah yang penjelasannya hanya didengar pendamping tidak ikut. Batas usia minimal 17 tahun masih usulan.
 
 ## Keputusan terbuka (urut prioritas)
 
 1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.
 2. (Selesai) Bentuk Y sudah diputuskan, lihat keputusan terkunci.
-3. Kriteria responden di `riset/metode.md` menunggu dua jawaban lapangan dari user (siapa yang mendengarkan penjelasan petugas, ada tidaknya pendaftar anak). Lalu Tahap 13 (butir kuesioner tentatif).
+3. Tahap 13: draf kuesioner tentatif di `riset/kuesioner-tentatif.md`, menunggu koreksi user (bunyi butir, batas usia 17 tahun). Lalu Tahap 16 (menulis naskah proposal).
 4. Populasi, periode, ukuran sampel. [PERLU DATA] jumlah pendaftar baru per bulan dari kantor.
 
 ## Menunggu dari user
 
-- Dua jawaban lapangan untuk kriteria responden.
+- Koreksi atas draf kuesioner dan persetujuan batas usia responden 17 tahun.
 - Dari kantor: jumlah pendaftar haji baru per bulan, 3 sampai 6 bulan terakhir (user sedang menanyakan).
 - Balasan email penulis Lewis dkk. (2024), kalau ada.
 
