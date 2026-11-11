@@ -320,3 +320,16 @@
 - User mengirim PDF bab Sukwika (2023) beserta halaman depan bukunya. Dicek: editor buku Ervi Novitasari, cetakan pertama Juli 2023, bab 14 hlm. 158-182, Slovin di hlm. 173-174, consecutive sampling di hlm. 170. Lima belas nama di sampul adalah penulis bab, bukan editor. Entri daftar pustaka dirapikan mengikuti contoh bab buku di panduan: In Novitasari, E. (Ed.). Word dibangun ulang.
 - Sampul dan penomoran A/1/a meniru proposal teman user (kualitatif). Yang ditiru hanya tampilan, sistematika naskah tetap kuantitatif. Tidak diubah.
 - Tugas berikutnya: Tahap 17, bimbingan ke pembimbing.
+
+## 11 November 2026 (lanjutan 49)
+
+- Sitasi naskah dicek ke Panduan KTI FDK (bagian P, Q, R). Semua memakai running note (Nama, Tahun:Halaman), 20 entri daftar pustaka cocok dengan sitasi di teks, nomor halaman berada dalam rentang halaman artikel.
+- (Al-Anwari, 2026:abstrak) diganti menjadi (Al-Anwari, 2026) karena halaman abstraknya tidak bernomor, seragam dengan (Bisnis.com, 2025). Word dibangun ulang.
+- Keputusan user: sitasi berita online tanpa halaman dan sitasi halaman abstrak skripsi (i/ii) dipertahankan, ditanyakan sambil lalu saat bimbingan. User minta halaman abstrak diganti halaman isi. Bab I keenam skripsi diunduh Claude dari digilib UIN SGD (Bab II sampai IV terbatas untuk pengguna terdaftar). Halaman dipilih dari rumusan masalah atau tujuan penelitian yang menyebut variabelnya: Ardiansyah 5 (tujuan), Budiarti 7 (rumusan dan tujuan, PDF hasil pindai dibaca sebagai gambar), Al-Anwari 10 (tujuan), Ginting 7 (rumusan), Fitriyani 5 (rumusan dan tujuan), Sukmawijaya 4 (rumusan). Sitasi Al-Anwari kembali bernomor halaman. Word dibangun ulang.
+- Tugas berikutnya: Tahap 17, bimbingan ke pembimbing.
+
+## 11 November 2026 (lanjutan 50)
+
+- Rujukan Bisnis.com (2025) soal masa tunggu 26,4 tahun diganti rilis resmi Sekretariat Kabinet (28 September 2026). Isi rilis: formula baru menghasilkan rata-rata antrean nasional 26 tahun; validasi 5,7 juta data jemaah menemukan sekitar 400 ribu data tidak valid; jemaah yang berangkat tahun 2026 rata-rata menjalani masa tunggu 14 tahun (antrean faktual); pemerintah membenahi data agar calon jemaah memperoleh informasi masa tunggu yang lebih akurat.
+- Keputusan user (opsi B): paragraf pertama latar belakang memuat dua angka (26 tahun rata-rata antrean, 14 tahun antrean faktual jemaah berangkat 2026). Kata "seragam" dan angka 26,4 dibuang karena tidak ada di sumber resmi. Klaim "pendaftar baru menunggu 26 tahun" tidak ditulis karena tidak ada sumber yang menyatakannya eksplisit.
+- Word dibangun ulang. Tugas berikutnya: Tahap 17, bimbingan ke pembimbing.
