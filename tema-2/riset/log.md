@@ -254,3 +254,8 @@
 ## 11 November 2026 (lanjutan 34)
 
 - User mengirim tangkapan layar Siskohat Gen.2 (Cetak SPH Elektronik, Kab. Bandung, 1 Jan 2025 sampai 11 Nov 2026). Angka yang benar 7.368 catatan (670 adalah jumlah halaman). Rata-rata sekitar 329 per bulan, sampel Slovin 10% = 77. Tangkapan layar memuat data pribadi jemaah dan tidak disimpan di repo.
+
+## 11 November 2026 (lanjutan 35)
+
+- Keputusan user: naskah ditulis Claude. Draf pertama `proposal/proposal.md` (A sampai G, daftar pustaka, lampiran kuesioner) dan `proposal/sampul.json`. `periksa.py` dijalankan, temuan kaidah diperbaiki. Tanda [PERLU ...] masih ada untuk rujukan metodologi, halaman skripsi, bunyi pasal, nama aplikasi, alamat kantor.
+- User menyatakan angka 7.368 adalah jumlah pendaftar dan izin mengutip sudah ada.

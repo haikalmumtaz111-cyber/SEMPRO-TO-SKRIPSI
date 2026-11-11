@@ -54,19 +54,19 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 - 11 Nov 2026: **teknik uji**: uji normalitas lebih dulu, Pearson bila normal, Spearman bila tidak. Tidak memakai regresi.
 - 11 Nov 2026: kriteria responden disesuaikan dengan keterangan lapangan: responden harus mendengar sendiri penjelasan petugas, calon jemaah yang penjelasannya hanya didengar pendamping tidak ikut. Batas usia minimal 17 tahun masih usulan.
 - 11 Nov 2026: data populasi diterima: 7.368 catatan SPH elektronik di Siskohat Gen.2 Kab. Bandung untuk 1 Januari 2025 sampai 11 November 2026, rata-rata sekitar 330 per bulan. Sampel Slovin 10% menjadi 77 responden. Angka kerja sementara (300 sampai 600) tidak dipakai lagi. Masih [PERLU VERIFIKASI]: satu catatan sama dengan satu pendaftar baru, dan izin kantor untuk mengutip. Tangkapan layar memuat nama dan nomor porsi jemaah, **tidak disimpan di repo**.
+- 11 Nov 2026: **naskah proposal ditulis Claude** (keputusan user). Draf pertama sepuluh komponen ada di `proposal/proposal.md`. Angka populasi 7.368 dikonfirmasi user sebagai jumlah pendaftar, dan user menyatakan izin kantor untuk mengutipnya sudah ada.
 
 ## Keputusan terbuka (urut prioritas)
 
 1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.
 2. (Selesai) Bentuk Y sudah diputuskan, lihat keputusan terkunci.
-3. **Sedang diputuskan (Tahap 16).** Siapa yang menulis naskah proposal: (A) Claude menulis per komponen, user mengoreksi, (B) ChatGPT menulis dengan bekal, Claude mengecek. Rekomendasi Claude: A. Bahan yang masih kurang untuk naskah: dasar peraturan dan nomenklatur lembaga dari sumber resmi, N dari kantor, rujukan buku metodologi (Slovin, consecutive sampling, korelasi), buku Anderson & Krathwohl.
+3. Tahap 16: draf pertama naskah sudah ada. Sisa: menutup tanda [PERLU ...] (rujukan buku metodologi, halaman skripsi, bunyi pasal Perpres, nama aplikasi, alamat kantor), user membaca dan menjelaskan tiap komponen, lalu build Word.
 4. Populasi, periode, ukuran sampel. [PERLU DATA] jumlah pendaftar baru per bulan dari kantor.
 
 ## Menunggu dari user
 
-- Pilihan A atau B: siapa yang menulis naskah proposal.
-- Buku metodologi yang dipegang user (judul, penulis, tahun) untuk rujukan Slovin, teknik sampel, dan korelasi.
-- Dari kantor: kepastian bahwa satu catatan SPH sama dengan satu pendaftar baru, total untuk rentang 1 Januari sampai 31 Oktober 2026, dan izin mengutip angka.
+- Membaca draf naskah per komponen dan menjelaskannya (dimulai dari latar belakang).
+- Buku metodologi untuk rujukan rumus Slovin, consecutive sampling, korelasi, dan batas alfa: pinjam dari perpustakaan atau tanya pembimbing buku apa yang biasa dipakai.
 - Balasan email penulis Lewis dkk. (2024), kalau ada.
 
 ## Tugas Claude
