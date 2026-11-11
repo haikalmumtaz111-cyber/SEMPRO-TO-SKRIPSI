@@ -201,3 +201,7 @@
 
 - Tahap 7: BAB I Ginting (2025) dibaca (teori: SERVQUAL, Gagné, Vygotsky). Abstrak Budiarti (2025) dan Al-Anwari (2026) dibaca. Penelusuran awal OpenAlex di luar repositori UIN. Matriks enam penelitian dan rumusan posisi versi kerja di `riset/penelitian-terdahulu.md`. Tahap 7 ditandai selesai, Tahap 8 aktif.
 - BAB II sampai IV Ginting terkunci (perlu login repositori).
+
+## 11 November 2026 (lanjutan 22)
+
+- User menjelaskan posisi penelitian dengan kalimat sendiri, tepat. Tahap 8 ditutup. Tahap 10 dibuka, keputusan pertama: bentuk ukur Y kognitif.

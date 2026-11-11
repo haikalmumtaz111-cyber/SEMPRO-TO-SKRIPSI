@@ -41,17 +41,18 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 - 11 Nov 2026: **Y tetap dinamai "respons"** berisi tiga jenis respons. Judul kerja tidak berubah.
 - 11 Nov 2026: **pengaman Y afektif**: skor utama tetap satu (terkejut dan khawatir), dan kedua emosi dilaporkan juga terpisah sebagai analisis tambahan tanpa hipotesis. Dugaan arah untuk kerangka pemikiran: terkejut negatif, khawatir tidak ditentukan.
 - 11 Nov 2026: **Tahap 9 ditutup.** User menjelaskan tiga hubungan kerangka dengan kalimat sendiri, tepat, termasuk batasnya. Kerangka: `riset/kerangka-konseptual.md`.
+- 11 Nov 2026: **Tahap 7 dan 8 ditutup.** User menjelaskan pembeda penelitian dengan kalimat sendiri: pembeda ada pada X (informasi yang didapat sebelum memutuskan mendaftar) dan urutan waktunya, dengan klaim dibatasi "dari yang ditelusuri belum ditemukan".
 
 ## Keputusan terbuka (urut prioritas)
 
 1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.
 2. (Selesai) Bentuk Y sudah diputuskan, lihat keputusan terkunci.
-3. Tahap 8: rumusan posisi penelitian versi kerja ada di `riset/penelitian-terdahulu.md`, menunggu user membaca dan menjelaskannya. Lalu Tahap 10 (indikator dan operasionalisasi).
+3. **Sedang diputuskan (Tahap 10).** Bentuk ukur Y kognitif: (A) pemahaman yang dirasakan, skala Likert, (B) pengetahuan faktual, soal benar-salah, (C) A sebagai skor utama dan B sebagai analisis tambahan. Rekomendasi Claude: C.
 4. Populasi, periode, ukuran sampel. [PERLU DATA] jumlah pendaftar baru per bulan dari kantor.
 
 ## Menunggu dari user
 
-- Membaca matriks dan rumusan posisi penelitian, lalu menjelaskan pembeda penelitian ini dengan kalimat sendiri.
+- Pilihan A, B, atau C untuk bentuk ukur Y kognitif.
 - Jumlah pendaftar haji baru per bulan dari kantor (untuk Tahap 11).
 - Balasan email penulis Lewis dkk. (2024), kalau ada.
 
