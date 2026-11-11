@@ -21,8 +21,8 @@ Asal indikator ditandai: [SUMBER] dari artikel, [LAPANGAN] dari pengamatan PPM p
 
 | Variabel | Definisi operasional | Dimensi | Indikator | Asal indikator | Rencana butir | Skala |
 |---|---|---|---|---|---|---|
-| **X** paparan informasi masa tunggu sebelum memutuskan mendaftar | Seberapa sering calon jemaah, dalam 12 bulan sebelum memutuskan mendaftar, mencari dengan sengaja dan menemukan tanpa sengaja mencari informasi tentang masa tunggu haji dari berbagai sumber | Seeking | Sengaja mencari informasi masa tunggu dari tiap sumber: (a) keluarga, teman, tetangga; (b) internet atau mesin pencari; (c) media sosial; (d) petugas, kantor, atau pembimbing haji | bentuk pertanyaan [SUMBER] Kelly dkk. (2009:727). Daftar sumber [USULAN], perlu dicocokkan dengan kenyataan di lapangan [PERLU DATA] | 4 | frekuensi 1 sampai 5 (tidak pernah sampai sangat sering) [USULAN, lihat keputusan 2] |
-| | | Scanning | Mendengar atau menemukan informasi masa tunggu dari tiap sumber yang sama walaupun tidak sedang mencarinya | [SUMBER] Kelly dkk. (2009:728) | 4 | sama |
+| **X** paparan informasi masa tunggu sebelum memutuskan mendaftar | Seberapa sering calon jemaah, dalam 12 bulan sebelum memutuskan mendaftar, mencari dengan sengaja dan menemukan tanpa sengaja mencari informasi tentang masa tunggu haji dari berbagai sumber Seeking | Sengaja mencari informasi masa tunggu dari tiap sumber: (a) media sosial; (b) internet atau portal berita; (c) keluarga, teman, tetangga; (d) datang atau bertanya ke kantor atau petugas sebelum hari pendaftaran | bentuk pertanyaan [SUMBER] Kelly dkk. (2009:727). Sumber (a), (b), (d) [LAPANGAN] keterangan user 11 Nov. Sumber (c) [SUMBER] Kelly dkk. (2009:727) dan Zeithaml dkk. (1993:9), belum dikonfirmasi lapangan | 4 | lihat keputusan skala X |
+| | | Scanning | Mendengar atau menemukan informasi masa tunggu walaupun tidak sedang mencarinya, dari: (a) media sosial; (b) internet atau portal berita; (c) keluarga, teman, tetangga. Kantor tidak dimasukkan karena orang tidak datang ke kantor tanpa sengaja | [SUMBER] Kelly dkk. (2009:728); sumber [LAPANGAN] | 3 | sama |
 | **Y1** respons kognitif (skor utama: pemahaman yang dirasakan) | Tingkat pemahaman yang dirasakan calon jemaah atas informasi yang dijelaskan petugas sesudah pendaftaran | (satu dimensi) | Merasa paham estimasi tahun keberangkatannya | [LAPANGAN] isi penjelasan petugas | 1 | Likert 1 sampai 5 (sangat tidak setuju sampai sangat setuju) |
 | | | | Merasa paham cara mengecek estimasi lewat aplikasi | [LAPANGAN] | 1 | sama |
 | | | | Merasa paham kapan estimasi mulai bisa dicek | [LAPANGAN] | 1 | sama |
@@ -34,13 +34,15 @@ Asal indikator ditandai: [SUMBER] dari artikel, [LAPANGAN] dari pengamatan PPM p
 | | | Niat mencari informasi resmi | Berniat mencari informasi masa tunggu dari sumber resmi | [USULAN] dari roadmap, dasar lapangan lemah | 2 | sama |
 | | | Niat memantau pembaruan | Berniat mengecek estimasi keberangkatan lewat aplikasi secara berkala | [LAPANGAN] | 2 | sama |
 
-Jumlah rencana butir: X 8, Y1 4 (ditambah 3 soal faktual), Y2 4, Y3 6. Total 22 butir skala
+Jumlah rencana butir: X 7, Y1 4 (ditambah 3 soal faktual), Y2 4, Y3 6. Total 21 butir skala
 ditambah 3 soal faktual, belum termasuk pertanyaan identitas responden.
 
 ## 3. Catatan batas
 
-- Skor X adalah jumlah atau rata-rata 8 butir. Skor seeking dan scanning masing-masing 4 butir
-  untuk analisis tambahan.
+- Skor X adalah rata-rata 7 butir. Skor seeking (4 butir) dan scanning (3 butir) dipakai untuk
+  analisis tambahan, dibandingkan lewat rata-rata karena jumlah butirnya tidak sama.
+- Seeking butir (d) harus terang menyebut "sebelum hari pendaftaran", supaya tidak tercampur
+  dengan penjelasan petugas saat mendaftar yang menjadi pemicu Y.
 - X menanyakan kejadian **sebelum** memutuskan mendaftar. Y menanyakan keadaan **sesudah**
   penjelasan petugas. Bunyi butir nanti harus membuat batas waktu ini terang.
 - Kelly dkk. (2009) memakai jawaban ya atau tidak untuk seeking dan tiga kategori jumlah untuk
@@ -56,8 +58,7 @@ ditambah 3 soal faktual, belum termasuk pertanyaan identitas responden.
 
 ## 4. Keputusan yang masih perlu user
 
-1. Daftar sumber informasi untuk X: empat sumber di atas cocok atau tidak dengan yang biasa
-   disebut calon jemaah.
+1. (Selesai 11 Nov) Daftar sumber informasi X disesuaikan dengan keterangan lapangan user.
 2. Skala X: frekuensi lima tingkat (usulan), atau mengikuti Kelly dkk. apa adanya.
 3. Indikator "sanggup menjelaskan kembali" pada Y1 dan "niat mencari informasi resmi" pada Y3:
    dipertahankan atau dibuang, karena dasarnya paling lemah.

@@ -213,3 +213,7 @@
 ## 11 November 2026 (lanjutan 24)
 
 - Keputusan user: matriks operasionalisasi disusun Claude. Dibuat `riset/matriks-operasionalisasi.md`: definisi konseptual bersumber, definisi operasional, dimensi, indikator dengan asal (SUMBER, LAPANGAN, USULAN), rencana 22 butir skala ditambah 3 soal faktual. Tiga keputusan user masih terbuka (sumber informasi X, skala X, dua indikator berdasar lemah).
+
+## 11 November 2026 (lanjutan 25)
+
+- Data lapangan user: calon jemaah biasanya tahu masa tunggu dari media sosial (misalnya Instagram), internet atau berita di peramban, dan datang sendiri ke kantor. Sumber informasi X di matriks disesuaikan (seeking 4, scanning 3).
