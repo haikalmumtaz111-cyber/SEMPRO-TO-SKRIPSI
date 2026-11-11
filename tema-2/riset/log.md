@@ -155,3 +155,9 @@
 
 - Tes paham ulang: user menjawab tiga pertanyaan dengan kalimat sendiri. Lulus. Koreksi: contoh seeking yang dipakai user terjadi sesudah mendaftar, padahal X adalah paparan sebelum mendaftar.
 - Tugas berikutnya: user memilih nama Y, lalu Claude menyusun bekal sesi 5 (kerangka pemikiran).
+
+## 11 November 2026 (lanjutan 13)
+
+- Keputusan user: Y tetap dinamai "respons".
+- Dibuat `riset/chatgpt/bekal-sesi-5.md` (semua keputusan terkunci, batas klaim, catatan lapangan, bukti Lewis dkk.) dan prompt sesi versi 6 (kerangka konseptual berbentuk poin dengan label SUMBER, LAPANGAN, TAFSIR).
+- Tugas berikutnya: user buka sesi 5 ChatGPT, kirim laporan.
