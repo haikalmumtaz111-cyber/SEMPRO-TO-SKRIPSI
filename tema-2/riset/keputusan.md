@@ -23,6 +23,7 @@ Proposal tema 2 disusun user bersama ChatGPT (proyek "Menulis"). Claude bertugas
 - 10 Nov 2026 (sesi 2 ChatGPT): teori appraisal Roseman dipilih user untuk **ditelaah** sebagai dasar Y afektif. Belum dikunci sebagai teori proposal. Roseman (1996) dan Oliver (1980) ada di Crossref. Roseman (1984) bab buku, [PERLU VERIFIKASI]. Penulis artikel 1996: Roseman, Antoniou, dan Jose, hlm. 241-277 (dicek dari halaman pertama artikel; Crossref hanya mencatat Roseman).
 - 10 Nov 2026: Oliver (1980) dilepas. Y afektif memakai Roseman, Antoniou, dan Jose (1996) saja, logika harapan lewat *unexpectedness*. Harapan dan appraisal tidak diukur sebagai variabel. Roseman (1984) tidak dipakai selama naskahnya belum ada.
 - 11 Nov 2026 (sesi 3 ChatGPT): TPB (Ajzen, 1991) dipilih user untuk **ditelaah** sebagai teori Y konatif. Belum dikunci. Ajzen (1991) dan dua rujukan RISP ada di Crossref.
+- 11 Nov 2026: pilihan C. TPB belum dikunci, sesi 4 mengadu TPB dan UMT dengan halaman PDF, baru user memilih.
 
 ## Keputusan terbuka (urut prioritas)
 
@@ -33,5 +34,5 @@ Proposal tema 2 disusun user bersama ChatGPT (proyek "Menulis"). Claude bertugas
 
 ## Menunggu dari user
 
-- Pilihan A, B, atau C untuk teori Y konatif.
+- Laporan sesi 4 ChatGPT (TPB lawan UMT). Bekal: `riset/chatgpt/bekal-sesi-4.md`, prompt: `riset/chatgpt/prompt-sesi-baru.md` (versi 5).
 - Cek Library ChatGPT, hapus `proposal.docx` dan `Proposal_Skripsi_Hasil_Revisi_Lengkap.docx` kalau tidak dipakai.

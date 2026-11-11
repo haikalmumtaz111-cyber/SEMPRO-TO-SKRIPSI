@@ -88,3 +88,9 @@
 
 - User mengirim PDF Ajzen (1991), Griffin dkk. (1999), Griffin dkk. (2004). Semua cocok. Dua klaim halaman ChatGPT soal Ajzen dicek petik dan cocok. Total 17 PDF dipegang.
 - Masih menunggu pilihan user (A, B, atau C) untuk teori Y konatif.
+
+## 11 November 2026 (lanjutan 2)
+
+- Keputusan user: pilihan C, TPB dan UMT diadu dulu di sesi 4.
+- Dibuat `riset/chatgpt/bekal-sesi-4.md`, prompt sesi diperbarui ke versi 5 (tabel perbandingan delapan baris, empat PDF diunggah).
+- Tugas berikutnya: user buka sesi 4 ChatGPT, kirim laporan.
