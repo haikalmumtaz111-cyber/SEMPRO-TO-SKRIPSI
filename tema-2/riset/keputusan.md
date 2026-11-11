@@ -39,6 +39,7 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 - Catatan 11 Nov 2026: user menyatakan kalimat soal "elaborasi paling konsisten" di penjelasan CMM berasal dari sesi Claude lain, bukan dari PDF. Klaim itu dicabut dan tidak dipakai. Syarat penguncian teori (user menjelaskan dengan kalimat sendiri) **belum teruji**. Keputusan teori tetap berlaku, tetapi pemahaman user dites ulang lewat tiga pertanyaan lisan sebelum kerangka pemikiran disusun.
 - 11 Nov 2026: tes paham ulang dijawab user dengan kalimat sendiri (X, dugaan paparan dengan terkejut, batas TPB). Lulus dengan satu koreksi: contoh seeking harus kejadian **sebelum** mendaftar. Mencari atau bertanya **sesudah** mendaftar itu Y konatif, bukan X.
 - 11 Nov 2026: **Y tetap dinamai "respons"** berisi tiga jenis respons. Judul kerja tidak berubah.
+- 11 Nov 2026: **pengaman Y afektif**: skor utama tetap satu (terkejut dan khawatir), dan kedua emosi dilaporkan juga terpisah sebagai analisis tambahan tanpa hipotesis. Dugaan arah untuk kerangka pemikiran: terkejut negatif, khawatir tidak ditentukan.
 
 ## Keputusan terbuka (urut prioritas)
 
@@ -50,7 +51,6 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 ## Menunggu dari user
 
 - Salinan utuh kerangka konseptual dari sesi 5 ChatGPT.
-- Ya atau tidak: terkejut dan khawatir dilaporkan juga per emosi sebagai analisis tambahan.
 - PDF Zeithaml, Berry, & Parasuraman (1993), 10.1177/0092070393211001.
 - Jumlah pendaftar haji baru per bulan dari kantor (untuk Tahap 11).
 - Balasan email penulis Lewis dkk. (2024), kalau ada.

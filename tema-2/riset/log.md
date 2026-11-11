@@ -172,3 +172,7 @@
 - Tanda berat: Roseman dibalik lagi jadi penulis tunggal melawan bekal, keputusan terkunci ditulis sebagai belum diputuskan. Kerangka konseptual tidak ikut di laporan. Prompt laporan diperketat.
 - Yang berguna: urutan enam tafsir terlemah. Kandidat tambalan dari Claude untuk tafsir nomor 1: Zeithaml, Berry, & Parasuraman (1993), ada di Crossref dan OpenAlex, isi belum dicek.
 - Tugas berikutnya: user meminta ChatGPT menyalin kerangka utuh, lalu sesi 5 ditutup.
+
+## 11 November 2026 (lanjutan 16)
+
+- Keputusan user: pengaman Y afektif, terkejut dan khawatir dilaporkan juga terpisah sebagai analisis tambahan.
