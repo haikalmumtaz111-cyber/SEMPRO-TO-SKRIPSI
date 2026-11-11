@@ -43,17 +43,18 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 - 11 Nov 2026: **Tahap 9 ditutup.** User menjelaskan tiga hubungan kerangka dengan kalimat sendiri, tepat, termasuk batasnya. Kerangka: `riset/kerangka-konseptual.md`.
 - 11 Nov 2026: **Tahap 7 dan 8 ditutup.** User menjelaskan pembeda penelitian dengan kalimat sendiri: pembeda ada pada X (informasi yang didapat sebelum memutuskan mendaftar) dan urutan waktunya, dengan klaim dibatasi "dari yang ditelusuri belum ditemukan".
 - 11 Nov 2026: **Y kognitif**: skor utama "pemahaman yang dirasakan" (skala Likert) untuk uji hipotesis. Beberapa soal pengetahuan faktual (benar-salah) dilaporkan sebagai analisis tambahan. Kunci jawaban soal faktual harus dipastikan ke kantor [PERLU DATA].
+- 11 Nov 2026: matriks operasionalisasi disusun Claude (bukan ChatGPT) atas keputusan user. Versi kerja di `riset/matriks-operasionalisasi.md`.
 
 ## Keputusan terbuka (urut prioritas)
 
 1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.
 2. (Selesai) Bentuk Y sudah diputuskan, lihat keputusan terkunci.
-3. **Sedang diputuskan.** Siapa yang menyusun matriks operasionalisasi (Tahap 10): (A) Claude menyusun versi kerja dari bahan di repo, (B) ChatGPT sesi 6 dengan bekal. Rekomendasi Claude: A.
+3. **Sedang diputuskan (Tahap 10).** Daftar sumber informasi untuk X. Sesudah itu skala X, lalu dua indikator berdasar lemah. Rincian di `riset/matriks-operasionalisasi.md` bagian 4.
 4. Populasi, periode, ukuran sampel. [PERLU DATA] jumlah pendaftar baru per bulan dari kantor.
 
 ## Menunggu dari user
 
-- Pilihan A atau B: siapa yang menyusun matriks operasionalisasi.
+- Jawaban lapangan: dari mana saja calon jemaah biasanya mendapat informasi masa tunggu sebelum mendaftar.
 - Jumlah pendaftar haji baru per bulan dari kantor (untuk Tahap 11).
 - Balasan email penulis Lewis dkk. (2024), kalau ada.
 

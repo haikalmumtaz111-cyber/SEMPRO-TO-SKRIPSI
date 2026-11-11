@@ -1,0 +1,63 @@
+# Matriks Operasionalisasi Variabel (Tema 2), versi kerja
+
+Disusun Claude, 11 November 2026, dari keputusan di `keputusan.md`, kerangka di
+`kerangka-konseptual.md`, dan PDF yang sudah dibaca. Ini bahan Tahap 10. Bunyi butir pertanyaan
+belum ditulis (itu Tahap 13). Tanda `[PERLU ...]` berarti belum boleh dianggap jadi.
+
+Asal indikator ditandai: [SUMBER] dari artikel, [LAPANGAN] dari pengamatan PPM peneliti,
+[USULAN] usulan Claude yang belum punya sumber dan menunggu keputusan user.
+
+## 1. Definisi konseptual
+
+| Variabel | Definisi konseptual | Sumber |
+|---|---|---|
+| X paparan informasi masa tunggu | Pengalaman memperoleh informasi masa tunggu, baik lewat usaha aktif mencari informasi tertentu di luar kebiasaan sehari-hari (*seeking*) maupun lewat informasi yang didapat dalam kebiasaan sehari-hari tanpa sengaja mencari dan masih bisa diingat (*scanning*) | Niederdeppe dkk. (2007:155); Kelly dkk. (2009:722-723) |
+| Y respons | Tanggapan calon jemaah sesudah menerima penjelasan petugas, dibedakan atas tiga jenis: kognitif, afektif, konatif | pembagian mengikuti Breckler (1984:1191) |
+| Y1 respons kognitif | Keyakinan, pengetahuan, dan pikiran seseorang tentang suatu objek. Di penelitian ini: pemahaman yang dirasakan calon jemaah atas informasi masa tunggu yang dijelaskan petugas | Breckler (1984:1191); pendukung: Eveland (2001:573, 577) |
+| Y2 respons afektif | Reaksi emosi terhadap suatu objek. Di penelitian ini: terkejut dan khawatir sesudah mengetahui masa tunggu | Breckler (1984:1191); Roseman, Antoniou, & Jose (1996:257, 260-261) |
+| Y3 respons konatif | Niat berperilaku, yaitu tanda seberapa keras orang mau berusaha melakukan suatu perilaku. Di penelitian ini: niat menindaklanjuti informasi masa tunggu | Breckler (1984:1191); Ajzen (1991:181) |
+
+## 2. Matriks
+
+| Variabel | Definisi operasional | Dimensi | Indikator | Asal indikator | Rencana butir | Skala |
+|---|---|---|---|---|---|---|
+| **X** paparan informasi masa tunggu sebelum memutuskan mendaftar | Seberapa sering calon jemaah, dalam 12 bulan sebelum memutuskan mendaftar, mencari dengan sengaja dan menemukan tanpa sengaja mencari informasi tentang masa tunggu haji dari berbagai sumber | Seeking | Sengaja mencari informasi masa tunggu dari tiap sumber: (a) keluarga, teman, tetangga; (b) internet atau mesin pencari; (c) media sosial; (d) petugas, kantor, atau pembimbing haji | bentuk pertanyaan [SUMBER] Kelly dkk. (2009:727). Daftar sumber [USULAN], perlu dicocokkan dengan kenyataan di lapangan [PERLU DATA] | 4 | frekuensi 1 sampai 5 (tidak pernah sampai sangat sering) [USULAN, lihat keputusan 2] |
+| | | Scanning | Mendengar atau menemukan informasi masa tunggu dari tiap sumber yang sama walaupun tidak sedang mencarinya | [SUMBER] Kelly dkk. (2009:728) | 4 | sama |
+| **Y1** respons kognitif (skor utama: pemahaman yang dirasakan) | Tingkat pemahaman yang dirasakan calon jemaah atas informasi yang dijelaskan petugas sesudah pendaftaran | (satu dimensi) | Merasa paham estimasi tahun keberangkatannya | [LAPANGAN] isi penjelasan petugas | 1 | Likert 1 sampai 5 (sangat tidak setuju sampai sangat setuju) |
+| | | | Merasa paham cara mengecek estimasi lewat aplikasi | [LAPANGAN] | 1 | sama |
+| | | | Merasa paham kapan estimasi mulai bisa dicek | [LAPANGAN] | 1 | sama |
+| | | | Merasa sanggup menjelaskan kembali informasi itu kepada orang lain | [USULAN] [PERLU RUJUKAN] | 1 | sama |
+| Y1 tambahan: pengetahuan faktual | Jumlah jawaban benar atas pertanyaan tentang isi penjelasan petugas | | Estimasi keberangkatan, cara mengecek, waktu mulai bisa dicek | [LAPANGAN]. Kunci jawaban [PERLU DATA dari kantor] | 3 | benar atau salah, skor 0 sampai 3 |
+| **Y2** respons afektif | Kuat lemahnya reaksi emosi calon jemaah sesudah mengetahui masa tunggunya | Terkejut | Merasa terkejut mengetahui lamanya masa tunggu. Merasa angkanya di luar dugaan | [SUMBER] Roseman dkk. (1996:257); [LAPANGAN] | 2 | Likert 1 sampai 5 |
+| | | Khawatir | Merasa khawatir soal usia atau kesehatan saat berangkat. Merasa khawatir tidak bisa berangkat sesuai estimasi | [LAPANGAN] (catatan PPM di backup V4). Kedekatan dengan *fear* pada Roseman dkk. adalah tafsir | 2 | sama |
+| **Y3** respons konatif | Kuat lemahnya niat calon jemaah menindaklanjuti informasi masa tunggu sesudah penjelasan petugas | Niat bertanya kepada petugas | Berniat bertanya lagi kepada petugas kalau ada yang belum jelas | [LAPANGAN]; konsep niat [SUMBER] Ajzen (1991:181) | 2 | Likert 1 sampai 5 |
+| | | Niat mencari informasi resmi | Berniat mencari informasi masa tunggu dari sumber resmi | [USULAN] dari roadmap, dasar lapangan lemah | 2 | sama |
+| | | Niat memantau pembaruan | Berniat mengecek estimasi keberangkatan lewat aplikasi secara berkala | [LAPANGAN] | 2 | sama |
+
+Jumlah rencana butir: X 8, Y1 4 (ditambah 3 soal faktual), Y2 4, Y3 6. Total 22 butir skala
+ditambah 3 soal faktual, belum termasuk pertanyaan identitas responden.
+
+## 3. Catatan batas
+
+- Skor X adalah jumlah atau rata-rata 8 butir. Skor seeking dan scanning masing-masing 4 butir
+  untuk analisis tambahan.
+- X menanyakan kejadian **sebelum** memutuskan mendaftar. Y menanyakan keadaan **sesudah**
+  penjelasan petugas. Bunyi butir nanti harus membuat batas waktu ini terang.
+- Kelly dkk. (2009) memakai jawaban ya atau tidak untuk seeking dan tiga kategori jumlah untuk
+  scanning, lalu membuang sumber dokter dan "sumber lain" dari indeks (hlm. 728). Skala frekuensi
+  lima tingkat di sini adalah adaptasi, jadi tidak boleh ditulis "memakai instrumen Kelly dkk.",
+  melainkan "diadaptasi dari".
+- Dimensi dengan 2 butir (terkejut, khawatir, tiap niat) terlalu pendek untuk Cronbach's alpha
+  sendiri-sendiri. Reliabilitas dihitung di tingkat skor utama (Y2 4 butir, Y3 6 butir). Itu
+  sejalan dengan keputusan bahwa pemisahan hanya analisis tambahan.
+- Nama aplikasi dan aturan jeda hari belum dicek ke sumber resmi [PERLU VERIFIKASI].
+- Angka masa tunggu yang dicatat saat PPM (25 sampai 26 tahun) adalah catatan lama dan harus
+  dicek ulang sebelum dipakai di butir atau naskah.
+
+## 4. Keputusan yang masih perlu user
+
+1. Daftar sumber informasi untuk X: empat sumber di atas cocok atau tidak dengan yang biasa
+   disebut calon jemaah.
+2. Skala X: frekuensi lima tingkat (usulan), atau mengikuti Kelly dkk. apa adanya.
+3. Indikator "sanggup menjelaskan kembali" pada Y1 dan "niat mencari informasi resmi" pada Y3:
+   dipertahankan atau dibuang, karena dasarnya paling lemah.

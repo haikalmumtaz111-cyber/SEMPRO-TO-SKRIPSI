@@ -209,3 +209,7 @@
 ## 11 November 2026 (lanjutan 23)
 
 - Keputusan user: Y kognitif skor utama pemahaman yang dirasakan (Likert), soal faktual sebagai tambahan.
+
+## 11 November 2026 (lanjutan 24)
+
+- Keputusan user: matriks operasionalisasi disusun Claude. Dibuat `riset/matriks-operasionalisasi.md`: definisi konseptual bersumber, definisi operasional, dimensi, indikator dengan asal (SUMBER, LAPANGAN, USULAN), rencana 22 butir skala ditambah 3 soal faktual. Tiga keputusan user masih terbuka (sumber informasi X, skala X, dua indikator berdasar lemah).
