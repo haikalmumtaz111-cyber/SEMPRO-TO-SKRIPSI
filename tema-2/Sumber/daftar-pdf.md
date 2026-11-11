@@ -49,8 +49,19 @@ Halaman pertama ketiganya cocok dengan Crossref.
 ## Belum dipegang
 
 - Lewis, Andrews, Keefe, & Walter (2024), Human Communication Research 50(4), 468-479,
-  10.1093/hcr/hqae012. Akses tertutup. OpenAlex (10 November 2026) tidak mencatat salinan terbuka
-  di repositori mana pun. Sebelum naskah lengkap didapat, yang boleh diklaim hanya isi abstrak.
+  10.1093/hcr/hqae012. Akses tertutup. User sudah mencoba (11 November 2026): tautan DOI, Google
+  Scholar (versi lain hanya EBSCO, juga terkunci), masuk lewat institusi (UIN Sunan Gunung Djati
+  tidak ada di daftar), katalog dan repositori perpustakaan UIN. Sisa jalan: email penulis
+  korespondensi (alamat ada di halaman artikel). Yang dipegang: abstrak (dilihat user di halaman
+  penerbit) dan berkas data tambahan resmi berisi Tabel 3.
+  - Dari abstrak: k = 21, N = 39.510. Seeking dan scanning berasosiasi setara dengan sikap terkait
+    topik dan niat berperilaku. Seeking (bukan scanning) berkorelasi dengan persepsi risiko dan
+    norma sosial yang dipersepsi.
+  - Dari Tabel 3 data tambahan: korelasi seeking dengan scanning r = 0,35, IK 95% [0,26, 0,43],
+    k = 21, N = 39.510. Sampel probabilitas r = 0,33 (k = 9, N = 31.845), nonprobabilitas r = 0,37
+    (k = 12, N = 7.665). AS r = 0,33 (k = 15), luar AS r = 0,41 (k = 6, N = 3.476).
+  - Angka korelasi seeking atau scanning dengan sikap dan niat tidak ada di abstrak maupun Tabel 3,
+    jadi tidak boleh disebut.
 - Roseman (1984), bab buku. Tidak dipakai selama naskahnya belum ada.
 
 Total PDF dipegang: 17.

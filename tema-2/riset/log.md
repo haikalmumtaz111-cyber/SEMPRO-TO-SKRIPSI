@@ -102,3 +102,9 @@
 - Koreksi laporan: nama "Rebecca" Tukachinsky seharusnya Riva, status teori afektif dan status Tahap 9 keliru, tabel perbandingan tidak ikut terkirim. Prompt laporan diperbaiki.
 - Temuan Claude: abstrak Lewis dkk. (2024) memuat asosiasi seeking dan scanning dengan sikap dan niat berperilaku (k = 21, N = 39.510). Kandidat jembatan X ke Y.
 - Tugas berikutnya: Claude membuat ringkasan jurnal yang dipakai, user membaca, lalu jembatan X ke Y ditelaah.
+
+## 11 November 2026 (lanjutan 4)
+
+- Tabel TPB lawan UMT dari sesi 4 diterima lewat tangkapan layar, dicek petik ke PDF, cocok.
+- Lewis dkk. (2024): semua jalur akses yang dicoba user tertutup. Data tambahan resmi diterima, isinya Tabel 3 (korelasi seeking dengan scanning r = 0,35, IK 95% 0,26 sampai 0,43). Dicatat di `Sumber/daftar-pdf.md`. Nama penulis ketiga Denali Keefe.
+- Tugas berikutnya: user mengirim email ke penulis, Claude membuat ringkasan jurnal yang dipakai.

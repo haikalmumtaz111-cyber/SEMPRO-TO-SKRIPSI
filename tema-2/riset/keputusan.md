@@ -30,11 +30,11 @@ Proposal tema 2 disusun user bersama ChatGPT (proyek "Menulis"). Claude bertugas
 
 1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.
 2. Bentuk Y: satu skor, atau satu dimensi utama ditambah analisis tambahan.
-3. X dua subskala atau satu indeks.
+3. X dua subskala atau satu indeks. Bahan: Lewis dkk. (2024), Tabel 3 data tambahan, korelasi seeking dengan scanning r = 0,35 (IK 95% 0,26 sampai 0,43), berkaitan tetapi berbeda. Ini condong ke dua subskala, belum diputuskan.
 4. Populasi, periode, ukuran sampel. [PERLU DATA] jumlah pendaftar baru per bulan dari kantor.
 
 ## Menunggu dari user
 
-- Naskah lengkap Lewis dkk. (2024), 10.1093/hcr/hqae012 (perpus, email penulis, atau pembimbing).
+- Email ke penulis korespondensi Lewis dkk. (2024) untuk minta naskah lengkap. Kalau tidak dibalas, jalan dengan abstrak dan Tabel 3.
 - Membaca ringkasan jurnal dari Claude sebelum teori dikunci dan Tahap 10 dibuka.
 - Cek Library ChatGPT, hapus `proposal.docx` dan `Proposal_Skripsi_Hasil_Revisi_Lengkap.docx` kalau tidak dipakai.
