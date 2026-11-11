@@ -150,3 +150,8 @@
 - User menyatakan sebagian penjelasan teori yang dikirim berasal dari sesi Claude lain. Klaim "elaborasi paling konsisten" (Eveland) dicabut. Pemahaman user dites ulang dengan tiga pertanyaan.
 - Rekap bentuk penelitian: X satu skor paparan (seeking dan scanning sebagai tambahan), Y tiga skor (kognitif; afektif = terkejut dan khawatir; konatif = niat menindaklanjuti informasi), tiga hipotesis tidak berarah.
 - Tugas berikutnya: user menjawab tes paham, lalu nama Y, lalu bekal sesi 5 (kerangka pemikiran).
+
+## 11 November 2026 (lanjutan 12)
+
+- Tes paham ulang: user menjawab tiga pertanyaan dengan kalimat sendiri. Lulus. Koreksi: contoh seeking yang dipakai user terjadi sesudah mendaftar, padahal X adalah paparan sebelum mendaftar.
+- Tugas berikutnya: user memilih nama Y, lalu Claude menyusun bekal sesi 5 (kerangka pemikiran).
