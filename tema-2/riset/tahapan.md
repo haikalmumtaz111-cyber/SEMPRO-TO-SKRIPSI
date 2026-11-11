@@ -25,8 +25,8 @@ evaluasi Claude.
 | 13 | Menyusun kuesioner dan kisi-kisi | 8 | [x] | Selesai 11 Nov sebagai kuesioner tentatif (`riset/kuesioner-tentatif.md`). User tidak menemukan butir yang janggal. Belum dilihat pembimbing |
 | 14 | Validasi isi, uji coba, validitas, reliabilitas | 8 | [ ] | Sebelum sempro cukup validasi isi (Panduan FDK: kuesioner tentatif) |
 | 15 | Rencana analisis data | 7 | [x] | Selesai 11 Nov: normalitas, lalu Pearson atau Spearman. Rujukan teknik [PERLU RUJUKAN] |
-| 16 | Menulis dokumen proposal | 9 | [~] | **Aktif.** Sepuluh komponen FDK |
-| 17 | Konsultasi, revisi, pemeriksaan administratif | 9 | [ ] | |
+| 16 | Menulis dokumen proposal | 9 | [x] | Selesai 11 Nov sebagai draf lengkap tanpa tanda [PERLU ...]. Word di `output/proposal.docx`. Belum dilihat pembimbing |
+| 17 | Konsultasi, revisi, pemeriksaan administratif | 9 | [ ] | **Berikutnya.** Tunjukkan judul dan draf ke pembimbing |
 | 18 | Pengajuan dan seminar usulan | 10 | [ ] | |
 | 19 | Revisi seminar dan pengesahan proposal | 10 | [ ] | |
 | 20 | Izin penelitian dan persiapan lapangan | 11 | [ ] | |

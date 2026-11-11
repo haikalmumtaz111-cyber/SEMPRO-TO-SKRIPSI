@@ -79,7 +79,7 @@ Matriks operasionalisasi variabel disajikan pada tabel berikut.
 |----------|----------------------|---------|-----------|-------|-------|--------|
 | Paparan informasi masa tunggu sebelum memutuskan mendaftar (X) | Seberapa sering calon jemaah, dalam 12 bulan sebelum memutuskan mendaftar, mencari dengan sengaja dan menemukan tanpa sengaja mencari informasi masa tunggu haji dari berbagai sumber | *Seeking* | Sengaja mencari dari media sosial, internet, keluarga atau teman atau tetangga, dan kantor atau petugas sebelum hari pendaftaran | A1 sampai A4 | Ordinal, 1 sampai 4 (tidak pernah sampai lebih dari 5 kali) | Diadaptasi dari Kelly, et al. (2009:727) |
 | | | *Scanning* | Menemukan tanpa sengaja mencari dari media sosial, internet atau berita, dan keluarga atau teman atau tetangga | A5 sampai A7 | Ordinal, 1 sampai 4 | Diadaptasi dari Kelly, et al. (2009:728) |
-| Respons kognitif (Y1) | Tingkat pemahaman yang dirasakan calon jemaah atas informasi yang dijelaskan petugas | Pemahaman yang dirasakan | Memahami estimasi keberangkatan, cara mengecek, waktu mulai dapat dicek, dan sanggup menjelaskan kembali | B1 sampai B4 | Ordinal, Likert 1 sampai 5 | Breckler (1984:1191); isi penjelasan petugas menurut pengamatan peneliti; indikator menjelaskan kembali [PERLU RUJUKAN] |
+| Respons kognitif (Y1) | Tingkat pemahaman yang dirasakan calon jemaah atas informasi yang dijelaskan petugas | Pemahaman yang dirasakan | Memahami estimasi keberangkatan, cara mengecek, dan waktu mulai dapat dicek | B1 sampai B3 | Ordinal, Likert 1 sampai 5 | Breckler (1984:1191); isi penjelasan petugas menurut pengamatan peneliti |
 | Respons afektif (Y2) | Kuat lemahnya reaksi emosi calon jemaah setelah mengetahui masa tunggunya | Terkejut | Terkejut atas lamanya masa tunggu, masa tunggu di luar dugaan | C1, C2 | Ordinal, Likert 1 sampai 5 | Roseman, et al. (1996:257) |
 | | | Khawatir | Khawatir tentang usia atau kesehatan, khawatir tidak berangkat sesuai estimasi | C3, C4 | Ordinal, Likert 1 sampai 5 | Pengamatan peneliti; Roseman, et al. (1996:258) |
 | Respons konatif (Y3) | Kuat lemahnya niat calon jemaah menindaklanjuti informasi masa tunggu | Niat bertanya kepada petugas | Berniat bertanya lagi, menanyakan hal lain tentang jadwal, menghubungi kantor lagi | D1 sampai D3 | Ordinal, Likert 1 sampai 5 | Ajzen (1991:181); pengamatan peneliti |
@@ -154,7 +154,7 @@ Data dikumpulkan dengan kuesioner (angket) tertutup dalam bentuk lembar cetak. K
 
 ## 7. Validitas dan Reliabilitas
 
-Validitas butir diuji dengan korelasi *Pearson product moment* antara skor tiap butir dan skor total variabelnya menggunakan SPSS. Butir dinyatakan valid apabila r hitung lebih besar daripada r tabel pada taraf signifikansi 0,05. Reliabilitas diuji dengan *Alpha Cronbach* untuk tiap skor utama, yaitu paparan (7 butir), respons kognitif (4 butir), respons afektif (4 butir), dan respons konatif (6 butir). Instrumen dinyatakan reliabel apabila nilai alfa sekurang-kurangnya 0,70, batas bawah rentang nilai alfa yang dilaporkan dapat diterima (Tavakol & Dennick, 2011:54). Tiga soal benar atau salah tidak diuji dengan *Alpha Cronbach* karena hanya menjadi pelengkap. Kuesioner pada tahap proposal ini masih tentatif, dan uji coba dilakukan setelah seminar.
+Validitas butir diuji dengan korelasi *Pearson product moment* antara skor tiap butir dan skor total variabelnya menggunakan SPSS. Butir dinyatakan valid apabila r hitung lebih besar daripada r tabel pada taraf signifikansi 0,05. Reliabilitas diuji dengan *Alpha Cronbach* untuk tiap skor utama, yaitu paparan (7 butir), respons kognitif (3 butir), respons afektif (4 butir), dan respons konatif (6 butir). Instrumen dinyatakan reliabel apabila nilai alfa sekurang-kurangnya 0,70, batas bawah rentang nilai alfa yang dilaporkan dapat diterima (Tavakol & Dennick, 2011:54). Skala respons kognitif hanya berisi tiga butir sehingga nilai alfanya dapat rendah, sebab jumlah butir yang sedikit menurunkan nilai alfa (Tavakol & Dennick, 2011:54). Hal ini dicatat sebagai keterbatasan instrumen. Tiga soal benar atau salah tidak diuji dengan *Alpha Cronbach* karena hanya menjadi pelengkap. Kuesioner pada tahap proposal ini masih tentatif, dan uji coba dilakukan setelah seminar.
 
 ## 8. Teknik Analisis Data
 
@@ -258,8 +258,6 @@ B1) Saya memahami perkiraan tahun keberangkatan saya yang dijelaskan petugas.
 B2) Saya memahami cara mengecek estimasi keberangkatan melalui aplikasi Satu Haji.
 
 B3) Saya memahami kapan estimasi keberangkatan saya mulai dapat dicek.
-
-B4) Saya sanggup menjelaskan kembali informasi masa tunggu itu kepada orang lain.
 
 C1) Saya terkejut mengetahui lamanya masa tunggu keberangkatan saya.
 

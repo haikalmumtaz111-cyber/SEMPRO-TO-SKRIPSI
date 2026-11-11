@@ -1,5 +1,7 @@
 # Kuesioner Tentatif (Tema 2), versi kerja
 
+> Versi terbaru ada di lampiran `proposal/proposal.md`. Perubahan sesudah berkas ini dibuat: butir B4 dibuang, "aplikasi resmi" diganti "aplikasi Satu Haji".
+
 Disusun Claude, 11 November 2026, dari `matriks-operasionalisasi.md`. Ini draf untuk dikoreksi
 user dan pembimbing, belum diuji coba. Panduan FDK meminta kuesioner tentatif sebagai lampiran
 proposal.
@@ -50,7 +52,6 @@ setuju (5).
 | B1 | Saya memahami perkiraan tahun keberangkatan saya yang dijelaskan petugas. |
 | B2 | Saya memahami cara mengecek estimasi keberangkatan melalui aplikasi. |
 | B3 | Saya memahami kapan estimasi keberangkatan saya mulai dapat dicek. |
-| B4 | Saya sanggup menjelaskan kembali informasi masa tunggu itu kepada orang lain. |
 
 ### Bagian C. Reaksi emosi (Y2)
 

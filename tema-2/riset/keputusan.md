@@ -57,17 +57,17 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 - 11 Nov 2026: **naskah proposal ditulis Claude** (keputusan user). Draf pertama sepuluh komponen ada di `proposal/proposal.md`. Angka populasi 7.368 dikonfirmasi user sebagai jumlah pendaftar, dan user menyatakan izin kantor untuk mengutipnya sudah ada.
 - 11 Nov 2026: user mengonfirmasi isi paragraf pengamatan PPM di latar belakang (urutan pendaftaran, kepanjangan SPPH, waktu penyampaian estimasi, nama aplikasi Satu Haji, jeda 3 hari, ragam respons) berdasarkan pengalaman langsung. Nama aplikasi ditulis di naskah dan butir kuesioner sebagai bagian dari pengamatan peneliti. Latar belakang dinyatakan sudah dibaca dan dijelaskan user.
 - 11 Nov 2026 (pembaruan): data Siskohat rentang 1 Januari sampai 11 November 2026 diterima: 3.076 pendaftar, rata-rata sekitar 297 per bulan. **Sampel menjadi 75 responden** (Slovin 10%). Angka ini menggantikan 330 per bulan dan 77 responden. Tangkapan layar tidak disimpan di repo.
+- 11 Nov 2026: indikator "sanggup menjelaskan kembali" (butir B4) **dibuang** karena rujukannya tidak ditemukan. Y kognitif menjadi 3 butir, total 20 butir skala ditambah 3 soal faktual. Naskah bersih dari tanda [PERLU ...].
 
 ## Keputusan terbuka (urut prioritas)
 
 1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.
 2. (Selesai) Bentuk Y sudah diputuskan, lihat keputusan terkunci.
-3. Tahap 16: naskah sudah dibaca dan dijelaskan user per komponen (A sampai G). Word draf sudah dibuat (`output/proposal.docx`). Sisa 1 tanda di naskah: rujukan indikator "menjelaskan kembali" pada Y kognitif. Rujukan lain sudah ditutup: consecutive sampling (Sembiring dkk., 2024:213), rumus Slovin (Machali, 2021:82; Sukwika, 2023:173-174), Pearson dan Spearman (Machali, 2021:151, 156), batas alfa (Tavakol & Dennick, 2011:54). Halaman abstrak Al-Anwari (2026) tidak bernomor, dikutip sebagai "abstrak". Naskah belum final sebelum lima tanda itu ditutup dan pembimbing melihat judul.
+3. Tahap 16: naskah lengkap sepuluh komponen, sudah dijelaskan user, tanpa tanda [PERLU ...]. Word ada di `output/proposal.docx`. Sisa pekerjaan manual di Word (skema, sampul, tabel, nomor halaman) dan persetujuan pembimbing atas judul. Hal yang dicek ulang menjelang turun lapangan: angka masa tunggu, jeda cek estimasi, nama aplikasi.
 4. Populasi, periode, ukuran sampel. [PERLU DATA] jumlah pendaftar baru per bulan dari kantor.
 
 ## Menunggu dari user
 
-- Keputusan: indikator "sanggup menjelaskan kembali" dibuang (Y kognitif jadi 3 butir) atau dipertahankan dengan tanda perlu rujukan.
 - Menggambar ulang skema di Word dan memeriksa sampul, tabel, nomor halaman.
 - Menunjukkan judul dan draf ke pembimbing.
 
