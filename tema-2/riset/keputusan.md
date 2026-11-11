@@ -66,7 +66,7 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 
 ## Menunggu dari user
 
-- Buku metodologi dan statistik (judul, penulis, tahun, halaman) untuk rumus Slovin, consecutive sampling, dan korelasi Pearson serta Spearman.
+- Foto dari buku metodologi (sampul, halaman rumus ukuran sampel, halaman korelasi). Kandidat yang tersedia di perpustakaan UIN menurut OPAC (11 Nov 2026): Bungin, M. B. (2013). *Metodologi penelitian kuantitatif: Komunikasi, ekonomi, dan kebijakan publik serta ilmu-ilmu sosial lainnya* (cet. 7). Jakarta: Kencana. ISBN 978-602-7985-01-8, viii + 303 hlm. Lantai 3, rak 300, label 300.72 Bun m, 5 eksemplar tersedia. Isi (ada tidaknya rumus Slovin dan korelasi) belum dicek.
 - Menunjukkan judul dan draf ke pembimbing.
 
 ## Tugas Claude
