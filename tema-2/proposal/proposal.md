@@ -198,7 +198,7 @@ Sembiring, T. B., Irmawati, Sabir, M., & Tjahyadi, I. (2024). *Buku ajar metodol
 
 Sukmawijaya, M. A. L. (2024). *Pengaruh kualitas pelayanan pendaftaran haji terhadap kepuasan calon jamaah tahun 2024: Penelitian di Kantor Kementerian Agama Kabupaten Bandung* [Skripsi, UIN Sunan Gunung Djati Bandung]. https://digilib.uinsgd.ac.id/97336/
 
-Sukwika, T. (2023). Menentukan populasi dan sampling. Dalam Wahyudi, W. Avianti, A. Martin, Jumali, N. Andriyani, D. Prihatiningsih, D. Misesani, Fahrudin, M. Yufrinalis, M. A. F. Mbari, A. G. Ningsih, A. Yulianto, M. T. N. Rokhman, A. Haqiyah, & T. Sukwika, *Metode penelitian (Dasar praktik dan penerapan berbasis ICT)* (hlm. 158-182). Mifandi Mandiri Digital.
+Sukwika, T. (2023). Menentukan populasi dan sampling. In Novitasari, E. (Ed.), *Metode penelitian (Dasar praktik dan penerapan berbasis ICT)* (pp. 158-182). Mifandi Mandiri Digital.
 
 Tavakol, M., & Dennick, R. (2011). Making sense of Cronbach's alpha. *International Journal of Medical Education, 2*, 53-55. https://doi.org/10.5116/ijme.4dfb.8dfd
 

@@ -314,3 +314,9 @@
 - Naskah dicek ke Panduan KTI FDK 2026 (md kiriman user identik dengan `acuan/panduan-kti-fdk.md`). Sepuluh komponen kuantitatif lengkap dan berurutan, format isi sesuai. Aturan format (Bab II panduan) berlaku sama untuk kualitatif dan kuantitatif, yang berbeda hanya sistematika. Naskah sudah memakai sistematika kuantitatif.
 - Keputusan user: format tidak diubah, judul tabel tidak ditambahkan.
 - Tugas berikutnya: user memotret halaman judul dalam atau halaman katalog buku Sukwika (2023) untuk merapikan entri daftar pustaka, lalu bimbingan ke pembimbing.
+
+## 11 November 2026 (lanjutan 48)
+
+- User mengirim PDF bab Sukwika (2023) beserta halaman depan bukunya. Dicek: editor buku Ervi Novitasari, cetakan pertama Juli 2023, bab 14 hlm. 158-182, Slovin di hlm. 173-174, consecutive sampling di hlm. 170. Lima belas nama di sampul adalah penulis bab, bukan editor. Entri daftar pustaka dirapikan mengikuti contoh bab buku di panduan: In Novitasari, E. (Ed.). Word dibangun ulang.
+- Sampul dan penomoran A/1/a meniru proposal teman user (kualitatif). Yang ditiru hanya tampilan, sistematika naskah tetap kuantitatif. Tidak diubah.
+- Tugas berikutnya: Tahap 17, bimbingan ke pembimbing.
