@@ -143,3 +143,10 @@
 - Data lapangan dari user: alur penjelasan petugas sesudah pendaftaran (estimasi keberangkatan, cara cek di aplikasi, jeda 3 hari), sebagian jemaah sudah tahu cara cek dan sebagian belum, ada yang bilang mau mengecek sendiri. Dicatat di `keputusan.md`.
 - Keputusan user: X satu skor utama, seeking dan scanning sebagai analisis tambahan.
 - Tugas berikutnya: user memilih bentuk hipotesis.
+
+## 11 November 2026 (lanjutan 11)
+
+- Keputusan user: hipotesis tidak berarah, dugaan arah di kerangka pemikiran.
+- User menyatakan sebagian penjelasan teori yang dikirim berasal dari sesi Claude lain. Klaim "elaborasi paling konsisten" (Eveland) dicabut. Pemahaman user dites ulang dengan tiga pertanyaan.
+- Rekap bentuk penelitian: X satu skor paparan (seeking dan scanning sebagai tambahan), Y tiga skor (kognitif; afektif = terkejut dan khawatir; konatif = niat menindaklanjuti informasi), tiga hipotesis tidak berarah.
+- Tugas berikutnya: user menjawab tes paham, lalu nama Y, lalu bekal sesi 5 (kerangka pemikiran).

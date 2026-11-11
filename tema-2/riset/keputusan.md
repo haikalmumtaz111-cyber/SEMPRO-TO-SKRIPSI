@@ -31,17 +31,18 @@ Proposal tema 2 disusun user bersama ChatGPT (proyek "Menulis"). Claude bertugas
 - 11 Nov 2026: **Y konatif satu skor, tiga indikator** (niat bertanya kepada petugas, mencari informasi resmi, memantau pembaruan), nama kerja "niat menindaklanjuti informasi". Pengaman: kalau saat uji coba tiga indikator tidak kompak, hasil dilaporkan per indikator sebagai analisis tambahan. Dasar lapangan ada untuk bertanya kepada petugas dan mengecek lewat aplikasi (lihat catatan lapangan 11 Nov).
 - 11 Nov 2026: **X satu skor paparan sebagai variabel utama** (tiga hipotesis utama), seeking dan scanning dilaporkan terpisah sebagai analisis tambahan tanpa hipotesis.
 - Catatan lapangan dari user (PPM, 11 Nov 2026): sesudah pendaftaran dan penyerahan surat, petugas menyampaikan estimasi keberangkatan (berapa tahun) dan cara mengeceknya di aplikasi. Sebagian jemaah sudah tahu cara mengecek, sebagian belum. Jemaah diberi tahu estimasi baru bisa dicek 3 hari sesudah mendaftar. Ada jemaah yang bilang mau mengecek sendiri. Nama aplikasi yang disebut user: Satu Haji [PERLU VERIFIKASI nama resmi aplikasi dan aturan 3 hari ke sumber resmi sebelum ditulis di naskah].
+- 11 Nov 2026: **hipotesis tidak berarah** ("terdapat hubungan"), tiga hipotesis utama: X dengan Y kognitif, X dengan Y afektif, X dengan Y konatif. Dugaan arah dan alasannya ditulis di kerangka pemikiran, bukan di rumusan hipotesis.
+- Catatan 11 Nov 2026: user menyatakan kalimat soal "elaborasi paling konsisten" di penjelasan CMM berasal dari sesi Claude lain, bukan dari PDF. Klaim itu dicabut dan tidak dipakai. Syarat penguncian teori (user menjelaskan dengan kalimat sendiri) **belum teruji**. Keputusan teori tetap berlaku, tetapi pemahaman user dites ulang lewat tiga pertanyaan lisan sebelum kerangka pemikiran disusun.
 
 ## Keputusan terbuka (urut prioritas)
 
 1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.
 2. (Selesai) Bentuk Y sudah diputuskan, lihat keputusan terkunci.
-3. **Sedang diputuskan.** Bentuk hipotesis: (A) berarah, (B) tidak berarah dengan dugaan arah ditulis di kerangka pemikiran. Rekomendasi Claude: B.
+3. Nama Y ("respons terhadap informasi" atau lainnya), lalu kerangka pemikiran disusun di sesi 5 ChatGPT.
 4. Populasi, periode, ukuran sampel. [PERLU DATA] jumlah pendaftar baru per bulan dari kantor.
 
 ## Menunggu dari user
 
-- Pilihan A atau B untuk bentuk hipotesis.
-- Asal kalimat user "di data Eveland yang paling konsisten ngaruh itu elaborasi": dari PDF (halaman berapa) atau bukan.
+- Jawaban tiga pertanyaan tes paham (tanpa membuka catatan, kalimat sendiri).
 - Balasan email penulis Lewis dkk. (2024), kalau ada.
 - Cek Library ChatGPT, hapus `proposal.docx` dan `Proposal_Skripsi_Hasil_Revisi_Lengkap.docx` kalau tidak dipakai.
