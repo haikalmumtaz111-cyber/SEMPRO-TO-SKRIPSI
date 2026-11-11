@@ -286,3 +286,7 @@
 
 - Data Siskohat rentang 1 Januari sampai 11 November 2026: 3.076 pendaftar, rata-rata sekitar 297 per bulan, sampel 75. Naskah dan metode diperbarui.
 - Daftar pustaka Ginting (2025) diterima: rujukan Slovin-nya (Rahmawati, 2021) adalah skripsi Universitas Brawijaya, bukan buku. Buku metode yang ada di sana: Duli (2019), Siregar (2013), Sugiyono (2017, 2019), Sujarweni (2014), Nuryadi & Budiantara (2017).
+
+## 11 November 2026 (lanjutan 42)
+
+- User mengirim tautan buku ajar dari rekannya: Sembiring, Irmawati, Sabir, & Tjahyadi (2024), *Buku ajar metodologi penelitian (teori dan praktik)*, Saba Jaya Publisher, ISBN 978-623-09-7074-0, 307 halaman PDF (repository.upm.ac.id). Dibaca Claude: hlm. 213-214 memuat definisi consecutive sampling. Rumus Slovin dan korelasi Spearman tidak ada di buku ini. Rujukan consecutive sampling di naskah diganti ke buku ini, Setia (2016) dilepas karena halamannya tidak diketahui. Sisa 4 tanda.
