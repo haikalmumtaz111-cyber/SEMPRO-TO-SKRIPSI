@@ -7,17 +7,16 @@ Tanda `[PERLU ...]` berarti belum boleh dianggap jadi.
 
 - **Populasi**: calon jemaah haji reguler yang menyelesaikan pendaftaran di Kantor Kementerian
   Haji dan Umrah Kabupaten Bandung selama periode pengumpulan data.
-- **Ukuran populasi**: data dari Siskohat Gen.2 Kantor Kab. Bandung (tangkapan layar menu Cetak
-  SPH Elektronik, diterima user dari rekannya, 11 November 2026): **7.368 catatan** untuk rentang
-  1 Januari 2025 sampai 11 November 2026 (670 halaman tampilan, bukan 670 orang). Rentang itu
-  680 hari atau sekitar 22,3 bulan, jadi rata-rata sekitar **330 per bulan**. Yang masih harus dipastikan
-  [PERLU VERIFIKASI]: (a) satu catatan SPH berarti satu pendaftar baru, tidak termasuk cetak ulang;
-  (b) izin kantor untuk mengutip angka ini di proposal. Lebih baik lagi kalau diambil juga total
-  untuk rentang yang bersih, misalnya 1 Januari sampai 31 Oktober 2026.
-- **Ukuran sampel**: rumus Slovin, galat 10% (keputusan user, 11 Nov). Dengan N = 330 (rata-rata
+- **Ukuran populasi**: data Siskohat Gen.2 Kantor Kab. Bandung, menu Cetak SPH Elektronik (dua
+  tangkapan layar dari rekan user, 11 November 2026). Rentang 1 Januari sampai 11 November 2026:
+  **3.076 pendaftar** dalam 315 hari atau sekitar 10,35 bulan, rata-rata sekitar **297 per bulan**.
+  Sebagai pembanding, rentang 1 Januari 2025 sampai 11 November 2026: 7.368 pendaftar, rata-rata
+  sekitar 330 per bulan. Yang dipakai angka 2026 karena paling dekat dengan keadaan saat penelitian.
+  User menyatakan angka itu jumlah pendaftar dan izin kantor untuk mengutip sudah ada.
+- **Ukuran sampel**: rumus Slovin, galat 10% (keputusan user, 11 Nov). Dengan N = 297 (rata-rata
   pendaftar per bulan, dengan anggapan pengumpulan data berlangsung sekitar satu bulan):
-  n = 330 / (1 + 330 x 0,01) = 76,7, dibulatkan ke atas menjadi **77 responden**. Dihitung ulang
-  bila angka N berubah sesudah dipastikan. Rujukan rumus [PERLU RUJUKAN, lihat cara kakak tingkat mengutipnya].
+  n = 297 / (1 + 297 x 0,01) = 74,8, dibulatkan ke atas menjadi **75 responden**.
+  Rujukan rumus [PERLU RUJUKAN].
 - **Teknik**: *consecutive sampling*. Setiap pendaftar yang memenuhi kriteria dan bersedia diminta
   mengisi, berurutan, sampai jumlah sampel terpenuhi. Rujukan teknik [PERLU RUJUKAN].
 - **Kriteria masuk** (disesuaikan dengan keterangan lapangan user, 11 Nov):

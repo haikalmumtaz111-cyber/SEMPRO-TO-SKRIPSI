@@ -131,13 +131,13 @@ Sumber data primer adalah calon jemaah haji yang baru menyelesaikan pendaftaran,
 
 ## 5. Populasi dan Sampel
 
-Populasi penelitian adalah calon jemaah haji reguler yang menyelesaikan pendaftaran di Kantor Kementerian Haji dan Umrah Kabupaten Bandung selama periode pengumpulan data. Berdasarkan data SISKOHAT kantor, tercatat 7.368 pendaftar dari 1 Januari 2025 sampai 11 November 2026, atau rata-rata sekitar 330 pendaftar per bulan. Dengan pengumpulan data yang direncanakan berlangsung sekitar satu bulan, ukuran populasi diperkirakan 330 orang.
+Populasi penelitian adalah calon jemaah haji reguler yang menyelesaikan pendaftaran di Kantor Kementerian Haji dan Umrah Kabupaten Bandung selama periode pengumpulan data. Berdasarkan data SISKOHAT kantor, tercatat 3.076 pendaftar dari 1 Januari sampai 11 November 2026, atau rata-rata sekitar 297 pendaftar per bulan. Dengan pengumpulan data yang direncanakan berlangsung sekitar satu bulan, ukuran populasi diperkirakan 297 orang.
 
 Ukuran sampel dihitung dengan rumus Slovin [PERLU RUJUKAN: buku metodologi yang memuat rumus Slovin]:
 
 n = N / (1 + N e^2^)
 
-dengan n sebagai ukuran sampel, N sebagai ukuran populasi, dan e sebagai batas kesalahan yang ditoleransi, yaitu 10%. Dengan N = 330, diperoleh n = 330 / (1 + 330 × 0,01) = 330 / 4,3 = 76,7, dibulatkan ke atas menjadi 77 responden. Batas kesalahan 10% dipilih dengan mempertimbangkan waktu dan sumber daya peneliti.
+dengan n sebagai ukuran sampel, N sebagai ukuran populasi, dan e sebagai batas kesalahan yang ditoleransi, yaitu 10%. Dengan N = 297, diperoleh n = 297 / (1 + 297 × 0,01) = 297 / 3,97 = 74,8, dibulatkan ke atas menjadi 75 responden. Batas kesalahan 10% dipilih dengan mempertimbangkan waktu dan sumber daya peneliti.
 
 Sampel diambil dengan teknik *consecutive sampling*, yaitu setiap calon jemaah yang ditemui, bersedia, dan memenuhi kriteria diminta mengisi kuesioner secara berurutan sampai jumlah sampel terpenuhi (Setia, 2016:[hlm. PERLU VERIFIKASI]). Kriteria responden adalah sebagai berikut:
 

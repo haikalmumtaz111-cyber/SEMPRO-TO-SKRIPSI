@@ -281,3 +281,8 @@
 ## 11 November 2026 (lanjutan 40)
 
 - User mengirim berkas skripsi Ardiansyah (2026) lengkap dan Ginting (2025) tanpa BAB II dan daftar pustaka. Rujukan buku metodologi tidak bisa diambil dari sana: Ginting mengutip rumus Slovin dari "Rahmawati, 2021" dan batas alfa dari "Duli, 2019", judul bukunya tidak diketahui karena daftar pustakanya tidak ikut. Ardiansyah (2026:33) membedakan respons kognitif, afektif, konatif; satu kalimat ditambahkan ke kerangka pemikiran.
+
+## 11 November 2026 (lanjutan 41)
+
+- Data Siskohat rentang 1 Januari sampai 11 November 2026: 3.076 pendaftar, rata-rata sekitar 297 per bulan, sampel 75. Naskah dan metode diperbarui.
+- Daftar pustaka Ginting (2025) diterima: rujukan Slovin-nya (Rahmawati, 2021) adalah skripsi Universitas Brawijaya, bukan buku. Buku metode yang ada di sana: Duli (2019), Siregar (2013), Sugiyono (2017, 2019), Sujarweni (2014), Nuryadi & Budiantara (2017).

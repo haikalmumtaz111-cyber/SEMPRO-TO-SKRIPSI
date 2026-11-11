@@ -56,6 +56,7 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 - 11 Nov 2026: data populasi diterima: 7.368 catatan SPH elektronik di Siskohat Gen.2 Kab. Bandung untuk 1 Januari 2025 sampai 11 November 2026, rata-rata sekitar 330 per bulan. Sampel Slovin 10% menjadi 77 responden. Angka kerja sementara (300 sampai 600) tidak dipakai lagi. Masih [PERLU VERIFIKASI]: satu catatan sama dengan satu pendaftar baru, dan izin kantor untuk mengutip. Tangkapan layar memuat nama dan nomor porsi jemaah, **tidak disimpan di repo**.
 - 11 Nov 2026: **naskah proposal ditulis Claude** (keputusan user). Draf pertama sepuluh komponen ada di `proposal/proposal.md`. Angka populasi 7.368 dikonfirmasi user sebagai jumlah pendaftar, dan user menyatakan izin kantor untuk mengutipnya sudah ada.
 - 11 Nov 2026: user mengonfirmasi isi paragraf pengamatan PPM di latar belakang (urutan pendaftaran, kepanjangan SPPH, waktu penyampaian estimasi, nama aplikasi Satu Haji, jeda 3 hari, ragam respons) berdasarkan pengalaman langsung. Nama aplikasi ditulis di naskah dan butir kuesioner sebagai bagian dari pengamatan peneliti. Latar belakang dinyatakan sudah dibaca dan dijelaskan user.
+- 11 Nov 2026 (pembaruan): data Siskohat rentang 1 Januari sampai 11 November 2026 diterima: 3.076 pendaftar, rata-rata sekitar 297 per bulan. **Sampel menjadi 75 responden** (Slovin 10%). Angka ini menggantikan 330 per bulan dan 77 responden. Tangkapan layar tidak disimpan di repo.
 
 ## Keputusan terbuka (urut prioritas)
 
@@ -66,7 +67,7 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 
 ## Menunggu dari user
 
-- Foto dari buku metodologi (sampul, halaman rumus ukuran sampel, halaman korelasi). Kandidat yang tersedia di perpustakaan UIN menurut OPAC (11 Nov 2026): Bungin, M. B. (2013). *Metodologi penelitian kuantitatif: Komunikasi, ekonomi, dan kebijakan publik serta ilmu-ilmu sosial lainnya* (cet. 7). Jakarta: Kencana. ISBN 978-602-7985-01-8, viii + 303 hlm. Lantai 3, rak 300, label 300.72 Bun m, 5 eksemplar tersedia. Isi (ada tidaknya rumus Slovin dan korelasi) belum dicek.
+- Foto dari buku metodologi (sampul, halaman rumus ukuran sampel, halaman korelasi). Buku metode di daftar pustaka Ginting (2025): Duli (2019), Siregar (2013), Sugiyono (2017, 2019), Sujarweni (2014), Nuryadi & Budiantara (2017), Kuncoro (2013). "Rahmawati (2021)" yang dikutip Ginting untuk Slovin ternyata skripsi, bukan buku. Kandidat yang tersedia di perpustakaan UIN menurut OPAC (11 Nov 2026): Bungin, M. B. (2013). *Metodologi penelitian kuantitatif: Komunikasi, ekonomi, dan kebijakan publik serta ilmu-ilmu sosial lainnya* (cet. 7). Jakarta: Kencana. ISBN 978-602-7985-01-8, viii + 303 hlm. Lantai 3, rak 300, label 300.72 Bun m, 5 eksemplar tersedia. Isi (ada tidaknya rumus Slovin dan korelasi) belum dicek.
 - Menunjukkan judul dan draf ke pembimbing.
 
 ## Tugas Claude
