@@ -108,3 +108,9 @@
 - Tabel TPB lawan UMT dari sesi 4 diterima lewat tangkapan layar, dicek petik ke PDF, cocok.
 - Lewis dkk. (2024): semua jalur akses yang dicoba user tertutup. Data tambahan resmi diterima, isinya Tabel 3 (korelasi seeking dengan scanning r = 0,35, IK 95% 0,26 sampai 0,43). Dicatat di `Sumber/daftar-pdf.md`. Nama penulis ketiga Denali Keefe.
 - Tugas berikutnya: user mengirim email ke penulis, Claude membuat ringkasan jurnal yang dipakai.
+
+## 11 November 2026 (lanjutan 5)
+
+- Dibuat `riset/ringkasan-jurnal.md`: tujuh rujukan yang dipakai (Niederdeppe 2007, Kelly 2009, Eveland 2001, Roseman dkk. 1996, Ajzen 1991, Breckler 1984, Lewis dkk. 2024), dibaca Claude dari PDF, dengan halaman, batas klaim, dan bagian yang perlu dibuka user sendiri.
+- Temuan saat membaca: Eveland (2001:572) menyatakan paparan saja tidak otomatis menghasilkan belajar. Breckler (1984) Studi 2: komponen sikap berkorelasi lebih tinggi kalau semua diukur lewat laporan verbal. Kelly dkk. (2009:727-728) memuat bunyi butir seeking dan scanning 12 bulan.
+- Tugas berikutnya: user membaca ringkasan, menjelaskan tiap teori satu kalimat, lalu keputusan sisa Tahap 9 satu per satu (jembatan X ke Y dan arah hipotesis, emosi yang dipakai, tiga niat, nama dan bentuk skor Y).

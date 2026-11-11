@@ -36,5 +36,5 @@ Proposal tema 2 disusun user bersama ChatGPT (proyek "Menulis"). Claude bertugas
 ## Menunggu dari user
 
 - Email ke penulis korespondensi Lewis dkk. (2024) untuk minta naskah lengkap. Kalau tidak dibalas, jalan dengan abstrak dan Tabel 3.
-- Membaca ringkasan jurnal dari Claude sebelum teori dikunci dan Tahap 10 dibuka.
+- Membaca `riset/ringkasan-jurnal.md` dan membuka halaman di bagian "buka sendiri", lalu menjelaskan tiap teori ke Claude dalam satu kalimat. Sesudah itu teori dikunci.
 - Cek Library ChatGPT, hapus `proposal.docx` dan `Proposal_Skripsi_Hasil_Revisi_Lengkap.docx` kalau tidak dipakai.
