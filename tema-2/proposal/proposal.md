@@ -109,7 +109,7 @@ Ketiga hipotesis dirumuskan tanpa arah dan diuji dua sisi pada taraf signifikans
 
 ## 1. Lokasi Penelitian
 
-Penelitian dilakukan di Kantor Kementerian Haji dan Umrah Kabupaten Bandung [PERLU VERIFIKASI: alamat lengkap dan nomenklatur resmi kantor]. Lokasi ini dipilih karena dua alasan. Pertama, peneliti menemukan gejala penelitian di kantor ini selama Praktik Profesi Mahasiswa pada Februari sampai Juni 2026. Kedua, kantor ini melayani pendaftaran haji setiap hari kerja sehingga calon jemaah yang baru menerima penjelasan petugas dapat ditemui langsung.
+Penelitian dilakukan di Kantor Kementerian Haji dan Umrah Kabupaten Bandung, Jalan Adipati Agung Nomor 42, Baleendah, Kecamatan Baleendah, Kabupaten Bandung, Jawa Barat 40375. Lokasi ini dipilih karena dua alasan. Pertama, peneliti menemukan gejala penelitian di kantor ini selama Praktik Profesi Mahasiswa pada Februari sampai Juni 2026. Kedua, kantor ini melayani pendaftaran haji setiap hari kerja sehingga calon jemaah yang baru menerima penjelasan petugas dapat ditemui langsung.
 
 ## 2. Paradigma dan Pendekatan
 

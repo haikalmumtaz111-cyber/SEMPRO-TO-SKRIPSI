@@ -269,3 +269,7 @@
 - User menjelaskan bagian B, C, D, F, dan G dengan kalimat sendiri, tepat.
 - Tanda PERLU ditutup: halaman abstrak lima skripsi (dicek dari PDF abstrak di repositori: Ginting i, Fitriyani i, Sukmawijaya i, Ardiansyah ii, Budiarti ii), batas alfa (Tavakol & Dennick, 2011:54, dibaca dari PDF artikel). Dua artikel metodologi lain (Setia 2016; Schober dkk. 2018) ada di Crossref tetapi isinya tidak bisa dibuka, jadi tidak dipakai.
 - Word draf dibuat: `output/proposal.docx`. Sisa 6 tanda di naskah.
+
+## 11 November 2026 (lanjutan 38)
+
+- User memberi alamat kantor: Jl. Adipati Agung No. 42, Baleendah, Kec. Baleendah, Kab. Bandung, Jawa Barat 40375. Dimasukkan ke naskah. Sisa 5 tanda.
