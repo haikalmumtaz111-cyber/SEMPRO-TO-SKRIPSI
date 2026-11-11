@@ -176,3 +176,8 @@
 ## 11 November 2026 (lanjutan 16)
 
 - Keputusan user: pengaman Y afektif, terkejut dan khawatir dilaporkan juga terpisah sebagai analisis tambahan.
+
+## 11 November 2026 (lanjutan 17)
+
+- User mengirim PDF Zeithaml, Berry, & Parasuraman (1993). Isi dicek: hlm. 9 memuat informasi dari luar yang didapat aktif atau pasif, dan tiga faktor luar ditambah pengalaman sebelumnya yang memengaruhi *predicted service*. Dipakai untuk satu langkah kerangka (paparan membentuk perkiraan). Batas: proposisi dari 16 kelompok terarah, konteks layanan komersial. Ringkasan nomor 8 ditambahkan.
+- Masih menunggu: salinan utuh kerangka konseptual dari sesi 5.

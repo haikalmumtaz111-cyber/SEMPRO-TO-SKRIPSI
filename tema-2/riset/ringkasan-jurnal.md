@@ -238,6 +238,45 @@ kesehatan.
 
 ---
 
+## 8. Zeithaml, Berry, & Parasuraman (1993): tambalan "paparan membentuk perkiraan"
+
+The nature and determinants of customer expectations of service. *Journal of the Academy of
+Marketing Science, 21*(1), 1-12. PDF dipegang, dibaca Claude 11 November 2026.
+
+**Ini penelitian apa.** Model konseptual tentang dari mana harapan pelanggan terhadap layanan
+terbentuk, disusun dari 16 wawancara kelompok terarah, berisi 17 proposisi (hlm. 1 dan 2-3).
+Proposisi artinya dugaan yang diajukan, belum diuji dengan angka.
+
+**Isi inti (fakta).**
+- Salah satu jenis harapan adalah *predicted service*: perkiraan pelanggan tentang layanan yang
+  akan ia terima (hlm. 1).
+- Informasi dari luar bisa didapat secara aktif, misalnya menelepon toko, atau secara pasif,
+  misalnya menonton televisi (hlm. 9).
+- Tiga faktor dari luar yang memengaruhi perkiraan itu: janji layanan yang eksplisit, janji
+  layanan yang tersirat, dan komunikasi dari mulut ke mulut. Satu faktor dari dalam: pengalaman
+  sebelumnya (hlm. 9).
+- Omongan dari mulut ke mulut memberi tahu pelanggan seperti apa layanannya nanti, dan dianggap
+  berbobot karena dinilai tidak memihak (hlm. 9).
+
+**Buat penelitian lu.** Ini menambal tafsir terlemah. Rantainya jadi: calon jemaah mendapat
+informasi masa tunggu sebelum mendaftar, baik aktif maupun pasif (X), informasi itu membentuk
+perkiraannya (Zeithaml dkk., 1993:9), lalu kalau penjelasan petugas sesuai perkiraan, kejadiannya
+tidak tak terduga sehingga terkejutnya kecil (Roseman dkk., 1996:257). Pembedaan aktif dan pasif
+di hlm. 9 juga sejalan dengan seeking dan scanning.
+
+**Batas.** Ini proposisi dari wawancara kelompok, bukan hasil uji statistik. Konteksnya layanan
+komersial (hotel, asuransi, bengkel), bukan layanan publik atau haji. "Perkiraan" di sana soal
+mutu layanan, sedangkan di penelitian lu soal lamanya masa tunggu. Artikel ini dipakai untuk satu
+langkah itu saja, bukan sebagai model, dan perkiraan tetap tidak diukur.
+
+**Buka sendiri.** Abstrak (hlm. 1) dan kolom "Antecedents of Both Desired and Predicted Service"
+(hlm. 9).
+
+**Satu kalimat buat pembimbing.** "Menurut Zeithaml, Berry, dan Parasuraman (1993), perkiraan orang
+tentang suatu layanan dibentuk antara lain oleh informasi dari luar, termasuk cerita dari orang lain."
+
+---
+
 ## Peta teori dalam satu tabel
 
 | Bagian | Rujukan | Dipakai untuk | Yang tidak boleh diklaim |
@@ -252,7 +291,8 @@ kesehatan.
 ## Lubang yang masih ada
 
 1. Tidak ada teori Y yang memuat X. Jembatannya baru Lewis dkk. (2024), itu pun dari abstrak.
-2. "Sering terpapar membuat orang sudah menduga angkanya" belum punya rujukan.
+2. "Sering terpapar membuat orang sudah menduga angkanya" sekarang punya rujukan konseptual
+   (Zeithaml dkk., 1993:9), tetapi berupa proposisi dari konteks layanan komersial, belum bukti uji.
 3. Khawatir disamakan dengan *fear* dan tenang dengan *relief* masih tafsir.
 4. Semua rujukan berasal dari konteks kesehatan, politik, atau psikologi umum. Belum ada satu pun
    dari konteks haji atau layanan publik Indonesia. Itu urusan Tahap 7 (penelitian terdahulu).

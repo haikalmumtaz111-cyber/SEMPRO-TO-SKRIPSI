@@ -46,6 +46,12 @@ Halaman pertama ketiganya cocok dengan Crossref.
 | Griffin, Dunwoody, & Neuwirth (1999), Environmental Research 80(2), S230-S245 | 10.1006/enrs.1998.3940 | RISP, kandidat yang tidak dipilih |
 | Griffin, Neuwirth, Dunwoody, & Giese (2004), Media Psychology 6(1), 23-61 | 10.1207/s1532785xmep0601_2 | RISP, kandidat yang tidak dipilih |
 
+## Tambahan PDF (kiriman keempat, 11 November 2026)
+
+| Rujukan | DOI | Peran sekarang |
+|---|---|---|
+| Zeithaml, Berry, & Parasuraman (1993), J. of the Academy of Marketing Science 21(1), 1-12 | 10.1177/0092070393211001 | satu langkah di kerangka: informasi dari luar membentuk perkiraan (hlm. 9) |
+
 ## Belum dipegang
 
 - Lewis, Andrews, Keefe, & Walter (2024), Human Communication Research 50(4), 468-479,
@@ -64,4 +70,4 @@ Halaman pertama ketiganya cocok dengan Crossref.
     jadi tidak boleh disebut.
 - Roseman (1984), bab buku. Tidak dipakai selama naskahnya belum ada.
 
-Total PDF dipegang: 17.
+Total PDF dipegang: 18.
