@@ -308,3 +308,9 @@
 - Sesi sebelumnya terputus sebelum gambar skema sempat disimpan. Dikerjakan ulang: Gambar 1 (skema alur penelitian) sekarang berupa gambar `tema-2/proposal/gambar/skema-alur.png`, bukan teks ketikan. Keterangan gambar ditambah "Garis menunjukkan hubungan yang diuji, bukan arah sebab akibat."
 - Matriks operasionalisasi: lebar kolom diatur ulang dan huruf tabel 9 pt (tabel 6 kolom ke atas) supaya kata tidak terpotong. `rapikan_tabel.py` juga membuat gambar dan keterangan "Gambar N." rata tengah. Word dibangun ulang.
 - Tugas berikutnya: Tahap 17, user mengecek Word lalu menunjukkannya ke pembimbing.
+
+## 11 November 2026 (lanjutan 47)
+
+- Naskah dicek ke Panduan KTI FDK 2026 (md kiriman user identik dengan `acuan/panduan-kti-fdk.md`). Sepuluh komponen kuantitatif lengkap dan berurutan, format isi sesuai. Aturan format (Bab II panduan) berlaku sama untuk kualitatif dan kuantitatif, yang berbeda hanya sistematika. Naskah sudah memakai sistematika kuantitatif.
+- Keputusan user: format tidak diubah, judul tabel tidak ditambahkan.
+- Tugas berikutnya: user memotret halaman judul dalam atau halaman katalog buku Sukwika (2023) untuk merapikan entri daftar pustaka, lalu bimbingan ke pembimbing.
