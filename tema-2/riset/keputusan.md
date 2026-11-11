@@ -35,7 +35,6 @@ Proposal tema 2 disusun user bersama ChatGPT (proyek "Menulis"). Claude bertugas
 
 ## Menunggu dari user
 
-- Tabel perbandingan TPB lawan UMT dari sesi 4 (tempel ke Claude).
 - Naskah lengkap Lewis dkk. (2024), 10.1093/hcr/hqae012 (perpus, email penulis, atau pembimbing).
 - Membaca ringkasan jurnal dari Claude sebelum teori dikunci dan Tahap 10 dibuka.
 - Cek Library ChatGPT, hapus `proposal.docx` dan `Proposal_Skripsi_Hasil_Revisi_Lengkap.docx` kalau tidak dipakai.

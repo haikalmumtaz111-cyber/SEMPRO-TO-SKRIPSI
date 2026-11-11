@@ -23,8 +23,27 @@ Dicatat sebagai keputusan user. UMT (Brashers, 2001) tidak dipakai untuk Y konat
    dan Oliver dilepas. Yang belum hanya penguncian akhir dan pemilihan appraisal.
 3. **"Status: Selesai" menyesatkan.** Yang selesai perbandingan TPB lawan UMT. Tahap 9 belum
    selesai: jembatan X ke Y, appraisal yang dipakai, kesatuan tiga niat, dan payung Y masih terbuka.
-4. **Tabel delapan baris tidak ada di laporan.** Prompt laporan memang tidak memintanya. Isi tabel
-   (terutama baris 2, 5, 8) belum bisa dicek Claude. Prompt laporan diperbaiki.
+4. **Tabel delapan baris tidak ada di laporan.** Prompt laporan memang tidak memintanya dan sudah
+   diperbaiki. Tabel kemudian dikirim user lewat tangkapan layar, lihat bagian 2a.
+
+## 2a. Tabel perbandingan (diterima lewat tangkapan layar, 11 November 2026)
+
+Delapan baris terbaca lengkap. Cek petik ke PDF, semuanya cocok:
+
+- Ajzen (1991): 16 penelitian prediksi niat, korelasi berganda 0,43 sampai 0,94, rata-rata 0,71.
+  Prediksi perilaku 0,20 sampai 0,78. Interaksi niat dan kontrol hanya marginal (p < 0,10) pada
+  satu dari tujuh penelitian. Perilaku masa lalu tidak menambah prediksi pada kasus *shoplifting*.
+- Rains & Tukachinsky (2015): arah hubungan appraisal dengan kedalaman pencarian berlawanan dengan
+  dugaan, tingkat ketidakpastian aktual tidak memoderasi.
+- Roseman dkk. (1996:260-261): *unexpectedness*, bukan ketidakpastian, yang memunculkan terkejut.
+- Brashers (2001): appraisal ketidakpastian sebagai ancaman, peluang, atau tidak penting.
+
+Isi baris 2 (posisi X): di TPB, X di luar model inti dan penyamaan dengan perilaku masa lalu
+adalah tafsir. Di UMT, *seeking* bisa masuk strategi mengelola ketidakpastian, *scanning* tidak
+dibahas, dan hubungan paparan pra-pendaftaran dengan niat sesudah penjelasan bukan jalur formal.
+Baris 5 (arah): TPB tidak menentukan arah X dan Y, UMT dua arah atau bersyarat.
+Kesimpulan Claude: di kedua teori X hanya masuk lewat tafsir. Jembatan X ke Y memang belum ada
+dari teori Y, sehingga Lewis dkk. (2024) jadi penting.
 
 ## 3. Penilaian substansi (opini Claude)
 
