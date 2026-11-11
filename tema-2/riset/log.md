@@ -114,3 +114,9 @@
 - Dibuat `riset/ringkasan-jurnal.md`: tujuh rujukan yang dipakai (Niederdeppe 2007, Kelly 2009, Eveland 2001, Roseman dkk. 1996, Ajzen 1991, Breckler 1984, Lewis dkk. 2024), dibaca Claude dari PDF, dengan halaman, batas klaim, dan bagian yang perlu dibuka user sendiri.
 - Temuan saat membaca: Eveland (2001:572) menyatakan paparan saja tidak otomatis menghasilkan belajar. Breckler (1984) Studi 2: komponen sikap berkorelasi lebih tinggi kalau semua diukur lewat laporan verbal. Kelly dkk. (2009:727-728) memuat bunyi butir seeking dan scanning 12 bulan.
 - Tugas berikutnya: user membaca ringkasan, menjelaskan tiap teori satu kalimat, lalu keputusan sisa Tahap 9 satu per satu (jembatan X ke Y dan arah hipotesis, emosi yang dipakai, tiga niat, nama dan bentuk skor Y).
+
+## 11 November 2026 (lanjutan 6)
+
+- User membaca ringkasan, mengecek PDF, dan menjelaskan lima teori dengan kalimat sendiri. Semua tepat. Empat koreksi user dicek Claude ke PDF dan benar: definisi Niederdeppe di hlm. 155, Fig. 2 Roseman di hlm. 269, kutipan Eveland hlm. 572 bersumber dari Graber (1994) dan Neuman (1976), indeks Kelly memakai empat sumber dan test-retest 0,41 (abstrak) lawan 0,42 (hasil). Ringkasan dibetulkan.
+- Keputusan: teori dikunci (lihat `keputusan.md`).
+- Tugas berikutnya: user memilih bentuk Y (A, B, atau C).

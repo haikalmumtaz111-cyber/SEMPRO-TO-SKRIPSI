@@ -1,6 +1,7 @@
 # Ringkasan Jurnal yang Dipakai (Tema 2)
 
-Disusun Claude dari PDF yang dikirim user, 11 November 2026. Bahasa santai, ini bahan belajar,
+Disusun Claude dari PDF yang dikirim user, 11 November 2026. Dikoreksi user sesudah mengecek PDF
+(halaman Niederdeppe, Fig. 2 Roseman, sumber kutipan Eveland hlm. 572, rincian Kelly). Bahasa santai, ini bahan belajar,
 bukan naskah proposal. Nomor halaman adalah halaman jurnal. Tiap jurnal punya bagian "buka
 sendiri": halaman yang perlu user lihat langsung supaya sanggup menjawab pembimbing.
 
@@ -22,9 +23,9 @@ mendapat informasi kanker (hlm. 156).
 
 **Isi inti (fakta).**
 - *Seeking*: usaha aktif mencari informasi tertentu di luar kebiasaan sehari-hari. Contohnya
-  mengetik di mesin pencari atau sengaja bertanya ke orang (hlm. 154).
+  mengetik di mesin pencari atau sengaja bertanya ke orang (hlm. 155).
 - *Scanning*: informasi yang didapat di dalam kebiasaan sehari-hari, tanpa sengaja mencari.
-  Dipakai sebagai istilah payung, dan tidak ada yang benar-benar pasif (hlm. 154).
+  Dipakai sebagai istilah payung, dan tidak ada yang benar-benar pasif (hlm. 155).
 - Scanning jauh lebih sering terjadi. Seeking lebih jarang dan umumnya dilakukan orang yang juga
   scanning (hlm. 153, abstrak).
 - Responden lebih sering bilang keputusannya dipengaruhi informasi hasil seeking daripada
@@ -37,7 +38,7 @@ tahun itu scanning.
 **Batas.** Konteksnya kanker di Amerika, datanya wawancara 85 orang, jadi tidak ada angka
 hubungan yang bisa dikutip. Artikel ini dipakai untuk definisi, bukan untuk bukti hubungan.
 
-**Buka sendiri.** Abstrak (hlm. 153) dan dua paragraf definisi di hlm. 154.
+**Buka sendiri.** Abstrak (hlm. 153) dan dua paragraf definisi di hlm. 155.
 
 **Satu kalimat buat pembimbing.** "X saya memakai pembedaan seeking dan scanning dari
 Niederdeppe dkk. (2007): mencari dengan sengaja dan menemukan tanpa sengaja mencari."
@@ -58,9 +59,11 @@ n = 2.489, untuk menguji sah atau tidaknya cara mengukur scanning (hlm. 721).
 - Pertanyaan scanning: "dalam 12 bulan terakhir, apakah Anda mendengar atau menemukan informasi
   tentang [topik] walaupun tidak sedang aktif mencarinya?" Lalu berapa kali dari tiap sumber:
   tidak pernah, 1 sampai 2 kali, 3 kali atau lebih (hlm. 728).
+- Skor dihitung dari empat sumber saja. Dokter dan "sumber lain" dibuang dari indeks (hlm. 728).
 - Ukuran scanning antarperilaku saling berkorelasi rata-rata 0,50, bisa dibedakan dari paparan
   media umum (rata-rata r = 0,23) dan dari seeking (rata-rata r = 0,25), dan stabil setahun
-  kemudian (rata-rata r = 0,41) (hlm. 721).
+  kemudian (rata-rata r = 0,41 di abstrak hlm. 721, 0,42 di bagian hasil hlm. 734; kalau dikutip,
+  pakai satu dan sebut halamannya).
 - Scanning berasosiasi dengan lima dari enam perilaku pencegahan yang diteliti (hlm. 721).
 
 **Buat penelitian lu.** Ini asal jangka "12 bulan" di X lu dan contoh bentuk butir pertanyaannya.
@@ -88,15 +91,17 @@ politik dari berita (hlm. 571).
   Motivasi tidak langsung menaikkan pengetahuan, harus lewat perhatian dan elaborasi (hlm. 571).
 - Elaborasi: menghubungkan informasi baru dengan yang sudah ada di ingatan, termasuk pengetahuan
   dan pengalaman sebelumnya (hlm. 573).
-- Paparan saja tidak cukup. Orang belajar sedikit dari berita walaupun terpapar, kecuali memang
-  mau belajar dan memprosesnya (hlm. 572).
+- Paparan saja tidak cukup. Eveland merangkum penelitian sebelumnya (Graber, 1994; Neuman, 1976):
+  orang belajar sedikit dari berita walaupun terpapar. Dari situ ia menyimpulkan orang harus mau
+  belajar dan memprosesnya (hlm. 572). Kalau dikutip, tulis sebagai rangkuman Eveland atas
+  penelitian terdahulu, bukan temuan datanya sendiri.
 
 **Buat penelitian lu.** Dipakai sebagai pendukung Y kognitif saja (keputusan lu, 10 November).
 Pak Budi yang dulu sudah baca-baca punya bahan di ingatan untuk disambungkan dengan penjelasan
 petugas, jadi lebih mungkin paham. Itu **tafsir**: CMM bicara elaborasi, bukan paparan.
 
-**Batas.** X lu adalah paparan, dan Eveland sendiri bilang paparan tidak otomatis jadi
-pengetahuan (hlm. 572). Jangan tulis "menurut CMM, paparan meningkatkan pemahaman". Konteksnya
+**Batas.** X lu adalah paparan, dan Eveland (merangkum Graber dan Neuman) menulis paparan
+tidak otomatis jadi pengetahuan (hlm. 572). Jangan tulis "menurut CMM, paparan meningkatkan pemahaman". Konteksnya
 berita politik. Hasil akhir CMM adalah pengetahuan, jadi lebih pas untuk pengetahuan faktual
 daripada "merasa paham".
 
@@ -141,7 +146,7 @@ menduga angkanya, jadi tidak terlalu kaget" adalah **tafsir** dan masih butuh ru
 tidak lu ukur, jadi jangan tulis "menguji teori appraisal". Datanya ingatan orang atas emosinya
 sendiri, bukan pengamatan langsung.
 
-**Buka sendiri.** Abstrak (hlm. 241), gambar model (Fig. 2), dan paragraf terkejut di hlm. 257.
+**Buka sendiri.** Abstrak (hlm. 241), gambar model (Fig. 2, hlm. 269), dan paragraf terkejut di hlm. 257.
 
 **Satu kalimat buat pembimbing.** "Menurut Roseman, Antoniou, dan Jose (1996), emosi ditentukan
 cara orang menilai kejadian, dan terkejut muncul ketika kejadiannya tidak terduga."
