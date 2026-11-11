@@ -133,11 +133,11 @@ Sumber data primer adalah calon jemaah haji yang baru menyelesaikan pendaftaran,
 
 Populasi penelitian adalah calon jemaah haji reguler yang menyelesaikan pendaftaran di Kantor Kementerian Haji dan Umrah Kabupaten Bandung selama periode pengumpulan data. Berdasarkan data SISKOHAT kantor, tercatat 3.076 pendaftar dari 1 Januari sampai 11 November 2026, atau rata-rata sekitar 297 pendaftar per bulan. Dengan pengumpulan data yang direncanakan berlangsung sekitar satu bulan, ukuran populasi diperkirakan 297 orang.
 
-Ukuran sampel dihitung dengan rumus Slovin [PERLU RUJUKAN: buku metodologi yang memuat rumus Slovin]:
+Ukuran sampel dihitung dengan rumus Slovin, yang dapat dipakai apabila besar populasi sudah diketahui (Sukwika, 2023:174):
 
 n = N / (1 + N e^2^)
 
-dengan n sebagai ukuran sampel, N sebagai ukuran populasi, dan e sebagai batas kesalahan yang ditoleransi, yaitu 10%. Dengan N = 297, diperoleh n = 297 / (1 + 297 × 0,01) = 297 / 3,97 = 74,8, dibulatkan ke atas menjadi 75 responden. Batas kesalahan 10% dipilih dengan mempertimbangkan waktu dan sumber daya peneliti.
+dengan n sebagai ukuran sampel, N sebagai ukuran populasi, dan e sebagai batas kesalahan yang ditoleransi, yaitu 10%. Dengan N = 297, diperoleh n = 297 / (1 + 297 × 0,01) = 297 / 3,97 = 74,8, dibulatkan ke atas menjadi 75 responden. Batas kesalahan 10% dipilih dengan mempertimbangkan waktu dan sumber daya peneliti. Rumus Slovin dinilai sebagian kalangan terlalu menyederhanakan (Sukwika, 2023:173) sehingga angka 75 diperlakukan sebagai jumlah minimal.
 
 Sampel diambil dengan teknik *consecutive sampling*, yaitu subjek yang memenuhi kriteria penelitian dimasukkan secara berurutan sampai jumlah yang diperlukan terpenuhi dalam kurun waktu tertentu (Sembiring, et al., 2024:213). Dalam penelitian ini, setiap calon jemaah yang memenuhi kriteria dan bersedia diminta mengisi kuesioner sesuai urutan kedatangannya. Kriteria responden adalah sebagai berikut:
 
@@ -201,6 +201,8 @@ Roseman, I. J., Antoniou, A. A., & Jose, P. E. (1996). Appraisal determinants of
 Sembiring, T. B., Irmawati, Sabir, M., & Tjahyadi, I. (2024). *Buku ajar metodologi penelitian (teori dan praktik)*. Saba Jaya Publisher.
 
 Sukmawijaya, M. A. L. (2024). *Pengaruh kualitas pelayanan pendaftaran haji terhadap kepuasan calon jamaah tahun 2024: Penelitian di Kantor Kementerian Agama Kabupaten Bandung* [Skripsi, UIN Sunan Gunung Djati Bandung]. https://digilib.uinsgd.ac.id/97336/
+
+Sukwika, T. (2023). Menentukan populasi dan sampling. Dalam Wahyudi, W. Avianti, A. Martin, Jumali, N. Andriyani, D. Prihatiningsih, D. Misesani, Fahrudin, M. Yufrinalis, M. A. F. Mbari, A. G. Ningsih, A. Yulianto, M. T. N. Rokhman, A. Haqiyah, & T. Sukwika, *Metode penelitian (Dasar praktik dan penerapan berbasis ICT)* (hlm. 158-182). Mifandi Mandiri Digital.
 
 Tavakol, M., & Dennick, R. (2011). Making sense of Cronbach's alpha. *International Journal of Medical Education, 2*, 53-55. https://doi.org/10.5116/ijme.4dfb.8dfd
 

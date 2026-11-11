@@ -290,3 +290,7 @@
 ## 11 November 2026 (lanjutan 42)
 
 - User mengirim tautan buku ajar dari rekannya: Sembiring, Irmawati, Sabir, & Tjahyadi (2024), *Buku ajar metodologi penelitian (teori dan praktik)*, Saba Jaya Publisher, ISBN 978-623-09-7074-0, 307 halaman PDF (repository.upm.ac.id). Dibaca Claude: hlm. 213-214 memuat definisi consecutive sampling. Rumus Slovin dan korelasi Spearman tidak ada di buku ini. Rujukan consecutive sampling di naskah diganti ke buku ini, Setia (2016) dilepas karena halamannya tidak diketahui. Sisa 4 tanda.
+
+## 11 November 2026 (lanjutan 43)
+
+- User membagikan folder Google Drive berisi empat PDF buku metodologi. Dibaca Claude: Sukwika (2023), bab "Menentukan Populasi dan Sampling" dalam *Metode penelitian (Dasar praktik dan penerapan berbasis ICT)*, Mifandi Mandiri Digital, ISBN 978-623-88562-4-4. Hlm. 173-174 memuat metode Slovin (dipakai bila besar populasi diketahui, dan dicatat dinilai terlalu menyederhanakan), hlm. 170 memuat consecutive sampling. Rujukan Slovin di naskah ditutup. Buku lain di folder (metode kuantitatif UIN Suka) memuat Spearman, sedang diunduh untuk dicek.
