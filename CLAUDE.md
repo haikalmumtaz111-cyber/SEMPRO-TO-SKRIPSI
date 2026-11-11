@@ -6,10 +6,10 @@ Repo kerja proposal skripsi (Usulan Rencana Penelitian) Mumtaaz Haekal, Prodi Ma
 
 Repo ini memuat lebih dari satu proposal. Tiap tema punya folder sendiri dan tidak boleh saling mengubah.
 
-- `tema-1/` : proposal pertama (sudah jadi). Jangan diubah kecuali user minta eksplisit.
-- `tema-2/` : proposal kedua (paparan informasi pra-pendaftaran dan respons calon jemaah). Disusun user bersama ChatGPT. Peran Claude di tema 2: pengarah dan evaluator, bukan penyusun, lihat `tema-2/riset/pengarah-chatgpt.md`.
+- `tema-1/` : proposal pertama (persepsi kompleksitas dan layanan tatap muka). Draf jadi 5 November 2026, dirombak mulai 11 November 2026 atas permintaan user dengan metode tema 2: ChatGPT di proyek terpisah sebagai penyusun, Claude sebagai pengarah dan evaluator, lihat `tema-1/riset/pengarah-chatgpt.md`. Bagian yang terbukti benar tidak diubah.
+- `tema-2/` : proposal kedua (paparan informasi pra-pendaftaran dan respons calon jemaah). Riset disusun user bersama ChatGPT dengan Claude sebagai pengarah (`tema-2/riset/pengarah-chatgpt.md`), naskah ditulis Claude. Draf lengkap, menunggu bimbingan (Tahap 17).
 
-**Tema aktif sekarang: `tema-2`.** Kalau user tidak menyebut tema, kerjakan tema aktif. Kalau ragu, tanya dulu. Semua path `riset/`, `proposal/`, `output/`, `Sumber/` di bawah ini relatif terhadap folder tema aktif.
+**Tema aktif sekarang: `tema-1` (rombak).** Tema 2 menunggu hasil bimbingan. Kalau user tidak menyebut tema, kerjakan tema aktif. Kalau ragu, tanya dulu. Semua path `riset/`, `proposal/`, `output/`, `Sumber/` di bawah ini relatif terhadap folder tema aktif.
 
 ## Baca dulu tiap sesi
 
@@ -59,8 +59,8 @@ CLAUDE.md                        file ini
 acuan/                           panduan FDK, EYD V, TBBBI (teks), dipakai semua tema
 .claude/skills/sempro/           skill utama + rujukan + script + templat, dipakai semua tema
 LISENSI/                         lisensi repo sumber yang dicomot
-tema-1/                          proposal pertama (selesai)
-tema-2/                          proposal kedua (baru mulai)
+tema-1/                          proposal pertama (dirombak)
+tema-2/                          proposal kedua (draf lengkap)
 
 Isi tiap folder tema:
 <tema>/riset/tahapan.md          peta tahapan sampai Word, acuan tunggal eksekusi

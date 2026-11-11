@@ -1,6 +1,13 @@
 # Status Keputusan Penelitian
 
-Diperbarui: 5 November 2026
+Diperbarui: 11 November 2026
+
+## Rombak (11 November 2026)
+
+- Keputusan user: proposal tema 1 dirombak dengan metode tema 2. ChatGPT di proyek baru khusus tema 1 sebagai penyusun, Claude sebagai pengarah dan evaluator. Sumber luar proyek harus seizin user.
+- Prinsip: bagian yang terbukti benar dipertahankan. Semua keputusan di bawah berstatus menunggu audit.
+- Bekal pertama: `riset/chatgpt/bekal-sesi-1.md`. Prompt: `riset/chatgpt/prompt-sesi-baru.md`, `riset/chatgpt/prompt-laporan.md`.
+- Target 5 November di bawah sudah lewat dan tidak berlaku lagi.
 
 ## Target terdekat
 
