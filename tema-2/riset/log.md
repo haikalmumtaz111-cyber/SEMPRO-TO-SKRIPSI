@@ -94,3 +94,11 @@
 - Keputusan user: pilihan C, TPB dan UMT diadu dulu di sesi 4.
 - Dibuat `riset/chatgpt/bekal-sesi-4.md`, prompt sesi diperbarui ke versi 5 (tabel perbandingan delapan baris, empat PDF diunggah).
 - Tugas berikutnya: user buka sesi 4 ChatGPT, kirim laporan.
+
+## 11 November 2026 (lanjutan 3)
+
+- Laporan sesi 4 ChatGPT diterima (TPB lawan UMT). Evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.
+- Keputusan user: TPB (Ajzen, 1991) untuk Y konatif, dipakai terbatas untuk konsep niat.
+- Koreksi laporan: nama "Rebecca" Tukachinsky seharusnya Riva, status teori afektif dan status Tahap 9 keliru, tabel perbandingan tidak ikut terkirim. Prompt laporan diperbaiki.
+- Temuan Claude: abstrak Lewis dkk. (2024) memuat asosiasi seeking dan scanning dengan sikap dan niat berperilaku (k = 21, N = 39.510). Kandidat jembatan X ke Y.
+- Tugas berikutnya: Claude membuat ringkasan jurnal yang dipakai, user membaca, lalu jembatan X ke Y ditelaah.

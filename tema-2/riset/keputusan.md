@@ -24,15 +24,18 @@ Proposal tema 2 disusun user bersama ChatGPT (proyek "Menulis"). Claude bertugas
 - 10 Nov 2026: Oliver (1980) dilepas. Y afektif memakai Roseman, Antoniou, dan Jose (1996) saja, logika harapan lewat *unexpectedness*. Harapan dan appraisal tidak diukur sebagai variabel. Roseman (1984) tidak dipakai selama naskahnya belum ada.
 - 11 Nov 2026 (sesi 3 ChatGPT): TPB (Ajzen, 1991) dipilih user untuk **ditelaah** sebagai teori Y konatif. Belum dikunci. Ajzen (1991) dan dua rujukan RISP ada di Crossref.
 - 11 Nov 2026: pilihan C. TPB belum dikunci, sesi 4 mengadu TPB dan UMT dengan halaman PDF, baru user memilih.
+- 11 Nov 2026 (sesi 4 ChatGPT): **TPB (Ajzen, 1991) dipilih user untuk Y konatif**, dipakai terbatas untuk konsep niat. Tiga penentu niat tidak diukur dan tidak diklaim diuji. UMT (Brashers, 2001) tidak dipakai.
 
 ## Keputusan terbuka (urut prioritas)
 
-1. Teori untuk Y konatif dan payung teori Y: (A) TPB (Ajzen, 1991) sebagai pendukung konatif, (B) UMT (Brashers, 2001) sebagai payung afektif dan konatif, (C) adu TPB dan UMT di sesi 4 baru pilih. Rekomendasi Claude: C. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-3.md`. Sesudah itu rujukan "paparan membentuk perkiraan" [PERLU RUJUKAN] dan arah hipotesis.
+1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.
 2. Bentuk Y: satu skor, atau satu dimensi utama ditambah analisis tambahan.
 3. X dua subskala atau satu indeks.
 4. Populasi, periode, ukuran sampel. [PERLU DATA] jumlah pendaftar baru per bulan dari kantor.
 
 ## Menunggu dari user
 
-- Laporan sesi 4 ChatGPT (TPB lawan UMT). Bekal: `riset/chatgpt/bekal-sesi-4.md`, prompt: `riset/chatgpt/prompt-sesi-baru.md` (versi 5).
+- Tabel perbandingan TPB lawan UMT dari sesi 4 (tempel ke Claude).
+- Naskah lengkap Lewis dkk. (2024), 10.1093/hcr/hqae012 (perpus, email penulis, atau pembimbing).
+- Membaca ringkasan jurnal dari Claude sebelum teori dikunci dan Tahap 10 dibuka.
 - Cek Library ChatGPT, hapus `proposal.docx` dan `Proposal_Skripsi_Hasil_Revisi_Lengkap.docx` kalau tidak dipakai.

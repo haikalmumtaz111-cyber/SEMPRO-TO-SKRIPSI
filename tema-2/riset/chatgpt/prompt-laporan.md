@@ -11,4 +11,6 @@ Buat laporan progres sesi ini dalam format Markdown, dengan judul "Laporan Sesi 
 3. Rujukan yang disebut di sesi ini: penulis, tahun, judul, jurnal/penerbit, DOI, dan status (sudah saya baca / belum dibaca / [PERLU VERIFIKASI]).
 4. Hal yang masih terbuka dan pertanyaan yang belum dijawab.
 5. Usulan langkah berikutnya, maksimal 3, masih di tahap yang sama atau tahap berikutnya sesuai roadmap.
-Jangan menambah keputusan atau rujukan yang tidak dibahas di sesi ini. Jangan menulis ulang roadmap.
+6. Salin utuh setiap tabel perbandingan yang kamu buat di sesi ini, lengkap dengan nomor halaman di tiap sel.
+7. Nama penulis ditulis persis seperti di halaman pertama PDF. Jangan menulis nama depan dari ingatan.
+Jangan menambah keputusan atau rujukan yang tidak dibahas di sesi ini. Status "selesai" hanya untuk kegiatan sesi, bukan untuk tahap, kecuali saya yang menyatakan tahap selesai. Jangan menulis ulang roadmap.

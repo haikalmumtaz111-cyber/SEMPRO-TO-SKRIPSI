@@ -18,7 +18,7 @@ evaluasi Claude.
 | 6 | Merumuskan masalah, tujuan, kegunaan | 3 | [~] | Draf ada |
 | 7 | Mengumpulkan dan memeriksa penelitian terdahulu | 6 | [~] | **Aktif.** Ginting (2025) dan rujukan 2026 belum diperiksa |
 | 8 | Merumuskan research gap | 6 | [~] | **Aktif.** Jangan dikunci sebelum tahap 7 selesai |
-| 9 | Menetapkan teori dan kerangka konseptual | 5 | [~] | **Aktif.** Y kognitif: CMM. Y afektif: Roseman dkk. (1996). Y konatif: TPB ditelaah, UMT belum diadu. Jembatan X ke Y belum ada |
+| 9 | Menetapkan teori dan kerangka konseptual | 5 | [~] | **Aktif.** Y kognitif: CMM. Y afektif: Roseman dkk. (1996). Y konatif: TPB (dipilih user). Jembatan X ke Y: kandidat Lewis dkk. (2024), belum ditelaah |
 | 10 | Definisi konseptual, dimensi, indikator, operasionalisasi | 4 | [~] | Bentuk skor Y belum diputuskan |
 | 11 | Populasi, unit analisis, kriteria, sampel | 7 | [ ] | Kandidat consecutive sampling |
 | 12 | Jenis data, sumber data, teknik pengumpulan | 7 | [ ] | |
