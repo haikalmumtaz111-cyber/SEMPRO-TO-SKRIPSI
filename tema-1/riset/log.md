@@ -56,3 +56,10 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 ## 10 November 2026
 
 - Folder riset, proposal, output, dan Sumber dipindah ke `tema-1/` karena user mulai proposal kedua di `tema-2/`. Isi file tidak diubah. Build ulang: `bash .claude/skills/sempro/scripts/build_docx.sh tema-1`.
+
+## 11 November 2026
+
+- Sitasi tema 1 dicek ke Panduan KTI FDK. Temuan: paragraf masa tunggu tidak sesuai rilis Setkab (26,4 "seragam" dan "rencana 14 tahun"), sembilan sitasi tanpa halaman di paragraf celah, sitasi NU Online dan Perpres tidak cocok dengan awal entri daftar pustaka, detikHikmah tanpa tanggal, UU 14/2025 tidak dikutip, 13 tanda [PERLU ...]. Naskah belum diubah.
+- Keputusan user: proposal tema 1 dirombak dengan metode tema 2 (opsi B). ChatGPT di proyek baru terpisah dari proyek "Menulis", sumber luar proyek harus seizin user, bagian yang benar dipertahankan.
+- Dibuat: `riset/pengarah-chatgpt.md`, `riset/chatgpt/bekal-sesi-1.md`, `riset/chatgpt/prompt-sesi-baru.md`, `riset/chatgpt/prompt-laporan.md`. CLAUDE.md: tema aktif jadi tema-1.
+- Tugas berikutnya: user membuat proyek ChatGPT baru, mengunggah berkas sesuai prompt, menjalankan Perintah 1, lalu mengirim laporan sesi 1 ke Claude.

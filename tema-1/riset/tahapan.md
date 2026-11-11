@@ -4,6 +4,12 @@ Dibuat: Kamis, 5 November 2026. Diperbarui setelah eksekusi sekaligus pada hari 
 
 Ini acuan tunggal. Sesi mana pun yang melanjutkan: baca file ini, cari tahap pertama yang belum `[x]`, kerjakan tahap itu saja. Jangan nambah tahap baru tanpa persetujuan user. Ide di luar daftar masuk "Parkir".
 
+> **Rombak, 11 November 2026.** Tabel di bawah adalah riwayat penyusunan sekaligus 5 November.
+> Proposal tema 1 diaudit ulang memakai Roadmap Induk Tema 1 (31 tahap) yang disusun ChatGPT di
+> sesi 1, lihat `riset/pengarah-chatgpt.md` dan `riset/chatgpt/`. Setelah laporan sesi 1 masuk,
+> berkas ini diganti dengan tabel 31 tahap seperti `tema-2/riset/tahapan.md`.
+> Tahap aktif sekarang: **Sesi 1 ChatGPT, menyusun roadmap dan status audit (AMAN/RAGU/SALAH)**.
+
 ## Posisi start (sebelum 5 November 2026)
 
 Handoff berhenti di tahap 4 (seleksi variabel). Keputusan 1 sampai 3 terkunci, keputusan 4 setengah, naskah kosong.
