@@ -75,3 +75,11 @@
 
 - Koreksi: artikel appraisal 1996 ditulis Roseman, Antoniou, dan Jose (hlm. 241-277), terlihat di halaman pertama artikel. Koreksi ChatGPT di laporan sesi 2 (penulis tunggal) salah, begitu juga catatan Claude di lanjutan 8. Bekal sesi 3, prompt, evaluasi, keputusan, dan daftar PDF sudah dibetulkan.
 - Cara kerja baca sumber: Claude membaca PDF dan membuat ringkasan berhalaman, user membaca ringkasan lalu mengecek bagian kunci di PDF.
+
+## 11 November 2026
+
+- Laporan sesi 3 ChatGPT diterima (Tahap 9, teori Y konatif: UMT, TPB, RISP). Evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-3.md`.
+- Cek rujukan: Ajzen (1991), Griffin dkk. (1999), Griffin dkk. (2004) ada dan cocok di Crossref.
+- Keputusan user di sesi ChatGPT: memilih kandidat 2 (TPB) untuk ditelaah. Belum dikunci.
+- Catatan evaluasi: sumber bacaan Ajzen tidak jelas (PDF tidak diunggah), alasan UMT kalah tidak tercatat, UMT memuat rantai emosi ke pencarian informasi sehingga berpotensi jadi payung afektif dan konatif.
+- Tugas berikutnya: user memilih A, B, atau C, lalu Claude menyusun bekal sesi 4.
