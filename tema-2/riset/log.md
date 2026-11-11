@@ -277,3 +277,7 @@
 ## 11 November 2026 (lanjutan 39)
 
 - Rujukan consecutive sampling: Setia (2016), Indian Journal of Dermatology 61(5), 505-509, akses terbuka, isi dibaca dari teks lengkap Europe PMC (bagian convenience sample dan consecutive consenting sample, termasuk catatan bahwa hasilnya belum tentu dapat digeneralisasi). Nomor halaman belum diketahui karena PDF tidak bisa diunduh. Schober dkk. (2018) tidak akses terbuka, tidak dipakai.
+
+## 11 November 2026 (lanjutan 40)
+
+- User mengirim berkas skripsi Ardiansyah (2026) lengkap dan Ginting (2025) tanpa BAB II dan daftar pustaka. Rujukan buku metodologi tidak bisa diambil dari sana: Ginting mengutip rumus Slovin dari "Rahmawati, 2021" dan batas alfa dari "Duli, 2019", judul bukunya tidak diketahui karena daftar pustakanya tidak ikut. Ardiansyah (2026:33) membedakan respons kognitif, afektif, konatif; satu kalimat ditambahkan ke kerangka pemikiran.
