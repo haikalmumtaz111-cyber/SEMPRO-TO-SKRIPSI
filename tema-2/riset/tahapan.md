@@ -16,17 +16,17 @@ evaluasi Claude.
 | 4 | Membatasi fenomena dan menetapkan fokus | 2 | [x] | Dua fase informasi sudah dirumuskan |
 | 5 | Menetapkan desain dan judul kerja | 3 | [~] | Judul kerja ada, belum disetujui pembimbing |
 | 6 | Merumuskan masalah, tujuan, kegunaan | 3 | [~] | Draf ada |
-| 7 | Mengumpulkan dan memeriksa penelitian terdahulu | 6 | [~] | **Aktif.** Ginting (2025) dan rujukan 2026 belum diperiksa |
-| 8 | Merumuskan research gap | 6 | [~] | **Aktif.** Jangan dikunci sebelum tahap 7 selesai |
-| 9 | Menetapkan teori dan kerangka konseptual | 5 | [~] | **Aktif.** Jembatan teori X ke Y belum ada |
-| 10 | Definisi konseptual, dimensi, indikator, operasionalisasi | 4 | [~] | Bentuk skor Y belum diputuskan |
-| 11 | Populasi, unit analisis, kriteria, sampel | 7 | [ ] | Kandidat consecutive sampling |
-| 12 | Jenis data, sumber data, teknik pengumpulan | 7 | [ ] | |
-| 13 | Menyusun kuesioner dan kisi-kisi | 8 | [ ] | |
+| 7 | Mengumpulkan dan memeriksa penelitian terdahulu | 6 | [x] | Selesai 11 Nov untuk enam skripsi terdekat (abstrak; Ginting sampai BAB I). Matriks di `riset/penelitian-terdahulu.md`. Penelusuran luar kampus masih awal |
+| 8 | Merumuskan research gap | 6 | [x] | Selesai 11 Nov. Rumusan posisi di `riset/penelitian-terdahulu.md`. Klaim dibatasi "dari yang ditelusuri belum ditemukan" |
+| 9 | Menetapkan teori dan kerangka konseptual | 5 | [x] | Selesai 11 Nov. Teori dikunci, kerangka versi kerja di `riset/kerangka-konseptual.md`. Belum dilihat pembimbing |
+| 10 | Definisi konseptual, dimensi, indikator, operasionalisasi | 4 | [x] | Selesai 11 Nov. Matriks di `riset/matriks-operasionalisasi.md`. Satu indikator masih [PERLU RUJUKAN] |
+| 11 | Populasi, unit analisis, kriteria, sampel | 7 | [x] | Selesai 11 Nov. N sekitar 297 per bulan (Siskohat, 2026), sampel 75, consecutive sampling. Angka N masih perlu dipastikan dan diizinkan kantor |
+| 12 | Jenis data, sumber data, teknik pengumpulan | 7 | [x] | Selesai 11 Nov, di `riset/metode.md` |
+| 13 | Menyusun kuesioner dan kisi-kisi | 8 | [x] | Selesai 11 Nov sebagai kuesioner tentatif (`riset/kuesioner-tentatif.md`). User tidak menemukan butir yang janggal. Belum dilihat pembimbing |
 | 14 | Validasi isi, uji coba, validitas, reliabilitas | 8 | [ ] | Sebelum sempro cukup validasi isi (Panduan FDK: kuesioner tentatif) |
-| 15 | Rencana analisis data | 7 | [ ] | |
-| 16 | Menulis dokumen proposal | 9 | [ ] | Sepuluh komponen FDK |
-| 17 | Konsultasi, revisi, pemeriksaan administratif | 9 | [ ] | |
+| 15 | Rencana analisis data | 7 | [x] | Selesai 11 Nov: normalitas, lalu Pearson atau Spearman. Rujukan teknik [PERLU RUJUKAN] |
+| 16 | Menulis dokumen proposal | 9 | [x] | Selesai 11 Nov sebagai draf lengkap tanpa tanda [PERLU ...]. Word di `output/proposal.docx`. Belum dilihat pembimbing |
+| 17 | Konsultasi, revisi, pemeriksaan administratif | 9 | [ ] | **Berikutnya.** Tunjukkan judul dan draf ke pembimbing |
 | 18 | Pengajuan dan seminar usulan | 10 | [ ] | |
 | 19 | Revisi seminar dan pengesahan proposal | 10 | [ ] | |
 | 20 | Izin penelitian dan persiapan lapangan | 11 | [ ] | |
@@ -49,7 +49,7 @@ November 2026): 1 fenomena, 2 topik, 3 judul, 4 variabel, 5 teori, 6 research ga
 
 ## Aturan pakai
 
-- ChatGPT mengerjakan tahap aktif saja (sekarang 7 sampai 9, berdampingan). Tahap 10 boleh
+- ChatGPT mengerjakan tahap aktif saja (sekarang 16; Tahap 11 tinggal menunggu N dari kantor). Tahap 10 boleh
   disentuh hanya untuk keputusan yang bergantung langsung pada teori.
 - Pekerjaan tahap 11 ke atas sebelum tahap 7 sampai 10 selesai dianggap loncat tahap.
 - Status diperbarui setiap kali user mengirim backup atau roadmap baru.
