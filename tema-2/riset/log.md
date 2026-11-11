@@ -325,5 +325,5 @@
 
 - Sitasi naskah dicek ke Panduan KTI FDK (bagian P, Q, R). Semua memakai running note (Nama, Tahun:Halaman), 20 entri daftar pustaka cocok dengan sitasi di teks, nomor halaman berada dalam rentang halaman artikel.
 - (Al-Anwari, 2026:abstrak) diganti menjadi (Al-Anwari, 2026) karena halaman abstraknya tidak bernomor, seragam dengan (Bisnis.com, 2025). Word dibangun ulang.
-- Keputusan user: sitasi berita online tanpa halaman dan sitasi halaman abstrak skripsi (i/ii) dipertahankan, ditanyakan sambil lalu saat bimbingan. User mencari PDF isi lima skripsi untuk opsi mengganti halaman abstrak dengan halaman isi.
+- Keputusan user: sitasi berita online tanpa halaman dan sitasi halaman abstrak skripsi (i/ii) dipertahankan, ditanyakan sambil lalu saat bimbingan. User minta halaman abstrak diganti halaman isi. Bab I keenam skripsi diunduh Claude dari digilib UIN SGD (Bab II sampai IV terbatas untuk pengguna terdaftar). Halaman dipilih dari rumusan masalah atau tujuan penelitian yang menyebut variabelnya: Ardiansyah 5 (tujuan), Budiarti 7 (rumusan dan tujuan, PDF hasil pindai dibaca sebagai gambar), Al-Anwari 10 (tujuan), Ginting 7 (rumusan), Fitriyani 5 (rumusan dan tujuan), Sukmawijaya 4 (rumusan). Sitasi Al-Anwari kembali bernomor halaman. Word dibangun ulang.
 - Tugas berikutnya: Tahap 17, bimbingan ke pembimbing.
