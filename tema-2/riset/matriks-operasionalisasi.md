@@ -30,9 +30,8 @@ Asal indikator ditandai: [SUMBER] dari artikel, [LAPANGAN] dari pengamatan PPM p
 | Y1 tambahan: pengetahuan faktual | Jumlah jawaban benar atas pertanyaan tentang isi penjelasan petugas | | Estimasi keberangkatan, cara mengecek, waktu mulai bisa dicek | [LAPANGAN]. Kunci jawaban [PERLU DATA dari kantor] | 3 | benar atau salah, skor 0 sampai 3 |
 | **Y2** respons afektif | Kuat lemahnya reaksi emosi calon jemaah sesudah mengetahui masa tunggunya | Terkejut | Merasa terkejut mengetahui lamanya masa tunggu. Merasa angkanya di luar dugaan | [SUMBER] Roseman dkk. (1996:257); [LAPANGAN] | 2 | Likert 1 sampai 5 |
 | | | Khawatir | Merasa khawatir soal usia atau kesehatan saat berangkat. Merasa khawatir tidak bisa berangkat sesuai estimasi | [LAPANGAN] (catatan PPM di backup V4). Kedekatan dengan *fear* pada Roseman dkk. adalah tafsir | 2 | sama |
-| **Y3** respons konatif | Kuat lemahnya niat calon jemaah menindaklanjuti informasi masa tunggu sesudah penjelasan petugas | Niat bertanya kepada petugas | Berniat bertanya lagi kepada petugas kalau ada yang belum jelas | [LAPANGAN]; konsep niat [SUMBER] Ajzen (1991:181) | 2 | Likert 1 sampai 5 |
-| | | Niat mencari informasi resmi | Berniat mencari informasi masa tunggu dari sumber resmi | [USULAN] dari roadmap, dasar lapangan lemah | 2 | sama |
-| | | Niat memantau pembaruan | Berniat mengecek estimasi keberangkatan lewat aplikasi secara berkala | [LAPANGAN] | 2 | sama |
+| **Y3** respons konatif | Kuat lemahnya niat calon jemaah menindaklanjuti informasi masa tunggu sesudah penjelasan petugas | Niat bertanya kepada petugas | Berniat bertanya lagi kepada petugas kalau ada yang belum jelas, termasuk soal kemungkinan percepatan | [LAPANGAN]; konsep niat [SUMBER] Ajzen (1991:181) | 3 | Likert 1 sampai 5 |
+| | | Niat mengecek lewat aplikasi resmi | Berniat mengecek dan memantau estimasi keberangkatan lewat aplikasi resmi | [LAPANGAN] | 3 | sama |
 
 Jumlah rencana butir: X 7, Y1 4 (ditambah 3 soal faktual), Y2 4, Y3 6. Total 21 butir skala
 ditambah 3 soal faktual, belum termasuk pertanyaan identitas responden.
@@ -60,5 +59,6 @@ ditambah 3 soal faktual, belum termasuk pertanyaan identitas responden.
 
 1. (Selesai 11 Nov) Daftar sumber informasi X disesuaikan dengan keterangan lapangan user.
 2. (Selesai 11 Nov) Skala X empat tingkat dengan hitungan kali.
-3. Indikator "sanggup menjelaskan kembali" pada Y1 dan "niat mencari informasi resmi" pada Y3:
-   dipertahankan atau dibuang, karena dasarnya paling lemah.
+3. (Selesai 11 Nov) "Sanggup menjelaskan kembali" dipertahankan dengan tanda perlu rujukan.
+   "Niat mencari informasi resmi" dilebur ke niat mengecek lewat aplikasi resmi, sehingga Y3
+   punya dua indikator.
