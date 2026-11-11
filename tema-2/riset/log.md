@@ -120,3 +120,8 @@
 - User membaca ringkasan, mengecek PDF, dan menjelaskan lima teori dengan kalimat sendiri. Semua tepat. Empat koreksi user dicek Claude ke PDF dan benar: definisi Niederdeppe di hlm. 155, Fig. 2 Roseman di hlm. 269, kutipan Eveland hlm. 572 bersumber dari Graber (1994) dan Neuman (1976), indeks Kelly memakai empat sumber dan test-retest 0,41 (abstrak) lawan 0,42 (hasil). Ringkasan dibetulkan.
 - Keputusan: teori dikunci (lihat `keputusan.md`).
 - Tugas berikutnya: user memilih bentuk Y (A, B, atau C).
+
+## 11 November 2026 (lanjutan 7)
+
+- Keputusan user: Y dianalisis per dimensi, tiga skor dan tiga hipotesis.
+- Tugas berikutnya: user memilih isi Y afektif.
