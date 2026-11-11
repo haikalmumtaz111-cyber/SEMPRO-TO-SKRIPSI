@@ -61,7 +61,7 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 
 1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.
 2. (Selesai) Bentuk Y sudah diputuskan, lihat keputusan terkunci.
-3. Tahap 16: naskah sudah dibaca dan dijelaskan user per komponen (A sampai G). Word draf sudah dibuat (`output/proposal.docx`). Sisa 5 tanda di naskah: rujukan rumus Slovin, rujukan consecutive sampling, rujukan buku statistik (Pearson dan Spearman), rujukan indikator "menjelaskan kembali", halaman abstrak Al-Anwari (2026). Alamat kantor sudah diisi dari keterangan user (11 Nov). Naskah belum final sebelum lima tanda itu ditutup dan pembimbing melihat judul.
+3. Tahap 16: naskah sudah dibaca dan dijelaskan user per komponen (A sampai G). Word draf sudah dibuat (`output/proposal.docx`). Sisa 5 tanda di naskah: rujukan rumus Slovin, nomor halaman Setia (2016) untuk consecutive sampling, rujukan buku statistik (Pearson dan Spearman), rujukan indikator "menjelaskan kembali", halaman abstrak Al-Anwari (2026). Alamat kantor sudah diisi dari keterangan user (11 Nov). Naskah belum final sebelum lima tanda itu ditutup dan pembimbing melihat judul.
 4. Populasi, periode, ukuran sampel. [PERLU DATA] jumlah pendaftar baru per bulan dari kantor.
 
 ## Menunggu dari user

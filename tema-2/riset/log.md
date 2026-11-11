@@ -273,3 +273,7 @@
 ## 11 November 2026 (lanjutan 38)
 
 - User memberi alamat kantor: Jl. Adipati Agung No. 42, Baleendah, Kec. Baleendah, Kab. Bandung, Jawa Barat 40375. Dimasukkan ke naskah. Sisa 5 tanda.
+
+## 11 November 2026 (lanjutan 39)
+
+- Rujukan consecutive sampling: Setia (2016), Indian Journal of Dermatology 61(5), 505-509, akses terbuka, isi dibaca dari teks lengkap Europe PMC (bagian convenience sample dan consecutive consenting sample, termasuk catatan bahwa hasilnya belum tentu dapat digeneralisasi). Nomor halaman belum diketahui karena PDF tidak bisa diunduh. Schober dkk. (2018) tidak akses terbuka, tidak dipakai.

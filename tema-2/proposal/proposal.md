@@ -139,7 +139,7 @@ n = N / (1 + N e^2^)
 
 dengan n sebagai ukuran sampel, N sebagai ukuran populasi, dan e sebagai batas kesalahan yang ditoleransi, yaitu 10%. Dengan N = 330, diperoleh n = 330 / (1 + 330 × 0,01) = 330 / 4,3 = 76,7, dibulatkan ke atas menjadi 77 responden. Batas kesalahan 10% dipilih dengan mempertimbangkan waktu dan sumber daya peneliti.
 
-Sampel diambil dengan teknik *consecutive sampling* [PERLU RUJUKAN], yaitu setiap calon jemaah yang memenuhi kriteria dan bersedia diminta mengisi kuesioner secara berurutan sampai jumlah sampel terpenuhi. Kriteria responden adalah sebagai berikut:
+Sampel diambil dengan teknik *consecutive sampling*, yaitu setiap calon jemaah yang ditemui, bersedia, dan memenuhi kriteria diminta mengisi kuesioner secara berurutan sampai jumlah sampel terpenuhi (Setia, 2016:[hlm. PERLU VERIFIKASI]). Kriteria responden adalah sebagai berikut:
 
 1) baru menyelesaikan pendaftaran haji reguler pada hari pengisian;
 2) mendengar sendiri penjelasan petugas tentang estimasi keberangkatan;
@@ -197,6 +197,8 @@ Niederdeppe, J., Hornik, R. C., Kelly, B. J., Frosch, D. L., Romantan, A., Steve
 Peraturan Presiden Republik Indonesia Nomor 92 Tahun 2025 tentang Kementerian Haji dan Umrah. (2025). https://peraturan.bpk.go.id/Details/331574/perpres-no-92-tahun-2025
 
 Roseman, I. J., Antoniou, A. A., & Jose, P. E. (1996). Appraisal determinants of emotions: Constructing a more accurate and comprehensive theory. *Cognition and Emotion, 10*(3), 241-277. https://doi.org/10.1080/026999396380240
+
+Setia, M. S. (2016). Methodology series module 5: Sampling strategies. *Indian Journal of Dermatology, 61*(5), 505-509. https://doi.org/10.4103/0019-5154.190118
 
 Sukmawijaya, M. A. L. (2024). *Pengaruh kualitas pelayanan pendaftaran haji terhadap kepuasan calon jamaah tahun 2024: Penelitian di Kantor Kementerian Agama Kabupaten Bandung* [Skripsi, UIN Sunan Gunung Djati Bandung]. https://digilib.uinsgd.ac.id/97336/
 
