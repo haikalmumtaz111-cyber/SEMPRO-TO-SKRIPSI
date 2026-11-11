@@ -3,7 +3,7 @@
 
 # A. Latar Belakang Masalah
 
-Calon jemaah haji reguler di Indonesia menunggu sangat lama sejak mendaftar sampai berangkat. Kementerian Haji dan Umrah memperkenalkan formula pembagian kuota yang membuat masa tunggu jemaah haji reguler di seluruh Indonesia seragam, yaitu sekitar 26,4 tahun (Bisnis.com, 2025). Kebijakan itu lahir pada masa peralihan kelembagaan. Pemerintah menerbitkan Peraturan Presiden Nomor 92 Tahun 2025 tentang Kementerian Haji dan Umrah, dan pada masa pengamatan peneliti tahun 2026 layanan pendaftaran haji di Kabupaten Bandung sudah berjalan di kantor kementerian tersebut. Lamanya masa tunggu menjadi salah satu informasi pertama yang diterima seseorang ketika ia mendaftar haji.
+Calon jemaah haji reguler di Indonesia menunggu sangat lama sejak mendaftar sampai berangkat. Kementerian Haji dan Umrah mengubah formula penghitungan antrean, dan hasilnya menunjukkan rata-rata antrean haji di seluruh Indonesia mencapai 26 tahun. Angka itu kemudian diperbarui setelah kementerian memvalidasi 5,7 juta data jemaah dan menemukan sekitar 400 ribu data tidak valid. Berdasarkan penghitungan antrean faktual, jemaah yang berangkat pada tahun 2026 rata-rata menjalani masa tunggu 14 tahun. Pemerintah menyatakan akan terus membenahi data agar calon jemaah memperoleh informasi masa tunggu yang lebih akurat (Sekretariat Kabinet Republik Indonesia, 2026). Perubahan formula itu lahir pada masa peralihan kelembagaan. Pemerintah menerbitkan Peraturan Presiden Nomor 92 Tahun 2025 tentang Kementerian Haji dan Umrah, dan pada masa pengamatan peneliti tahun 2026 layanan pendaftaran haji di Kabupaten Bandung sudah berjalan di kantor kementerian tersebut. Lamanya masa tunggu menjadi salah satu informasi pertama yang diterima seseorang ketika ia mendaftar haji.
 
 Informasi masa tunggu tidak hanya beredar di kantor layanan haji. Sebelum mendaftar, sebagian calon jemaah sudah membacanya di media sosial dan portal berita, mendengarnya dari keluarga atau tetangga, atau sengaja datang ke kantor untuk bertanya. Sebagian lain baru mengetahuinya pada hari pendaftaran. Niederdeppe, et al. (2007:155) membedakan dua cara orang memperoleh informasi. Cara pertama adalah *information seeking*, yaitu usaha aktif mencari informasi tertentu di luar kebiasaan sehari-hari. Cara kedua adalah *information scanning*, yaitu informasi yang diperoleh di dalam kebiasaan sehari-hari tanpa sengaja dicari. Calon jemaah, dengan demikian, datang ke kantor dengan bekal informasi yang tidak sama.
 
@@ -170,8 +170,6 @@ Al-Anwari, A. D. (2026). *Pengaruh masa tunggu terhadap minat masyarakat usia pr
 
 Ardiansyah, M. T. (2026). *Dampak kebijakan masa tunggu jemaah di Kementerian Haji dan Umrah Kabupaten Bandung: Studi deskriptif pada Kementerian Haji dan Umrah Kabupaten Bandung* [Skripsi, UIN Sunan Gunung Djati Bandung]. https://digilib.uinsgd.ac.id/139503/
 
-Bisnis.com. (2025, 30 November). *Ada formula baru, Kemenhaj sebut masa tunggu haji di RI 26,4 tahun*. https://ekonomi.bisnis.com/read/20251130/12/1932833/ada-formula-baru-kemenhaj-sebut-masa-tunggu-haji-di-ri-264-tahun
-
 Breckler, S. J. (1984). Empirical validation of affect, behavior, and cognition as distinct components of attitude. *Journal of Personality and Social Psychology, 47*(6), 1191-1205. https://doi.org/10.1037/0022-3514.47.6.1191
 
 Budiarti, R. A. (2025). *Pengaruh waiting list dan kondisi finansial terhadap minat masyarakat Kabupaten Cianjur untuk mendaftar sebagai calon jemaah haji reguler* [Skripsi, UIN Sunan Gunung Djati Bandung]. https://digilib.uinsgd.ac.id/118336/
@@ -193,6 +191,8 @@ Niederdeppe, J., Hornik, R. C., Kelly, B. J., Frosch, D. L., Romantan, A., Steve
 Peraturan Presiden Republik Indonesia Nomor 92 Tahun 2025 tentang Kementerian Haji dan Umrah. (2025). https://peraturan.bpk.go.id/Details/331574/perpres-no-92-tahun-2025
 
 Roseman, I. J., Antoniou, A. A., & Jose, P. E. (1996). Appraisal determinants of emotions: Constructing a more accurate and comprehensive theory. *Cognition and Emotion, 10*(3), 241-277. https://doi.org/10.1080/026999396380240
+
+Sekretariat Kabinet Republik Indonesia. (2026, 28 September). *Tindak lanjut arahan Presiden Prabowo, antrean faktual haji turun jadi 14 tahun*. https://setkab.go.id/tindak-lanjut-arahan-presiden-prabowo-antrean-faktual-haji-turun-jadi-14-tahun/
 
 Sembiring, T. B., Irmawati, Sabir, M., & Tjahyadi, I. (2024). *Buku ajar metodologi penelitian (teori dan praktik)*. Saba Jaya Publisher.
 
