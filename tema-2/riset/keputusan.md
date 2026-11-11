@@ -58,12 +58,13 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 
 1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.
 2. (Selesai) Bentuk Y sudah diputuskan, lihat keputusan terkunci.
-3. Tahap 13: draf kuesioner tentatif di `riset/kuesioner-tentatif.md`, menunggu koreksi user (bunyi butir, batas usia 17 tahun). Lalu Tahap 16 (menulis naskah proposal).
+3. **Sedang diputuskan (Tahap 16).** Siapa yang menulis naskah proposal: (A) Claude menulis per komponen, user mengoreksi, (B) ChatGPT menulis dengan bekal, Claude mengecek. Rekomendasi Claude: A. Bahan yang masih kurang untuk naskah: dasar peraturan dan nomenklatur lembaga dari sumber resmi, N dari kantor, rujukan buku metodologi (Slovin, consecutive sampling, korelasi), buku Anderson & Krathwohl.
 4. Populasi, periode, ukuran sampel. [PERLU DATA] jumlah pendaftar baru per bulan dari kantor.
 
 ## Menunggu dari user
 
-- Koreksi atas draf kuesioner dan persetujuan batas usia responden 17 tahun.
+- Pilihan A atau B: siapa yang menulis naskah proposal.
+- Buku metodologi yang dipegang user (judul, penulis, tahun) untuk rujukan Slovin, teknik sampel, dan korelasi.
 - Dari kantor: jumlah pendaftar haji baru per bulan, 3 sampai 6 bulan terakhir (user sedang menanyakan).
 - Balasan email penulis Lewis dkk. (2024), kalau ada.
 

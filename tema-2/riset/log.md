@@ -246,3 +246,7 @@
 
 - Data lapangan user: penjelasan petugas biasanya didengar calon jemaah sendiri, untuk yang lanjut usia kadang berdua dengan anak atau oleh anaknya saja, dan ada pendaftar anak serta remaja. Kriteria responden di `riset/metode.md` disesuaikan. Tahap 12 selesai.
 - Dibuat `riset/kuesioner-tentatif.md`: 4 pertanyaan identitas, 21 butir skala, 3 soal faktual.
+
+## 11 November 2026 (lanjutan 33)
+
+- User tidak menemukan butir kuesioner yang janggal. Tahap 13 ditandai selesai sebagai kuesioner tentatif. Tahap 16 dibuka.

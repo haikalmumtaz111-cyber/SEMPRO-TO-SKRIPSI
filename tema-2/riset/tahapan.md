@@ -22,10 +22,10 @@ evaluasi Claude.
 | 10 | Definisi konseptual, dimensi, indikator, operasionalisasi | 4 | [x] | Selesai 11 Nov. Matriks di `riset/matriks-operasionalisasi.md`. Satu indikator masih [PERLU RUJUKAN] |
 | 11 | Populasi, unit analisis, kriteria, sampel | 7 | [~] | Slovin 10%, consecutive sampling, kriteria versi kerja di `riset/metode.md`. Kurang: N dari kantor [PERLU DATA] |
 | 12 | Jenis data, sumber data, teknik pengumpulan | 7 | [x] | Selesai 11 Nov, di `riset/metode.md` |
-| 13 | Menyusun kuesioner dan kisi-kisi | 8 | [~] | **Aktif.** Draf di `riset/kuesioner-tentatif.md`, menunggu koreksi user |
+| 13 | Menyusun kuesioner dan kisi-kisi | 8 | [x] | Selesai 11 Nov sebagai kuesioner tentatif (`riset/kuesioner-tentatif.md`). User tidak menemukan butir yang janggal. Belum dilihat pembimbing |
 | 14 | Validasi isi, uji coba, validitas, reliabilitas | 8 | [ ] | Sebelum sempro cukup validasi isi (Panduan FDK: kuesioner tentatif) |
 | 15 | Rencana analisis data | 7 | [x] | Selesai 11 Nov: normalitas, lalu Pearson atau Spearman. Rujukan teknik [PERLU RUJUKAN] |
-| 16 | Menulis dokumen proposal | 9 | [ ] | Sepuluh komponen FDK |
+| 16 | Menulis dokumen proposal | 9 | [~] | **Aktif.** Sepuluh komponen FDK |
 | 17 | Konsultasi, revisi, pemeriksaan administratif | 9 | [ ] | |
 | 18 | Pengajuan dan seminar usulan | 10 | [ ] | |
 | 19 | Revisi seminar dan pengesahan proposal | 10 | [ ] | |
@@ -49,7 +49,7 @@ November 2026): 1 fenomena, 2 topik, 3 judul, 4 variabel, 5 teori, 6 research ga
 
 ## Aturan pakai
 
-- ChatGPT mengerjakan tahap aktif saja (sekarang 13; Tahap 11 tinggal menunggu N dari kantor). Tahap 10 boleh
+- ChatGPT mengerjakan tahap aktif saja (sekarang 16; Tahap 11 tinggal menunggu N dari kantor). Tahap 10 boleh
   disentuh hanya untuk keputusan yang bergantung langsung pada teori.
 - Pekerjaan tahap 11 ke atas sebelum tahap 7 sampai 10 selesai dianggap loncat tahap.
 - Status diperbarui setiap kali user mengirim backup atau roadmap baru.
