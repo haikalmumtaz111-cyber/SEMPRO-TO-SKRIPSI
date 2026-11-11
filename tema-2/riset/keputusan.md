@@ -62,12 +62,13 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 
 1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.
 2. (Selesai) Bentuk Y sudah diputuskan, lihat keputusan terkunci.
-3. Tahap 16: naskah sudah dibaca dan dijelaskan user per komponen (A sampai G). Word draf sudah dibuat (`output/proposal.docx`). Sisa 3 tanda di naskah: rujukan buku statistik (Pearson dan Spearman), rujukan indikator "menjelaskan kembali", halaman abstrak Al-Anwari (2026). Rujukan consecutive sampling ditutup dengan Sembiring dkk. (2024:213), rujukan rumus Slovin ditutup dengan Sukwika (2023:173-174). Alamat kantor sudah diisi dari keterangan user (11 Nov). Naskah belum final sebelum lima tanda itu ditutup dan pembimbing melihat judul.
+3. Tahap 16: naskah sudah dibaca dan dijelaskan user per komponen (A sampai G). Word draf sudah dibuat (`output/proposal.docx`). Sisa 1 tanda di naskah: rujukan indikator "menjelaskan kembali" pada Y kognitif. Rujukan lain sudah ditutup: consecutive sampling (Sembiring dkk., 2024:213), rumus Slovin (Machali, 2021:82; Sukwika, 2023:173-174), Pearson dan Spearman (Machali, 2021:151, 156), batas alfa (Tavakol & Dennick, 2011:54). Halaman abstrak Al-Anwari (2026) tidak bernomor, dikutip sebagai "abstrak". Naskah belum final sebelum lima tanda itu ditutup dan pembimbing melihat judul.
 4. Populasi, periode, ukuran sampel. [PERLU DATA] jumlah pendaftar baru per bulan dari kantor.
 
 ## Menunggu dari user
 
-- Foto dari buku metodologi (sampul, halaman rumus ukuran sampel, halaman korelasi). Buku metode di daftar pustaka Ginting (2025): Duli (2019), Siregar (2013), Sugiyono (2017, 2019), Sujarweni (2014), Nuryadi & Budiantara (2017), Kuncoro (2013). "Rahmawati (2021)" yang dikutip Ginting untuk Slovin ternyata skripsi, bukan buku. Kandidat yang tersedia di perpustakaan UIN menurut OPAC (11 Nov 2026): Bungin, M. B. (2013). *Metodologi penelitian kuantitatif: Komunikasi, ekonomi, dan kebijakan publik serta ilmu-ilmu sosial lainnya* (cet. 7). Jakarta: Kencana. ISBN 978-602-7985-01-8, viii + 303 hlm. Lantai 3, rak 300, label 300.72 Bun m, 5 eksemplar tersedia. Isi (ada tidaknya rumus Slovin dan korelasi) belum dicek.
+- Keputusan: indikator "sanggup menjelaskan kembali" dibuang (Y kognitif jadi 3 butir) atau dipertahankan dengan tanda perlu rujukan.
+- Menggambar ulang skema di Word dan memeriksa sampul, tabel, nomor halaman.
 - Menunjukkan judul dan draf ke pembimbing.
 
 ## Tugas Claude

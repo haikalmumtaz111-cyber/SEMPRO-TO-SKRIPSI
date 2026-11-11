@@ -294,3 +294,7 @@
 ## 11 November 2026 (lanjutan 43)
 
 - User membagikan folder Google Drive berisi empat PDF buku metodologi. Dibaca Claude: Sukwika (2023), bab "Menentukan Populasi dan Sampling" dalam *Metode penelitian (Dasar praktik dan penerapan berbasis ICT)*, Mifandi Mandiri Digital, ISBN 978-623-88562-4-4. Hlm. 173-174 memuat metode Slovin (dipakai bila besar populasi diketahui, dan dicatat dinilai terlalu menyederhanakan), hlm. 170 memuat consecutive sampling. Rujukan Slovin di naskah ditutup. Buku lain di folder (metode kuantitatif UIN Suka) memuat Spearman, sedang diunduh untuk dicek.
+
+## 11 November 2026 (lanjutan 44)
+
+- Buku Machali (2021), *Metode penelitian kuantitatif*, cet. 3, FITK UIN Sunan Kalijaga, ISBN 978-602-603461-8, xiv + 254 hlm (tautan dan Drive dari user) dibaca Claude: rumus Slovin hlm. 82-83, korelasi Rank Spearman untuk data ordinal hlm. 151, Pearson product moment untuk data interval atau rasio dengan syarat distribusi normal hlm. 156-157. Rujukan Slovin, Pearson, dan Spearman di naskah ditutup. Halaman abstrak Al-Anwari tidak bernomor, dikutip sebagai abstrak. Sisa 1 tanda (indikator menjelaskan kembali). Buku lain di Drive user yang memuat Spearman tetapi tidak dipakai: Pattipeilohy dkk. (2026), Dani dkk. (2024).
