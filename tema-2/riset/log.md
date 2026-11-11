@@ -181,3 +181,9 @@
 
 - User mengirim PDF Zeithaml, Berry, & Parasuraman (1993). Isi dicek: hlm. 9 memuat informasi dari luar yang didapat aktif atau pasif, dan tiga faktor luar ditambah pengalaman sebelumnya yang memengaruhi *predicted service*. Dipakai untuk satu langkah kerangka (paparan membentuk perkiraan). Batas: proposisi dari 16 kelompok terarah, konteks layanan komersial. Ringkasan nomor 8 ditambahkan.
 - Masih menunggu: salinan utuh kerangka konseptual dari sesi 5.
+
+## 11 November 2026 (lanjutan 18)
+
+- Salinan utuh kerangka konseptual sesi 5 diterima dan dicek petik ke PDF, cocok. Disimpan di `riset/chatgpt/kerangka-konseptual-sesi-5-2026-11-11.md`.
+- Dibuat versi kerja `riset/kerangka-konseptual.md`: ditambah Zeithaml dkk. (1993:9) untuk langkah perkiraan, Lewis dkk. (2024) untuk niat, pengaman Y afektif, dan kata "signifikan" dilepas dari rumusan hipotesis.
+- Tugas berikutnya: user menjelaskan kerangka dengan kalimat sendiri, lalu Tahap 9 ditutup dan masuk Tahap 7.

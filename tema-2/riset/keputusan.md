@@ -45,12 +45,12 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 
 1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.
 2. (Selesai) Bentuk Y sudah diputuskan, lihat keputusan terkunci.
-3. Kerangka konseptual: laporan sesi 5 tidak memuat kerangkanya, menunggu salinan utuh. Tafsir terlemah: paparan membentuk perkiraan. Rujukan: Zeithaml, Berry, & Parasuraman (1993:9), isi sudah dicek ke PDF, berupa proposisi konseptual (lihat `riset/ringkasan-jurnal.md` nomor 8). Rincian di `riset/chatgpt/evaluasi-laporan-sesi-5.md`. Sesudah itu Tahap 7.
+3. Kerangka konseptual versi kerja ada di `riset/kerangka-konseptual.md`. Menunggu user menjelaskannya dengan kalimat sendiri, lalu Tahap 9 ditutup. Sesudah itu Tahap 7 (penelitian terdahulu konteks haji atau layanan publik Indonesia) dan Tahap 10.
 4. Populasi, periode, ukuran sampel. [PERLU DATA] jumlah pendaftar baru per bulan dari kantor.
 
 ## Menunggu dari user
 
-- Salinan utuh kerangka konseptual dari sesi 5 ChatGPT.
+- Penjelasan kerangka konseptual dengan kalimat sendiri (tiga hubungan, masing-masing satu sampai dua kalimat).
 - Jumlah pendaftar haji baru per bulan dari kantor (untuk Tahap 11).
 - Balasan email penulis Lewis dkk. (2024), kalau ada.
 

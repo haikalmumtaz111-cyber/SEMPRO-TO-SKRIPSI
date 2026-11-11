@@ -61,3 +61,18 @@ kerangka, sesudah itu ditutup.
 - Minta ChatGPT menyalin utuh kerangka konseptual dari sesi 5 (prompt di jawaban Claude).
 - User mengunduh Zeithaml dkk. (1993) dan mengirimkannya ke Claude untuk dicek isinya.
 - User memutuskan pengaman skor afektif (ya atau tidak).
+
+## 5. Kerangka konseptual (salinan utuh diterima, 11 November 2026)
+
+Berkas: `kerangka-konseptual-sesi-5-2026-11-11.md`. Dua koreksi (keputusan final, tiga penulis
+Roseman) sudah dipatuhi. Cek petik ke PDF, cocok: Breckler (1984:1202) korelasi 0,83 lawan 0,55,
+istilah konatif di hlm. 1192; Niederdeppe dkk. dan Kelly dkk. soal jejak ingatan; Eveland
+(2001:576-577) soal rantai model; Ajzen (1991:181).
+
+Satu salah kecil: kerangka menulis perhatian "belum cukup untuk menjamin pembelajaran". Di Eveland
+(2001:577) tertulis perhatian adalah syarat perlu tetapi tidak cukup untuk **elaborasi**.
+
+Kekurangan yang wajar karena sumber dibatasi enam PDF: langkah "paparan membentuk perkiraan" dan
+"paparan dengan niat" tanpa sumber. Keduanya ditambal di versi kerja `riset/kerangka-konseptual.md`
+dengan Zeithaml dkk. (1993:9) dan Lewis dkk. (2024, abstrak). Kata "signifikan" di rumusan hipotesis
+dilepas di versi kerja.
