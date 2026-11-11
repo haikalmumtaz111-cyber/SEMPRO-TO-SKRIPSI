@@ -24,7 +24,7 @@ evaluasi Claude.
 | 12 | Jenis data, sumber data, teknik pengumpulan | 7 | [~] | Versi kerja di `riset/metode.md`, menunggu koreksi user |
 | 13 | Menyusun kuesioner dan kisi-kisi | 8 | [ ] | |
 | 14 | Validasi isi, uji coba, validitas, reliabilitas | 8 | [ ] | Sebelum sempro cukup validasi isi (Panduan FDK: kuesioner tentatif) |
-| 15 | Rencana analisis data | 7 | [~] | **Aktif.** Teknik uji sedang diputuskan |
+| 15 | Rencana analisis data | 7 | [x] | Selesai 11 Nov: normalitas, lalu Pearson atau Spearman. Rujukan teknik [PERLU RUJUKAN] |
 | 16 | Menulis dokumen proposal | 9 | [ ] | Sepuluh komponen FDK |
 | 17 | Konsultasi, revisi, pemeriksaan administratif | 9 | [ ] | |
 | 18 | Pengajuan dan seminar usulan | 10 | [ ] | |

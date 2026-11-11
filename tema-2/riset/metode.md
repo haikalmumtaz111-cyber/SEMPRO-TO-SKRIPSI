@@ -48,10 +48,16 @@ Tanda `[PERLU ...]` berarti belum boleh dianggap jadi.
 - Panduan FDK meminta kuesioner tentatif untuk proposal, jadi uji coba ke responden dilakukan
   sesudah seminar.
 
-## 4. Rencana analisis (Tahap 15), menunggu keputusan user
+## 4. Rencana analisis (Tahap 15)
 
-Tiga hipotesis, masing-masing satu uji hubungan: X dengan Y1, X dengan Y2, X dengan Y3.
-Teknik uji belum diputuskan (lihat `keputusan.md`).
+- **Deskriptif**: gambaran responden dan sebaran skor tiap variabel.
+- **Inferensial**: tiga hipotesis, masing-masing satu uji hubungan: X dengan Y1, X dengan Y2,
+  X dengan Y3. Sebaran data diuji normalitasnya lebih dulu. Bila normal dipakai korelasi Pearson,
+  bila tidak dipakai korelasi Spearman (keputusan user, 11 Nov). Pengolahan dengan SPSS.
+  Rujukan teknik [PERLU RUJUKAN].
+- Karena ada tiga uji sekaligus, peluang satu hasil signifikan karena kebetulan lebih besar
+  daripada pada satu uji. Ini disebut sebagai keterbatasan, atau taraf signifikansi disesuaikan
+  bila pembimbing meminta.
 
 Analisis tambahan tanpa hipotesis: seeking dan scanning secara terpisah, terkejut dan khawatir
 secara terpisah, dua indikator niat bila tidak kompak, dan skor soal faktual.

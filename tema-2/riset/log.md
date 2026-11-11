@@ -237,3 +237,7 @@
 ## 11 November 2026 (lanjutan 30)
 
 - Keputusan user: Slovin galat 10% dengan consecutive sampling. Dibuat `riset/metode.md` (populasi, sampel, kriteria, jenis data, cara pengumpulan, rencana uji instrumen). Teknik uji hubungan sedang diputuskan.
+
+## 11 November 2026 (lanjutan 31)
+
+- Keputusan user: uji normalitas, lalu Pearson atau Spearman. Tahap 15 selesai. Kriteria responden menunggu jawaban lapangan.
