@@ -3,11 +3,11 @@
 
 # A. Latar Belakang Masalah
 
-Calon jemaah haji reguler di Indonesia menunggu sangat lama sejak mendaftar sampai berangkat. Kementerian Haji dan Umrah memperkenalkan formula pembagian kuota yang membuat masa tunggu jemaah haji reguler di seluruh Indonesia seragam, yaitu sekitar 26,4 tahun (Bisnis.com, 2025). Kebijakan itu lahir pada masa peralihan kelembagaan. Peraturan Presiden Nomor 92 Tahun 2025 membentuk Kementerian Haji dan Umrah, dan urusan haji yang sebelumnya dipegang Kementerian Agama dialihkan ke kementerian tersebut mulai tahun 2026 (Perpres Nomor 92 Tahun 2025, Pasal 65) [PERLU VERIFIKASI: bunyi pasal]. Lamanya masa tunggu menjadi salah satu informasi pertama yang diterima seseorang ketika ia mendaftar haji.
+Calon jemaah haji reguler di Indonesia menunggu sangat lama sejak mendaftar sampai berangkat. Kementerian Haji dan Umrah memperkenalkan formula pembagian kuota yang membuat masa tunggu jemaah haji reguler di seluruh Indonesia seragam, yaitu sekitar 26,4 tahun (Bisnis.com, 2025). Kebijakan itu lahir pada masa peralihan kelembagaan. Pemerintah menerbitkan Peraturan Presiden Nomor 92 Tahun 2025 tentang Kementerian Haji dan Umrah, dan pada masa pengamatan peneliti tahun 2026 layanan pendaftaran haji di Kabupaten Bandung sudah berjalan di kantor kementerian tersebut. Lamanya masa tunggu menjadi salah satu informasi pertama yang diterima seseorang ketika ia mendaftar haji.
 
 Informasi masa tunggu tidak hanya beredar di kantor layanan haji. Sebelum mendaftar, sebagian calon jemaah sudah membacanya di media sosial dan portal berita, mendengarnya dari keluarga atau tetangga, atau sengaja datang ke kantor untuk bertanya. Sebagian lain baru mengetahuinya pada hari pendaftaran. Niederdeppe, et al. (2007:155) membedakan dua cara orang memperoleh informasi. Cara pertama adalah *information seeking*, yaitu usaha aktif mencari informasi tertentu di luar kebiasaan sehari-hari. Cara kedua adalah *information scanning*, yaitu informasi yang diperoleh di dalam kebiasaan sehari-hari tanpa sengaja dicari. Calon jemaah, dengan demikian, datang ke kantor dengan bekal informasi yang tidak sama.
 
-Peneliti mengamati gejala ini selama Praktik Profesi Mahasiswa di Kantor Kementerian Haji dan Umrah Kabupaten Bandung pada Februari sampai Juni 2026. Pendaftaran berlangsung melalui penerimaan berkas, perekaman data dalam Sistem Informasi dan Komputerisasi Haji Terpadu (SISKOHAT), verifikasi, pemotretan, lalu penyerahan Surat Pendaftaran Pergi Haji [PERLU VERIFIKASI: kepanjangan SPPH]. Pada saat penyerahan dokumen itu petugas menyampaikan estimasi keberangkatan dan cara mengeceknya melalui aplikasi [PERLU VERIFIKASI: nama resmi aplikasi]. Selama masa pengamatan, masa tunggu yang disampaikan petugas sekitar 26 tahun, dan calon jemaah diberi tahu bahwa estimasi baru dapat dicek tiga hari setelah mendaftar. Respons calon jemaah terhadap penjelasan itu beragam. Sebagian tampak terkejut, sebagian khawatir karena usia, sebagian tenang, dan sebagian menanggapinya biasa saja. Ada yang bertanya tentang kemungkinan percepatan keberangkatan, dan ada yang menyatakan akan mengecek estimasinya sendiri. Sebagian calon jemaah sudah mengetahui cara mengecek estimasi, sedangkan sebagian lain belum. Uraian ini merupakan pengamatan awal peneliti, bukan data penelitian.
+Peneliti mengamati gejala ini selama Praktik Profesi Mahasiswa di Kantor Kementerian Haji dan Umrah Kabupaten Bandung pada Februari sampai Juni 2026. Pendaftaran berlangsung melalui penerimaan berkas, perekaman data dalam Sistem Informasi dan Komputerisasi Haji Terpadu (SISKOHAT), verifikasi, pemotretan, lalu penyerahan Surat Pendaftaran Pergi Haji (SPPH). Pada saat penyerahan dokumen itu petugas menyampaikan estimasi keberangkatan dan cara mengeceknya melalui aplikasi Satu Haji. Selama masa pengamatan, masa tunggu yang disampaikan petugas sekitar 26 tahun, dan calon jemaah diberi tahu bahwa estimasi baru dapat dicek tiga hari setelah mendaftar. Respons calon jemaah terhadap penjelasan itu beragam. Sebagian tampak terkejut, sebagian khawatir karena usia, sebagian tenang, dan sebagian menanggapinya biasa saja. Ada yang bertanya tentang kemungkinan percepatan keberangkatan, dan ada yang menyatakan akan mengecek estimasinya sendiri. Sebagian calon jemaah sudah mengetahui cara mengecek estimasi, sedangkan sebagian lain belum. Uraian ini merupakan pengamatan awal peneliti, bukan data penelitian.
 
 Perbedaan respons tersebut diduga berkaitan dengan bekal informasi yang dibawa calon jemaah. Zeithaml, et al. (1993:9) mengemukakan bahwa perkiraan seseorang tentang layanan yang akan diterimanya dibentuk antara lain oleh informasi dari luar, termasuk cerita dari orang lain. Roseman, et al. (1996:257) menemukan bahwa kejadian yang dinilai tidak terduga memunculkan rasa terkejut. Kedua sumber itu berasal dari konteks lain, yaitu layanan komersial dan psikologi emosi sehingga penerapannya pada calon jemaah haji masih berupa dugaan. Apabila dugaan itu benar, calon jemaah yang lebih sering terpapar informasi masa tunggu sebelum mendaftar akan menanggapi penjelasan petugas secara berbeda daripada calon jemaah yang jarang atau belum pernah terpapar. Di luar konteks haji, meta-analisis Lewis, et al. (2024:468) atas 21 penelitian dengan 39.510 responden menemukan bahwa *seeking* dan *scanning* informasi kesehatan berasosiasi dengan sikap dan niat berperilaku.
 
@@ -131,7 +131,7 @@ Sumber data primer adalah calon jemaah haji yang baru menyelesaikan pendaftaran,
 
 ## 5. Populasi dan Sampel
 
-Populasi penelitian adalah calon jemaah haji reguler yang menyelesaikan pendaftaran di Kantor Kementerian Haji dan Umrah Kabupaten Bandung selama periode pengumpulan data. Berdasarkan data SISKOHAT kantor, tercatat 7.368 pendaftar dari 1 Januari 2025 sampai 11 November 2026, atau rata-rata sekitar 330 pendaftar per bulan [PERLU VERIFIKASI: satu catatan sama dengan satu pendaftar baru]. Dengan pengumpulan data yang direncanakan berlangsung sekitar satu bulan, ukuran populasi diperkirakan 330 orang.
+Populasi penelitian adalah calon jemaah haji reguler yang menyelesaikan pendaftaran di Kantor Kementerian Haji dan Umrah Kabupaten Bandung selama periode pengumpulan data. Berdasarkan data SISKOHAT kantor, tercatat 7.368 pendaftar dari 1 Januari 2025 sampai 11 November 2026, atau rata-rata sekitar 330 pendaftar per bulan. Dengan pengumpulan data yang direncanakan berlangsung sekitar satu bulan, ukuran populasi diperkirakan 330 orang.
 
 Ukuran sampel dihitung dengan rumus Slovin [PERLU RUJUKAN: buku metodologi yang memuat rumus Slovin]:
 
@@ -247,7 +247,7 @@ Petunjuk: pernyataan berikut tentang keadaan Bapak/Ibu sekarang, setelah mendeng
 
 B1) Saya memahami perkiraan tahun keberangkatan saya yang dijelaskan petugas.
 
-B2) Saya memahami cara mengecek estimasi keberangkatan melalui aplikasi.
+B2) Saya memahami cara mengecek estimasi keberangkatan melalui aplikasi Satu Haji.
 
 B3) Saya memahami kapan estimasi keberangkatan saya mulai dapat dicek.
 
@@ -267,11 +267,11 @@ D2) Saya berniat menanyakan kepada petugas hal lain tentang jadwal keberangkatan
 
 D3) Saya berniat datang atau menghubungi kantor lagi untuk menanyakan perkembangan masa tunggu saya.
 
-D4) Saya berniat mengecek estimasi keberangkatan saya melalui aplikasi resmi.
+D4) Saya berniat mengecek estimasi keberangkatan saya melalui aplikasi Satu Haji.
 
 D5) Saya berniat mengecek estimasi keberangkatan saya secara berkala.
 
-D6) Saya berniat memantau pembaruan informasi masa tunggu melalui aplikasi resmi.
+D6) Saya berniat memantau pembaruan informasi masa tunggu melalui aplikasi Satu Haji.
 
 **Bagian E. Pertanyaan tentang Isi Penjelasan Petugas**
 
@@ -279,6 +279,6 @@ Petunjuk: pilih benar, salah, atau tidak tahu.
 
 E1) Perkiraan masa tunggu yang disampaikan petugas kepada saya sekitar 26 tahun. [PERLU DATA: angka dicek ke kantor menjelang pengumpulan data]
 
-E2) Estimasi keberangkatan dapat dicek melalui aplikasi dengan memasukkan nomor porsi. [PERLU VERIFIKASI]
+E2) Estimasi keberangkatan dapat dicek melalui aplikasi Satu Haji dengan memasukkan nomor porsi.
 
 E3) Estimasi keberangkatan sudah dapat dicek pada hari yang sama dengan pendaftaran.

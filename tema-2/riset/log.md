@@ -259,3 +259,7 @@
 
 - Keputusan user: naskah ditulis Claude. Draf pertama `proposal/proposal.md` (A sampai G, daftar pustaka, lampiran kuesioner) dan `proposal/sampul.json`. `periksa.py` dijalankan, temuan kaidah diperbaiki. Tanda [PERLU ...] masih ada untuk rujukan metodologi, halaman skripsi, bunyi pasal, nama aplikasi, alamat kantor.
 - User menyatakan angka 7.368 adalah jumlah pendaftar dan izin mengutip sudah ada.
+
+## 11 November 2026 (lanjutan 36)
+
+- User membaca latar belakang, menjelaskannya, dan mengonfirmasi isi paragraf pengamatan PPM. Tanda PERLU untuk SPPH, nama aplikasi, dan jumlah pendaftar ditutup. Klaim bunyi Pasal 65 Perpres 92/2025 dihapus dari naskah karena laman BPK tidak bisa dibuka (HTTP 403); kalimat diganti dengan yang hanya bersandar pada judul peraturan dan pengamatan peneliti.
