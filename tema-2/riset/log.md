@@ -320,3 +320,10 @@
 - User mengirim PDF bab Sukwika (2023) beserta halaman depan bukunya. Dicek: editor buku Ervi Novitasari, cetakan pertama Juli 2023, bab 14 hlm. 158-182, Slovin di hlm. 173-174, consecutive sampling di hlm. 170. Lima belas nama di sampul adalah penulis bab, bukan editor. Entri daftar pustaka dirapikan mengikuti contoh bab buku di panduan: In Novitasari, E. (Ed.). Word dibangun ulang.
 - Sampul dan penomoran A/1/a meniru proposal teman user (kualitatif). Yang ditiru hanya tampilan, sistematika naskah tetap kuantitatif. Tidak diubah.
 - Tugas berikutnya: Tahap 17, bimbingan ke pembimbing.
+
+## 11 November 2026 (lanjutan 49)
+
+- Sitasi naskah dicek ke Panduan KTI FDK (bagian P, Q, R). Semua memakai running note (Nama, Tahun:Halaman), 20 entri daftar pustaka cocok dengan sitasi di teks, nomor halaman berada dalam rentang halaman artikel.
+- (Al-Anwari, 2026:abstrak) diganti menjadi (Al-Anwari, 2026) karena halaman abstraknya tidak bernomor, seragam dengan (Bisnis.com, 2025). Word dibangun ulang.
+- Keputusan user: sitasi berita online tanpa halaman dan sitasi halaman abstrak skripsi (i/ii) dipertahankan, ditanyakan sambil lalu saat bimbingan. User mencari PDF isi lima skripsi untuk opsi mengganti halaman abstrak dengan halaman isi.
+- Tugas berikutnya: Tahap 17, bimbingan ke pembimbing.
