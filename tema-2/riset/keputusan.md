@@ -63,4 +63,4 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 
 ## Tugas Claude
 
-- Mengecek nama resmi aplikasi dan aturan jeda 3 hari ke sumber resmi sebelum naskah ditulis.
+- Cek nama aplikasi (penelusuran web 11 Nov 2026, sumber media, belum sumber resmi): beberapa media menulis aplikasi "Satu Haji" sebagai nama baru "Haji Pintar", dengan menu Estimasi Keberangkatan dan isian nomor porsi, serta situs haji.go.id/estimasi-keberangkatan. Sumber: selular.id (Mei 2026), detik.com, metrotvnews.com, akurat.co. Status: [PERLU VERIFIKASI] ke kantor atau laman resmi kementerian sebelum ditulis di naskah. Aturan jeda 3 hari tidak ditemukan di hasil penelusuran, hanya dari keterangan user.
