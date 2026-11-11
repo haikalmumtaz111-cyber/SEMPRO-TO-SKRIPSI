@@ -302,3 +302,9 @@
 ## 11 November 2026 (lanjutan 45)
 
 - Keputusan user: butir B4 dibuang. Naskah bersih dari tanda [PERLU ...]. Tahap 16 ditandai selesai sebagai draf lengkap. Tugas berikutnya: user merapikan Word secara manual dan menunjukkannya ke pembimbing (Tahap 17).
+
+## 11 November 2026 (lanjutan 46)
+
+- Sesi sebelumnya terputus sebelum gambar skema sempat disimpan. Dikerjakan ulang: Gambar 1 (skema alur penelitian) sekarang berupa gambar `tema-2/proposal/gambar/skema-alur.png`, bukan teks ketikan. Keterangan gambar ditambah "Garis menunjukkan hubungan yang diuji, bukan arah sebab akibat."
+- Matriks operasionalisasi: lebar kolom diatur ulang dan huruf tabel 9 pt (tabel 6 kolom ke atas) supaya kata tidak terpotong. `rapikan_tabel.py` juga membuat gambar dan keterangan "Gambar N." rata tengah. Word dibangun ulang.
+- Tugas berikutnya: Tahap 17, user mengecek Word lalu menunjukkannya ke pembimbing.

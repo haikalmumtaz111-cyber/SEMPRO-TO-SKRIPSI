@@ -63,20 +63,14 @@ Ketiga teori di atas menjelaskan tiap jenis respons, tetapi tidak satu pun memua
 
 Skema alur penelitian digambarkan sebagai berikut.
 
-```
-                                     Respons kognitif (Y1)
-                                   /
-Paparan informasi masa tunggu  ----  Respons afektif (Y2)
-sebelum memutuskan mendaftar (X)   \
-                                     Respons konatif (Y3)
-```
+![](tema-2/proposal/gambar/skema-alur.png){width=14cm}
 
-Gambar 1. Skema alur penelitian
+Gambar 1. Skema alur penelitian. Garis menunjukkan hubungan yang diuji, bukan arah sebab akibat.
 
 Matriks operasionalisasi variabel disajikan pada tabel berikut.
 
 | Variabel | Definisi operasional | Dimensi | Indikator | Butir | Skala | Sumber |
-|----------|----------------------|---------|-----------|-------|-------|--------|
+|----------------|----------------|--------------|----------------|----------|------------|--------------|
 | Paparan informasi masa tunggu sebelum memutuskan mendaftar (X) | Seberapa sering calon jemaah, dalam 12 bulan sebelum memutuskan mendaftar, mencari dengan sengaja dan menemukan tanpa sengaja mencari informasi masa tunggu haji dari berbagai sumber | *Seeking* | Sengaja mencari dari media sosial, internet, keluarga atau teman atau tetangga, dan kantor atau petugas sebelum hari pendaftaran | A1 sampai A4 | Ordinal, 1 sampai 4 (tidak pernah sampai lebih dari 5 kali) | Diadaptasi dari Kelly, et al. (2009:727) |
 | | | *Scanning* | Menemukan tanpa sengaja mencari dari media sosial, internet atau berita, dan keluarga atau teman atau tetangga | A5 sampai A7 | Ordinal, 1 sampai 4 | Diadaptasi dari Kelly, et al. (2009:728) |
 | Respons kognitif (Y1) | Tingkat pemahaman yang dirasakan calon jemaah atas informasi yang dijelaskan petugas | Pemahaman yang dirasakan | Memahami estimasi keberangkatan, cara mengecek, dan waktu mulai dapat dicek | B1 sampai B3 | Ordinal, Likert 1 sampai 5 | Breckler (1984:1191); isi penjelasan petugas menurut pengamatan peneliti |
