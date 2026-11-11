@@ -15,6 +15,10 @@ Proposal tema 2 disusun user bersama ChatGPT (proyek "Menulis"). Claude bertugas
 - Desain: kuantitatif, survei korelasional. Sampling kandidat: consecutive.
 - Tahap di backup: Prioritas A (kajian pustaka dan teori).
 
+## Target user (11 November 2026)
+
+Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Seminar dan tahap sesudahnya di luar target sekarang.
+
 ## Keputusan terkunci
 
 - 10 Nov 2026: acuan tahap pakai Roadmap Induk 31 tahap (V1.1).
