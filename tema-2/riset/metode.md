@@ -7,12 +7,17 @@ Tanda `[PERLU ...]` berarti belum boleh dianggap jadi.
 
 - **Populasi**: calon jemaah haji reguler yang menyelesaikan pendaftaran di Kantor Kementerian
   Haji dan Umrah Kabupaten Bandung selama periode pengumpulan data.
-- **Ukuran populasi**: [PERLU DATA] jumlah pendaftar per bulan dari kantor. Angka kerja sementara
-  300 sampai 600 orang per bulan, turunan kasar dari pengamatan peneliti saat PPM (bisa sampai
-  sekitar 30 pendaftar per hari pada hari ramai). Angka kerja ini tidak boleh masuk naskah.
-- **Ukuran sampel**: rumus Slovin, galat 10% (keputusan user, 11 Nov). Dengan angka kerja:
-  N = 300 menghasilkan 75, N = 400 menghasilkan 80, N = 600 menghasilkan 86. Dihitung ulang
-  begitu N dari kantor diperoleh. Rujukan rumus [PERLU RUJUKAN, lihat cara kakak tingkat mengutipnya].
+- **Ukuran populasi**: data dari Siskohat Gen.2 Kantor Kab. Bandung (tangkapan layar menu Cetak
+  SPH Elektronik, diterima user dari rekannya, 11 November 2026): **7.368 catatan** untuk rentang
+  1 Januari 2025 sampai 11 November 2026 (670 halaman tampilan, bukan 670 orang). Rentang itu
+  sekitar 22,4 bulan, jadi rata-rata sekitar **329 per bulan**. Yang masih harus dipastikan
+  [PERLU VERIFIKASI]: (a) satu catatan SPH berarti satu pendaftar baru, tidak termasuk cetak ulang;
+  (b) izin kantor untuk mengutip angka ini di proposal. Lebih baik lagi kalau diambil juga total
+  untuk rentang yang bersih, misalnya 1 Januari sampai 31 Oktober 2026.
+- **Ukuran sampel**: rumus Slovin, galat 10% (keputusan user, 11 Nov). Dengan N = 329 (rata-rata
+  pendaftar per bulan, dengan anggapan pengumpulan data berlangsung sekitar satu bulan):
+  n = 329 / (1 + 329 x 0,01) = 76,7, dibulatkan ke atas menjadi **77 responden**. Dihitung ulang
+  bila angka N berubah sesudah dipastikan. Rujukan rumus [PERLU RUJUKAN, lihat cara kakak tingkat mengutipnya].
 - **Teknik**: *consecutive sampling*. Setiap pendaftar yang memenuhi kriteria dan bersedia diminta
   mengisi, berurutan, sampai jumlah sampel terpenuhi. Rujukan teknik [PERLU RUJUKAN].
 - **Kriteria masuk** (disesuaikan dengan keterangan lapangan user, 11 Nov):

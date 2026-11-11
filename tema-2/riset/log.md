@@ -250,3 +250,7 @@
 ## 11 November 2026 (lanjutan 33)
 
 - User tidak menemukan butir kuesioner yang janggal. Tahap 13 ditandai selesai sebagai kuesioner tentatif. Tahap 16 dibuka.
+
+## 11 November 2026 (lanjutan 34)
+
+- User mengirim tangkapan layar Siskohat Gen.2 (Cetak SPH Elektronik, Kab. Bandung, 1 Jan 2025 sampai 11 Nov 2026). Angka yang benar 7.368 catatan (670 adalah jumlah halaman). Rata-rata sekitar 329 per bulan, sampel Slovin 10% = 77. Tangkapan layar memuat data pribadi jemaah dan tidak disimpan di repo.
