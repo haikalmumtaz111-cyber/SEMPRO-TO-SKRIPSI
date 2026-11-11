@@ -44,11 +44,17 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 
 1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.
 2. (Selesai) Bentuk Y sudah diputuskan, lihat keputusan terkunci.
-3. Kerangka konseptual (sesi 5 ChatGPT). Sesudah itu rujukan untuk langkah tafsir yang paling lemah, lalu Tahap 7 (penelitian terdahulu konteks haji atau layanan publik Indonesia).
+3. Kerangka konseptual: laporan sesi 5 tidak memuat kerangkanya, menunggu salinan utuh. Tafsir terlemah: paparan membentuk perkiraan. Kandidat rujukan: Zeithaml, Berry, & Parasuraman (1993), ada di Crossref, isi [PERLU VERIFIKASI]. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-5.md`. Sesudah itu Tahap 7.
 4. Populasi, periode, ukuran sampel. [PERLU DATA] jumlah pendaftar baru per bulan dari kantor.
 
 ## Menunggu dari user
 
-- Laporan sesi 5 ChatGPT (kerangka konseptual). Bekal: `riset/chatgpt/bekal-sesi-5.md`, prompt: `riset/chatgpt/prompt-sesi-baru.md` (versi 6).
+- Salinan utuh kerangka konseptual dari sesi 5 ChatGPT.
+- Ya atau tidak: terkejut dan khawatir dilaporkan juga per emosi sebagai analisis tambahan.
+- PDF Zeithaml, Berry, & Parasuraman (1993), 10.1177/0092070393211001.
+- Jumlah pendaftar haji baru per bulan dari kantor (untuk Tahap 11).
 - Balasan email penulis Lewis dkk. (2024), kalau ada.
-- Cek Library ChatGPT, hapus `proposal.docx` dan `Proposal_Skripsi_Hasil_Revisi_Lengkap.docx` kalau tidak dipakai.
+
+## Tugas Claude
+
+- Mengecek nama resmi aplikasi dan aturan jeda 3 hari ke sumber resmi sebelum naskah ditulis.

@@ -165,3 +165,10 @@
 ## 11 November 2026 (lanjutan 14)
 
 - Target user: sampai proposal jadi berkas Word siap cetak (Tahap 16).
+
+## 11 November 2026 (lanjutan 15)
+
+- Laporan sesi 5 ChatGPT diterima. Evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-5.md`.
+- Tanda berat: Roseman dibalik lagi jadi penulis tunggal melawan bekal, keputusan terkunci ditulis sebagai belum diputuskan. Kerangka konseptual tidak ikut di laporan. Prompt laporan diperketat.
+- Yang berguna: urutan enam tafsir terlemah. Kandidat tambalan dari Claude untuk tafsir nomor 1: Zeithaml, Berry, & Parasuraman (1993), ada di Crossref dan OpenAlex, isi belum dicek.
+- Tugas berikutnya: user meminta ChatGPT menyalin kerangka utuh, lalu sesi 5 ditutup.
