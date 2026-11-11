@@ -131,3 +131,9 @@
 - Data lapangan dari user (PPM): respons jemaah bermacam-macam, ada yang tenang, biasa saja, menganggap selesai, dan bertanya apakah bisa dipercepat.
 - Keputusan user: Y afektif dua emosi (terkejut, khawatir), satu skor.
 - Tugas berikutnya: user memilih bentuk Y konatif.
+
+## 11 November 2026 (lanjutan 9)
+
+- Keputusan user: Y konatif satu skor dengan tiga indikator.
+- Belum dijawab user: halaman Eveland untuk klaim elaborasi (ditanya dua kali), dan data lapangan soal niat memantau informasi sendiri.
+- Tugas berikutnya: user memilih bentuk X.

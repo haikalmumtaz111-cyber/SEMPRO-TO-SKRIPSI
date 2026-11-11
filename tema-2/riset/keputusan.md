@@ -28,17 +28,19 @@ Proposal tema 2 disusun user bersama ChatGPT (proyek "Menulis"). Claude bertugas
 - 11 Nov 2026: **teori dikunci** sesudah user membaca ringkasan, mengecek PDF, dan menjelaskan tiap teori dengan kalimatnya sendiri. X: Niederdeppe dkk. (2007), Kelly dkk. (2009). Y kognitif: CMM (Eveland, 2001). Y afektif: Roseman, Antoniou, & Jose (1996). Y konatif: konsep niat TPB (Ajzen, 1991). Struktur Y: Breckler (1984). Semua dipakai terbatas sesuai batas di `riset/ringkasan-jurnal.md`.
 - 11 Nov 2026: **Y dianalisis per dimensi**: tiga skor (kognitif, afektif, konatif) dan tiga hipotesis. Tidak ada skor gabungan Y. Konsekuensi: tiap dimensi butuh butir yang cukup dan uji reliabilitas sendiri.
 - 11 Nov 2026: **Y afektif diisi dua emosi, terkejut dan khawatir, satu skor** (kuat lemahnya reaksi emosi). "Tenang/merasa terbantu" tidak dijadikan indikator. Catatan lapangan dari user (PPM): ada jemaah yang tenang, ada yang biasa saja, ada yang menganggap selesai sesudah dijelaskan, ada yang bertanya apakah bisa dipercepat. Jemaah yang tenang atau biasa saja akan tercatat sebagai skor rendah. Batas: skor rendah tidak membedakan "lega" dari "tidak bereaksi".
+- 11 Nov 2026: **Y konatif satu skor, tiga indikator** (niat bertanya kepada petugas, mencari informasi resmi, memantau pembaruan), nama kerja "niat menindaklanjuti informasi". Pengaman: kalau saat uji coba tiga indikator tidak kompak, hasil dilaporkan per indikator sebagai analisis tambahan. Dasar lapangan: bertanya kepada petugas ada (PPM). Mencari informasi resmi dan memantau pembaruan [PERLU DATA], belum dikonfirmasi user.
 
 ## Keputusan terbuka (urut prioritas)
 
 1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.
-2. **Sedang diputuskan.** Y konatif: (A) satu skor niat menindaklanjuti informasi dengan tiga indikator, (B) tiga niat dipisah, (C) satu perilaku saja. Rekomendasi Claude: A.
-3. X dua subskala atau satu indeks. Bahan: Lewis dkk. (2024), Tabel 3 data tambahan, korelasi seeking dengan scanning r = 0,35 (IK 95% 0,26 sampai 0,43), berkaitan tetapi berbeda. Ini condong ke dua subskala, belum diputuskan.
+2. (Selesai) Bentuk Y sudah diputuskan, lihat keputusan terkunci.
+3. **Sedang diputuskan.** Bentuk X: (A) satu skor paparan, 3 hipotesis, (B) dua subskala seeking dan scanning, 6 hipotesis, (C) satu skor utama dengan seeking dan scanning sebagai analisis tambahan. Rekomendasi Claude: C. Bahan: Lewis dkk. (2024), r seeking dengan scanning = 0,35 (berbeda tetapi berkaitan), dan abstraknya menyebut asosiasi keduanya dengan sikap dan niat setara.
 4. Populasi, periode, ukuran sampel. [PERLU DATA] jumlah pendaftar baru per bulan dari kantor.
 
 ## Menunggu dari user
 
-- Pilihan A, B, atau C untuk Y konatif.
+- Pilihan A, B, atau C untuk bentuk X.
+- Jawaban: saat PPM, adakah jemaah yang bilang mau mengecek aplikasi atau memantau informasi sendiri sesudah mendaftar?
 - Halaman di Eveland (2001) yang menunjukkan elaborasi paling konsisten berhubungan dengan pengetahuan.
 - Balasan email penulis Lewis dkk. (2024), kalau ada.
 - Cek Library ChatGPT, hapus `proposal.docx` dan `Proposal_Skripsi_Hasil_Revisi_Lengkap.docx` kalau tidak dipakai.
