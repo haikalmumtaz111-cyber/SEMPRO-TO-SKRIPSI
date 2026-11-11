@@ -29,7 +29,9 @@ Brashers (2001), Rains & Tukachinsky (2015), dan Roseman dkk. (1996) sudah dicek
 
 1. **Sumber bacaan Ajzen (1991) tidak jelas.** Laporan menulis "sudah dibaca melalui artikel
    primer" lengkap dengan nomor halaman, tetapi PDF-nya tidak diunggah. Nomor halaman itu belum
-   bisa dicek. User perlu memegang PDF-nya. OpenAlex mencatat ada versi akses terbuka.
+   bisa dicek saat laporan diterima. Pembaruan: user mengirim PDF Ajzen (1991). Cek petik dua klaim
+   halaman cocok: bagian kecukupan teori ada di hlm. 199-200 dan peran perilaku masa lalu di
+   hlm. 202-204 (laporan menulis 198-200 dan 203-206).
 2. **Alasan UMT dan RISP kalah tidak tercatat.** Laporan hanya memuat satu baris per kandidat.
 3. Eveland (2001) ditandai [PERLU VERIFIKASI] padahal sudah ada lengkap di Bekal Sesi 3. Sepele.
 4. Label "Pilihan A, B, C" dipetakan ulang dari "Kandidat 1, 2, 3" dan itu dinyatakan terbuka.

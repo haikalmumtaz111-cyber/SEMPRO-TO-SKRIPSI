@@ -36,6 +36,16 @@ Halaman pertama kelimanya cocok dengan rujukan terverifikasi.
 | Eveland, Shah, & Kwak (2003), Communication Research 30(4), 359-386 | 10.1177/0093650203253369 | pelengkap CMM |
 | Eveland (2002), Journalism & Mass Communication Quarterly 79(1), 26-40 | 10.1177/107769900207900103 | pelengkap CMM |
 
+## Tambahan PDF (kiriman ketiga, 11 November 2026)
+
+Halaman pertama ketiganya cocok dengan Crossref.
+
+| Rujukan | DOI | Peran sekarang |
+|---|---|---|
+| Ajzen (1991), Organizational Behavior and Human Decision Processes 50(2), 179-211 | 10.1016/0749-5978(91)90020-T | TPB, kandidat teori Y konatif (ditelaah) |
+| Griffin, Dunwoody, & Neuwirth (1999), Environmental Research 80(2), S230-S245 | 10.1006/enrs.1998.3940 | RISP, kandidat yang tidak dipilih |
+| Griffin, Neuwirth, Dunwoody, & Giese (2004), Media Psychology 6(1), 23-61 | 10.1207/s1532785xmep0601_2 | RISP, kandidat yang tidak dipilih |
+
 ## Belum dipegang
 
 - Lewis, Andrews, Keefe, & Walter (2024), Human Communication Research 50(4), 468-479,
@@ -43,6 +53,4 @@ Halaman pertama kelimanya cocok dengan rujukan terverifikasi.
   di repositori mana pun. Sebelum naskah lengkap didapat, yang boleh diklaim hanya isi abstrak.
 - Roseman (1984), bab buku. Tidak dipakai selama naskahnya belum ada.
 
-Total PDF dipegang: 14 (10 rujukan terverifikasi yang dipakai atau ditelaah, ditambah Oliver 1980
-yang sudah dilepas, dan 3 lain yang perannya belum ditetapkan selain Brashers/Rains yang akan
-ditelaah di sesi 3).
+Total PDF dipegang: 17.

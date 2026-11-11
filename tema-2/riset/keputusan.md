@@ -34,5 +34,4 @@ Proposal tema 2 disusun user bersama ChatGPT (proyek "Menulis"). Claude bertugas
 ## Menunggu dari user
 
 - Pilihan A, B, atau C untuk teori Y konatif.
-- PDF Ajzen (1991), 10.1016/0749-5978(91)90020-T.
 - Cek Library ChatGPT, hapus `proposal.docx` dan `Proposal_Skripsi_Hasil_Revisi_Lengkap.docx` kalau tidak dipakai.

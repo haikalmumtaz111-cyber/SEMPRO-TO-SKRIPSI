@@ -83,3 +83,8 @@
 - Keputusan user di sesi ChatGPT: memilih kandidat 2 (TPB) untuk ditelaah. Belum dikunci.
 - Catatan evaluasi: sumber bacaan Ajzen tidak jelas (PDF tidak diunggah), alasan UMT kalah tidak tercatat, UMT memuat rantai emosi ke pencarian informasi sehingga berpotensi jadi payung afektif dan konatif.
 - Tugas berikutnya: user memilih A, B, atau C, lalu Claude menyusun bekal sesi 4.
+
+## 11 November 2026 (lanjutan)
+
+- User mengirim PDF Ajzen (1991), Griffin dkk. (1999), Griffin dkk. (2004). Semua cocok. Dua klaim halaman ChatGPT soal Ajzen dicek petik dan cocok. Total 17 PDF dipegang.
+- Masih menunggu pilihan user (A, B, atau C) untuk teori Y konatif.
