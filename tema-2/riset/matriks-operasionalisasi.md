@@ -21,7 +21,7 @@ Asal indikator ditandai: [SUMBER] dari artikel, [LAPANGAN] dari pengamatan PPM p
 
 | Variabel | Definisi operasional | Dimensi | Indikator | Asal indikator | Rencana butir | Skala |
 |---|---|---|---|---|---|---|
-| **X** paparan informasi masa tunggu sebelum memutuskan mendaftar | Seberapa sering calon jemaah, dalam 12 bulan sebelum memutuskan mendaftar, mencari dengan sengaja dan menemukan tanpa sengaja mencari informasi tentang masa tunggu haji dari berbagai sumber Seeking | Sengaja mencari informasi masa tunggu dari tiap sumber: (a) media sosial; (b) internet atau portal berita; (c) keluarga, teman, tetangga; (d) datang atau bertanya ke kantor atau petugas sebelum hari pendaftaran | bentuk pertanyaan [SUMBER] Kelly dkk. (2009:727). Sumber (a), (b), (d) [LAPANGAN] keterangan user 11 Nov. Sumber (c) [SUMBER] Kelly dkk. (2009:727) dan Zeithaml dkk. (1993:9), belum dikonfirmasi lapangan | 4 | lihat keputusan skala X |
+| **X** paparan informasi masa tunggu sebelum memutuskan mendaftar | Seberapa sering calon jemaah, dalam 12 bulan sebelum memutuskan mendaftar, mencari dengan sengaja dan menemukan tanpa sengaja mencari informasi tentang masa tunggu haji dari berbagai sumber Seeking | Sengaja mencari informasi masa tunggu dari tiap sumber: (a) media sosial; (b) internet atau portal berita; (c) keluarga, teman, tetangga; (d) datang atau bertanya ke kantor atau petugas sebelum hari pendaftaran | bentuk pertanyaan [SUMBER] Kelly dkk. (2009:727). Sumber (a), (b), (d) [LAPANGAN] keterangan user 11 Nov. Sumber (c) [SUMBER] Kelly dkk. (2009:727) dan Zeithaml dkk. (1993:9), belum dikonfirmasi lapangan | 4 | empat tingkat hitungan: tidak pernah, 1 sampai 2 kali, 3 sampai 5 kali, lebih dari 5 kali (skor 1 sampai 4). Adaptasi dari Kelly dkk. (2009:727-728); batas tingkatnya ditetapkan peneliti |
 | | | Scanning | Mendengar atau menemukan informasi masa tunggu walaupun tidak sedang mencarinya, dari: (a) media sosial; (b) internet atau portal berita; (c) keluarga, teman, tetangga. Kantor tidak dimasukkan karena orang tidak datang ke kantor tanpa sengaja | [SUMBER] Kelly dkk. (2009:728); sumber [LAPANGAN] | 3 | sama |
 | **Y1** respons kognitif (skor utama: pemahaman yang dirasakan) | Tingkat pemahaman yang dirasakan calon jemaah atas informasi yang dijelaskan petugas sesudah pendaftaran | (satu dimensi) | Merasa paham estimasi tahun keberangkatannya | [LAPANGAN] isi penjelasan petugas | 1 | Likert 1 sampai 5 (sangat tidak setuju sampai sangat setuju) |
 | | | | Merasa paham cara mengecek estimasi lewat aplikasi | [LAPANGAN] | 1 | sama |
@@ -46,8 +46,8 @@ ditambah 3 soal faktual, belum termasuk pertanyaan identitas responden.
 - X menanyakan kejadian **sebelum** memutuskan mendaftar. Y menanyakan keadaan **sesudah**
   penjelasan petugas. Bunyi butir nanti harus membuat batas waktu ini terang.
 - Kelly dkk. (2009) memakai jawaban ya atau tidak untuk seeking dan tiga kategori jumlah untuk
-  scanning, lalu membuang sumber dokter dan "sumber lain" dari indeks (hlm. 728). Skala frekuensi
-  lima tingkat di sini adalah adaptasi, jadi tidak boleh ditulis "memakai instrumen Kelly dkk.",
+  scanning, lalu membuang sumber dokter dan "sumber lain" dari indeks (hlm. 728). Skala hitungan
+  empat tingkat di sini adalah adaptasi, jadi tidak boleh ditulis "memakai instrumen Kelly dkk.",
   melainkan "diadaptasi dari".
 - Dimensi dengan 2 butir (terkejut, khawatir, tiap niat) terlalu pendek untuk Cronbach's alpha
   sendiri-sendiri. Reliabilitas dihitung di tingkat skor utama (Y2 4 butir, Y3 6 butir). Itu
@@ -59,6 +59,6 @@ ditambah 3 soal faktual, belum termasuk pertanyaan identitas responden.
 ## 4. Keputusan yang masih perlu user
 
 1. (Selesai 11 Nov) Daftar sumber informasi X disesuaikan dengan keterangan lapangan user.
-2. Skala X: frekuensi lima tingkat (usulan), atau mengikuti Kelly dkk. apa adanya.
+2. (Selesai 11 Nov) Skala X empat tingkat dengan hitungan kali.
 3. Indikator "sanggup menjelaskan kembali" pada Y1 dan "niat mencari informasi resmi" pada Y3:
    dipertahankan atau dibuang, karena dasarnya paling lemah.
