@@ -16,9 +16,9 @@ evaluasi Claude.
 | 4 | Membatasi fenomena dan menetapkan fokus | 2 | [x] | Dua fase informasi sudah dirumuskan |
 | 5 | Menetapkan desain dan judul kerja | 3 | [~] | Judul kerja ada, belum disetujui pembimbing |
 | 6 | Merumuskan masalah, tujuan, kegunaan | 3 | [~] | Draf ada |
-| 7 | Mengumpulkan dan memeriksa penelitian terdahulu | 6 | [~] | **Aktif.** Ginting (2025) dan rujukan 2026 belum diperiksa |
+| 7 | Mengumpulkan dan memeriksa penelitian terdahulu | 6 | [~] | **Aktif.** Rujukan teori sudah ada. Yang belum: penelitian dari konteks haji atau layanan publik Indonesia, Ginting (2025) |
 | 8 | Merumuskan research gap | 6 | [~] | **Aktif.** Jangan dikunci sebelum tahap 7 selesai |
-| 9 | Menetapkan teori dan kerangka konseptual | 5 | [~] | **Aktif.** Teori dan bentuk X, Y, hipotesis sudah dikunci (11 Nov). Sisa: kerangka konseptual (sesi 5) dan rujukan untuk langkah tafsir |
+| 9 | Menetapkan teori dan kerangka konseptual | 5 | [x] | Selesai 11 Nov. Teori dikunci, kerangka versi kerja di `riset/kerangka-konseptual.md`. Belum dilihat pembimbing |
 | 10 | Definisi konseptual, dimensi, indikator, operasionalisasi | 4 | [~] | Bentuk skor X dan Y sudah diputuskan. Indikator rinci belum |
 | 11 | Populasi, unit analisis, kriteria, sampel | 7 | [ ] | Kandidat consecutive sampling |
 | 12 | Jenis data, sumber data, teknik pengumpulan | 7 | [ ] | |
@@ -49,7 +49,7 @@ November 2026): 1 fenomena, 2 topik, 3 judul, 4 variabel, 5 teori, 6 research ga
 
 ## Aturan pakai
 
-- ChatGPT mengerjakan tahap aktif saja (sekarang 7 sampai 9, berdampingan). Tahap 10 boleh
+- ChatGPT mengerjakan tahap aktif saja (sekarang 7 dan 8). Tahap 10 boleh
   disentuh hanya untuk keputusan yang bergantung langsung pada teori.
 - Pekerjaan tahap 11 ke atas sebelum tahap 7 sampai 10 selesai dianggap loncat tahap.
 - Status diperbarui setiap kali user mengirim backup atau roadmap baru.

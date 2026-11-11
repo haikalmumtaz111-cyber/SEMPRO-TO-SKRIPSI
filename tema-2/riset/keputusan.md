@@ -40,17 +40,18 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 - 11 Nov 2026: tes paham ulang dijawab user dengan kalimat sendiri (X, dugaan paparan dengan terkejut, batas TPB). Lulus dengan satu koreksi: contoh seeking harus kejadian **sebelum** mendaftar. Mencari atau bertanya **sesudah** mendaftar itu Y konatif, bukan X.
 - 11 Nov 2026: **Y tetap dinamai "respons"** berisi tiga jenis respons. Judul kerja tidak berubah.
 - 11 Nov 2026: **pengaman Y afektif**: skor utama tetap satu (terkejut dan khawatir), dan kedua emosi dilaporkan juga terpisah sebagai analisis tambahan tanpa hipotesis. Dugaan arah untuk kerangka pemikiran: terkejut negatif, khawatir tidak ditentukan.
+- 11 Nov 2026: **Tahap 9 ditutup.** User menjelaskan tiga hubungan kerangka dengan kalimat sendiri, tepat, termasuk batasnya. Kerangka: `riset/kerangka-konseptual.md`.
 
 ## Keputusan terbuka (urut prioritas)
 
 1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.
 2. (Selesai) Bentuk Y sudah diputuskan, lihat keputusan terkunci.
-3. Kerangka konseptual versi kerja ada di `riset/kerangka-konseptual.md`. Menunggu user menjelaskannya dengan kalimat sendiri, lalu Tahap 9 ditutup. Sesudah itu Tahap 7 (penelitian terdahulu konteks haji atau layanan publik Indonesia) dan Tahap 10.
+3. Tahap 7: memeriksa penelitian terdahulu dari konteks haji. Prioritas empat naskah: Ginting (2025), Fitriyani, Aziz, & Fitriani (2025), Khoirunnisak (2026), Sukmawijaya (2024). Judul lengkap dan sumbernya [PERLU VERIFIKASI], di roadmap hanya tercatat nama dan topik. Ardiansyah (2026) sudah diperiksa menurut backup V4.
 4. Populasi, periode, ukuran sampel. [PERLU DATA] jumlah pendaftar baru per bulan dari kantor.
 
 ## Menunggu dari user
 
-- Penjelasan kerangka konseptual dengan kalimat sendiri (tiga hubungan, masing-masing satu sampai dua kalimat).
+- Naskah (minimal abstrak dan BAB I) empat penelitian terdahulu prioritas, dari repositori UIN atau sumber aslinya.
 - Jumlah pendaftar haji baru per bulan dari kantor (untuk Tahap 11).
 - Balasan email penulis Lewis dkk. (2024), kalau ada.
 

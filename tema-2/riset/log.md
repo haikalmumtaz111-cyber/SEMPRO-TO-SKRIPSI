@@ -187,3 +187,8 @@
 - Salinan utuh kerangka konseptual sesi 5 diterima dan dicek petik ke PDF, cocok. Disimpan di `riset/chatgpt/kerangka-konseptual-sesi-5-2026-11-11.md`.
 - Dibuat versi kerja `riset/kerangka-konseptual.md`: ditambah Zeithaml dkk. (1993:9) untuk langkah perkiraan, Lewis dkk. (2024) untuk niat, pengaman Y afektif, dan kata "signifikan" dilepas dari rumusan hipotesis.
 - Tugas berikutnya: user menjelaskan kerangka dengan kalimat sendiri, lalu Tahap 9 ditutup dan masuk Tahap 7.
+
+## 11 November 2026 (lanjutan 19)
+
+- User menjelaskan tiga hubungan kerangka dengan kalimat sendiri, tepat. **Tahap 9 ditutup.**
+- Tahap 7 dibuka. Roadmap mencatat 14 penelitian terdahulu, baru Ardiansyah (2026) yang diperiksa. Pencarian otomatis di OpenAlex gagal (HTTP 429, kuota tanpa kunci). Prioritas empat naskah diminta dari user.
