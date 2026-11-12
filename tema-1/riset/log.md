@@ -132,3 +132,10 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Keputusan user: setuju usul Claude untuk Tahap 6 (nama variabel sama dengan judul, satu kalimat penjelas skenario, pertanyaan 3 "arah dan besar", pembuka PPM plus Satu Haji, kegunaan dipangkas). User menegaskan petugas memberi tahu jemaah cara mengecek estimasi lewat Satu Haji. Tahap 6 dicatat selesai.
 - Dibuat `riset/chatgpt/bekal-sesi-6.md` dan prompt versi 6 (Tahap 7, boleh sampai Tahap 8). Rencana redaksi Tahap 6 ada di `riset/perbaikan-naskah.md`.
 - Tugas berikutnya: user menjalankan sesi 6 ChatGPT (matriks dua belas penelitian terdahulu) dan mengirim laporan atau transkrip. Claude mencocokkan halaman ke PDF.
+
+## 12 November 2026 (lanjutan 11)
+
+- Laporan ChatGPT Tahap 7 untuk rujukan 1 sampai 6 diterima (`riset/chatgpt/laporan-sesi-6a-rujukan-1-6-2026-11-12.md`), evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-6a.md`. Semua kutipan dan angka cocok dengan teks di `Sumber/`. Sesi bersih.
+- Temuan: kata "membuktikannya" (Ebbers), parafrase butir 3 (Maynard dan Hakel), kalimat Jabri dan Ahmad terlalu kuat, dan dukungan empiris khusus tatap muka lebih tipis daripada kesan naskah. Dicatat di `riset/perbaikan-naskah.md`.
+- Keputusan user: belum ada.
+- Tugas berikutnya: user menempel prompt lanjutan (rujukan 7 sampai 12) di sesi ChatGPT yang sama, lalu mengirim hasilnya.

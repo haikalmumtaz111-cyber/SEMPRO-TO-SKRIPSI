@@ -51,3 +51,12 @@ Rencana redaksi (dirapikan lagi saat masuk naskah):
 - Sembilan sitasi tanpa halaman di paragraf celah penelitian, dan "Daft dan Lengel (1986)".
 - Sitasi Perpres dan NU Online tidak cocok dengan awal entri daftar pustaka; detikHikmah tanpa tanggal.
 - UU 14/2025 ada di daftar pustaka tetapi tidak dikutip.
+
+## Dari Tahap 7, rujukan 1 sampai 6 (12 November, belum dimasukkan ke naskah)
+
+- Kerangka pemikiran: "Ebbers, et al. (2016:511) membuktikannya" diganti kata yang menyatakan hubungan, bukan bukti sebab akibat (Tahap 9).
+- Kerangka pemikiran: parafrase butir ketiga Maynard dan Hakel memuat pemikiran dan pemecahan masalah, bukan hanya "pertimbangan" (Tahap 10).
+- Latar belakang: kalimat Jabri dan Ahmad (2025:1) dibatasi. Sumbernya juga menyatakan kompleksitas saja tidak cukup memprediksi pilihan kanal, dan kanal luringnya mencakup cetakan dan mobil pengeras suara.
+- Paragraf celah: Jabri dan Ahmad (2025) tidak tepat disebut "menguji kompleksitas secara kuantitatif" (Tahap 8).
+- Pieterson dan Ebbers (2020:4): kalimat "makin kompleks, makin memilih kanal tradisional" adalah rangkuman literatur, dan kanal tradisional mencakup telepon. Temuan empirisnya: telepon 53,1% (2008) dan 53,0% (2017) untuk pertanyaan kompleks, tatap muka turun. Halaman [PERLU VERIFIKASI].
+- Keterbatasan: Ebbers dkk. memakai empat situasi per responden, penelitian ini satu skenario (Tahap 10).
