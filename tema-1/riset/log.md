@@ -173,3 +173,10 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Keputusan user di ChatGPT: hipotesis tidak berarah.
 - Temuan Claude dari sumber: Ebbers dkk. (2016:506) sendiri menyambungkan kompleksitas atau ambiguitas tugas dengan konsep kekayaan media; Pieterson dan Ebbers (2020:4) membedakan kompleksitas dari ambiguitas.
 - Menggantung: posisi teori (tumpuan langsung literatur pemilihan kanal, teori kekayaan media sebagai dasar konsep) dan pernyataan Tahap 9 selesai.
+
+## 12 November 2026 (lanjutan 17)
+
+- Keputusan user: posisi teori opsi B (ikut rekomendasi Claude); Tahap 9 selesai.
+- Dibuat `riset/chatgpt/bekal-sesi-9.md` (memuat matriks operasionalisasi dan butir draf, fakta skala asli Maynard dan Hakel serta Ebbers dkk.) dan prompt versi 9 (Tahap 10, boleh sampai Tahap 11).
+- Rujukan untuk pengukuran satu butir belum dicari; pengecekan lewat OpenAlex dihentikan user. Tetap [PERLU RUJUKAN].
+- Tugas berikutnya: user menjalankan sesi 9 ChatGPT dan mengirim laporan atau transkrip.

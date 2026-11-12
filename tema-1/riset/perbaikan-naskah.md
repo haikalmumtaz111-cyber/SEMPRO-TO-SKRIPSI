@@ -61,7 +61,7 @@ Rencana redaksi (dirapikan lagi saat masuk naskah):
 - Kompleksitas yang dirasakan tidak disamakan dengan ekuivokalitas.
 - "Paling mudah dipenuhi melalui layanan tatap muka" dilunakkan: tatap muka menyediakan umpan balik langsung (Daft & Lengel, 1986:560); telepon juga dipilih untuk urusan kompleks (Pieterson & Ebbers, 2020:9).
 - Langkah 6: kondisi "tidak terjawab oleh angka di aplikasi" ditulis sebagai kondisi skenario.
-- Usul Claude (menunggu keputusan user): sambungan teori ke kompleksitas dirujuk ke Ebbers, et al. (2016:506) dan Pieterson dan Ebbers (2020:4); kalimat "bertumpu pada teori kekayaan media" diganti sehingga literatur pemilihan kanal menjadi tumpuan langsung.
+- Disetujui user: sambungan teori ke kompleksitas dirujuk ke Ebbers, et al. (2016:506) dan Pieterson dan Ebbers (2020:4); kalimat "bertumpu pada teori kekayaan media" diganti sehingga literatur pemilihan kanal menjadi tumpuan langsung.
 
 ## Dari cek sitasi 11 November
 
