@@ -207,3 +207,8 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Laporan sesi 10 ChatGPT (Tahap 11) diterima dalam zip (`riset/chatgpt/laporan-sesi-10-2026-11-12.md`; ChatGPT menamainya sesi 11), evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-10.md`. Sesi bersih.
 - Keputusan user di ChatGPT: 46.210 sebagai total daftar tunggu; unit analisis individu (batas administratif); kriteria tiga karakteristik, kesediaan jadi ketentuan partisipasi; purposive sampling; Slovin dihapus, 100 dipertahankan sebagai target operasional tanpa dasar.
 - Menggantung: dasar angka sampel. Usul Claude: perhitungan daya uji untuk korelasi (Cohen, 1992, metadata dicek Crossref, isi belum dibaca) atau kembali ke Slovin dengan pengakuan keterbatasan.
+
+## 12 November 2026 (lanjutan 23)
+
+- Keputusan user: dasar ukuran sampel memakai analisis daya uji (opsi A). User mengirim PDF Cohen (1992), hasil pindai, disimpan di `Sumber/`. Diperiksa Claude dari gambar halaman: hlm. 156 (uji dua arah, α 0,05), hlm. 157 Tabel 1 (r kecil 0,10, sedang 0,30, besar 0,50), hlm. 158 Tabel 2 (uji r, daya 0,80, α 0,05: 783, 85, 28). Target 100 = minimal 85 ditambah cadangan; alasan waktu dan sumber daya menjadi alasan batas atas (Keputusan 6 terjawab). Rencana kalimat di `riset/perbaikan-naskah.md`.
+- Menggantung: pernyataan Tahap 11 selesai.

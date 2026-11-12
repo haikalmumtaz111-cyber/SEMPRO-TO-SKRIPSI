@@ -96,6 +96,29 @@ Kandidat lain (Allen dkk., 2022; Wanous dkk., 1997) tidak dipakai.
 - Tulis bahwa Y tidak membandingkan kanal dan responden menilai gabungan dua kondisi skenario; masuk keterbatasan.
 - "Skor diperlakukan sebagai interval" menunggu Tahap 15.
 
+## Dari Tahap 11 (populasi dan sampel)
+
+Keputusan user (sesi 10 ChatGPT dan ke Claude, 12 November 2026):
+- 46.210 disebut sebagai total jemaah daftar tunggu Kabupaten Bandung pada dasbor SISKOHAT Gen.2 (data 19 Oktober 2026), bukan jumlah khusus jemaah reguler.
+- Unit analisis: individu jemaah haji reguler yang tercatat dalam daftar tunggu Kabupaten Bandung, bernomor porsi, belum berangkat.
+- Kriteria responden tiga butir (reguler Kabupaten Bandung, bernomor porsi, belum berangkat). "Bersedia mengisi" dipindah ke ketentuan partisipasi sukarela sesudah membaca lembar persetujuan.
+- Purposive sampling lewat tiga jalur (staf kantor dan mahasiswa magang, KBIHU, loket); tiap calon responden disaring dengan tiga kriteria lewat pertanyaan penyaring.
+- Rumus Slovin, e = 10%, dan perhitungan 99,78 dihapus. Tanda [PERLU RUJUKAN: buku metodologi yang memuat rumus Slovin] ikut hilang.
+
+Dasar ukuran sampel (diperiksa Claude dari PDF, `Sumber/Cohen 1992 A power primer.pdf`, hasil pindai, hlm. 155-159):
+Cohen, J. (1992). A power primer. *Psychological Bulletin, 112*(1), 155-159. https://doi.org/10.1037/0033-2909.112.1.155
+- hlm. 156: α lazimnya 0,05; ukuran sampel di tabel artikel ini untuk uji dua arah.
+- hlm. 157 (Tabel 1): untuk uji signifikansi korelasi product-moment r, besar efek kecil 0,10, sedang 0,30, besar 0,50.
+- hlm. 158 (Tabel 2): untuk uji signifikansi r dengan daya uji 0,80 dan α = 0,05, N yang dibutuhkan 783 (efek kecil), 85 (sedang), 28 (besar).
+
+Rencana kalimat naskah:
+> Ukuran sampel ditentukan dengan analisis daya uji. Untuk menguji signifikansi korelasi pada taraf 0,05 dua arah dengan daya uji 0,80, dibutuhkan sekurang-kurangnya 85 responden agar korelasi berukuran sedang (r = 0,30) dapat terdeteksi (Cohen, 1992:157-158). Penelitian ini menargetkan 100 responden untuk mengantisipasi kuesioner yang tidak lengkap atau responden yang tidak memenuhi kriteria. Batas atas 100 ditetapkan dengan mempertimbangkan waktu dan sumber daya peneliti.
+
+Catatan: tabel Cohen untuk korelasi product-moment (Pearson). Kalau di Tahap 15 dipilih Spearman, angka 85 ditulis sebagai pendekatan. Uji dua arah cocok dengan hipotesis tidak berarah.
+
+Entri daftar pustaka:
+Cohen, J. (1992). A power primer. *Psychological Bulletin, 112*(1), 155-159. https://doi.org/10.1037/0033-2909.112.1.155
+
 ## Dari cek sitasi 11 November
 
 - Sembilan sitasi tanpa halaman di paragraf celah penelitian, dan "Daft dan Lengel (1986)".
