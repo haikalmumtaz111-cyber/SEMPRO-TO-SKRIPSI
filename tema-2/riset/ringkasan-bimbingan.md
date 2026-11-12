@@ -90,7 +90,56 @@ Cara jawabnya:
 Semua pertanyaan ada di halaman paling belakang proposal, judulnya "LAMPIRAN: KUESIONER (TENTATIF)".
 Tentatif artinya masih sementara.
 
-## 3. Jurnalnya satu-satu
+## 3. Ringkasan teori
+
+Lu ga pake satu teori gede. Lu pake beberapa teori yang masing-masing megang satu bagian. Kayak tim
+futsal, tiap pemain jaga posisi sendiri. Rincian tiap tulisannya ada di bagian 4.
+
+**Buat X (bekal informasi sebelum daftar)**
+
+1. **Information seeking dan scanning**, dari Niederdeppe dkk. (2007) dan Kelly dkk. (2009).
+   Orang dapet informasi lewat dua jalan. Seeking itu sengaja nyari, kayak lu ngetik di Google.
+   Scanning itu nemu tanpa nyari, kayak video yang lewat sendiri di TikTok.
+   Dipake buat: ngartiin X dan bikin pertanyaan Bagian A.
+
+**Buat Y (tanggapan setelah dijelasin petugas)**
+
+2. **Tiga komponen respons**, dari Breckler (1984).
+   Tanggapan orang kepecah tiga: pikiran, perasaan, niat berbuat. Kayak pas dosen bilang "revisi
+   total": kepala mikir, hati deg-degan, kaki mau ngapain.
+   Dipake buat: alasan Y dibagi jadi Y1, Y2, Y3.
+3. ***Cognitive Mediation Model***, dari Eveland (2001). Megang Y1 (ngerti).
+   Orang paham kalau info baru disambungin ke yang udah ada di kepalanya. Kayak puzzle yang
+   separuhnya udah kepasang, keping baru gampang nemu tempat.
+4. **Perkiraan layanan**, dari Zeithaml dkk. (1993), ditambah **penilaian emosi**, dari Roseman dkk.
+   (1996). Megang Y2 (kaget, khawatir).
+   Info dari luar ngebentuk bayangan orang, dan kejadian yang ga disangka bikin kaget. Kayak film
+   yang akhirnya udah dibocorin, lu ga sekaget yang nonton tanpa tau apa-apa.
+5. **Konsep niat**, dari Ajzen (1991), teorinya bernama *Theory of Planned Behavior*. Megang Y3 (niat).
+   Niat itu tanda seberapa keras orang mau usaha ngelakuin sesuatu. Lu cuma minjem arti niatnya,
+   teorinya ga lu uji.
+
+**Jembatan X ke Y**
+
+6. **Lewis dkk. (2024)**, rangkuman 21 penelitian dengan 39.510 orang soal info kesehatan.
+   Sengaja nyari dan nemu tanpa nyari sama-sama nyambung dengan sikap dan niat orang. Ini bukti
+   angka bahwa X lu masuk akal dihubungin ke Y.
+
+**Yang wajib diinget**
+
+- Ga ada satu pun teori di atas yang nyebut "paparan informasi sebelum daftar haji". Jadi hubungan
+  X ke Y itu dugaan lu, dan itulah yang mau lu uji. Naskah udah ngaku ini.
+- Semua teorinya dari luar urusan haji: kesehatan, berita, jualan jasa, psikologi umum.
+
+**Kalimat buat dosen kalau ditanya teorinya apa**
+
+"X saya pakai konsep information seeking dan scanning dari Niederdeppe, Pak. Y saya bagi tiga
+mengikuti Breckler: kognitif, afektif, konatif. Masing-masing dijelaskan teori sendiri, yaitu
+Eveland untuk pemahaman, Roseman untuk emosi, dan Ajzen untuk niat."
+
+Cukup segitu. Nama lain baru disebut kalau ditanya.
+
+## 4. Jurnalnya satu-satu
 
 Jurnal itu tulisan hasil penelitian orang lain yang lu jadiin pegangan. Aturan mainnya: tiap
 jurnal cuma dipinjem satu potong, bukan dipake seluruh isinya. Kayak minjem satu obeng dari kotak
@@ -152,7 +201,7 @@ sikap dan niat orang. Ini satu-satunya bukti angka yang nyambungin X lu langsung
 Awas: topiknya kesehatan, bukan haji.
 
 **Tavakol & Dennick (2011:54). Batas lolos alat ukur.**
-Dipake buat dua hal: angka batas lolos 0,70 (dijelasin di bagian 5) dan peringatan bahwa bagian
+Dipake buat dua hal: angka batas lolos 0,70 (dijelasin di bagian 6) dan peringatan bahwa bagian
 yang pertanyaannya sedikit gampang ga lolos. Bagian B lu cuma 3 pertanyaan, jadi rawan. Udah
 ditulis sebagai kelemahan.
 
@@ -160,7 +209,7 @@ ditulis sebagai kelemahan.
 hubungan (hlm. 151 dan 156). Sukwika (2023:173-174) buat rumus yang sama. Sembiring dkk. (2024:213)
 buat cara milih responden.
 
-## 4. Enam skripsi kakak tingkat dan celah lu
+## 5. Enam skripsi kakak tingkat dan celah lu
 
 "Celah" itu bagian yang belum digarap orang, tempat penelitian lu masuk. Kayak lapak kosong di
 pasar. Semua skripsi ini dari UIN SGD.
@@ -175,7 +224,7 @@ disambungin ke tanggapan **setelah** dijelasin petugas. Naskah lu jujur nulis pe
 terbatas. Jadi jangan bilang "belum pernah ada yang neliti". Bilangnya "dari yang saya telusuri,
 belum saya temukan".
 
-## 5. Cara nelitinya pake bahasa orang
+## 6. Cara nelitinya pake bahasa orang
 
 **Kuantitatif.** Penelitian pake angka dan hitungan. Lawannya kualitatif, yang pake wawancara dan
 cerita.
@@ -245,7 +294,7 @@ lempar koin 5 kali, gambar terus. Kebetulan atau koinnya diakalin? Lu butuh bata
 batasnya 5 dari 100: kalau peluang hasil lu muncul cuma karena kebetulan di bawah itu, lu boleh
 bilang hubungannya ada.
 
-## 6. Pertanyaan yang kemungkinan dilempar dosen
+## 7. Pertanyaan yang kemungkinan dilempar dosen
 
 **"Teori utamanya apa?"** (dosen suka nyebutnya *grand theory*, teori payung yang nutupin semua)
 Ga ada satu payung. X dari Niederdeppe dan Kelly, cara bagi Y dari Breckler, tiap jenis Y punya
@@ -278,7 +327,7 @@ disebut petugas ke pendaftar selama lu magang sekitar 26 tahun.
 Ada risikonya. Makin sering lu lempar dadu, makin gede peluang dapet angka 6 cuma karena hoki.
 Udah ditulis sebagai kelemahan.
 
-## 7. Yang sebaiknya lu tanyain ke dosen
+## 8. Yang sebaiknya lu tanyain ke dosen
 
 1. Boleh nggak tanpa satu teori payung, atau harus ada?
 2. Y dihitung tiga kali terpisah itu diterima, atau diminta dijumlah jadi satu?
