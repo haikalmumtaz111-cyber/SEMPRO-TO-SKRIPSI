@@ -126,3 +126,9 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - User mengirim transkrip sesi 5 ChatGPT (bukan laporan), disimpan di `riset/chatgpt/transkrip-sesi-5-2026-11-12.md`, evaluasi di `riset/chatgpt/evaluasi-transkrip-sesi-5.md`.
 - Keputusan user di ChatGPT (Tahap 6, belum dikunci di repo): redaksi "skenario hipotetis mundurnya estimasi keberangkatan tanpa penjelasan alasan perubahan" di rumusan dan tujuan; pembukaan rumusan masalah dari pengamatan PPM; skenario disebut lengkap sekali. Menggantung: redaksi pertanyaan ketiga.
 - Keberatan Claude: redaksi skenario di rumusan masalah mencampur konsep dengan alat ukur dan berbeda dari judul kerja; penghapusan "kanal digital" melemahkan pembanding tatap muka (fakta Satu Haji dari tema 2 belum masuk bekal). Menunggu keputusan user.
+
+## 12 November 2026 (lanjutan 10)
+
+- Keputusan user: setuju usul Claude untuk Tahap 6 (nama variabel sama dengan judul, satu kalimat penjelas skenario, pertanyaan 3 "arah dan besar", pembuka PPM plus Satu Haji, kegunaan dipangkas). User menegaskan petugas memberi tahu jemaah cara mengecek estimasi lewat Satu Haji. Tahap 6 dicatat selesai.
+- Dibuat `riset/chatgpt/bekal-sesi-6.md` dan prompt versi 6 (Tahap 7, boleh sampai Tahap 8). Rencana redaksi Tahap 6 ada di `riset/perbaikan-naskah.md`.
+- Tugas berikutnya: user menjalankan sesi 6 ChatGPT (matriks dua belas penelitian terdahulu) dan mengirim laporan atau transkrip. Claude mencocokkan halaman ke PDF.

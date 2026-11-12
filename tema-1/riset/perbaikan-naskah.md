@@ -30,6 +30,22 @@ dimasukkan sesudah user menyetujui (paling lambat di Tahap 16).
 - Judul di `proposal/sampul.json` dan naskah diganti ke judul kerja: "Hubungan Persepsi Kompleksitas Persoalan Mundurnya Estimasi Keberangkatan dengan Kemungkinan Penggunaan Layanan Tatap Muka". Subjudul tetap.
 - Desain tidak diubah. Batas tafsir ditulis: jawaban berbasis skenario hipotetis; responden menilai gabungan estimasi mundur dan tidak adanya penjelasan.
 
+## Dari Tahap 6 (rumusan masalah, tujuan, kegunaan)
+
+Rencana redaksi (dirapikan lagi saat masuk naskah):
+
+- Pembuka B: Selama PPM, peneliti mengamati jemaah haji reguler datang ke Kantor Kementerian Haji dan Umrah Kabupaten Bandung untuk menanyakan estimasi keberangkatan dan alasan perubahannya, padahal petugas sudah menyampaikan cara mengecek estimasi melalui aplikasi Satu Haji. [Nama resmi aplikasi dicek ke sumber resmi sebelum masuk naskah.]
+- Kalimat "Dugaan ini belum diuji pada jemaah haji": ditahan, disesuaikan dengan hasil Tahap 8 ("di antara penelitian yang ditelaah belum ditemukan ...").
+- Rumusan: apakah persepsi kompleksitas persoalan mundurnya estimasi keberangkatan berhubungan dengan kemungkinan jemaah haji reguler daftar tunggu Kabupaten Bandung menggunakan layanan tatap muka?
+- Pertanyaan 1: Bagaimana persepsi kompleksitas jemaah haji reguler daftar tunggu Kabupaten Bandung terhadap persoalan mundurnya estimasi keberangkatan?
+- Pertanyaan 2: tetap ("ketika menghadapi persoalan tersebut").
+- Pertanyaan 3: Bagaimana arah dan besar hubungan persepsi kompleksitas persoalan tersebut dengan kemungkinan penggunaan layanan tatap muka ...?
+- Kalimat tambahan sesudah pertanyaan: Dalam penelitian ini persoalan mundurnya estimasi keberangkatan disajikan kepada responden sebagai skenario hipotetis, yaitu estimasi yang bergeser ke tahun yang lebih jauh tanpa penjelasan alasan perubahannya.
+- Tujuan 1 sampai 3 mengikuti pertanyaan; "perubahan estimasi" diganti "mundurnya estimasi".
+- Hipotesis: "perubahan estimasi" diganti "mundurnya estimasi". Arah dan kalimat H0 menunggu Tahap 9 dan 15.
+- Kegunaan akademis: "jemaah haji di Indonesia" menjadi "jemaah haji reguler daftar tunggu di Kabupaten Bandung"; klaim "selama ini lebih banyak dikaji dari sisi sistem informasi dan kualitas pelayanan" disesuaikan dengan hasil Tahap 7 dan 8.
+- Kegunaan praktis: kantor, bahan pertimbangan kesiapan layanan tatap muka ketika jemaah menghadapi mundurnya estimasi; kementerian, buang saran menambah keterangan dan fasilitas tanya jawab di aplikasi; KBIHU, bahan pertimbangan dalam mendampingi jemaah.
+
 ## Dari cek sitasi 11 November
 
 - Sembilan sitasi tanpa halaman di paragraf celah penelitian, dan "Daft dan Lengel (1986)".
