@@ -166,3 +166,10 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Keputusan user: ikut rekomendasi Claude, paragraf celah ditambah satu kalimat "temuan terdahulu belum seragam". Tahap 8 dicatat selesai.
 - Dibuat `riset/chatgpt/bekal-sesi-8.md` (memuat fakta bukti arah hubungan dan sembilan langkah rantai alasan kerangka pemikiran draf) dan prompt versi 8 (Tahap 9, boleh sampai Tahap 10).
 - Tugas berikutnya: user menjalankan sesi 8 ChatGPT (audit kerangka pemikiran, keputusan arah hipotesis) dan mengirim laporan atau transkrip.
+
+## 12 November 2026 (lanjutan 16)
+
+- Transkrip sesi 8 ChatGPT (Tahap 9) diterima (`riset/chatgpt/transkrip-sesi-8-2026-11-12.md`), evaluasi di `riset/chatgpt/evaluasi-transkrip-sesi-8.md`. Sesi bersih.
+- Keputusan user di ChatGPT: hipotesis tidak berarah.
+- Temuan Claude dari sumber: Ebbers dkk. (2016:506) sendiri menyambungkan kompleksitas atau ambiguitas tugas dengan konsep kekayaan media; Pieterson dan Ebbers (2020:4) membedakan kompleksitas dari ambiguitas.
+- Menggantung: posisi teori (tumpuan langsung literatur pemilihan kanal, teori kekayaan media sebagai dasar konsep) dan pernyataan Tahap 9 selesai.

@@ -54,6 +54,15 @@ Rencana redaksi (dirapikan lagi saat masuk naskah):
 - Kalimat "dugaan ini belum diuji pada jemaah haji" di rumusan masalah menjadi "di antara penelitian yang ditelaah, dugaan ini belum diuji pada jemaah haji".
 - Semua sitasi paragraf celah bernomor halaman.
 
+## Dari Tahap 9 (teori, kerangka, hipotesis)
+
+- Hipotesis menjadi tidak berarah (keputusan user). H0: tidak terdapat hubungan; H1: terdapat hubungan. Bentuk uji di Tahap 15. Kalimat "diduga berhubungan positif" di kerangka pemikiran dan kata "positif" di hipotesis dibuang.
+- "Ebbers, et al. (2016:511) membuktikannya" diganti dengan pelaporan hasil: berhubungan positif dengan kemungkinan memakai loket (β = 0,07) dan telepon (β = 0,09), tidak signifikan untuk situs web.
+- Kompleksitas yang dirasakan tidak disamakan dengan ekuivokalitas.
+- "Paling mudah dipenuhi melalui layanan tatap muka" dilunakkan: tatap muka menyediakan umpan balik langsung (Daft & Lengel, 1986:560); telepon juga dipilih untuk urusan kompleks (Pieterson & Ebbers, 2020:9).
+- Langkah 6: kondisi "tidak terjawab oleh angka di aplikasi" ditulis sebagai kondisi skenario.
+- Usul Claude (menunggu keputusan user): sambungan teori ke kompleksitas dirujuk ke Ebbers, et al. (2016:506) dan Pieterson dan Ebbers (2020:4); kalimat "bertumpu pada teori kekayaan media" diganti sehingga literatur pemilihan kanal menjadi tumpuan langsung.
+
 ## Dari cek sitasi 11 November
 
 - Sembilan sitasi tanpa halaman di paragraf celah penelitian, dan "Daft dan Lengel (1986)".
