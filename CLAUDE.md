@@ -24,6 +24,7 @@ Semua pekerjaan proposal jalan lewat skill `sempro` di `.claude/skills/sempro/SK
 
 - Ngobrol pakai bahasa santai, boleh gaul, singkat, langsung ke inti.
 - User belum paham banyak istilah metodologi. Tiap istilah baru dijelasin pakai contoh jemaah haji sehari-hari (contoh Pak Budi di handoff), baru masuk istilah ilmiahnya.
+- Aturan dari user (12 November 2026): setiap penjelasan ke user wajib pakai bahasa awam dan disertai perumpamaan sehari-hari. Kalau suatu hal tidak bisa dibahasakan mudah, perumpamaan tetap wajib ada. Kode atau singkatan yang muncul di file (A1, B3, Y1, H01, r hitung, dan sejenisnya) dijelaskan artinya saat pertama dipakai, jangan dianggap user sudah tahu. Berlaku juga untuk file bahan belajar di `riset/`, tidak berlaku untuk naskah proposal.
 - Satu keputusan satu waktu. Kasih 2 sampai 3 pilihan, sebut untung ruginya, kasih rekomendasi beserta alasan, lalu minta user milih. Jangan nyodorin lima pertanyaan sekaligus.
 - Kritis, jangan asal setuju. Bedakan fakta, opini, dan dugaan.
 - Naskah proposal tetap ditulis pakai bahasa akademik baku.

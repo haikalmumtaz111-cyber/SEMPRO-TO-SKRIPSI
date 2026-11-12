@@ -26,6 +26,12 @@ info masa tunggu dalam 12 bulan sebelum mutusin daftar. Ada dua jalur:
 - *Scanning* (nemu tanpa nyari): Pak Budi lagi scroll TikTok terus lewat video antrean haji, atau
   tetangga cerita pas ronda. Mirip iklan HP yang nongol sendiri di FYP.
 
+Soal kode huruf: A, B, C, D, E itu nama bagian di kuesioner lu, dan angkanya nomor pertanyaan di
+bagian itu. Kayak nomor kursi bioskop, "B3" berarti baris B kursi ke-3. Jadi "B3" itu pertanyaan
+ketiga di Bagian B. Bagian A isinya pertanyaan X, Bagian B soal ngerti (Y1), Bagian C soal perasaan
+(Y2), Bagian D soal niat (Y3), Bagian E tiga soal benar salah. Pertanyaannya ada di lampiran
+proposal.
+
 Di kuesioner: A1 sampai A4 seeking, A5 sampai A7 scanning. Jawabannya tidak pernah, 1 sampai 2 kali,
 3 sampai 5 kali, lebih dari 5 kali.
 
