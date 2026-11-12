@@ -71,4 +71,6 @@ Tanda ringan:
 
 5. Laporan boleh diminta kapan saja, juga di tengah tahap (keputusan user, 12 November 2026). Keputusan yang belum dijawab user di ChatGPT ditulis lengkap di bagian "Keputusan yang masih menunggu jawaban saya", lalu diputuskan user bersama Claude di repo ini. Hasilnya masuk bekal berikutnya sebagai keputusan FINAL, jadi tidak diulang di ChatGPT.
 
+6. Pengiriman berkas ke user (keputusan user, 12 November 2026): tiap sesi Claude mengirim bekal dan prompt pembuka. `prompt-laporan.md` hanya dikirim kalau isinya berubah, bersamaan dengan paket sesi itu, dan Claude menyebut bahwa prompt laporan berubah. Kalau tidak dikirim, user memakai versi yang sudah disimpannya.
+
 ChatGPT tidak membuat handoff sendiri. Bekal selalu disusun Claude.
