@@ -139,3 +139,10 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Temuan: kata "membuktikannya" (Ebbers), parafrase butir 3 (Maynard dan Hakel), kalimat Jabri dan Ahmad terlalu kuat, dan dukungan empiris khusus tatap muka lebih tipis daripada kesan naskah. Dicatat di `riset/perbaikan-naskah.md`.
 - Keputusan user: belum ada.
 - Tugas berikutnya: user menempel prompt lanjutan (rujukan 7 sampai 12) di sesi ChatGPT yang sama, lalu mengirim hasilnya.
+
+## 12 November 2026 (lanjutan 12)
+
+- Laporan ChatGPT Tahap 7 untuk rujukan 7 sampai 12 diterima (`riset/chatgpt/laporan-sesi-6b-rujukan-7-12-2026-11-12.md`), evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-6b.md`. Semua kutipan dan angka cocok dengan teks di `Sumber/`. Halaman Budiman dkk. (751-772) dan data jurnal Safitra dkk. terverifikasi.
+- Audit dua belas rujukan lengkap: 8 AMAN, 4 dengan catatan (Ebbers, Jabri dan Ahmad, Wargadinata dan Tendean, parafrase Maynard dan Hakel), 0 SALAH.
+- Menggantung: pernyataan user bahwa Tahap 7 selesai.
+- Tugas berikutnya: sesudah user menutup Tahap 7, Claude menyusun bekal sesi 7 (Tahap 8, celah penelitian).

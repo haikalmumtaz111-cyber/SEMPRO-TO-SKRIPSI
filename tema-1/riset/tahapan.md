@@ -14,7 +14,7 @@ November 2026), jadi kolom Status di sini adalah **status audit ulang**, bukan s
 | 4 | Membatasi fenomena dan menetapkan fokus | [x] | Selesai menurut user, 12 Nov. Fokus: persoalan perubahan estimasi; arah mundur; skenario tanpa penjelasan (hipotetis); responden tidak wajib pernah mengalami, tetapi ditanyakan |
 | 5 | Menetapkan desain dan judul kerja | [x] | Selesai menurut user, 12 Nov. Desain tidak diubah. Judul kerja: "Hubungan Persepsi Kompleksitas Persoalan Mundurnya Estimasi Keberangkatan dengan Kemungkinan Penggunaan Layanan Tatap Muka". Cadangan: "Persoalan Perubahan Estimasi" |
 | 6 | Merumuskan masalah, tujuan, kegunaan | [x] | Selesai, 12 Nov (diputuskan user bersama Claude). Nama variabel sama dengan judul ("persoalan mundurnya estimasi keberangkatan"), skenario dijelaskan dalam satu kalimat; pembuka dari PPM plus Satu Haji; pertanyaan 3 "arah dan besar"; kegunaan dipangkas. Redaksi di `riset/perbaikan-naskah.md` |
-| 7 | Mengumpulkan dan memeriksa penelitian terdahulu | [~] | **Aktif** (sesi 6). Rujukan 1 sampai 6 selesai diaudit dan dicek Claude; rujukan 7 sampai 12 belum. Sembilan sitasi tanpa halaman |
+| 7 | Mengumpulkan dan memeriksa penelitian terdahulu | [~] | **Aktif** (sesi 6). Dua belas rujukan selesai diaudit ChatGPT dan dicek Claude (12 Nov). Menunggu pernyataan selesai dari user |
 | 8 | Merumuskan research gap | [ ] | |
 | 9 | Menetapkan teori dan kerangka konseptual | [ ] | Kata "membuktikan" untuk Ebbers dkk. perlu dicek |
 | 10 | Definisi konseptual, dimensi, indikator, operasionalisasi | [ ] | Adaptasi Maynard dan Hakel (7 poin ke 5 poin), Y satu butir |

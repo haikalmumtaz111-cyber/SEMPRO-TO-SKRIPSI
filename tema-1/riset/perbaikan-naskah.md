@@ -60,3 +60,13 @@ Rencana redaksi (dirapikan lagi saat masuk naskah):
 - Paragraf celah: Jabri dan Ahmad (2025) tidak tepat disebut "menguji kompleksitas secara kuantitatif" (Tahap 8).
 - Pieterson dan Ebbers (2020:4): kalimat "makin kompleks, makin memilih kanal tradisional" adalah rangkuman literatur, dan kanal tradisional mencakup telepon. Temuan empirisnya: telepon 53,1% (2008) dan 53,0% (2017) untuk pertanyaan kompleks, tatap muka turun. Halaman [PERLU VERIFIKASI].
 - Keterbatasan: Ebbers dkk. memakai empat situasi per responden, penelitian ini satu skenario (Tahap 10).
+
+## Dari Tahap 7, rujukan 7 sampai 12 (12 November, belum dimasukkan ke naskah)
+
+- Latar belakang: "sebagian besar pemohon layanan" (Wargadinata dan Tendean, 2024:335) ditulis sebagai pernyataan penulisnya, karena penelitiannya kualitatif dan tidak menyajikan proporsi.
+- Kerangka pemikiran: "variabel yang paling sering diteliti" (Pieterson dan Ebbers, 2020:4) dilunakkan, sumbernya memakai "probably".
+- Sitasi Bahar dan Saepudin: (2026:24) untuk "harus datang langsung pada jam kantor", (2026:25) untuk keluhan informasi estimasi.
+- Halaman untuk sitasi di paragraf celah: Ebbers, et al. (2016:511); Pieterson dan Ebbers (2020:4); Jabri dan Ahmad (2025:11) [hlm. PERLU VERIFIKASI ke PDF]; Safitra, et al. (2023:207); Pusvita dan Muttaqin (2023:1); Budiman, et al. (2026:751); Bahar dan Saepudin (2026:25); Wardana, et al. (2024:416).
+- Daftar pustaka Budiman dkk. (2026): halaman 751-772.
+- Daftar pustaka Safitra dkk. (2023): nama jurnal *Nominal: Barometer Riset Akuntansi dan Manajemen*, 12(2), 199-211 (ejaan di berkas "Manjemen" adalah salah ketik sumber; cek tulisan resmi di laman jurnal).
+- Safitra dkk. (2023:207) dipakai juga sebagai temuan kualitatif tentang informasi rumit dan tatap muka (Tahap 8 dan 9).
