@@ -63,17 +63,27 @@ Rencana redaksi (dirapikan lagi saat masuk naskah):
 - Langkah 6: kondisi "tidak terjawab oleh angka di aplikasi" ditulis sebagai kondisi skenario.
 - Disetujui user: sambungan teori ke kompleksitas dirujuk ke Ebbers, et al. (2016:506) dan Pieterson dan Ebbers (2020:4); kalimat "bertumpu pada teori kekayaan media" diganti sehingga literatur pemilihan kanal menjadi tumpuan langsung.
 
-## Rujukan pengukuran satu butir (dicari Claude, 12 November 2026)
+## Rujukan pengukuran satu butir (diperiksa Claude dari PDF, 12 November 2026)
 
-Keberadaan dan metadata dicek lewat Crossref. Isi lengkap belum terbaca, jadi belum boleh masuk naskah dengan nomor halaman.
+Rujukan yang dipakai: Bergkvist, L., & Rossiter, J. R. (2007). The predictive validity of multiple-item versus single-item measures of the same constructs. *Journal of Marketing Research, 44*(2), 175-184. https://doi.org/10.1509/jmkr.44.2.175
 
-1. Bergkvist, L., & Rossiter, J. R. (2007). The predictive validity of multiple-item versus single-item measures of the same constructs. *Journal of Marketing Research, 44*(2), 175-184. https://doi.org/10.1509/jmkr.44.2.175
-   - Abstrak (dicek lewat Semantic Scholar): tidak ada perbedaan validitas prediktif antara ukuran satu butir dan banyak butir; untuk konstruk yang terdiri atas objek tunggal yang konkret dan atribut yang konkret, ukuran satu butir sebaiknya dipakai. Cocok dengan alasan di draf ("konstruk Y bersifat konkret dan tunggal").
-   - Teks lengkap ada di repositori terbuka University of Wollongong: https://ro.uow.edu.au/articles/journal_contribution/The_predictive_validity_of_multiple-item_versus_single-item_measures_of_the_same_constructs/27726672 . Unduhan dari sesi Claude ditolak. User perlu mengunduh PDF-nya agar halaman bisa dicek.
-2. Allen, M. S., Iliescu, D., & Greiff, S. (2022). Single item measures in psychological science. *European Journal of Psychological Assessment, 38*(1), 1-5. https://doi.org/10.1027/1015-5759/a000699 . Isi belum terbaca.
-3. Wanous, J. P., Reichers, A. E., & Hudy, M. J. (1997). Overall job satisfaction: How good are single-item measures? *Journal of Applied Psychology, 82*(2), 247-252. https://doi.org/10.1037/0021-9010.82.2.247 . Isi belum terbaca.
+PDF: `Sumber/Bergkvist dan Rossiter 2007 single-item measures.pdf` (repositori University of Wollongong, tata letak jurnal, halaman tercetak 175-184; halaman PDF 3 = hlm. 175).
 
-Kandidat utama: nomor 1, karena argumennya sama dengan draf dan teks lengkapnya terbuka.
+Isi yang boleh dikutip, dengan halaman tercetak:
+- hlm. 175 (abstrak): validitas prediktif ukuran satu butir dan banyak butir tidak berbeda; untuk konstruk yang terdiri atas objek tunggal yang konkret dan atribut yang konkret, ukuran satu butir sebaiknya dipakai.
+- hlm. 176: menurut Rossiter (2002), satu butir memadai apabila di benak responden (1) objek konstruk "concrete singular", yaitu satu objek yang mudah dan seragam dibayangkan, dan (2) atributnya "concrete", juga mudah dan seragam dibayangkan.
+- hlm. 178 (tabel): apakah objek dan atribut konkret tidak diuji secara statistik, tetapi ditetapkan lewat penilaian ahli.
+- hlm. 183: rekomendasi satu butir tidak dapat digeneralisasi di luar konstruk yang objek dan atributnya sama-sama konkret; konstruk abstrak tetap memerlukan banyak butir.
+
+Rencana kalimat naskah (bagian operasionalisasi, menggantikan [PERLU RUJUKAN: dasar metodologis pengukuran satu butir]):
+> Y diukur dengan satu butir. Satu butir dinilai memadai apabila objek konstruk berupa satu hal yang konkret dan atributnya juga konkret, sehingga mudah dibayangkan secara seragam oleh responden (Bergkvist & Rossiter, 2007:176). Untuk konstruk semacam itu, validitas prediktif ukuran satu butir tidak berbeda dengan ukuran banyak butir (Bergkvist & Rossiter, 2007:175). Objek Y dalam penelitian ini adalah satu kantor tertentu, dan atributnya adalah satu tindakan tertentu, yaitu datang ke kantor untuk meminta penjelasan dalam situasi skenario.
+
+Batas yang ditulis di keterbatasan penelitian: penilaian bahwa Y konkret adalah penilaian peneliti, bukan hasil uji statistik (Bergkvist & Rossiter, 2007:178), dan reliabilitas Y tidak dapat dihitung.
+
+Entri daftar pustaka:
+Bergkvist, L., & Rossiter, J. R. (2007). The predictive validity of multiple-item versus single-item measures of the same constructs. *Journal of Marketing Research, 44*(2), 175-184. https://doi.org/10.1509/jmkr.44.2.175
+
+Kandidat lain (Allen dkk., 2022; Wanous dkk., 1997) tidak dipakai.
 
 ## Dari cek sitasi 11 November
 

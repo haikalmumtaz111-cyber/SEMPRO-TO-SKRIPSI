@@ -185,3 +185,7 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 
 - User memberi izin mencari rujukan pengukuran satu butir. OpenAlex tidak merespons; dipakai Crossref dan Semantic Scholar. Tiga kandidat terbukti ada: Bergkvist dan Rossiter (2007), Allen dkk. (2022), Wanous dkk. (1997). Abstrak Bergkvist dan Rossiter cocok dengan alasan draf. Teks lengkap belum terbaca (unduhan dari repositori University of Wollongong ditolak dari sesi ini). Dicatat di `riset/perbaikan-naskah.md`.
 - Tugas berikutnya: user mengunduh PDF Bergkvist dan Rossiter (2007) dari repositori terbuka dan mengirimkannya, lalu Claude mencari halaman yang dikutip.
+
+## 12 November 2026 (lanjutan 19)
+
+- User mengirim PDF Bergkvist dan Rossiter (2007) dari repositori University of Wollongong. Disimpan di `Sumber/`. Diperiksa Claude: tata letak jurnal, hlm. 175-184. Kutipan untuk dasar pengukuran satu butir: hlm. 175 (abstrak), 176 (kriteria objek dan atribut konkret), 178 (penilaian ahli), 183 (tidak berlaku untuk konstruk abstrak). Rencana kalimat naskah dan entri daftar pustaka di `riset/perbaikan-naskah.md`. Tanda [PERLU RUJUKAN] satu butir siap ditutup saat naskah dirapikan.
