@@ -96,3 +96,10 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - User mengirim tangkapan layar dasbor SISKOHAT Gen.2 (46.210 jemaah daftar tunggu Kab. Bandung, data 19 Oktober 2026, diambil 5 November 2026), nama kantor, dan alamat. N = 46.210 berstatus terbukti. Catatan untuk Tahap 11: saringan jenis jemaah di dasbor belum pasti reguler saja.
 - Dibuat `riset/chatgpt/bekal-sesi-3.md`, prompt versi 3, dan `riset/perbaikan-naskah.md` (daftar perbaikan naskah yang terkumpul selama audit).
 - Tugas berikutnya: user menjalankan sesi 3 ChatGPT (Tahap 4, boleh sampai Tahap 6) dan mengirim laporan.
+
+## 12 November 2026 (lanjutan 5)
+
+- Laporan sesi 3 ChatGPT diterima (`riset/chatgpt/laporan-sesi-3-2026-11-12.md`), evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-3.md`. Sesi bersih.
+- Keputusan user di ChatGPT (Tahap 4): fokus persoalan perubahan estimasi keberangkatan; arah perubahan mundur; skenario tanpa penjelasan alasan sebagai unsur hipotetis.
+- Temuan Claude: "24 selections" pada saringan Estimasi Berangkat di dasbor sama dengan rentang 2027 sampai 2050 yang ditulis draf, jadi 46.210 cocok dengan kriteria belum berangkat.
+- Menggantung: syarat pengalaman responden (harus pernah mengalami estimasi mundur atau tidak) dan pernyataan Tahap 4 selesai. Diputuskan user bersama Claude.
