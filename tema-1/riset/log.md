@@ -180,3 +180,8 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Dibuat `riset/chatgpt/bekal-sesi-9.md` (memuat matriks operasionalisasi dan butir draf, fakta skala asli Maynard dan Hakel serta Ebbers dkk.) dan prompt versi 9 (Tahap 10, boleh sampai Tahap 11).
 - Rujukan untuk pengukuran satu butir belum dicari; pengecekan lewat OpenAlex dihentikan user. Tetap [PERLU RUJUKAN].
 - Tugas berikutnya: user menjalankan sesi 9 ChatGPT dan mengirim laporan atau transkrip.
+
+## 12 November 2026 (lanjutan 18)
+
+- User memberi izin mencari rujukan pengukuran satu butir. OpenAlex tidak merespons; dipakai Crossref dan Semantic Scholar. Tiga kandidat terbukti ada: Bergkvist dan Rossiter (2007), Allen dkk. (2022), Wanous dkk. (1997). Abstrak Bergkvist dan Rossiter cocok dengan alasan draf. Teks lengkap belum terbaca (unduhan dari repositori University of Wollongong ditolak dari sesi ini). Dicatat di `riset/perbaikan-naskah.md`.
+- Tugas berikutnya: user mengunduh PDF Bergkvist dan Rossiter (2007) dari repositori terbuka dan mengirimkannya, lalu Claude mencari halaman yang dikutip.

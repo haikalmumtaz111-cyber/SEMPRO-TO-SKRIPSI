@@ -63,6 +63,18 @@ Rencana redaksi (dirapikan lagi saat masuk naskah):
 - Langkah 6: kondisi "tidak terjawab oleh angka di aplikasi" ditulis sebagai kondisi skenario.
 - Disetujui user: sambungan teori ke kompleksitas dirujuk ke Ebbers, et al. (2016:506) dan Pieterson dan Ebbers (2020:4); kalimat "bertumpu pada teori kekayaan media" diganti sehingga literatur pemilihan kanal menjadi tumpuan langsung.
 
+## Rujukan pengukuran satu butir (dicari Claude, 12 November 2026)
+
+Keberadaan dan metadata dicek lewat Crossref. Isi lengkap belum terbaca, jadi belum boleh masuk naskah dengan nomor halaman.
+
+1. Bergkvist, L., & Rossiter, J. R. (2007). The predictive validity of multiple-item versus single-item measures of the same constructs. *Journal of Marketing Research, 44*(2), 175-184. https://doi.org/10.1509/jmkr.44.2.175
+   - Abstrak (dicek lewat Semantic Scholar): tidak ada perbedaan validitas prediktif antara ukuran satu butir dan banyak butir; untuk konstruk yang terdiri atas objek tunggal yang konkret dan atribut yang konkret, ukuran satu butir sebaiknya dipakai. Cocok dengan alasan di draf ("konstruk Y bersifat konkret dan tunggal").
+   - Teks lengkap ada di repositori terbuka University of Wollongong: https://ro.uow.edu.au/articles/journal_contribution/The_predictive_validity_of_multiple-item_versus_single-item_measures_of_the_same_constructs/27726672 . Unduhan dari sesi Claude ditolak. User perlu mengunduh PDF-nya agar halaman bisa dicek.
+2. Allen, M. S., Iliescu, D., & Greiff, S. (2022). Single item measures in psychological science. *European Journal of Psychological Assessment, 38*(1), 1-5. https://doi.org/10.1027/1015-5759/a000699 . Isi belum terbaca.
+3. Wanous, J. P., Reichers, A. E., & Hudy, M. J. (1997). Overall job satisfaction: How good are single-item measures? *Journal of Applied Psychology, 82*(2), 247-252. https://doi.org/10.1037/0021-9010.82.2.247 . Isi belum terbaca.
+
+Kandidat utama: nomor 1, karena argumennya sama dengan draf dan teks lengkapnya terbuka.
+
 ## Dari cek sitasi 11 November
 
 - Sembilan sitasi tanpa halaman di paragraf celah penelitian, dan "Daft dan Lengel (1986)".
