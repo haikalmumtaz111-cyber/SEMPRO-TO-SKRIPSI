@@ -115,3 +115,8 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Laporan sesi 4 ChatGPT diterima (`riset/chatgpt/laporan-sesi-4-2026-11-12.md`; ChatGPT menamainya sesi 5), evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-4.md`. Sesi bersih; satu tanda ringan (DOI Daft dan Lengel ditulis tidak ada, padahal ada di draf).
 - Keputusan user di ChatGPT (Tahap 5): judul kerja Pilihan B, "Hubungan Persepsi Kompleksitas Persoalan Mundurnya Estimasi Keberangkatan dengan Kemungkinan Penggunaan Layanan Tatap Muka". Desain tidak diubah.
 - Menggantung: pernyataan Tahap 5 selesai.
+
+## 12 November 2026 (lanjutan 8)
+
+- Keputusan user: Tahap 5 selesai. Dibuat `riset/chatgpt/bekal-sesi-5.md` dan prompt versi 5 (Tahap 6, boleh sampai Tahap 7). `perbaikan-naskah.md` ditambah bagian Tahap 5.
+- Tugas berikutnya: user menjalankan sesi 5 ChatGPT dan mengirim laporan.

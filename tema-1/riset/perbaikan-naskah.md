@@ -25,6 +25,11 @@ dimasukkan sesudah user menyetujui (paling lambat di Tahap 16).
 - Tulis terang bahwa kondisi "tanpa penjelasan" adalah unsur skenario, bukan fakta aplikasi; masuk keterbatasan penelitian.
 - Tambah satu pertanyaan data responden: "Apakah estimasi keberangkatan Bapak/Ibu pernah berubah menjadi lebih lambat? (Pernah / Belum pernah)".
 
+## Dari Tahap 5 (desain dan judul)
+
+- Judul di `proposal/sampul.json` dan naskah diganti ke judul kerja: "Hubungan Persepsi Kompleksitas Persoalan Mundurnya Estimasi Keberangkatan dengan Kemungkinan Penggunaan Layanan Tatap Muka". Subjudul tetap.
+- Desain tidak diubah. Batas tafsir ditulis: jawaban berbasis skenario hipotetis; responden menilai gabungan estimasi mundur dan tidak adanya penjelasan.
+
 ## Dari cek sitasi 11 November
 
 - Sembilan sitasi tanpa halaman di paragraf celah penelitian, dan "Daft dan Lengel (1986)".

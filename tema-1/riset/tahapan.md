@@ -12,8 +12,8 @@ November 2026), jadi kolom Status di sini adalah **status audit ulang**, bukan s
 | 2 | Mengidentifikasi dan mendokumentasikan fenomena | [x] | Selesai menurut user, 12 Nov (sesi 2). Pendekatan: fenomena lokal PPM sebagai pusat. Angka 30 dan kurang dari 15 per hari dibuang |
 | 3 | Memeriksa kelayakan topik, lokasi, responden | [x] | Selesai menurut user, 12 Nov. N = 46.210 terbukti (dasbor SISKOHAT Gen.2, data 19 Okt 2026, diakses 5 Nov 2026). Nama dan alamat kantor dari user. Izin dan konfirmasi tertulis: sesudah sempro. Catatan Tahap 11: saringan jenis jemaah di dasbor belum pasti reguler saja |
 | 4 | Membatasi fenomena dan menetapkan fokus | [x] | Selesai menurut user, 12 Nov. Fokus: persoalan perubahan estimasi; arah mundur; skenario tanpa penjelasan (hipotetis); responden tidak wajib pernah mengalami, tetapi ditanyakan |
-| 5 | Menetapkan desain dan judul kerja | [~] | **Aktif.** Sesi 4: desain AMAN, tidak diubah. Judul kerja pilihan user: "Hubungan Persepsi Kompleksitas Persoalan Mundurnya Estimasi Keberangkatan dengan Kemungkinan Penggunaan Layanan Tatap Muka", subjudul tetap. Cadangan: "Persoalan Perubahan Estimasi". Menunggu user menyatakan selesai |
-| 6 | Merumuskan masalah, tujuan, kegunaan | [ ] | |
+| 5 | Menetapkan desain dan judul kerja | [x] | Selesai menurut user, 12 Nov. Desain tidak diubah. Judul kerja: "Hubungan Persepsi Kompleksitas Persoalan Mundurnya Estimasi Keberangkatan dengan Kemungkinan Penggunaan Layanan Tatap Muka". Cadangan: "Persoalan Perubahan Estimasi" |
+| 6 | Merumuskan masalah, tujuan, kegunaan | [~] | **Aktif** (sesi 5) |
 | 7 | Mengumpulkan dan memeriksa penelitian terdahulu | [ ] | Metadata 12 artikel sudah dicek Claude; sembilan sitasi tanpa halaman |
 | 8 | Merumuskan research gap | [ ] | |
 | 9 | Menetapkan teori dan kerangka konseptual | [ ] | Kata "membuktikan" untuk Ebbers dkk. perlu dicek |
