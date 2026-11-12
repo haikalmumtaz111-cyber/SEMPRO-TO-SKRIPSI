@@ -15,8 +15,8 @@ November 2026), jadi kolom Status di sini adalah **status audit ulang**, bukan s
 | 5 | Menetapkan desain dan judul kerja | [x] | Selesai menurut user, 12 Nov. Desain tidak diubah. Judul kerja: "Hubungan Persepsi Kompleksitas Persoalan Mundurnya Estimasi Keberangkatan dengan Kemungkinan Penggunaan Layanan Tatap Muka". Cadangan: "Persoalan Perubahan Estimasi" |
 | 6 | Merumuskan masalah, tujuan, kegunaan | [x] | Selesai, 12 Nov (diputuskan user bersama Claude). Nama variabel sama dengan judul ("persoalan mundurnya estimasi keberangkatan"), skenario dijelaskan dalam satu kalimat; pembuka dari PPM plus Satu Haji; pertanyaan 3 "arah dan besar"; kegunaan dipangkas. Redaksi di `riset/perbaikan-naskah.md` |
 | 7 | Mengumpulkan dan memeriksa penelitian terdahulu | [x] | Selesai menurut user, 12 Nov. Dua belas rujukan diaudit ChatGPT dan dicek Claude: 8 aman, 4 dengan catatan, 0 salah. Halaman Budiman dkk. dan data jurnal Safitra dkk. terbukti. Catatan di `riset/perbaikan-naskah.md` |
-| 8 | Merumuskan research gap | [~] | **Aktif** (sesi 7). Audit paragraf celah; Jabri dan Ahmad tidak tepat disebut menguji kompleksitas; Safitra dkk. (2023:207) relevan |
-| 9 | Menetapkan teori dan kerangka konseptual | [ ] | Kata "membuktikan" untuk Ebbers dkk. perlu dicek |
+| 8 | Merumuskan research gap | [x] | Selesai, 12 Nov. Rumusan Pilihan A, ditambah satu kalimat "temuan terdahulu belum seragam" (Pieterson & Ebbers, 2020:9; Jabri & Ahmad, 2025:11, keduanya sudah dicek). Klaim dibatasi "di antara penelitian yang ditelaah" |
+| 9 | Menetapkan teori dan kerangka konseptual | [~] | **Aktif** (sesi 8). Yang diaudit: sambungan kompleksitas dengan ekuivokalitas, kata "membuktikannya", arah hipotesis |
 | 10 | Definisi konseptual, dimensi, indikator, operasionalisasi | [ ] | Adaptasi Maynard dan Hakel (7 poin ke 5 poin), Y satu butir |
 | 11 | Populasi, unit analisis, kriteria, sampel | [ ] | Slovin dengan purposive sampling perlu dasar |
 | 12 | Jenis data, sumber data, teknik pengumpulan | [ ] | |
