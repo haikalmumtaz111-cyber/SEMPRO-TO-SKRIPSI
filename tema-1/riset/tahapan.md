@@ -1,14 +1,43 @@
-# Peta Tahapan: dari Posisi Terakhir sampai File Word
+# Tahapan Tema 1: Acuan 31 Tahap (Roadmap Induk Tema 1)
 
-Dibuat: Kamis, 5 November 2026. Diperbarui setelah eksekusi sekaligus pada hari yang sama.
+Keputusan user, 12 November 2026: acuan tahap memakai Roadmap Induk Skripsi Kuantitatif Versi 1.0
+(`riset/chatgpt/roadmap-induk-tema-1-v1.0-2026-11-12.md`). Proposal sudah punya draf utuh (5
+November 2026), jadi kolom Status di sini adalah **status audit ulang**, bukan status penulisan.
 
-Ini acuan tunggal. Sesi mana pun yang melanjutkan: baca file ini, cari tahap pertama yang belum `[x]`, kerjakan tahap itu saja. Jangan nambah tahap baru tanpa persetujuan user. Ide di luar daftar masuk "Parkir".
+`[x]` audit selesai dan dinyatakan user, `[~]` sedang diaudit, `[ ]` belum diaudit.
 
-> **Rombak, 11 November 2026.** Tabel di bawah adalah riwayat penyusunan sekaligus 5 November.
-> Proposal tema 1 diaudit ulang memakai Roadmap Induk Tema 1 (31 tahap) yang disusun ChatGPT di
-> sesi 1, lihat `riset/pengarah-chatgpt.md` dan `riset/chatgpt/`. Setelah laporan sesi 1 masuk,
-> berkas ini diganti dengan tabel 31 tahap seperti `tema-2/riset/tahapan.md`.
-> Posisi 12 November 2026: Tahap 2 sudah diaudit (belum dinyatakan selesai oleh user), **Tahap 3 sedang jalan**, menunggu jawaban user soal akses responden. Berkas roadmap dari ChatGPT belum diterima Claude.
+| No | Tahap | Status audit | Catatan |
+|---|---|---|---|
+| 1 | Menentukan bidang, tema, minat | [~] | Audit awal di sesi 1, belum dinyatakan selesai |
+| 2 | Mengidentifikasi dan mendokumentasikan fenomena | [~] | Audit per klaim selesai (sesi 1). Sisa: user memilih pendekatan fenomena. Angka 30 dan kurang dari 15 per hari dibuang |
+| 3 | Memeriksa kelayakan topik, lokasi, responden | [~] | **Aktif.** User menyatakan punya kontak staf kantor dan KBIHU. Tabel kelayakan belum diisi. Bukti N = 46.210 dan nomenklatur kantor belum ada |
+| 4 | Membatasi fenomena dan menetapkan fokus | [ ] | |
+| 5 | Menetapkan desain dan judul kerja | [ ] | Judul draf menunggu audit |
+| 6 | Merumuskan masalah, tujuan, kegunaan | [ ] | |
+| 7 | Mengumpulkan dan memeriksa penelitian terdahulu | [ ] | Metadata 12 artikel sudah dicek Claude; sembilan sitasi tanpa halaman |
+| 8 | Merumuskan research gap | [ ] | |
+| 9 | Menetapkan teori dan kerangka konseptual | [ ] | Kata "membuktikan" untuk Ebbers dkk. perlu dicek |
+| 10 | Definisi konseptual, dimensi, indikator, operasionalisasi | [ ] | Adaptasi Maynard dan Hakel (7 poin ke 5 poin), Y satu butir |
+| 11 | Populasi, unit analisis, kriteria, sampel | [ ] | Slovin dengan purposive sampling perlu dasar |
+| 12 | Jenis data, sumber data, teknik pengumpulan | [ ] | |
+| 13 | Menyusun kuesioner dan kisi-kisi | [ ] | Satu skenario untuk semua responden |
+| 14 | Validasi isi, uji coba, validitas, reliabilitas | [ ] | |
+| 15 | Rencana analisis data | [ ] | Regresi linear untuk Y satu butir lima poin |
+| 16 | Menulis dokumen proposal | [ ] | Draf 5 November ada (23 halaman), 13 tanda [PERLU ...] |
+| 17 sampai 31 | Konsultasi sampai pengarsipan | [ ] | Lihat roadmap |
+
+## Aturan pakai
+
+- ChatGPT mengerjakan tahap aktif saja. Tahap berikutnya dibuka sesudah user menyatakan tahap aktif selesai.
+- Naskah `proposal/proposal.md` belum diubah selama audit. Perbaikan naskah dikumpulkan per tahap dan dimasukkan sesudah user menyetujui.
+
+## Parkir
+
+(ide di luar tahap dicatat di sini)
+
+---
+
+# Riwayat: penyusunan sekaligus 5 November 2026
 
 ## Posisi start (sebelum 5 November 2026)
 

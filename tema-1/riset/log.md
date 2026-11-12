@@ -70,3 +70,10 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Temuan: ChatGPT memakai Permenhaj 2/2025 tanpa izin lalu menariknya sendiri (peraturannya ada, isinya belum terbaca). Tabel kelayakan Tahap 3 kosong. Roadmap dan tabel audit Tahap 1 sampai 16 tidak ikut disalin. Butir 8 prompt laporan salah salin dari tema 2 (menyebut keputusan Bekal final), sudah diperbaiki; ditambah aturan tabel tidak boleh kosong dan laporan langsung berupa berkas .md.
 - Keputusan user di sesi ChatGPT: mulai dari Tahap 2, roadmap jadi acuan tetap, angka 30 dan kurang dari 15 per hari tidak dipakai sementara.
 - Tugas berikutnya: user mengirim berkas Roadmap Induk Tema 1 dan menjawab soal akses staf kantor dan KBIHU. Sesudah itu Claude menyusun Bekal Sesi 2 dan prompt sesi 2.
+
+## 12 November 2026 (lanjutan)
+
+- Roadmap Induk Versi 1.0 dari ChatGPT diterima, disimpan di `riset/chatgpt/roadmap-induk-tema-1-v1.0-2026-11-12.md`. Isinya definisi 31 tahap dan aturan kendali, tanpa tabel audit per tahap. `riset/tahapan.md` diganti jadi tabel 31 tahap berstatus audit; riwayat 5 November dipertahankan di bagian bawah.
+- Pernyataan user: punya kontak staf kantor dan pengurus KBIHU.
+- Dibuat `riset/chatgpt/bekal-sesi-2.md` dan prompt sesi 2 (tiga perintah: tutup Tahap 2, Tahap 3, Tahap 4).
+- Tugas berikutnya: user menjalankan sesi 2 ChatGPT dan mengirim laporannya. Bukti yang perlu disiapkan user: foto dasbor SISKOHAT N = 46.210 beserta tanggal, tangkapan layar halaman estimasi di aplikasi.
