@@ -11,8 +11,8 @@ November 2026), jadi kolom Status di sini adalah **status audit ulang**, bukan s
 | 1 | Menentukan bidang, tema, minat | [~] | Audit awal di sesi 1, belum dinyatakan selesai |
 | 2 | Mengidentifikasi dan mendokumentasikan fenomena | [x] | Selesai menurut user, 12 Nov (sesi 2). Pendekatan: fenomena lokal PPM sebagai pusat. Angka 30 dan kurang dari 15 per hari dibuang |
 | 3 | Memeriksa kelayakan topik, lokasi, responden | [x] | Selesai menurut user, 12 Nov. N = 46.210 terbukti (dasbor SISKOHAT Gen.2, data 19 Okt 2026, diakses 5 Nov 2026). Nama dan alamat kantor dari user. Izin dan konfirmasi tertulis: sesudah sempro. Catatan Tahap 11: saringan jenis jemaah di dasbor belum pasti reguler saja |
-| 4 | Membatasi fenomena dan menetapkan fokus | [~] | **Aktif.** Keputusan user (sesi 3): fokus persoalan perubahan estimasi; arah mundur; skenario tanpa penjelasan sebagai unsur hipotetis. Belum dinyatakan selesai. Menggantung: syarat pengalaman responden |
-| 5 | Menetapkan desain dan judul kerja | [ ] | Judul draf menunggu audit |
+| 4 | Membatasi fenomena dan menetapkan fokus | [x] | Selesai menurut user, 12 Nov. Fokus: persoalan perubahan estimasi; arah mundur; skenario tanpa penjelasan (hipotetis); responden tidak wajib pernah mengalami, tetapi ditanyakan |
+| 5 | Menetapkan desain dan judul kerja | [~] | **Aktif** (sesi 4). Judul draf memakai "persoalan estimasi", fokus final "persoalan perubahan estimasi" |
 | 6 | Merumuskan masalah, tujuan, kegunaan | [ ] | |
 | 7 | Mengumpulkan dan memeriksa penelitian terdahulu | [ ] | Metadata 12 artikel sudah dicek Claude; sembilan sitasi tanpa halaman |
 | 8 | Merumuskan research gap | [ ] | |

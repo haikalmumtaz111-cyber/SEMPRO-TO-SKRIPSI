@@ -19,6 +19,12 @@ dimasukkan sesudah user menyetujui (paling lambat di Tahap 16).
 - Tutup [PERLU VERIFIKASI: alamat lengkap dan nomenklatur resmi kantor]: Kantor Kementerian Haji dan Umrah Kabupaten Bandung, Jl. Adipati Agung No. 42, Baleendah, Kec. Baleendah, Kabupaten Bandung, Jawa Barat 40375.
 - Rujukan Slovin: Machali (2021:82) atau Sukwika (2023:173). Batas alfa: Tavakol dan Dennick (2011:54).
 
+## Dari Tahap 4 (fokus)
+
+- Istilah diseragamkan: "persoalan perubahan estimasi keberangkatan" (judul masih "persoalan estimasi", diputuskan di Tahap 5).
+- Tulis terang bahwa kondisi "tanpa penjelasan" adalah unsur skenario, bukan fakta aplikasi; masuk keterbatasan penelitian.
+- Tambah satu pertanyaan data responden: "Apakah estimasi keberangkatan Bapak/Ibu pernah berubah menjadi lebih lambat? (Pernah / Belum pernah)".
+
 ## Dari cek sitasi 11 November
 
 - Sembilan sitasi tanpa halaman di paragraf celah penelitian, dan "Daft dan Lengel (1986)".

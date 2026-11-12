@@ -103,3 +103,9 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Keputusan user di ChatGPT (Tahap 4): fokus persoalan perubahan estimasi keberangkatan; arah perubahan mundur; skenario tanpa penjelasan alasan sebagai unsur hipotetis.
 - Temuan Claude: "24 selections" pada saringan Estimasi Berangkat di dasbor sama dengan rentang 2027 sampai 2050 yang ditulis draf, jadi 46.210 cocok dengan kriteria belum berangkat.
 - Menggantung: syarat pengalaman responden (harus pernah mengalami estimasi mundur atau tidak) dan pernyataan Tahap 4 selesai. Diputuskan user bersama Claude.
+
+## 12 November 2026 (lanjutan 6)
+
+- Keputusan user: ikut rekomendasi Claude, opsi C (responden tidak wajib pernah mengalami estimasi mundur, tetapi ditanyakan). Tahap 4 dicatat selesai.
+- Dibuat `riset/chatgpt/bekal-sesi-4.md` dan prompt versi 4 (Tahap 5, boleh sampai Tahap 6). `perbaikan-naskah.md` ditambah bagian Tahap 4.
+- Tugas berikutnya: user menjalankan sesi 4 ChatGPT dan mengirim laporan.
