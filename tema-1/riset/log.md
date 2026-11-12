@@ -218,3 +218,10 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Keputusan user: Tahap 11 selesai. Keputusan 6 di sesi 10 ChatGPT (alasan waktu dan sumber daya) tidak dijawab di ChatGPT; terjawab di repo lewat dasar Cohen (1992).
 - Dibuat `riset/chatgpt/bekal-sesi-11.md` (FINAL 18 populasi dan sampel; rujukan Bergkvist dan Rossiter serta Cohen masuk daftar rujukan terperiksa; bahan Tahap 12) dan prompt versi 11 (Tahap 12, boleh sampai Tahap 13). Prompt laporan tidak berubah.
 - Tugas berikutnya: user menjalankan sesi 11 ChatGPT (jenis data, sumber data, teknik pengumpulan) dan mengirim laporan.
+
+## 12 November 2026 (lanjutan 25)
+
+- Laporan sesi 11 ChatGPT (Tahap 12) diterima dalam zip (`riset/chatgpt/laporan-sesi-11-2026-11-12.md`; ChatGPT menamainya sesi 12), evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-11.md`. Sesi bersih.
+- Keputusan user di ChatGPT: responden loket mengisi sesudah meninggalkan kantor; penyaringan lewat kuesioner; kuesioner daring sepenuhnya; distribusi gabungan dengan peneliti ikut menerima daftar nomor HP; daftar kontak dari staf dan KBIHU; data sekunder SISKOHAT dan informasi resmi, buku tamu dikeluarkan.
+- Dicek Claude: Panduan FDK (pendekatan objektif, jenis data kuantitatif, primer dan sekunder); Ebbers dkk. (2016:510) panel daring; Ebbers dkk. (2016:512) kebiasaan internet rendah berkaitan dengan pilihan loket; UU 27/2022 (nomor telepon data pribadi; teks pasal belum dibaca).
+- Menggantung: Keputusan 7 (jenis data); keberatan Claude atas penerimaan daftar nomor HP jemaah; peredam untuk kuesioner daring sepenuhnya; pernyataan Tahap 12 selesai.
