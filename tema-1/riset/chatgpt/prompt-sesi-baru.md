@@ -2,19 +2,21 @@
 
 Versi 2, 12 November 2026. Untuk sesi 2.
 
-Cara pakai: di proyek tema 1, **hapus `bekal-sesi-1.md` dari berkas proyek** lalu unggah
-`bekal-sesi-2.md` dan `roadmap-induk-tema-1-v1.0-2026-11-12.md`. Berkas lain (proposal.docx dan
-12 sumber) tetap. Buka chat baru, tempel Perintah 1. Sesudah 3 sampai 4 perintah kerja, tutup
-dengan `prompt-laporan.md`.
+Cara pakai:
+- Berkas tetap ada di berkas proyek: `proposal.docx`, 12 sumber, dan roadmap. Diunggah sekali saja.
+- Bekal **tidak** disimpan di berkas proyek. Bekal terbaru dilampirkan di chat bersama Perintah 1.
+- Sekali saja: hapus `bekal-sesi-1.md` dari berkas proyek supaya tidak terbaca lagi.
+- Tiap sesi: buka chat baru di proyek, lampirkan `bekal-sesi-2.md`, tempel Perintah 1. Sesudah 3
+  sampai 4 perintah kerja, tutup dengan `prompt-laporan.md`.
 
 ---
 
 ## Perintah 1 (pembuka + kerja pertama)
 
-Kita lanjutkan perombakan proposal skripsi kuantitatif saya. Dasar percakapan ini hanya berkas di proyek ini: Roadmap Induk Versi 1.0, Bekal Sesi 2, draf proposal.docx, dan berkas sumber penelitian. Baca Bekal Sesi 2 sampai habis lebih dulu. Kalau isinya berbeda dengan roadmap, percakapan sebelumnya, atau ingatanmu, Bekal Sesi 2 yang dipakai.
+Kita lanjutkan perombakan proposal skripsi kuantitatif saya. Dasar percakapan ini hanya Bekal Sesi 2 yang saya lampirkan di chat ini dan berkas di proyek ini: Roadmap Induk Versi 1.0, draf proposal.docx, dan berkas sumber penelitian. Baca Bekal Sesi 2 sampai habis lebih dulu. Kalau di proyek masih ada berkas bekal lain, abaikan. Kalau isinya berbeda dengan roadmap, percakapan sebelumnya, atau ingatanmu, Bekal Sesi 2 yang dipakai.
 
 Aturan selama percakapan ini:
-1. **Batas sumber.** Pakai hanya berkas di proyek ini. Jangan memakai memori, percakapan lain, Library, atau proyek lain. Jangan mencari di internet. Kalau perlu sumber dari luar proyek, berhenti, sebutkan sumber apa dan alasannya, lalu tunggu izin saya. Di sesi lalu kamu memakai satu peraturan menteri tanpa izin. Jangan terulang.
+1. **Batas sumber.** Pakai hanya Bekal Sesi 2 dan berkas di proyek ini. Jangan memakai memori, percakapan lain, Library, atau proyek lain. Jangan mencari di internet. Kalau perlu sumber dari luar proyek, berhenti, sebutkan sumber apa dan alasannya, lalu tunggu izin saya. Di sesi lalu kamu memakai satu peraturan menteri tanpa izin. Jangan terulang.
 2. **Bukan proposal tema lain.** Proposal saya yang lain tentang "paparan informasi pra-pendaftaran" dan "respons calon jemaah" bukan proposal ini. Abaikan.
 3. **Dua status keputusan.** Keputusan "FINAL" di Bekal tidak diubah dan tidak ditawar ulang. Keputusan "MENUNGGU AUDIT" tidak disebut final dan tidak diubah sebelum tahapnya diaudit.
 4. **Audit sebelum revisi.** Bagian draf yang terbukti benar tidak diubah. Jangan menulis paragraf proposal baru sebelum saya minta.
