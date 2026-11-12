@@ -226,6 +226,19 @@ belum saya temukan".
 
 ## 6. Cara nelitinya pake bahasa orang
 
+Ceritanya dulu, istilahnya belakangan. Bayangin lu berdiri di kantor haji selama sebulan:
+
+1. Sebulan itu yang daftar kira-kira 297 orang. Lu ga sanggup nanya semuanya.
+2. Lu ngitung, cukup nanya 75 orang.
+3. Tiap ada orang beres daftar dan mau, lu sodorin lembar pertanyaan, sampai dapet 75.
+4. Sebelum itu, lembar pertanyaannya lu tes dulu: pertanyaannya nyambung nggak, hasilnya ajek nggak.
+5. Jawaban 75 orang lu masukin komputer, terus dihitung: yang sering dapet info duluan sama yang
+   jarang, tanggapannya beda apa nggak.
+
+Semua istilah di bawah cuma nama resmi buat lima langkah itu. Langkah 1 namanya populasi, langkah 2
+rumus Slovin, langkah 3 consecutive sampling, langkah 4 validitas dan reliabilitas, langkah 5
+korelasi.
+
 **Kuantitatif.** Penelitian pake angka dan hitungan. Lawannya kualitatif, yang pake wawancara dan
 cerita.
 
@@ -241,9 +254,31 @@ ngumpulin data sekitar sebulan, jadi populasinya dikira 297 orang.
 **Sampel.** Sebagian orang dari populasi yang beneran lu tanyain. Perumpamaan: nyicip kuah sesendok
 buat tau rasa sepanci.
 
-**Rumus Slovin.** Rumus buat ngitung sesendoknya segede apa. Lu pake batas meleset 10%.
-Hitungannya: 297 / (1 + 297 × 0,01) = 297 / 3,97 = 74,8, dibuletin jadi **75 orang**. Itu jumlah
-paling sedikit.
+**Rumus Slovin.** Rumus buat jawab satu pertanyaan doang: "dari 297 orang, gua cukup nanya
+berapa orang?" Slovin itu nama orang yang bikin rumusnya.
+
+Bahannya cuma dua angka:
+
+- Jumlah semua orang: 297.
+- Batas meleset yang lu rela terima: 10%, ditulis 0,10.
+
+Batas meleset itu gini. Misal dari orang yang lu tanyain, 60% bilang kaget. Kalau lu nanyain
+semua 297 orang, angka aslinya belum tentu pas 60, bisa geser. Lu bilang ke dosen: "saya terima
+kalau gesernya sampai 10". Kayak nebak harga barang, "sekitar 100 ribu, meleset 10 ribu ga apa".
+
+Cara ngitungnya, empat langkah pake kalkulator HP:
+
+1. Batas meleset dikali dirinya sendiri: 0,10 × 0,10 = 0,01
+2. Dikali jumlah orang: 297 × 0,01 = 2,97
+3. Ditambah 1: 2,97 + 1 = 3,97
+4. Jumlah orang dibagi hasil tadi: 297 / 3,97 = 74,8
+
+Orang ga bisa 0,8, jadi dibuletin ke atas: **75 orang**. Itu jumlah paling sedikit.
+
+Kalau dosen minta batas meleset 5% (lebih teliti), hitungannya jadi 297 / (1 + 297 × 0,0025) =
+297 / 1,7425 = 170,4, dibuletin 171 orang. Jadi makin teliti, makin banyak orang yang harus lu
+tanyain. Kayak nyicip kuah: makin banyak sendok yang lu cicip, makin yakin rasanya, tapi makin
+lama juga. Lu milih 10% karena waktu dan tenaga lu terbatas.
 
 **Consecutive sampling.** Cara milih respondennya. Siapa pun yang beres daftar, memenuhi syarat,
 dan mau, langsung dimintain ngisi sesuai urutan dateng, sampai 75 kepenuhi. Kayak antrean bakso:
