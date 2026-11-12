@@ -189,3 +189,9 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 ## 12 November 2026 (lanjutan 19)
 
 - User mengirim PDF Bergkvist dan Rossiter (2007) dari repositori University of Wollongong. Disimpan di `Sumber/`. Diperiksa Claude: tata letak jurnal, hlm. 175-184. Kutipan untuk dasar pengukuran satu butir: hlm. 175 (abstrak), 176 (kriteria objek dan atribut konkret), 178 (penilaian ahli), 183 (tidak berlaku untuk konstruk abstrak). Rencana kalimat naskah dan entri daftar pustaka di `riset/perbaikan-naskah.md`. Tanda [PERLU RUJUKAN] satu butir siap ditutup saat naskah dirapikan.
+
+## 12 November 2026 (lanjutan 20)
+
+- Laporan sesi 9 ChatGPT (Tahap 10) diterima (`riset/chatgpt/laporan-sesi-9-2026-11-12.md`; ChatGPT menamainya sesi 10), evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-9.md`. Sesi bersih.
+- Keputusan user di ChatGPT: skala X kembali tujuh poin; definisi konseptual X Pilihan B; definisi konseptual Y Pilihan A.
+- Menggantung: label indikator X nomor 2 dan paket penyelesaian Tahap 10.
