@@ -201,3 +201,9 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Keputusan user: indikator X nomor 2 "tuntutan mental" (B); paket penyelesaian Tahap 10 disetujui. Tahap 10 selesai.
 - Dibuat `riset/chatgpt/bekal-sesi-10.md` dan prompt versi 10 (Tahap 11, boleh sampai Tahap 12). `perbaikan-naskah.md` ditambah bagian Tahap 10.
 - Tugas berikutnya: user menjalankan sesi 10 ChatGPT (populasi dan sampel) dan mengirim laporan.
+
+## 12 November 2026 (lanjutan 22)
+
+- Laporan sesi 10 ChatGPT (Tahap 11) diterima dalam zip (`riset/chatgpt/laporan-sesi-10-2026-11-12.md`; ChatGPT menamainya sesi 11), evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-10.md`. Sesi bersih.
+- Keputusan user di ChatGPT: 46.210 sebagai total daftar tunggu; unit analisis individu (batas administratif); kriteria tiga karakteristik, kesediaan jadi ketentuan partisipasi; purposive sampling; Slovin dihapus, 100 dipertahankan sebagai target operasional tanpa dasar.
+- Menggantung: dasar angka sampel. Usul Claude: perhitungan daya uji untuk korelasi (Cohen, 1992, metadata dicek Crossref, isi belum dibaca) atau kembali ke Slovin dengan pengakuan keterbatasan.
