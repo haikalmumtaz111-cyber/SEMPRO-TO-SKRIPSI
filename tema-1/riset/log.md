@@ -120,3 +120,9 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 
 - Keputusan user: Tahap 5 selesai. Dibuat `riset/chatgpt/bekal-sesi-5.md` dan prompt versi 5 (Tahap 6, boleh sampai Tahap 7). `perbaikan-naskah.md` ditambah bagian Tahap 5.
 - Tugas berikutnya: user menjalankan sesi 5 ChatGPT dan mengirim laporan.
+
+## 12 November 2026 (lanjutan 9)
+
+- User mengirim transkrip sesi 5 ChatGPT (bukan laporan), disimpan di `riset/chatgpt/transkrip-sesi-5-2026-11-12.md`, evaluasi di `riset/chatgpt/evaluasi-transkrip-sesi-5.md`.
+- Keputusan user di ChatGPT (Tahap 6, belum dikunci di repo): redaksi "skenario hipotetis mundurnya estimasi keberangkatan tanpa penjelasan alasan perubahan" di rumusan dan tujuan; pembukaan rumusan masalah dari pengamatan PPM; skenario disebut lengkap sekali. Menggantung: redaksi pertanyaan ketiga.
+- Keberatan Claude: redaksi skenario di rumusan masalah mencampur konsep dengan alat ukur dan berbeda dari judul kerja; penghapusan "kanal digital" melemahkan pembanding tatap muka (fakta Satu Haji dari tema 2 belum masuk bekal). Menunggu keputusan user.
