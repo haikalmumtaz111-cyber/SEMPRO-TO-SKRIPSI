@@ -63,3 +63,72 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Keputusan user: proposal tema 1 dirombak dengan metode tema 2 (opsi B). ChatGPT di proyek baru terpisah dari proyek "Menulis", sumber luar proyek harus seizin user, bagian yang benar dipertahankan.
 - Dibuat: `riset/pengarah-chatgpt.md`, `riset/chatgpt/bekal-sesi-1.md`, `riset/chatgpt/prompt-sesi-baru.md`, `riset/chatgpt/prompt-laporan.md`. CLAUDE.md: tema aktif jadi tema-1.
 - Tugas berikutnya: user membuat proyek ChatGPT baru, mengunggah berkas sesuai prompt, menjalankan Perintah 1, lalu mengirim laporan sesi 1 ke Claude.
+
+## 12 November 2026
+
+- Laporan sesi 1 ChatGPT diterima, disimpan di `riset/chatgpt/laporan-sesi-1-2026-11-12.md`, evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-1.md`. Rujukan dicocokkan ke PDF di `Sumber/`: metadata cocok, halaman Budiman dkk. dan nama lengkap jurnal Safitra dkk. masih [PERLU VERIFIKASI].
+- Temuan: ChatGPT memakai Permenhaj 2/2025 tanpa izin lalu menariknya sendiri (peraturannya ada, isinya belum terbaca). Tabel kelayakan Tahap 3 kosong. Roadmap dan tabel audit Tahap 1 sampai 16 tidak ikut disalin. Butir 8 prompt laporan salah salin dari tema 2 (menyebut keputusan Bekal final), sudah diperbaiki; ditambah aturan tabel tidak boleh kosong dan laporan langsung berupa berkas .md.
+- Keputusan user di sesi ChatGPT: mulai dari Tahap 2, roadmap jadi acuan tetap, angka 30 dan kurang dari 15 per hari tidak dipakai sementara.
+- Tugas berikutnya: user mengirim berkas Roadmap Induk Tema 1 dan menjawab soal akses staf kantor dan KBIHU. Sesudah itu Claude menyusun Bekal Sesi 2 dan prompt sesi 2.
+
+## 12 November 2026 (lanjutan)
+
+- Roadmap Induk Versi 1.0 dari ChatGPT diterima, disimpan di `riset/chatgpt/roadmap-induk-tema-1-v1.0-2026-11-12.md`. Isinya definisi 31 tahap dan aturan kendali, tanpa tabel audit per tahap. `riset/tahapan.md` diganti jadi tabel 31 tahap berstatus audit; riwayat 5 November dipertahankan di bagian bawah.
+- Pernyataan user: punya kontak staf kantor dan pengurus KBIHU.
+- Dibuat `riset/chatgpt/bekal-sesi-2.md` dan prompt sesi 2 (tiga perintah: tutup Tahap 2, Tahap 3, Tahap 4).
+- Tugas berikutnya: user menjalankan sesi 2 ChatGPT dan mengirim laporannya. Bukti yang perlu disiapkan user: foto dasbor SISKOHAT N = 46.210 beserta tanggal, tangkapan layar halaman estimasi di aplikasi.
+
+## 12 November 2026 (lanjutan 2)
+
+- Keputusan user: bekal dilampirkan di chat, bukan di berkas proyek. Laporan boleh diminta kapan saja; keputusan yang masih menggantung di ChatGPT ditulis lengkap di laporan lalu diputuskan di repo bersama Claude. `prompt-laporan.md` ditambah butir 14 sampai 16, `pengarah-chatgpt.md` siklus butir 4 dan 5.
+- Sesi 2 ChatGPT sedang jalan: user memilih Pilihan 1 (fenomena lokal PPM sebagai pusat) untuk Tahap 2. Menunggu laporan.
+- Catatan untuk sesi 3: prompt dibuat satu pembuka saja, perintah lanjutan cukup satu baris.
+
+## 12 November 2026 (lanjutan 3)
+
+- Laporan sesi 2 ChatGPT diterima, disimpan di `riset/chatgpt/laporan-sesi-2-2026-11-12.md`, evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-2.md`. Sesi bersih, tanpa sumber luar.
+- Keputusan user di ChatGPT: Pilihan 1 (fenomena lokal PPM sebagai pusat), Tahap 2 selesai. Tahap 3: tabel kelayakan terisi, belum dinyatakan selesai.
+- Tugas berikutnya: user memutuskan Tahap 3 ditutup bersyarat atau ditahan. Sesudah itu Claude menyusun Bekal Sesi 3 dan prompt sesi 3 versi pendek (satu pembuka, perintah lanjutan satu baris).
+
+## 12 November 2026 (lanjutan 4)
+
+- Keputusan user: Tahap 3 ditutup (opsi A); batas kerja adalah proposal untuk seminar; prompt dibuat satu pembuka per sesi.
+- User mengirim tangkapan layar dasbor SISKOHAT Gen.2 (46.210 jemaah daftar tunggu Kab. Bandung, data 19 Oktober 2026, diambil 5 November 2026), nama kantor, dan alamat. N = 46.210 berstatus terbukti. Catatan untuk Tahap 11: saringan jenis jemaah di dasbor belum pasti reguler saja.
+- Dibuat `riset/chatgpt/bekal-sesi-3.md`, prompt versi 3, dan `riset/perbaikan-naskah.md` (daftar perbaikan naskah yang terkumpul selama audit).
+- Tugas berikutnya: user menjalankan sesi 3 ChatGPT (Tahap 4, boleh sampai Tahap 6) dan mengirim laporan.
+
+## 12 November 2026 (lanjutan 5)
+
+- Laporan sesi 3 ChatGPT diterima (`riset/chatgpt/laporan-sesi-3-2026-11-12.md`), evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-3.md`. Sesi bersih.
+- Keputusan user di ChatGPT (Tahap 4): fokus persoalan perubahan estimasi keberangkatan; arah perubahan mundur; skenario tanpa penjelasan alasan sebagai unsur hipotetis.
+- Temuan Claude: "24 selections" pada saringan Estimasi Berangkat di dasbor sama dengan rentang 2027 sampai 2050 yang ditulis draf, jadi 46.210 cocok dengan kriteria belum berangkat.
+- Menggantung: syarat pengalaman responden (harus pernah mengalami estimasi mundur atau tidak) dan pernyataan Tahap 4 selesai. Diputuskan user bersama Claude.
+
+## 12 November 2026 (lanjutan 6)
+
+- Keputusan user: ikut rekomendasi Claude, opsi C (responden tidak wajib pernah mengalami estimasi mundur, tetapi ditanyakan). Tahap 4 dicatat selesai.
+- Dibuat `riset/chatgpt/bekal-sesi-4.md` dan prompt versi 4 (Tahap 5, boleh sampai Tahap 6). `perbaikan-naskah.md` ditambah bagian Tahap 4.
+- Tugas berikutnya: user menjalankan sesi 4 ChatGPT dan mengirim laporan.
+
+## 12 November 2026 (lanjutan 7)
+
+- Laporan sesi 4 ChatGPT diterima (`riset/chatgpt/laporan-sesi-4-2026-11-12.md`; ChatGPT menamainya sesi 5), evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-4.md`. Sesi bersih; satu tanda ringan (DOI Daft dan Lengel ditulis tidak ada, padahal ada di draf).
+- Keputusan user di ChatGPT (Tahap 5): judul kerja Pilihan B, "Hubungan Persepsi Kompleksitas Persoalan Mundurnya Estimasi Keberangkatan dengan Kemungkinan Penggunaan Layanan Tatap Muka". Desain tidak diubah.
+- Menggantung: pernyataan Tahap 5 selesai.
+
+## 12 November 2026 (lanjutan 8)
+
+- Keputusan user: Tahap 5 selesai. Dibuat `riset/chatgpt/bekal-sesi-5.md` dan prompt versi 5 (Tahap 6, boleh sampai Tahap 7). `perbaikan-naskah.md` ditambah bagian Tahap 5.
+- Tugas berikutnya: user menjalankan sesi 5 ChatGPT dan mengirim laporan.
+
+## 12 November 2026 (lanjutan 9)
+
+- User mengirim transkrip sesi 5 ChatGPT (bukan laporan), disimpan di `riset/chatgpt/transkrip-sesi-5-2026-11-12.md`, evaluasi di `riset/chatgpt/evaluasi-transkrip-sesi-5.md`.
+- Keputusan user di ChatGPT (Tahap 6, belum dikunci di repo): redaksi "skenario hipotetis mundurnya estimasi keberangkatan tanpa penjelasan alasan perubahan" di rumusan dan tujuan; pembukaan rumusan masalah dari pengamatan PPM; skenario disebut lengkap sekali. Menggantung: redaksi pertanyaan ketiga.
+- Keberatan Claude: redaksi skenario di rumusan masalah mencampur konsep dengan alat ukur dan berbeda dari judul kerja; penghapusan "kanal digital" melemahkan pembanding tatap muka (fakta Satu Haji dari tema 2 belum masuk bekal). Menunggu keputusan user.
+
+## 12 November 2026 (lanjutan 10)
+
+- Keputusan user: setuju usul Claude untuk Tahap 6 (nama variabel sama dengan judul, satu kalimat penjelas skenario, pertanyaan 3 "arah dan besar", pembuka PPM plus Satu Haji, kegunaan dipangkas). User menegaskan petugas memberi tahu jemaah cara mengecek estimasi lewat Satu Haji. Tahap 6 dicatat selesai.
+- Dibuat `riset/chatgpt/bekal-sesi-6.md` dan prompt versi 6 (Tahap 7, boleh sampai Tahap 8). Rencana redaksi Tahap 6 ada di `riset/perbaikan-naskah.md`.
+- Tugas berikutnya: user menjalankan sesi 6 ChatGPT (matriks dua belas penelitian terdahulu) dan mengirim laporan atau transkrip. Claude mencocokkan halaman ke PDF.

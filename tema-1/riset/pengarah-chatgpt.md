@@ -67,6 +67,8 @@ Tanda ringan:
 2. Perintah terakhir: `riset/chatgpt/prompt-laporan.md`.
 3. User mengirim laporan ke Claude. Claude mengoreksi, mengecek rujukan, memperbarui
    `riset/keputusan.md` dan `riset/tahapan.md`, lalu menyusun `riset/chatgpt/bekal-sesi-N.md`.
-4. Sesi baru: user mengunggah roadmap tema 1 terbaru + bekal terbaru, lalu menempel prompt pembuka.
+4. Sesi baru: user membuka chat baru di proyek, melampirkan bekal terbaru **di chat** (bukan di berkas proyek), lalu menempel prompt pembuka. Berkas proyek hanya berisi yang tetap: proposal.docx, sumber, roadmap (keputusan user, 12 November 2026).
+
+5. Laporan boleh diminta kapan saja, juga di tengah tahap (keputusan user, 12 November 2026). Keputusan yang belum dijawab user di ChatGPT ditulis lengkap di bagian "Keputusan yang masih menunggu jawaban saya", lalu diputuskan user bersama Claude di repo ini. Hasilnya masuk bekal berikutnya sebagai keputusan FINAL, jadi tidak diulang di ChatGPT.
 
 ChatGPT tidak membuat handoff sendiri. Bekal selalu disusun Claude.

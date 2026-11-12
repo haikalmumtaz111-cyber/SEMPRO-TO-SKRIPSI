@@ -1,14 +1,45 @@
-# Peta Tahapan: dari Posisi Terakhir sampai File Word
+# Tahapan Tema 1: Acuan 31 Tahap (Roadmap Induk Tema 1)
 
-Dibuat: Kamis, 5 November 2026. Diperbarui setelah eksekusi sekaligus pada hari yang sama.
+Keputusan user, 12 November 2026: acuan tahap memakai Roadmap Induk Skripsi Kuantitatif Versi 1.0
+(`riset/chatgpt/roadmap-induk-tema-1-v1.0-2026-11-12.md`). Proposal sudah punya draf utuh (5
+November 2026), jadi kolom Status di sini adalah **status audit ulang**, bukan status penulisan.
 
-Ini acuan tunggal. Sesi mana pun yang melanjutkan: baca file ini, cari tahap pertama yang belum `[x]`, kerjakan tahap itu saja. Jangan nambah tahap baru tanpa persetujuan user. Ide di luar daftar masuk "Parkir".
+`[x]` audit selesai dan dinyatakan user, `[~]` sedang diaudit, `[ ]` belum diaudit.
 
-> **Rombak, 11 November 2026.** Tabel di bawah adalah riwayat penyusunan sekaligus 5 November.
-> Proposal tema 1 diaudit ulang memakai Roadmap Induk Tema 1 (31 tahap) yang disusun ChatGPT di
-> sesi 1, lihat `riset/pengarah-chatgpt.md` dan `riset/chatgpt/`. Setelah laporan sesi 1 masuk,
-> berkas ini diganti dengan tabel 31 tahap seperti `tema-2/riset/tahapan.md`.
-> Tahap aktif sekarang: **Sesi 1 ChatGPT, menyusun roadmap dan status audit (AMAN/RAGU/SALAH)**.
+| No | Tahap | Status audit | Catatan |
+|---|---|---|---|
+| 1 | Menentukan bidang, tema, minat | [~] | Audit awal di sesi 1, belum dinyatakan selesai |
+| 2 | Mengidentifikasi dan mendokumentasikan fenomena | [x] | Selesai menurut user, 12 Nov (sesi 2). Pendekatan: fenomena lokal PPM sebagai pusat. Angka 30 dan kurang dari 15 per hari dibuang |
+| 3 | Memeriksa kelayakan topik, lokasi, responden | [x] | Selesai menurut user, 12 Nov. N = 46.210 terbukti (dasbor SISKOHAT Gen.2, data 19 Okt 2026, diakses 5 Nov 2026). Nama dan alamat kantor dari user. Izin dan konfirmasi tertulis: sesudah sempro. Catatan Tahap 11: saringan jenis jemaah di dasbor belum pasti reguler saja |
+| 4 | Membatasi fenomena dan menetapkan fokus | [x] | Selesai menurut user, 12 Nov. Fokus: persoalan perubahan estimasi; arah mundur; skenario tanpa penjelasan (hipotetis); responden tidak wajib pernah mengalami, tetapi ditanyakan |
+| 5 | Menetapkan desain dan judul kerja | [x] | Selesai menurut user, 12 Nov. Desain tidak diubah. Judul kerja: "Hubungan Persepsi Kompleksitas Persoalan Mundurnya Estimasi Keberangkatan dengan Kemungkinan Penggunaan Layanan Tatap Muka". Cadangan: "Persoalan Perubahan Estimasi" |
+| 6 | Merumuskan masalah, tujuan, kegunaan | [x] | Selesai, 12 Nov (diputuskan user bersama Claude). Nama variabel sama dengan judul ("persoalan mundurnya estimasi keberangkatan"), skenario dijelaskan dalam satu kalimat; pembuka dari PPM plus Satu Haji; pertanyaan 3 "arah dan besar"; kegunaan dipangkas. Redaksi di `riset/perbaikan-naskah.md` |
+| 7 | Mengumpulkan dan memeriksa penelitian terdahulu | [~] | **Aktif** (sesi 6). Dua belas rujukan; sembilan sitasi tanpa halaman |
+| 8 | Merumuskan research gap | [ ] | |
+| 9 | Menetapkan teori dan kerangka konseptual | [ ] | Kata "membuktikan" untuk Ebbers dkk. perlu dicek |
+| 10 | Definisi konseptual, dimensi, indikator, operasionalisasi | [ ] | Adaptasi Maynard dan Hakel (7 poin ke 5 poin), Y satu butir |
+| 11 | Populasi, unit analisis, kriteria, sampel | [ ] | Slovin dengan purposive sampling perlu dasar |
+| 12 | Jenis data, sumber data, teknik pengumpulan | [ ] | |
+| 13 | Menyusun kuesioner dan kisi-kisi | [ ] | Satu skenario untuk semua responden |
+| 14 | Validasi isi, uji coba, validitas, reliabilitas | [ ] | |
+| 15 | Rencana analisis data | [ ] | Regresi linear untuk Y satu butir lima poin |
+| 16 | Menulis dokumen proposal | [ ] | Draf 5 November ada (23 halaman), 13 tanda [PERLU ...] |
+| 17 sampai 31 | Konsultasi sampai pengarsipan | [ ] | Lihat roadmap |
+
+## Aturan pakai
+
+- Batas kerja (keputusan user, 12 Nov): yang disusun proposal untuk seminar, Tahap 1 sampai 16. Pekerjaan sesudah seminar (izin, konfirmasi tertulis, uji coba, data) tidak jadi syarat menutup tahap.
+- Perbaikan naskah yang terkumpul: `riset/perbaikan-naskah.md`.
+- ChatGPT mengerjakan tahap aktif saja. Tahap berikutnya dibuka sesudah user menyatakan tahap aktif selesai.
+- Naskah `proposal/proposal.md` belum diubah selama audit. Perbaikan naskah dikumpulkan per tahap dan dimasukkan sesudah user menyetujui.
+
+## Parkir
+
+(ide di luar tahap dicatat di sini)
+
+---
+
+# Riwayat: penyusunan sekaligus 5 November 2026
 
 ## Posisi start (sebelum 5 November 2026)
 
