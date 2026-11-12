@@ -165,6 +165,11 @@ Fakta sumber (sudah dicek Claude dari PDF):
 - Maynard dan Hakel (1997:313, 330): skala kompleksitas subjektif empat butir, **tujuh poin** (1 totally disagree sampai 7 totally agree), α = 0,903. Butir asli: (1) I found this to be a complex task. (2) This task was mentally demanding. (3) This task required a lot of thought and problem-solving. (4) I found this to be a challenging task. Sampel 195 mahasiswa, tugas penjadwalan.
 - Ebbers, et al. (2016:510): persepsi kompleksitas diukur **satu butir**, lima poin "very easy" sampai "very difficult". Kemungkinan memakai kanal diukur **satu butir per kanal** (loket, telepon, situs web), lima poin "very unlikely" sampai "very likely". Tiap responden menilai beberapa vinyet.
 - Draf mengubah skala X dari tujuh poin menjadi lima poin dengan alasan seragam dengan Y dan lebih mudah bagi responden lanjut usia. Alasan itu belum punya rujukan.
-- Draf menandai [PERLU RUJUKAN: dasar metodologis pengukuran satu butir] untuk Y. Rujukannya belum ada di proyek. Jangan mengarang rujukan untuk ini.
+- Draf menandai [PERLU RUJUKAN: dasar metodologis pengukuran satu butir] untuk Y. Rujukannya **sudah ditemukan dan diperiksa Claude dari PDF** (berkasnya tidak ada di proyek; pakai hanya isi di bawah ini, jangan menambah klaim):
+  Bergkvist, L., & Rossiter, J. R. (2007). The predictive validity of multiple-item versus single-item measures of the same constructs. *Journal of Marketing Research, 44*(2), 175-184. https://doi.org/10.1509/jmkr.44.2.175
+  - hlm. 175: validitas prediktif ukuran satu butir dan banyak butir tidak berbeda; untuk konstruk yang terdiri atas objek tunggal yang konkret dan atribut yang konkret, ukuran satu butir sebaiknya dipakai.
+  - hlm. 176: satu butir memadai apabila di benak responden (1) objek konstruk "concrete singular", yaitu satu objek yang mudah dan seragam dibayangkan, dan (2) atributnya "concrete", juga mudah dan seragam dibayangkan.
+  - hlm. 178: apakah objek dan atribut konkret tidak diuji secara statistik, tetapi ditetapkan lewat penilaian ahli.
+  - hlm. 183: rekomendasi satu butir tidak berlaku untuk konstruk abstrak (contoh: kepuasan kerja, kualitas layanan); konstruk abstrak tetap memerlukan banyak butir.
 
 Yang sudah FINAL dan memengaruhi tahap ini: fokus "persoalan mundurnya estimasi keberangkatan"; skenario estimasi mundur tanpa penjelasan alasan; responden menilai gabungan dua kondisi itu; satu skenario untuk semua responden; hipotesis tidak berarah.

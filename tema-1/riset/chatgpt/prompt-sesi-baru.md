@@ -33,7 +33,7 @@ Buat satu tabel dengan kolom: komponen; isi draf; status (AMAN, RAGU, SALAH); al
 3. Empat indikator X dibandingkan dengan empat butir asli Maynard dan Hakel. Tandai kalau terjemahan menggeser makna.
 4. Perubahan skala X dari tujuh poin menjadi lima poin.
 5. Pernyataan "skor diperlakukan sebagai interval".
-6. Y diukur satu butir, dan apa yang hilang karena hanya kanal tatap muka yang ditanyakan sementara Ebbers, et al. menanyakan tiap kanal.
+6. Y diukur satu butir: apakah objek dan atribut Y memenuhi kriteria Bergkvist dan Rossiter (2007:176) di Bekal, dan apa yang hilang karena hanya kanal tatap muka yang ditanyakan sementara Ebbers, et al. menanyakan tiap kanal.
 7. Pengakuan bahwa responden menilai gabungan estimasi mundur dan tidak adanya penjelasan.
 
 Sesudah tabel, kalau ada keputusan yang harus saya ambil, sajikan satu per satu, mulai dari yang paling menentukan. Jangan menulis butir kuesioner baru; itu Tahap 13.
