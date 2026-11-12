@@ -8,7 +8,7 @@ November 2026), jadi kolom Status di sini adalah **status audit ulang**, bukan s
 
 | No | Tahap | Status audit | Catatan |
 |---|---|---|---|
-| 1 | Menentukan bidang, tema, minat | [~] | Audit awal di sesi 1, belum dinyatakan selesai |
+| 1 | Menentukan bidang, tema, minat | [x] | Selesai menurut user, 12 Nov. Bidang: Manajemen Haji dan Umrah, pelayanan informasi jemaah. Tema: pemilihan kanal layanan (mengapa jemaah datang langsung ke kantor). Minat: pengalaman PPM di Kantor Kementerian Haji dan Umrah Kabupaten Bandung |
 | 2 | Mengidentifikasi dan mendokumentasikan fenomena | [x] | Selesai menurut user, 12 Nov (sesi 2). Pendekatan: fenomena lokal PPM sebagai pusat. Angka 30 dan kurang dari 15 per hari dibuang |
 | 3 | Memeriksa kelayakan topik, lokasi, responden | [x] | Selesai menurut user, 12 Nov. N = 46.210 terbukti (dasbor SISKOHAT Gen.2, data 19 Okt 2026, diakses 5 Nov 2026). Nama dan alamat kantor dari user. Izin dan konfirmasi tertulis: sesudah sempro. Catatan Tahap 11: saringan jenis jemaah di dasbor belum pasti reguler saja |
 | 4 | Membatasi fenomena dan menetapkan fokus | [x] | Selesai menurut user, 12 Nov. Fokus: persoalan perubahan estimasi; arah mundur; skenario tanpa penjelasan (hipotetis); responden tidak wajib pernah mengalami, tetapi ditanyakan |

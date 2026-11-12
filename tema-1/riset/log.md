@@ -244,3 +244,8 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Dibuat `riset/chatgpt/bekal-sesi-13.md` (FINAL 20; kuesioner final dan kisi-kisi disalin utuh; bahan Tahap 14 dan bahan Tahap 15) dan prompt versi 13 (Tahap 14, boleh sampai Tahap 15). Prompt laporan tidak berubah.
 - Dicatat di `riset/perbaikan-naskah.md`: Panduan FDK menyebut Slovin atau Taro Yamane sebagai contoh penentuan ukuran sampel. Bukan kewajiban, tetapi disiapkan cadangan untuk bimbingan.
 - Tugas berikutnya: user menjalankan sesi 13 ChatGPT (rencana validitas dan reliabilitas; kalau selesai lanjut teknik analisis) dan mengirim laporan atau transkrip.
+
+## 12 November 2026 (lanjutan 29)
+
+- User menanyakan arti Tahap 1 (bidang, tema, minat); dijelaskan dengan isi penelitiannya sendiri. Keputusan user: Tahap 1 selesai. Bekal sesi 13 yang sudah dikirim tidak diubah; status Tahap 1 masuk ke bekal sesi berikutnya.
+- Posisi: Tahap 1 sampai 13 selesai, Tahap 14 aktif (sesi 13 ChatGPT belum dijalankan user).
