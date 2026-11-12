@@ -119,6 +119,20 @@ Catatan: tabel Cohen untuk korelasi product-moment (Pearson). Kalau di Tahap 15 
 Entri daftar pustaka:
 Cohen, J. (1992). A power primer. *Psychological Bulletin, 112*(1), 155-159. https://doi.org/10.1037/0033-2909.112.1.155
 
+## Dari Tahap 12 (jenis data, sumber data, teknik pengumpulan)
+
+- Jenis data: buang "Pendekatan penelitian ini objektif sehingga"; tulis bahwa data berupa data kuantitatif, yaitu skor jawaban responden atas kuesioner. "Pendekatan objektif" tetap di subbagian Paradigma dan Pendekatan (Panduan FDK).
+- Sumber data primer: jemaah haji reguler yang tercatat dalam daftar tunggu Kabupaten Bandung, bernomor porsi, belum berangkat. Buang "dan bersedia mengisi kuesioner" dari rumusan sumber.
+- Sumber data sekunder: dasbor SISKOHAT (total daftar tunggu 46.210 dan masa tunggu 25 tahun, data 19 Oktober 2026) serta peraturan dan informasi resmi yang sudah terbukti. Buang "buku tamu kantor". Tanda [PERLU DATA: rekap buku tamu kantor] ikut hilang bersama kalimat angka per hari.
+- Teknik pengumpulan: kuesioner daring sepenuhnya; buang "lembar cetak". Tautan lewat WhatsApp melalui tiga jalur; peneliti ikut mengirim ke daftar kontak dari kantor dan pengelola KBIHU atas izin tertulis; pesan undangan memuat identitas peneliti, asal nomor, sifat sukarela; daftar nomor hanya untuk undangan dan dihapus sesudah penelitian.
+- Responden jalur loket menerima tautan dan mengisi sesudah meninggalkan kantor. Responden boleh dibantu anggota keluarga.
+- Formulir: penyaring tiga kriteria di awal (berhenti kalau tidak memenuhi); mencatat jalur tautan dan diisi sendiri atau dibantu.
+- Penyebaran berhenti sesudah 100 kuesioner yang memenuhi kriteria terkumpul.
+- "Penyebaran melalui beberapa jalur dimaksudkan untuk mengurangi bias" diganti: beberapa jalur dipakai untuk memperluas jangkauan perekrutan dan mengurangi ketergantungan pada satu jalur.
+- [PERLU DATA: surat izin penelitian] diganti kalimat rencana: izin penelitian dan izin pemakaian daftar kontak diajukan kepada kantor dan pengelola KBIHU sebelum pengumpulan data.
+- Alasan purposive di bagian Populasi dan Sampel disesuaikan: daftar kontak yang tersedia tidak mencakup seluruh daftar tunggu dan pengisian bersifat sukarela, sehingga sampel tidak acak. Buang frasa "data pribadi jemaah tidak boleh digunakan tanpa izin" dalam bentuk lama; ganti dengan keterangan izin tertulis.
+- Keterbatasan baru: kelayakan berdasarkan jawaban sendiri; kuesioner daring kurang menjangkau jemaah yang tidak terbiasa dengan formulir digital, padahal kebiasaan internet yang rendah berkaitan dengan pilihan loket (Ebbers, et al., 2016:512); responden jalur loket sudah datang ke kantor. Preseden pengumpulan daring: Ebbers, et al. (2016:510).
+
 ## Dari cek sitasi 11 November
 
 - Sembilan sitasi tanpa halaman di paragraf celah penelitian, dan "Daft dan Lengel (1986)".

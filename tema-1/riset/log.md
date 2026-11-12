@@ -225,3 +225,9 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Keputusan user di ChatGPT: responden loket mengisi sesudah meninggalkan kantor; penyaringan lewat kuesioner; kuesioner daring sepenuhnya; distribusi gabungan dengan peneliti ikut menerima daftar nomor HP; daftar kontak dari staf dan KBIHU; data sekunder SISKOHAT dan informasi resmi, buku tamu dikeluarkan.
 - Dicek Claude: Panduan FDK (pendekatan objektif, jenis data kuantitatif, primer dan sekunder); Ebbers dkk. (2016:510) panel daring; Ebbers dkk. (2016:512) kebiasaan internet rendah berkaitan dengan pilihan loket; UU 27/2022 (nomor telepon data pribadi; teks pasal belum dibaca).
 - Menggantung: Keputusan 7 (jenis data); keberatan Claude atas penerimaan daftar nomor HP jemaah; peredam untuk kuesioner daring sepenuhnya; pernyataan Tahap 12 selesai.
+
+## 12 November 2026 (lanjutan 26)
+
+- Keputusan user ("GAS"): distribusi opsi A (peneliti mengirim tautan langsung ke nomor jemaah dari daftar kontak kantor dan KBIHU, tanpa menanyakan kesediaan lebih dulu) dengan tiga pengaman; paket sisanya (jenis data pilihan A, dua pertanyaan tambahan di formulir, kalimat "mengurangi bias" diganti, responden boleh dibantu keluarga); Tahap 12 selesai. Catatan: user sempat menyebut pilihannya "B", tetapi uraiannya adalah opsi A; sudah diluruskan dan dikonfirmasi.
+- Dibuat `riset/chatgpt/bekal-sesi-12.md` (FINAL 19; kuesioner draf disalin utuh; fakta urutan pertanyaan Ebbers dkk. 2016:510) dan prompt versi 12 (Tahap 13, boleh sampai Tahap 14; ChatGPT diminta menyusun satu draf kuesioner usulan lengkap, bukan banyak keputusan kecil). `perbaikan-naskah.md` ditambah bagian Tahap 12. Prompt laporan tidak berubah.
+- Tugas berikutnya: user menjalankan sesi 12 ChatGPT (kuesioner dan kisi-kisi) dan mengirim laporan. Claude mencocokkan butir dengan sumber.
