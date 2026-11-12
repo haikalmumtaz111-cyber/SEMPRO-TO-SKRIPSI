@@ -8,6 +8,7 @@ Diperbarui: 11 November 2026
 - Prinsip: bagian yang terbukti benar dipertahankan. Semua keputusan di bawah berstatus menunggu audit.
 - Bekal pertama: `riset/chatgpt/bekal-sesi-1.md`. Prompt: `riset/chatgpt/prompt-sesi-baru.md`, `riset/chatgpt/prompt-laporan.md`.
 - Target 5 November di bawah sudah lewat dan tidak berlaku lagi.
+- Sesi 1 ChatGPT (12 November 2026), keputusan user: mulai audit dari Tahap 2; Roadmap Induk Tema 1 jadi acuan tetap tanpa checklist; angka "sekitar 30 pendaftar" dan "kurang dari 15 penanya estimasi" per hari tidak dipakai sementara. Belum diputuskan: pendekatan fenomena (lokal, nasional lalu lokal, atau keterbatasan kanal digital) dan akses responden lewat staf kantor dan KBIHU.
 
 ## Target terdekat
 

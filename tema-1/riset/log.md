@@ -63,3 +63,10 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Keputusan user: proposal tema 1 dirombak dengan metode tema 2 (opsi B). ChatGPT di proyek baru terpisah dari proyek "Menulis", sumber luar proyek harus seizin user, bagian yang benar dipertahankan.
 - Dibuat: `riset/pengarah-chatgpt.md`, `riset/chatgpt/bekal-sesi-1.md`, `riset/chatgpt/prompt-sesi-baru.md`, `riset/chatgpt/prompt-laporan.md`. CLAUDE.md: tema aktif jadi tema-1.
 - Tugas berikutnya: user membuat proyek ChatGPT baru, mengunggah berkas sesuai prompt, menjalankan Perintah 1, lalu mengirim laporan sesi 1 ke Claude.
+
+## 12 November 2026
+
+- Laporan sesi 1 ChatGPT diterima, disimpan di `riset/chatgpt/laporan-sesi-1-2026-11-12.md`, evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-1.md`. Rujukan dicocokkan ke PDF di `Sumber/`: metadata cocok, halaman Budiman dkk. dan nama lengkap jurnal Safitra dkk. masih [PERLU VERIFIKASI].
+- Temuan: ChatGPT memakai Permenhaj 2/2025 tanpa izin lalu menariknya sendiri (peraturannya ada, isinya belum terbaca). Tabel kelayakan Tahap 3 kosong. Roadmap dan tabel audit Tahap 1 sampai 16 tidak ikut disalin. Butir 8 prompt laporan salah salin dari tema 2 (menyebut keputusan Bekal final), sudah diperbaiki; ditambah aturan tabel tidak boleh kosong dan laporan langsung berupa berkas .md.
+- Keputusan user di sesi ChatGPT: mulai dari Tahap 2, roadmap jadi acuan tetap, angka 30 dan kurang dari 15 per hari tidak dipakai sementara.
+- Tugas berikutnya: user mengirim berkas Roadmap Induk Tema 1 dan menjawab soal akses staf kantor dan KBIHU. Sesudah itu Claude menyusun Bekal Sesi 2 dan prompt sesi 2.

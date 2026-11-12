@@ -8,7 +8,7 @@ Ini acuan tunggal. Sesi mana pun yang melanjutkan: baca file ini, cari tahap per
 > Proposal tema 1 diaudit ulang memakai Roadmap Induk Tema 1 (31 tahap) yang disusun ChatGPT di
 > sesi 1, lihat `riset/pengarah-chatgpt.md` dan `riset/chatgpt/`. Setelah laporan sesi 1 masuk,
 > berkas ini diganti dengan tabel 31 tahap seperti `tema-2/riset/tahapan.md`.
-> Tahap aktif sekarang: **Sesi 1 ChatGPT, menyusun roadmap dan status audit (AMAN/RAGU/SALAH)**.
+> Posisi 12 November 2026: Tahap 2 sudah diaudit (belum dinyatakan selesai oleh user), **Tahap 3 sedang jalan**, menunggu jawaban user soal akses responden. Berkas roadmap dari ChatGPT belum diterima Claude.
 
 ## Posisi start (sebelum 5 November 2026)
 
