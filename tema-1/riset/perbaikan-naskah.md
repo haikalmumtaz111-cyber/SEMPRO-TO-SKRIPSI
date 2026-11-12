@@ -85,6 +85,17 @@ Bergkvist, L., & Rossiter, J. R. (2007). The predictive validity of multiple-ite
 
 Kandidat lain (Allen dkk., 2022; Wanous dkk., 1997) tidak dipakai.
 
+## Dari Tahap 10 (definisi dan pengukuran)
+
+- Tambah definisi konseptual X (Campbell, 1988:40) dan Y (Ebbers, et al., 2016:510) sebelum matriks operasionalisasi.
+- Definisi operasional X dan Y menyebut objek: persoalan mundurnya estimasi keberangkatan tanpa penjelasan alasan perubahan dalam skenario.
+- Indikator X: kerumitan; tuntutan mental; kebutuhan pemikiran dan pemecahan masalah; tingkat tantangan.
+- Skala X tujuh poin (Maynard & Hakel, 1997:313). Buang alasan "seragam dengan Y dan lebih mudah bagi lansia". Keterangan skala di kuesioner Bagian D diganti 1 sampai 7.
+- Butir X diperbaiki di Tahap 13 (butir 2 tanpa kata "mental", butir 3 "pemikiran", butir 4 tanpa "untuk dipahami").
+- Kalimat [PERLU RUJUKAN: dasar metodologis pengukuran satu butir] diganti kalimat Bergkvist dan Rossiter (lihat bagian rujukan satu butir).
+- Tulis bahwa Y tidak membandingkan kanal dan responden menilai gabungan dua kondisi skenario; masuk keterbatasan.
+- "Skor diperlakukan sebagai interval" menunggu Tahap 15.
+
 ## Dari cek sitasi 11 November
 
 - Sembilan sitasi tanpa halaman di paragraf celah penelitian, dan "Daft dan Lengel (1986)".

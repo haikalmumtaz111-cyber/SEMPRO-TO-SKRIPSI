@@ -195,3 +195,9 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Laporan sesi 9 ChatGPT (Tahap 10) diterima (`riset/chatgpt/laporan-sesi-9-2026-11-12.md`; ChatGPT menamainya sesi 10), evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-9.md`. Sesi bersih.
 - Keputusan user di ChatGPT: skala X kembali tujuh poin; definisi konseptual X Pilihan B; definisi konseptual Y Pilihan A.
 - Menggantung: label indikator X nomor 2 dan paket penyelesaian Tahap 10.
+
+## 12 November 2026 (lanjutan 21)
+
+- Keputusan user: indikator X nomor 2 "tuntutan mental" (B); paket penyelesaian Tahap 10 disetujui. Tahap 10 selesai.
+- Dibuat `riset/chatgpt/bekal-sesi-10.md` dan prompt versi 10 (Tahap 11, boleh sampai Tahap 12). `perbaikan-naskah.md` ditambah bagian Tahap 10.
+- Tugas berikutnya: user menjalankan sesi 10 ChatGPT (populasi dan sampel) dan mengirim laporan.
