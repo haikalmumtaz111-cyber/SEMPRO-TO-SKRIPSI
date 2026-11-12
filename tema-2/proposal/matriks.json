@@ -1,0 +1,75 @@
+{
+  "judul_dokumen": "Matriks Penelitian",
+  "identitas": [
+    ["Judul", ["Hubungan Paparan Informasi Sebelum Pendaftaran dengan Respons Calon Jemaah Haji terhadap Informasi Masa Tunggu Keberangkatan (Survei pada Calon Jemaah Haji di Kantor Kementerian Haji dan Umrah Kabupaten Bandung)"]],
+    ["Teori", [
+      "Variabel X: information seeking dan information scanning (Niederdeppe, et al., 2007; Kelly, et al., 2009).",
+      "Variabel Y: tiga komponen respons, yaitu kognitif, afektif, dan konatif (Breckler, 1984).",
+      "Penjelas tiap jenis respons: Cognitive Mediation Model (Eveland, 2001) untuk respons kognitif, pembentukan perkiraan layanan (Zeithaml, et al., 1993) dan penilaian emosi (Roseman, et al., 1996) untuk respons afektif, serta konsep niat (Ajzen, 1991) untuk respons konatif."
+    ]],
+    ["Metode Penelitian", ["Kuantitatif, survei potong lintang (cross-sectional). Kuesioner tertutup, 75 responden (rumus Slovin, batas kesalahan 10%, populasi diperkirakan 297 orang), consecutive sampling. Analisis korelasi Pearson product moment atau Rank Spearman."]],
+    ["Variabel", [
+      "X: paparan informasi masa tunggu sebelum memutuskan mendaftar (dimensi seeking dan scanning).",
+      "Y1: respons kognitif (pemahaman yang dirasakan).",
+      "Y2: respons afektif (terkejut dan khawatir).",
+      "Y3: respons konatif (niat bertanya kepada petugas dan niat mengecek melalui aplikasi resmi)."
+    ]],
+    ["Rumusan Masalah", [
+      "1. Bagaimana paparan informasi masa tunggu yang diperoleh calon jemaah haji sebelum memutuskan mendaftar?",
+      "2. Bagaimana respons kognitif, afektif, dan konatif calon jemaah haji terhadap informasi masa tunggu keberangkatan yang disampaikan petugas?",
+      "3. Apakah terdapat hubungan antara paparan informasi masa tunggu sebelum memutuskan mendaftar dan respons kognitif calon jemaah haji?",
+      "4. Apakah terdapat hubungan antara paparan informasi masa tunggu sebelum memutuskan mendaftar dan respons afektif calon jemaah haji?",
+      "5. Apakah terdapat hubungan antara paparan informasi masa tunggu sebelum memutuskan mendaftar dan respons konatif calon jemaah haji?"
+    ]],
+    ["Tujuan", ["Mengetahui paparan informasi masa tunggu yang diperoleh calon jemaah haji sebelum memutuskan mendaftar, mengetahui respons kognitif, afektif, dan konatif mereka terhadap informasi masa tunggu yang disampaikan petugas, serta mengetahui ada tidaknya hubungan antara paparan tersebut dan tiap jenis respons."]],
+    ["Lokasi", ["Kantor Kementerian Haji dan Umrah Kabupaten Bandung, Jalan Adipati Agung Nomor 42, Baleendah, Kabupaten Bandung"]]
+  ],
+  "fenomena": [
+    "Calon jemaah haji reguler menunggu sangat lama sejak mendaftar sampai berangkat. Setelah formula penghitungan antrean diubah, rata-rata antrean haji di seluruh Indonesia mencapai 26 tahun, sedangkan jemaah yang berangkat pada tahun 2026 rata-rata menjalani masa tunggu 14 tahun (Sekretariat Kabinet Republik Indonesia, 2026). Informasi masa tunggu itu tidak hanya beredar di kantor layanan haji. Sebelum mendaftar, sebagian calon jemaah sudah membacanya di media sosial dan portal berita, mendengarnya dari keluarga atau tetangga, atau sengaja datang ke kantor untuk bertanya, sedangkan sebagian lain baru mengetahuinya pada hari pendaftaran.",
+    "Berdasarkan pengamatan awal selama Praktik Profesi Mahasiswa di Kantor Kementerian Haji dan Umrah Kabupaten Bandung pada Februari sampai Juni 2026, petugas menyampaikan estimasi keberangkatan dan cara mengeceknya melalui aplikasi Satu Haji pada saat menyerahkan Surat Pendaftaran Pergi Haji (SPPH). Masa tunggu yang disampaikan sekitar 26 tahun. Respons calon jemaah terhadap penjelasan itu beragam. Sebagian tampak terkejut, sebagian khawatir karena usia, sebagian tenang, dan sebagian menanggapinya biasa saja. Ada yang bertanya tentang kemungkinan percepatan keberangkatan, dan ada yang menyatakan akan mengecek estimasinya sendiri. Perbedaan respons itu diduga berkaitan dengan bekal informasi yang dibawa calon jemaah sebelum mendaftar. Uraian ini merupakan pengamatan awal peneliti, bukan data penelitian."
+  ],
+  "urgensi": [
+    ["1. Bekal informasi calon jemaah berbeda-beda", "Calon jemaah menerima penjelasan yang sama dari petugas, tetapi datang dengan pengalaman memperoleh informasi yang tidak sama. Belum diketahui apakah perbedaan itu berkaitan dengan pemahaman, reaksi emosi, dan niat mereka setelah menerima penjelasan petugas."],
+    ["2. Bahan pertimbangan bagi kantor layanan", "Hasil penelitian dapat menjadi bahan bagi Kantor Kementerian Haji dan Umrah Kabupaten Bandung untuk menimbang cara menyampaikan informasi masa tunggu kepada pendaftar, misalnya dengan menanyakan lebih dulu apa yang sudah diketahui calon jemaah."],
+    ["3. Kontribusi pada kajian manajemen haji dan umrah", "Penelitian terdahulu yang tercantum dalam matriks membahas masa tunggu sebagai dampak kebijakan dan faktor minat, informasi haji dalam hubungannya dengan pemahaman jemaah yang sudah berangkat, serta pelayanan pendaftaran dalam hubungannya dengan kepuasan. Penelitian ini memusatkan perhatian pada pengalaman informasi calon jemaah sebelum ia berhadapan dengan petugas."]
+  ],
+  "gap_kepala": ["Sumber", "Judul", "Temuan", "Gap"],
+  "gap": [
+    [
+      "Skripsi, UIN Sunan Gunung Djati Bandung, 2026 (Ardiansyah). Link: https://digilib.uinsgd.ac.id/139503/",
+      "Dampak Kebijakan Masa Tunggu Jemaah di Kementerian Haji dan Umrah Kabupaten Bandung: Studi Deskriptif pada Kementerian Haji dan Umrah Kabupaten Bandung",
+      "Penelitian kualitatif dengan lima informan. Cara pandang jemaah terhadap keadilan kebijakan berbeda-beda menurut posisinya dalam daftar tunggu, kebijakan mengganggu harapan jangka panjang jemaah, dan reaksi sosial jemaah terbagi antara menyesuaikan diri dan reaksi yang merugikan diri sendiri.",
+      "Mengkaji dampak kebijakan secara kualitatif. Tidak mengukur informasi masa tunggu yang diperoleh sebelum mendaftar dan tidak menguji hubungannya dengan respons calon jemaah."
+    ],
+    [
+      "Skripsi, UIN Sunan Gunung Djati Bandung, 2025 (Ginting). Link: https://digilib.uinsgd.ac.id/115501/",
+      "Pengaruh Pelayanan Informasi dan Edukasi Prosedur Haji terhadap Pemahaman Haji di KBIHU Thuba Kabupaten Bandung: Studi Kasus Jemaah Haji KBIHU Thuba Kabupaten Bandung Tahun 2024",
+      "Penelitian kuantitatif dengan 67 responden. Pelayanan informasi dan edukasi prosedur haji berpengaruh 28,3% terhadap pemahaman, sisanya 71,7% faktor lain.",
+      "Informasinya berasal dari pembimbing KBIHU, bukan informasi yang diperoleh sebelum mendaftar. Subjeknya jemaah yang sudah berangkat. Tidak mengukur reaksi emosi dan niat."
+    ],
+    [
+      "Skripsi, UIN Sunan Gunung Djati Bandung, 2025 (Fitriyani). Link: https://digilib.uinsgd.ac.id/117860/",
+      "Pengaruh Penggunaan Alat Bantu Komunikasi Digital terhadap Tingkat Pemahaman Jemaah dalam Pelaksanaan Ibadah Haji: Studi Kasus pada Kelompok Bimbingan Ibadah Haji dan Umrah (KBIHU) Maqdis Bandung",
+      "Penelitian kuantitatif dengan 54 jemaah. Alat bantu komunikasi digital berpengaruh terhadap pemahaman jemaah (t hitung 6,990 > t tabel 2,007; r = 0,696; R² = 0,484).",
+      "Variabel bebasnya alat komunikasi saat ibadah di tanah suci, bukan paparan informasi sebelum mendaftar. Subjeknya jemaah yang sudah berangkat."
+    ],
+    [
+      "Skripsi, UIN Sunan Gunung Djati Bandung, 2024 (Sukmawijaya). Link: https://digilib.uinsgd.ac.id/97336/",
+      "Pengaruh Kualitas Pelayanan Pendaftaran Haji terhadap Kepuasan Calon Jamaah Tahun 2024: Penelitian di Kantor Kementerian Agama Kabupaten Bandung",
+      "Penelitian kuantitatif pada calon jemaah yang mendaftar. Kualitas pelayanan pendaftaran berpengaruh terhadap kepuasan (koefisien regresi 0,366; R-Square 85,3%; sig. 0,000 < 0,05).",
+      "Subjek dan lokasinya serupa, tetapi variabelnya kualitas pelayanan dan kepuasan. Tidak membahas informasi masa tunggu maupun paparan informasi sebelum mendaftar."
+    ],
+    [
+      "Skripsi, UIN Sunan Gunung Djati Bandung, 2025 (Budiarti). Link: https://digilib.uinsgd.ac.id/118336/",
+      "Pengaruh Waiting List dan Kondisi Finansial terhadap Minat Masyarakat Kabupaten Cianjur untuk Mendaftar sebagai Calon Jemaah Haji Reguler",
+      "Penelitian kuantitatif dengan 120 warga. Waiting list (sig. 0,014; t hitung 2,497 > 1,658) dan kondisi finansial (sig. 0,001; t hitung 10,569) berpengaruh terhadap minat mendaftar.",
+      "Subjeknya masyarakat yang belum mendaftar dan variabel terikatnya minat mendaftar. Yang diteliti masa tunggu itu sendiri, bukan informasi tentang masa tunggu yang diperoleh calon jemaah."
+    ],
+    [
+      "Skripsi, UIN Sunan Gunung Djati Bandung, 2026 (Al-Anwari). Link: https://digilib.uinsgd.ac.id/130459/",
+      "Pengaruh Masa Tunggu terhadap Minat Masyarakat Usia Produktif dalam Melaksanakan Ibadah Haji di Kabupaten Aceh Tamiang",
+      "Penelitian kuantitatif dengan 98 responden. Masa tunggu berpengaruh terhadap minat melaksanakan ibadah haji (t hitung 7,168 > 1,984).",
+      "Subjeknya masyarakat umum, bukan calon jemaah yang baru menerima penjelasan petugas. Tidak mengukur paparan informasi sebelum mendaftar."
+    ]
+  ]
+}

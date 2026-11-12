@@ -338,3 +338,10 @@
 
 - User minta ringkasan jurnal dengan bahasa mudah dan perumpamaan menjelang bimbingan. Dibuat `riset/ringkasan-bimbingan.md` dari naskah versi terakhir: inti proposal, X dan Y, tiap rujukan dan potongan yang dipinjam, enam skripsi terdahulu, metode, pertanyaan yang mungkin diajukan pembimbing. `ringkasan-jurnal.md` dibuat sebelum naskah final sehingga sebagian isinya (tenang, niat mencari informasi resmi) sudah tidak cocok dengan naskah.
 - Tugas berikutnya: Tahap 17, bimbingan ke pembimbing, lalu catat masukannya.
+
+## 12 November 2026 (lanjutan)
+
+- `riset/ringkasan-bimbingan.md` ditulis ulang dengan bahasa awam dan perumpamaan untuk tiap istilah. Aturan baru dari user dicatat di `CLAUDE.md` (Cara ngobrol).
+- User mengirim contoh matriks penelitian milik teman (kualitatif, dipakai untuk pengajuan judul): A4 mendatar, kiri tabel Judul, Teori, Metode Penelitian, Fokus Penelitian, Tujuan, Lokasi, kanan Fenomena Penelitian dan Urgensi, lalu tabel Research Gap (Sumber, Judul, Temuan, Gap). Panduan KTI FDK tidak memuat matriks ini, jadi wajib tidaknya belum diketahui [PERLU VERIFIKASI ke prodi].
+- Dibuat matriks versi tema 2: isi di `proposal/matriks.json`, script `.claude/skills/sempro/scripts/matriks.py`, hasil `output/matriks-penelitian.docx` (2 halaman). Penyesuaian untuk kuantitatif: baris Fokus Penelitian diganti Rumusan Masalah dan ditambah baris Variabel. Isi diambil dari naskah dan `riset/penelitian-terdahulu.md`. Temuan Ardiansyah (2026) diambil dari abstrak di digilib UIN SGD, dibaca Claude hari ini.
+- Tugas berikutnya: user memastikan ke prodi apakah matriks wajib dan apakah susunan baris untuk kuantitatif berbeda, lalu Tahap 17 (bimbingan).
