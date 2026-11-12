@@ -1,6 +1,6 @@
-# Kuesioner Usulan Tema 1 (versi koreksi Claude, 12 November 2026)
+# Kuesioner Tema 1 (versi koreksi Claude, diterima user 12 November 2026)
 
-Status: **menunggu persetujuan user.** Dasar: draf usulan ChatGPT sesi 12, dikoreksi Claude sesudah dicocokkan dengan Maynard dan Hakel (1997:313, 330) dan Ebbers, et al. (2016:510). Kuesioner bersifat tentatif sesuai Panduan FDK; uji keterbacaan dan uji coba dikerjakan di Tahap 14.
+Status: **diterima user, 12 November 2026 (FINAL 20).** Dasar: draf usulan ChatGPT sesi 12, dikoreksi Claude sesudah dicocokkan dengan Maynard dan Hakel (1997:313, 330) dan Ebbers, et al. (2016:510). Kuesioner bersifat tentatif sesuai Panduan FDK; uji keterbacaan dan uji coba dikerjakan di Tahap 14.
 
 Catatan penerapan di formulir daring (bukan bagian yang dibaca responden):
 - Kode variabel (X, Y) tidak ditampilkan.

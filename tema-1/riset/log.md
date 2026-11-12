@@ -237,3 +237,10 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Transkrip sesi 12 ChatGPT (Tahap 13) diterima sebelum user menerima draf (`riset/chatgpt/transkrip-sesi-12-2026-11-12.md`), evaluasi di `riset/chatgpt/evaluasi-transkrip-sesi-12.md`. Butir asli dan skala dicek ke Maynard dan Hakel (1997:313, 330): cocok; sumber hanya melabeli ujung skala; skor empat butir dirata-ratakan.
 - Temuan Claude atas draf usulan: judul skripsi dan tujuan rinci di lembar persetujuan membocorkan isi penelitian; label tujuh poin tidak lazim; redaksi X2, X3, X4 dan label Y perlu disesuaikan; beberapa pilihan jawaban dan izin dibantu keluarga belum ada.
 - Dibuat `riset/kuesioner-usulan.md` (versi koreksi Claude, lengkap dengan kisi-kisi dan daftar beda dengan draf ChatGPT). Menunggu keputusan user: terima versi koreksi atau ubah bagian tertentu, lalu pernyataan Tahap 13 selesai.
+
+## 12 November 2026 (lanjutan 28)
+
+- Keputusan user: menerima kuesioner versi koreksi Claude. Tahap 13 selesai.
+- Dibuat `riset/chatgpt/bekal-sesi-13.md` (FINAL 20; kuesioner final dan kisi-kisi disalin utuh; bahan Tahap 14 dan bahan Tahap 15) dan prompt versi 13 (Tahap 14, boleh sampai Tahap 15). Prompt laporan tidak berubah.
+- Dicatat di `riset/perbaikan-naskah.md`: Panduan FDK menyebut Slovin atau Taro Yamane sebagai contoh penentuan ukuran sampel. Bukan kewajiban, tetapi disiapkan cadangan untuk bimbingan.
+- Tugas berikutnya: user menjalankan sesi 13 ChatGPT (rencana validitas dan reliabilitas; kalau selesai lanjut teknik analisis) dan mengirim laporan atau transkrip.

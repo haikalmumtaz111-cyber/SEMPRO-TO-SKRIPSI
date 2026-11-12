@@ -133,6 +133,18 @@ Cohen, J. (1992). A power primer. *Psychological Bulletin, 112*(1), 155-159. htt
 - Alasan purposive di bagian Populasi dan Sampel disesuaikan: daftar kontak yang tersedia tidak mencakup seluruh daftar tunggu dan pengisian bersifat sukarela, sehingga sampel tidak acak. Buang frasa "data pribadi jemaah tidak boleh digunakan tanpa izin" dalam bentuk lama; ganti dengan keterangan izin tertulis.
 - Keterbatasan baru: kelayakan berdasarkan jawaban sendiri; kuesioner daring kurang menjangkau jemaah yang tidak terbiasa dengan formulir digital, padahal kebiasaan internet yang rendah berkaitan dengan pilihan loket (Ebbers, et al., 2016:512); responden jalur loket sudah datang ke kantor. Preseden pengumpulan daring: Ebbers, et al. (2016:510).
 
+## Dari Tahap 13 (kuesioner dan kisi-kisi)
+
+- Lampiran kuesioner di naskah diganti seluruhnya dengan isi `riset/kuesioner-usulan.md` (diterima user 12 November 2026). Komentar sumber butir di akhir lampiran diperbarui.
+- Matriks operasionalisasi di kerangka pemikiran disesuaikan dengan kisi-kisi baru: indikator X (kerumitan; tuntutan mental; kebutuhan pemikiran dan pemecahan masalah; tingkat tantangan), skala X 1 sampai 7, Y lima pilihan dari "sangat kecil kemungkinannya" sampai "sangat besar kemungkinannya".
+- Kalimat tentang urutan: sesudah membaca cerita, responden menjawab pertanyaan Y lebih dulu lalu pernyataan X, mengikuti Ebbers, et al. (2016:510).
+- [PERLU DATA: nomor kontak peneliti] diisi sebelum penyebaran.
+- Tahun ilustrasi dalam cerita ditetapkan ulang menjelang penyebaran.
+
+## Catatan cadangan untuk bimbingan (bukan perubahan naskah)
+
+- Panduan FDK, butir Populasi dan Sampel, menulis "sampel representatif (misal: penentuan ukuran sampel dengan rumus Slovin atau rumus Taro Yamane)". Slovin disebut sebagai contoh, bukan kewajiban. Naskah memakai analisis daya uji (Cohen, 1992:157-158). Kalau pembimbing meminta rumus Slovin, hasilnya dengan N = 46.210 dan e = 10% adalah 99,78 atau 100 responden, sama dengan target penelitian. Rujukan rumus: Machali (2021:82-83), Sukwika (2023:173-174). Catatan: 46.210 adalah total daftar tunggu, bukan jumlah khusus jemaah reguler.
+
 ## Dari cek sitasi 11 November
 
 - Sembilan sitasi tanpa halaman di paragraf celah penelitian, dan "Daft dan Lengel (1986)".

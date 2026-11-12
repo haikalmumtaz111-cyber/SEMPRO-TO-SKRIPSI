@@ -20,8 +20,8 @@ November 2026), jadi kolom Status di sini adalah **status audit ulang**, bukan s
 | 10 | Definisi konseptual, dimensi, indikator, operasionalisasi | [x] | Selesai, 12 Nov. Definisi konseptual X (Campbell 1988:40) dan Y (Ebbers dkk. 2016:510); X empat indikator, tujuh poin, indikator 2 "tuntutan mental"; Y satu butir (Bergkvist dan Rossiter 2007:175-176); gabungan dua kondisi skenario diakui |
 | 11 | Populasi, unit analisis, kriteria, sampel | [x] | Selesai menurut user, 12 Nov. Populasi: jemaah reguler tercatat di daftar tunggu Kab. Bandung, bernomor porsi, belum berangkat; unit analisis individu; 46.210 = total daftar tunggu, bukan N reguler; tiga kriteria; purposive; Slovin dihapus; minimal 85 (Cohen, 1992:157-158), target 100 |
 | 12 | Jenis data, sumber data, teknik pengumpulan | [x] | Selesai menurut user, 12 Nov. Kuesioner daring sepenuhnya; penyaring di awal formulir; tiga jalur lewat WhatsApp, peneliti ikut mengirim ke daftar kontak dari kantor dan KBIHU dengan tiga pengaman (izin tertulis, isi pesan, daftar dihapus); jalur loket mengisi sesudah pulang; buku tamu dikeluarkan; berhenti di 100 kuesioner layak |
-| 13 | Menyusun kuesioner dan kisi-kisi | [~] | **Aktif** (sesi 12). Skala X tujuh poin; redaksi butir X 2, 3, 4; tiga penyaring; tiga pertanyaan tambahan; urutan X dan Y |
-| 14 | Validasi isi, uji coba, validitas, reliabilitas | [ ] | |
+| 13 | Menyusun kuesioner dan kisi-kisi | [x] | Selesai menurut user, 12 Nov. Kuesioner versi koreksi diterima (`riset/kuesioner-usulan.md`): tiga penyaring; cerita, Y, lalu X (Ebbers dkk. 2016:510); X 1 sampai 7 berlabel ujung; data responden di akhir; judul dan tujuan netral |
+| 14 | Validasi isi, uji coba, validitas, reliabilitas | [~] | **Aktif** (sesi 13). Di proposal cukup rencana. Kalimat "mengikuti redaksi butir Ebbers" tidak tepat; batas alfa Tavakol dan Dennick (2011:54) |
 | 15 | Rencana analisis data | [ ] | Regresi linear untuk Y satu butir lima poin |
 | 16 | Menulis dokumen proposal | [ ] | Draf 5 November ada (23 halaman), 13 tanda [PERLU ...] |
 | 17 sampai 31 | Konsultasi sampai pengarsipan | [ ] | Lihat roadmap |
