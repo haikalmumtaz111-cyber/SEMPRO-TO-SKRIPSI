@@ -255,30 +255,65 @@ ngumpulin data sekitar sebulan, jadi populasinya dikira 297 orang.
 buat tau rasa sepanci.
 
 **Rumus Slovin.** Rumus buat jawab satu pertanyaan doang: "dari 297 orang, gua cukup nanya
-berapa orang?" Slovin itu nama orang yang bikin rumusnya.
+berapa orang?" Slovin itu nama orang yang bikin rumusnya. Bahannya dua angka: jumlah semua orang
+(297) dan batas meleset (10%).
 
-Bahannya cuma dua angka:
+*Batas meleset itu apa.* Inget quick count pemilu. TV udah ngumumin hasil sore harinya padahal
+suara se-Indonesia belum beres dihitung, karena mereka cuma ngitung sebagian TPS terus nebak hasil
+seluruhnya. Di layar selalu ada tulisan kecil, misal "Calon A 58%, margin of error 1%". Artinya:
+tebakan kami 58, tapi karena cuma ngitung sebagian, hasil aslinya kemungkinan di antara 57 sampai
+59. Margin of error itu batas meleset.
 
-- Jumlah semua orang: 297.
-- Batas meleset yang lu rela terima: 10%, ditulis 0,10.
+Lu persis kayak lembaga quick count:
 
-Batas meleset itu gini. Misal dari orang yang lu tanyain, 60% bilang kaget. Kalau lu nanyain
-semua 297 orang, angka aslinya belum tentu pas 60, bisa geser. Lu bilang ke dosen: "saya terima
-kalau gesernya sampai 10". Kayak nebak harga barang, "sekitar 100 ribu, meleset 10 ribu ga apa".
+- Semua TPS = 297 pendaftar haji
+- TPS yang dihitung = 75 orang yang lu tanyain
+- Margin of error = batas meleset lu, 10%
 
-Cara ngitungnya, empat langkah pake kalkulator HP:
+Misal dari 75 orang itu 60% bilang kaget. Lu ga bisa bilang "60% dari semua pendaftar kaget",
+karena lu ga nanya semuanya. Yang bisa lu bilang: sekitar 60%, aslinya kemungkinan di antara 50
+sampai 70. Jarak dari 60 ke 50 dan dari 60 ke 70 itu 10. Itulah 10%-nya.
 
-1. Batas meleset dikali dirinya sendiri: 0,10 × 0,10 = 0,01
-2. Dikali jumlah orang: 297 × 0,01 = 2,97
-3. Ditambah 1: 2,97 + 1 = 3,97
-4. Jumlah orang dibagi hasil tadi: 297 / 3,97 = 74,8
+Satu kalimat buat dipegang: batas meleset = seberapa jauh tebakan lu boleh geser dari kenyataan,
+karena lu cuma nanya sebagian orang.
 
-Orang ga bisa 0,8, jadi dibuletin ke atas: **75 orang**. Itu jumlah paling sedikit.
+*Cara ngitungnya.* Anggep rumusnya resep masak, ikutin urutannya dan hasilnya jadi. Di proposal
+rumusnya ketulis: n = N / (1 + N e²). Cara baca hurufnya:
 
-Kalau dosen minta batas meleset 5% (lebih teliti), hitungannya jadi 297 / (1 + 297 × 0,0025) =
-297 / 1,7425 = 170,4, dibuletin 171 orang. Jadi makin teliti, makin banyak orang yang harus lu
-tanyain. Kayak nyicip kuah: makin banyak sendok yang lu cicip, makin yakin rasanya, tapi makin
-lama juga. Lu milih 10% karena waktu dan tenaga lu terbatas.
+- N gede = jumlah semua orang = 297
+- e = batas meleset = 10%, di kalkulator diketik 0,1
+- e² = e dikali e. Angka 2 kecil di atas artinya "dikali dirinya sendiri"
+- n kecil = jumlah orang yang harus lu tanyain. Ini yang dicari
+
+Pencet kalkulator HP, ikutin persis:
+
+1. Ketik `0,1 × 0,1 =` keluar 0,01 (ini e²)
+2. Ketik `297 × 0,01 =` keluar 2,97 (ini N dikali e²)
+3. Ketik `2,97 + 1 =` keluar 3,97 (ini isi kurung, bagian bawah rumus)
+4. Ketik `297 ÷ 3,97 =` keluar 74,8 (ini n)
+5. Buletin ke atas jadi **75 orang**
+
+Kenapa ke atas? Karena 74,8 itu batas paling sedikit. Kayak butuh keramik 74,8 dus, lu ga bisa
+beli 0,8 dus, jadi beli 75.
+
+Cara ngeliatnya biar ga cuma ngapal: angka 3,97 itu pembagi. Artinya dari tiap kira-kira 4 orang
+yang daftar, lu cukup nanya 1. Gede kecilnya pembagi tergantung batas meleset:
+
+| Batas meleset | Pembagi | Yang harus ditanya |
+|---|---|---|
+| 10% | 3,97 | 75 orang, kira-kira 1 dari 4 |
+| 5% | 1,74 | 171 orang, lebih dari separuh |
+
+Makin lu pengen teliti, pembaginya makin kecil, orang yang harus ditanya makin banyak. Sama kayak
+quick count, mau meleset dikit ya harus ngitung lebih banyak TPS. Lu milih 10% karena waktu dan
+tenaga lu terbatas.
+
+Kenapa e dikali dirinya sendiri dan kenapa ditambah 1, itu bawaan rumusnya. Yang biasanya ditanya
+dosen cuma dua:
+
+- "N-nya berapa, dari mana?" Jawab: 297, dari catatan kantor, 3.076 pendaftar selama 1 Januari
+  sampai 11 November 2026, rata-rata 297 sebulan.
+- "Kenapa 10%?" Jawab: karena waktu dan tenaga terbatas, dan 75 itu jumlah paling sedikit.
 
 **Consecutive sampling.** Cara milih respondennya. Siapa pun yang beres daftar, memenuhi syarat,
 dan mau, langsung dimintain ngisi sesuai urutan dateng, sampai 75 kepenuhi. Kayak antrean bakso:
