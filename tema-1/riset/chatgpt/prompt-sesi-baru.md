@@ -1,51 +1,28 @@
 # Prompt Sesi ChatGPT (Tema 1, rombak)
 
-Versi 2, 12 November 2026. Untuk sesi 2.
+Versi 3, 12 November 2026. Untuk sesi 3. Bentuk baru: satu prompt pembuka, sesudah itu user
+mengobrol bebas dengan ChatGPT.
 
 Cara pakai:
-- Berkas tetap ada di berkas proyek: `proposal.docx`, 12 sumber, dan roadmap. Diunggah sekali saja.
-- Bekal **tidak** disimpan di berkas proyek. Bekal terbaru dilampirkan di chat bersama Perintah 1.
-- Sekali saja: hapus `bekal-sesi-1.md` dari berkas proyek supaya tidak terbaca lagi.
-- Tiap sesi: buka chat baru di proyek, lampirkan `bekal-sesi-2.md`, tempel Perintah 1. Sesudah 3
-  sampai 4 perintah kerja, tutup dengan `prompt-laporan.md`.
+- Buka chat baru di proyek tema 1, lampirkan `bekal-sesi-3.md` di chat, tempel prompt pembuka di bawah garis.
+- Sesudah itu ngobrol biasa. Kira-kira 3 sampai 4 pesan, lalu tempel `prompt-laporan.md` dan kirim laporannya ke Claude.
+- Untuk sesi berikutnya yang diganti hanya nama bekal dan baris "Tahap aktif".
 
 ---
 
-## Perintah 1 (pembuka + kerja pertama)
+Kita lanjutkan perombakan proposal skripsi kuantitatif saya. Dasar percakapan ini hanya Bekal Sesi 3 yang saya lampirkan di chat ini dan berkas di proyek ini: Roadmap Induk Versi 1.0, draf proposal.docx, dan berkas sumber penelitian. Baca Bekal Sesi 3 sampai habis lebih dulu. Kalau isinya berbeda dengan roadmap, percakapan sebelumnya, atau ingatanmu, Bekal Sesi 3 yang dipakai.
 
-Kita lanjutkan perombakan proposal skripsi kuantitatif saya. Dasar percakapan ini hanya Bekal Sesi 2 yang saya lampirkan di chat ini dan berkas di proyek ini: Roadmap Induk Versi 1.0, draf proposal.docx, dan berkas sumber penelitian. Baca Bekal Sesi 2 sampai habis lebih dulu. Kalau di proyek masih ada berkas bekal lain, abaikan. Kalau isinya berbeda dengan roadmap, percakapan sebelumnya, atau ingatanmu, Bekal Sesi 2 yang dipakai.
+**Tahap aktif: Tahap 4. Membatasi fenomena dan menetapkan fokus.** Kalau saya menyatakan Tahap 4 selesai, kamu boleh lanjut ke Tahap 5, lalu Tahap 6. Di percakapan ini jangan melewati Tahap 6.
 
 Aturan selama percakapan ini:
-1. **Batas sumber.** Pakai hanya Bekal Sesi 2 dan berkas di proyek ini. Jangan memakai memori, percakapan lain, Library, atau proyek lain. Jangan mencari di internet. Kalau perlu sumber dari luar proyek, berhenti, sebutkan sumber apa dan alasannya, lalu tunggu izin saya. Di sesi lalu kamu memakai satu peraturan menteri tanpa izin. Jangan terulang.
-2. **Bukan proposal tema lain.** Proposal saya yang lain tentang "paparan informasi pra-pendaftaran" dan "respons calon jemaah" bukan proposal ini. Abaikan.
-3. **Dua status keputusan.** Keputusan "FINAL" di Bekal tidak diubah dan tidak ditawar ulang. Keputusan "MENUNGGU AUDIT" tidak disebut final dan tidak diubah sebelum tahapnya diaudit.
-4. **Audit sebelum revisi.** Bagian draf yang terbukti benar tidak diubah. Jangan menulis paragraf proposal baru sebelum saya minta.
-5. **Nomor halaman.** Berkas .md sumber memakai penanda "Halaman PDF N", itu bukan nomor halaman jurnal. Untuk sitasi pakai nomor halaman yang tercetak di artikel. Kalau tidak terbaca, tulis [PERLU VERIFIKASI].
-6. Jangan mengarang rujukan, DOI, angka, atau isi penelitian. Bedakan isi sumber, pengalaman PPM saya, dan tafsiranmu.
+1. **Batas sumber.** Pakai hanya Bekal Sesi 3 dan berkas di proyek ini. Jangan memakai memori, percakapan lain, Library, proyek lain, atau internet. Kalau perlu sumber luar, berhenti, sebutkan sumber apa dan alasannya, lalu tunggu izin saya.
+2. **Batas pekerjaan.** Kita menyusun proposal untuk seminar. Ikuti bagian "Batas pekerjaan" di Bekal: hal yang baru dikerjakan sesudah seminar jangan diminta dan jangan dijadikan syarat.
+3. **Dua status keputusan.** Keputusan FINAL di Bekal tidak diubah dan tidak ditawar ulang. Keputusan MENUNGGU AUDIT tidak disebut final dan baru dinilai di tahapnya.
+4. **Audit sebelum revisi.** Bagian draf yang terbukti benar tidak diubah. Jangan menulis paragraf proposal sebelum saya minta.
+5. **Bukan proposal tema lain.** Proposal saya tentang "paparan informasi pra-pendaftaran" dan "respons calon jemaah" bukan proposal ini. Abaikan.
+6. Untuk sitasi pakai nomor halaman yang tercetak di artikel, bukan "Halaman PDF N". Jangan mengarang rujukan, DOI, angka, atau isi penelitian.
 7. Penelitian ini korelasional. Jangan memakai bahasa sebab akibat.
-8. Kerjakan hanya tahap yang saya tetapkan. Satu keputusan satu waktu: beri 2 sampai 3 pilihan, untung ruginya, rekomendasimu, lalu tunggu saya memilih.
-9. Tabel yang kamu buat harus terisi lengkap. Jangan ada kolom kosong.
-10. Akhiri setiap jawaban dengan satu baris: "Tahap: ... | Keputusan baru: ... | Yang perlu dicek: ...".
+8. Satu keputusan satu waktu: beri 2 sampai 3 pilihan, untung ruginya, rekomendasimu, lalu tunggu saya memilih. Tabel harus terisi lengkap.
+9. Jawab ringkas. Akhiri setiap jawaban dengan satu baris: "Tahap: ... | Keputusan baru: ... | Yang perlu dicek: ...".
 
-Tugas sekarang, menutup Tahap 2. Satu keputusan tersisa: pendekatan fenomena. Sajikan lagi tiga pilihan dari sesi lalu (Pilihan 1 fenomena lokal PPM sebagai pusat; Pilihan 2 kebijakan nasional lalu PPM; Pilihan 3 keterbatasan informasi kanal digital). Untuk tiap pilihan tulis:
-1. Klaim mana di Bekal Sesi 2 yang akan dipakai, beserta statusnya (AMAN, RAGU, SALAH).
-2. Klaim RAGU mana yang wajib dibuktikan dulu kalau pilihan itu diambil, dan bukti apa yang harus saya siapkan.
-3. Pertanyaan penguji yang paling mungkin muncul.
-Lalu beri rekomendasimu dan tunggu saya memilih. Jangan menulis paragraf latar belakang.
-
-## Perintah 2 (sesudah saya memilih pendekatan)
-
-Lanjut Tahap 3. Isi tabel audit kelayakan dengan kolom: komponen, isi draf (halaman docx), status (AMAN, RAGU, SALAH), bukti, dan yang harus saya siapkan. Komponennya: fenomena penelitian, relevansi topik dengan program studi, dasar teori (cukup ada atau tidak, belum dinilai isinya), lokasi dan nomenklatur kantor, alamat dan izin kantor, kriteria responden, akses responden, jumlah populasi 46.210, target sampel 100. Pakai fakta baru di Bekal Sesi 2. Sesudah tabel, tulis daftar bukti yang harus saya kumpulkan, diurutkan dari yang paling menentukan.
-
-## Perintah 3 (sesudah Tahap 3 saya nyatakan selesai)
-
-Lanjut Tahap 4. Dari fenomena yang berstatus AMAN, rumuskan 2 sampai 3 pilihan batasan dan fokus penelitian. Untuk tiap pilihan: apa yang masuk, apa yang dikeluarkan, dan apakah judul serta variabel di draf (status menunggu audit) masih cocok dengan fokus itu. Beri rekomendasi dan tunggu saya memilih.
-
-## Perintah lanjutan (kalau perlu)
-
-- "Kamu menilai [bagian] AMAN. Apa pertanyaan penguji yang paling mungkin menyerangnya, dan apa jawabannya berdasarkan berkas proyek?"
-- "Tunjukkan kalimat persis dari sumber beserta halaman tercetaknya. Kalau tidak ada di berkas proyek, katakan tidak ada."
-
-## Perintah penutup
-
-Pakai `prompt-laporan.md`.
+Tugas pertama, Tahap 4: dari fenomena berstatus AMAN di Bekal Sesi 3, rumuskan 2 sampai 3 pilihan batasan dan fokus penelitian. Untuk tiap pilihan tulis: apa yang masuk, apa yang dikeluarkan, dan apakah judul serta variabel di draf (status menunggu audit) masih cocok dengan fokus itu. Beri rekomendasimu, lalu tunggu saya memilih.

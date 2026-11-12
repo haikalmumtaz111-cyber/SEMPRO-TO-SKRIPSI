@@ -10,8 +10,8 @@ November 2026), jadi kolom Status di sini adalah **status audit ulang**, bukan s
 |---|---|---|---|
 | 1 | Menentukan bidang, tema, minat | [~] | Audit awal di sesi 1, belum dinyatakan selesai |
 | 2 | Mengidentifikasi dan mendokumentasikan fenomena | [x] | Selesai menurut user, 12 Nov (sesi 2). Pendekatan: fenomena lokal PPM sebagai pusat. Angka 30 dan kurang dari 15 per hari dibuang |
-| 3 | Memeriksa kelayakan topik, lokasi, responden | [~] | **Aktif.** Tabel kelayakan terisi (sesi 2): fenomena, relevansi, keberadaan teori AMAN; nomenklatur, alamat, izin, akses, N = 46.210, sampel 100 RAGU. Menunggu user: tutup bersyarat atau tahan |
-| 4 | Membatasi fenomena dan menetapkan fokus | [ ] | |
+| 3 | Memeriksa kelayakan topik, lokasi, responden | [x] | Selesai menurut user, 12 Nov. N = 46.210 terbukti (dasbor SISKOHAT Gen.2, data 19 Okt 2026, diakses 5 Nov 2026). Nama dan alamat kantor dari user. Izin dan konfirmasi tertulis: sesudah sempro. Catatan Tahap 11: saringan jenis jemaah di dasbor belum pasti reguler saja |
+| 4 | Membatasi fenomena dan menetapkan fokus | [~] | **Aktif** (sesi 3) |
 | 5 | Menetapkan desain dan judul kerja | [ ] | Judul draf menunggu audit |
 | 6 | Merumuskan masalah, tujuan, kegunaan | [ ] | |
 | 7 | Mengumpulkan dan memeriksa penelitian terdahulu | [ ] | Metadata 12 artikel sudah dicek Claude; sembilan sitasi tanpa halaman |
@@ -28,6 +28,8 @@ November 2026), jadi kolom Status di sini adalah **status audit ulang**, bukan s
 
 ## Aturan pakai
 
+- Batas kerja (keputusan user, 12 Nov): yang disusun proposal untuk seminar, Tahap 1 sampai 16. Pekerjaan sesudah seminar (izin, konfirmasi tertulis, uji coba, data) tidak jadi syarat menutup tahap.
+- Perbaikan naskah yang terkumpul: `riset/perbaikan-naskah.md`.
 - ChatGPT mengerjakan tahap aktif saja. Tahap berikutnya dibuka sesudah user menyatakan tahap aktif selesai.
 - Naskah `proposal/proposal.md` belum diubah selama audit. Perbaikan naskah dikumpulkan per tahap dan dimasukkan sesudah user menyetujui.
 

@@ -89,3 +89,10 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Laporan sesi 2 ChatGPT diterima, disimpan di `riset/chatgpt/laporan-sesi-2-2026-11-12.md`, evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-2.md`. Sesi bersih, tanpa sumber luar.
 - Keputusan user di ChatGPT: Pilihan 1 (fenomena lokal PPM sebagai pusat), Tahap 2 selesai. Tahap 3: tabel kelayakan terisi, belum dinyatakan selesai.
 - Tugas berikutnya: user memutuskan Tahap 3 ditutup bersyarat atau ditahan. Sesudah itu Claude menyusun Bekal Sesi 3 dan prompt sesi 3 versi pendek (satu pembuka, perintah lanjutan satu baris).
+
+## 12 November 2026 (lanjutan 4)
+
+- Keputusan user: Tahap 3 ditutup (opsi A); batas kerja adalah proposal untuk seminar; prompt dibuat satu pembuka per sesi.
+- User mengirim tangkapan layar dasbor SISKOHAT Gen.2 (46.210 jemaah daftar tunggu Kab. Bandung, data 19 Oktober 2026, diambil 5 November 2026), nama kantor, dan alamat. N = 46.210 berstatus terbukti. Catatan untuk Tahap 11: saringan jenis jemaah di dasbor belum pasti reguler saja.
+- Dibuat `riset/chatgpt/bekal-sesi-3.md`, prompt versi 3, dan `riset/perbaikan-naskah.md` (daftar perbaikan naskah yang terkumpul selama audit).
+- Tugas berikutnya: user menjalankan sesi 3 ChatGPT (Tahap 4, boleh sampai Tahap 6) dan mengirim laporan.

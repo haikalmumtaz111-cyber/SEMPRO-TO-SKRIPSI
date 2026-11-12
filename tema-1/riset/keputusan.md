@@ -10,7 +10,10 @@ Diperbarui: 11 November 2026
 - Target 5 November di bawah sudah lewat dan tidak berlaku lagi.
 - Sesi 1 ChatGPT (12 November 2026), keputusan user: mulai audit dari Tahap 2; Roadmap Induk Tema 1 jadi acuan tetap tanpa checklist; angka "sekitar 30 pendaftar" dan "kurang dari 15 penanya estimasi" per hari tidak dipakai sementara. Belum diputuskan: pendekatan fenomena (lokal, nasional lalu lokal, atau keterbatasan kanal digital).
 - 12 November 2026, pernyataan user ke Claude: masih punya kontak staf kantor dan pengurus KBIHU untuk menyebar kuesioner. Kesediaan tertulis dan izin resmi belum ada.
-- Bekal dan prompt sesi 2: `riset/chatgpt/bekal-sesi-2.md`, `riset/chatgpt/prompt-sesi-baru.md` (versi 2).
+- Sesi 2 ChatGPT (12 November 2026): user memilih Pilihan 1, fenomena lokal PPM sebagai pusat. Tahap 2 selesai.
+- 12 November 2026, keputusan user ke Claude: Tahap 3 ditutup (opsi A). Yang disusun sekarang proposal untuk seminar; pekerjaan sesudah seminar tidak dijadikan syarat. Bukti dari user: tangkapan layar dasbor SISKOHAT Gen.2 (Waiting List Kab. Bandung: 46.210 jemaah, 5.713 lansia, masa tunggu 25 tahun, L 21.487, P 24.723; update 19 Oktober 2026; diambil 5 November 2026 09.10). Gambar tidak disimpan di repo. Nama kantor: Kantor Kementerian Haji dan Umrah Kabupaten Bandung; alamat Jl. Adipati Agung No. 42, Baleendah.
+- Bentuk prompt: satu pembuka per sesi, lalu user mengobrol bebas 3 sampai 4 pesan, ditutup prompt laporan.
+- Bekal dan prompt sesi 3: `riset/chatgpt/bekal-sesi-3.md`, `riset/chatgpt/prompt-sesi-baru.md` (versi 3). Bekal dan prompt sesi 2: `riset/chatgpt/bekal-sesi-2.md`, `riset/chatgpt/prompt-sesi-baru.md` (versi 2).
 
 ## Target terdekat
 
