@@ -46,6 +46,14 @@ Rencana redaksi (dirapikan lagi saat masuk naskah):
 - Kegunaan akademis: "jemaah haji di Indonesia" menjadi "jemaah haji reguler daftar tunggu di Kabupaten Bandung"; klaim "selama ini lebih banyak dikaji dari sisi sistem informasi dan kualitas pelayanan" disesuaikan dengan hasil Tahap 7 dan 8.
 - Kegunaan praktis: kantor, bahan pertimbangan kesiapan layanan tatap muka ketika jemaah menghadapi mundurnya estimasi; kementerian, buang saran menambah keterangan dan fasilitas tanya jawab di aplikasi; KBIHU, bahan pertimbangan dalam mendampingi jemaah.
 
+## Dari Tahap 8 (celah penelitian)
+
+- Paragraf celah ditulis ulang mengikuti Pilihan A: Ebbers dkk. (2016:511) menguji persepsi kompleksitas dan kemungkinan memakai loket secara kuantitatif di Belanda; Jabri dan Ahmad (2025:1) membahas preferensi tatap muka untuk urusan kompleks tanpa mengukur persepsi kompleksitas; Safitra dkk. (2023:207) mengaitkan informasi rumit dengan loket secara kualitatif; penelitian bertema haji membahas perancangan sistem informasi (Bahar & Saepudin, 2026:24-25) dan pelayanan informasi melalui komunikasi antarpribadi (Wardana, et al., 2024:416).
+- Jabri dan Ahmad tidak lagi disebut "menguji kompleksitas secara kuantitatif". "Kualitas pelayanan" untuk Wardana dkk. diganti "pelayanan informasi melalui komunikasi antarpribadi".
+- Usul Claude (menunggu keputusan user): tambah satu kalimat bahwa temuan terdahulu belum seragam, dengan rujukan Pieterson dan Ebbers (2020:9) dan Jabri dan Ahmad (2025:11). Kedua halaman sudah dicek ke sumber.
+- Kalimat "dugaan ini belum diuji pada jemaah haji" di rumusan masalah menjadi "di antara penelitian yang ditelaah, dugaan ini belum diuji pada jemaah haji".
+- Semua sitasi paragraf celah bernomor halaman.
+
 ## Dari cek sitasi 11 November
 
 - Sembilan sitasi tanpa halaman di paragraf celah penelitian, dan "Daft dan Lengel (1986)".

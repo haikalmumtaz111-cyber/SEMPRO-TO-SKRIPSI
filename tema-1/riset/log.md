@@ -152,3 +152,11 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Keputusan user: Tahap 7 selesai.
 - Dibuat `riset/chatgpt/bekal-sesi-7.md` (memuat tabel hasil audit dua belas rujukan dan paragraf celah draf) dan prompt versi 7 (Tahap 8, boleh sampai Tahap 9).
 - Tugas berikutnya: user membuka sesi 7 ChatGPT, melampirkan bekal sesi 7, menempel prompt pembuka, memilih rumusan celah, lalu mengirim laporan.
+
+## 12 November 2026 (lanjutan 14)
+
+- Sesi ini (cabang `claude/affectionate-cray-mspq85`) disatukan dengan pekerjaan sesi Claude lain (cabang `claude/statistika-tugas-casbmu`: evaluasi sesi 6a, 6b, bekal sesi 7). Tidak ada bentrok.
+- Transkrip sesi 7 ChatGPT (Tahap 8) diterima, disimpan di `riset/chatgpt/transkrip-sesi-7-2026-11-12.md`, evaluasi di `riset/chatgpt/evaluasi-transkrip-sesi-7.md`. Sesi bersih.
+- Keputusan user di ChatGPT: rumusan celah Pilihan A; kalimat "belum diuji pada jemaah haji" dipertahankan dengan batas "di antara penelitian yang ditelaah".
+- Dicek Claude ke sumber: Pieterson dan Ebbers (2020:9) dan Jabri dan Ahmad (2025:11), dua halaman yang sebelumnya [PERLU VERIFIKASI], terbukti.
+- Menggantung: pernyataan Tahap 8 selesai dan usul Claude menambah satu kalimat "temuan terdahulu belum seragam".
