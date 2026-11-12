@@ -212,3 +212,9 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 
 - Keputusan user: dasar ukuran sampel memakai analisis daya uji (opsi A). User mengirim PDF Cohen (1992), hasil pindai, disimpan di `Sumber/`. Diperiksa Claude dari gambar halaman: hlm. 156 (uji dua arah, α 0,05), hlm. 157 Tabel 1 (r kecil 0,10, sedang 0,30, besar 0,50), hlm. 158 Tabel 2 (uji r, daya 0,80, α 0,05: 783, 85, 28). Target 100 = minimal 85 ditambah cadangan; alasan waktu dan sumber daya menjadi alasan batas atas (Keputusan 6 terjawab). Rencana kalimat di `riset/perbaikan-naskah.md`.
 - Menggantung: pernyataan Tahap 11 selesai.
+
+## 12 November 2026 (lanjutan 24)
+
+- Keputusan user: Tahap 11 selesai. Keputusan 6 di sesi 10 ChatGPT (alasan waktu dan sumber daya) tidak dijawab di ChatGPT; terjawab di repo lewat dasar Cohen (1992).
+- Dibuat `riset/chatgpt/bekal-sesi-11.md` (FINAL 18 populasi dan sampel; rujukan Bergkvist dan Rossiter serta Cohen masuk daftar rujukan terperiksa; bahan Tahap 12) dan prompt versi 11 (Tahap 12, boleh sampai Tahap 13). Prompt laporan tidak berubah.
+- Tugas berikutnya: user menjalankan sesi 11 ChatGPT (jenis data, sumber data, teknik pengumpulan) dan mengirim laporan.

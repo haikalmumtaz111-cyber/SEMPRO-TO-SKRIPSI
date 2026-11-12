@@ -18,8 +18,8 @@ November 2026), jadi kolom Status di sini adalah **status audit ulang**, bukan s
 | 8 | Merumuskan research gap | [x] | Selesai, 12 Nov. Rumusan Pilihan A, ditambah satu kalimat "temuan terdahulu belum seragam" (Pieterson & Ebbers, 2020:9; Jabri & Ahmad, 2025:11, keduanya sudah dicek). Klaim dibatasi "di antara penelitian yang ditelaah" |
 | 9 | Menetapkan teori dan kerangka konseptual | [x] | Selesai menurut user, 12 Nov. Hipotesis tidak berarah. Tumpuan langsung literatur pemilihan kanal; teori kekayaan media dasar konsep; sambungan dirujuk ke Ebbers dkk. (2016:506) dan Pieterson dan Ebbers (2020:4). Kompleksitas tidak disamakan dengan ekuivokalitas |
 | 10 | Definisi konseptual, dimensi, indikator, operasionalisasi | [x] | Selesai, 12 Nov. Definisi konseptual X (Campbell 1988:40) dan Y (Ebbers dkk. 2016:510); X empat indikator, tujuh poin, indikator 2 "tuntutan mental"; Y satu butir (Bergkvist dan Rossiter 2007:175-176); gabungan dua kondisi skenario diakui |
-| 11 | Populasi, unit analisis, kriteria, sampel | [~] | **Aktif** (sesi 10). Slovin dengan purposive; kata "reguler"; unit analisis belum disebut |
-| 12 | Jenis data, sumber data, teknik pengumpulan | [ ] | |
+| 11 | Populasi, unit analisis, kriteria, sampel | [x] | Selesai menurut user, 12 Nov. Populasi: jemaah reguler tercatat di daftar tunggu Kab. Bandung, bernomor porsi, belum berangkat; unit analisis individu; 46.210 = total daftar tunggu, bukan N reguler; tiga kriteria; purposive; Slovin dihapus; minimal 85 (Cohen, 1992:157-158), target 100 |
+| 12 | Jenis data, sumber data, teknik pengumpulan | [~] | **Aktif** (sesi 11). Buku tamu sebagai data sekunder; dua bentuk kuesioner; penyaringan di tiga jalur; jalur loket |
 | 13 | Menyusun kuesioner dan kisi-kisi | [ ] | Satu skenario untuk semua responden |
 | 14 | Validasi isi, uji coba, validitas, reliabilitas | [ ] | |
 | 15 | Rencana analisis data | [ ] | Regresi linear untuk Y satu butir lima poin |
