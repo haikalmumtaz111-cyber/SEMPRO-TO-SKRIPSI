@@ -77,3 +77,9 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Pernyataan user: punya kontak staf kantor dan pengurus KBIHU.
 - Dibuat `riset/chatgpt/bekal-sesi-2.md` dan prompt sesi 2 (tiga perintah: tutup Tahap 2, Tahap 3, Tahap 4).
 - Tugas berikutnya: user menjalankan sesi 2 ChatGPT dan mengirim laporannya. Bukti yang perlu disiapkan user: foto dasbor SISKOHAT N = 46.210 beserta tanggal, tangkapan layar halaman estimasi di aplikasi.
+
+## 12 November 2026 (lanjutan 2)
+
+- Keputusan user: bekal dilampirkan di chat, bukan di berkas proyek. Laporan boleh diminta kapan saja; keputusan yang masih menggantung di ChatGPT ditulis lengkap di laporan lalu diputuskan di repo bersama Claude. `prompt-laporan.md` ditambah butir 14 sampai 16, `pengarah-chatgpt.md` siklus butir 4 dan 5.
+- Sesi 2 ChatGPT sedang jalan: user memilih Pilihan 1 (fenomena lokal PPM sebagai pusat) untuk Tahap 2. Menunggu laporan.
+- Catatan untuk sesi 3: prompt dibuat satu pembuka saja, perintah lanjutan cukup satu baris.
