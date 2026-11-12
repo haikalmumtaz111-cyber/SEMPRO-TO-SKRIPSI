@@ -9,8 +9,8 @@ November 2026), jadi kolom Status di sini adalah **status audit ulang**, bukan s
 | No | Tahap | Status audit | Catatan |
 |---|---|---|---|
 | 1 | Menentukan bidang, tema, minat | [~] | Audit awal di sesi 1, belum dinyatakan selesai |
-| 2 | Mengidentifikasi dan mendokumentasikan fenomena | [~] | Audit per klaim selesai (sesi 1). Sisa: user memilih pendekatan fenomena. Angka 30 dan kurang dari 15 per hari dibuang |
-| 3 | Memeriksa kelayakan topik, lokasi, responden | [~] | **Aktif.** User menyatakan punya kontak staf kantor dan KBIHU. Tabel kelayakan belum diisi. Bukti N = 46.210 dan nomenklatur kantor belum ada |
+| 2 | Mengidentifikasi dan mendokumentasikan fenomena | [x] | Selesai menurut user, 12 Nov (sesi 2). Pendekatan: fenomena lokal PPM sebagai pusat. Angka 30 dan kurang dari 15 per hari dibuang |
+| 3 | Memeriksa kelayakan topik, lokasi, responden | [~] | **Aktif.** Tabel kelayakan terisi (sesi 2): fenomena, relevansi, keberadaan teori AMAN; nomenklatur, alamat, izin, akses, N = 46.210, sampel 100 RAGU. Menunggu user: tutup bersyarat atau tahan |
 | 4 | Membatasi fenomena dan menetapkan fokus | [ ] | |
 | 5 | Menetapkan desain dan judul kerja | [ ] | Judul draf menunggu audit |
 | 6 | Merumuskan masalah, tujuan, kegunaan | [ ] | |

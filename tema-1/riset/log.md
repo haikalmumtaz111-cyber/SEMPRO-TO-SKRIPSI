@@ -83,3 +83,9 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Keputusan user: bekal dilampirkan di chat, bukan di berkas proyek. Laporan boleh diminta kapan saja; keputusan yang masih menggantung di ChatGPT ditulis lengkap di laporan lalu diputuskan di repo bersama Claude. `prompt-laporan.md` ditambah butir 14 sampai 16, `pengarah-chatgpt.md` siklus butir 4 dan 5.
 - Sesi 2 ChatGPT sedang jalan: user memilih Pilihan 1 (fenomena lokal PPM sebagai pusat) untuk Tahap 2. Menunggu laporan.
 - Catatan untuk sesi 3: prompt dibuat satu pembuka saja, perintah lanjutan cukup satu baris.
+
+## 12 November 2026 (lanjutan 3)
+
+- Laporan sesi 2 ChatGPT diterima, disimpan di `riset/chatgpt/laporan-sesi-2-2026-11-12.md`, evaluasi di `riset/chatgpt/evaluasi-laporan-sesi-2.md`. Sesi bersih, tanpa sumber luar.
+- Keputusan user di ChatGPT: Pilihan 1 (fenomena lokal PPM sebagai pusat), Tahap 2 selesai. Tahap 3: tabel kelayakan terisi, belum dinyatakan selesai.
+- Tugas berikutnya: user memutuskan Tahap 3 ditutup bersyarat atau ditahan. Sesudah itu Claude menyusun Bekal Sesi 3 dan prompt sesi 3 versi pendek (satu pembuka, perintah lanjutan satu baris).
