@@ -249,3 +249,10 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 
 - User menanyakan arti Tahap 1 (bidang, tema, minat); dijelaskan dengan isi penelitiannya sendiri. Keputusan user: Tahap 1 selesai. Bekal sesi 13 yang sudah dikirim tidak diubah; status Tahap 1 masuk ke bekal sesi berikutnya.
 - Posisi: Tahap 1 sampai 13 selesai, Tahap 14 aktif (sesi 13 ChatGPT belum dijalankan user).
+
+## 13 November 2026
+
+- Transkrip sesi 13 ChatGPT (Tahap 14) diterima (`riset/chatgpt/transkrip-sesi-13-2026-11-13.md`), evaluasi di `riset/chatgpt/evaluasi-transkrip-sesi-13.md`.
+- Keputusan user di ChatGPT: validitas dan reliabilitas dari data utama; validitas butir X dengan korelasi butir-total terkoreksi, 0,30 sebagai tanda peninjauan.
+- ChatGPT memakai tiga sumber luar atas izin user. Dicek Claude ke teks asli: Stefana dkk. (2025), hlm. 9, 11, 14 (PDF disimpan di `Sumber/`); Chaudhary dan Israel (2015), hlm. 1-2 (PDF pindai disimpan di `Sumber/`); Bujang dkk. (2018), isi cocok tetapi nomor halaman belum terverifikasi dan hitungan 83 responden bergantung pada asumsi CA0 = 0,50, jadi tidak dimasukkan ke naskah.
+- Usul Claude yang menunggu persetujuan user: tiga ahli; uji coba pada sepuluh jemaah di luar data utama, lima di antaranya ditanya ulang; hitungan 83 tidak masuk naskah. Sesudah itu Tahap 14 ditutup dan disusun bekal sesi 14 (Tahap 15).

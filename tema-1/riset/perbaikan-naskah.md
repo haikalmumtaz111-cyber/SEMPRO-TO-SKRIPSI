@@ -141,6 +141,30 @@ Cohen, J. (1992). A power primer. *Psychological Bulletin, 112*(1), 155-159. htt
 - [PERLU DATA: nomor kontak peneliti] diisi sebelum penyebaran.
 - Tahun ilustrasi dalam cerita ditetapkan ulang menjelang penyebaran.
 
+## Dari Tahap 14 (validitas dan reliabilitas)
+
+Keputusan user di sesi 13 ChatGPT: validitas dan reliabilitas dihitung dari data utama; validitas butir X memakai korelasi butir-total terkoreksi dengan 0,30 sebagai tanda peninjauan. Angka rencana (tiga ahli, sepuluh jemaah uji coba, lima ditanya ulang) adalah usul Claude dan menunggu persetujuan user.
+
+Rencana isi subbagian Validitas dan Reliabilitas (dirapikan saat masuk naskah):
+- Penerjemahan dan adaptasi: empat butir X diterjemahkan dari butir asli Maynard dan Hakel (1997:330); kata "tugas" diganti "persoalan". Yang diperiksa bukan hanya terjemahan, tetapi juga kesesuaian konsep dan konteks (Stefana, et al., 2025:9).
+- Validasi isi: tiga ahli menilai kesesuaian butir dengan indikator, kejelasan petunjuk, dan pilihan jawaban (Stefana, et al., 2025:9; Chaudhary & Israel, 2015:2). Untuk Y, ahli menilai apakah objek dan atributnya konkret (Bergkvist & Rossiter, 2007:178).
+- Uji coba: formulir diisi sepuluh jemaah dari populasi sasaran yang tidak diikutkan dalam data utama, untuk memeriksa alur, penyaring, waktu pengisian, dan kendala teknis (Chaudhary & Israel, 2015:2). Lima di antaranya ditanya ulang tentang cara mereka memahami butir dan pilihan jawaban, termasuk kata "menantang" (Stefana, et al., 2025:9).
+- Validitas butir X: korelasi butir-total terkoreksi, yaitu skor butir dikorelasikan dengan jumlah tiga butir lainnya; nilai di bawah 0,30 menandai butir yang perlu ditinjau (Stefana, et al., 2025:14). Kalimat "r hitung lebih besar daripada r tabel" dibuang.
+- Reliabilitas X: Alpha Cronbach; nilai 0,70 sampai 0,95 dapat diterima, dan jumlah butir yang sedikit menurunkan alfa (Tavakol & Dennick, 2011:54). Tanda [PERLU RUJUKAN: batas nilai alfa] ditutup.
+- Keduanya dihitung dari data utama; pengembangan skala sekurang-kurangnya memerlukan satu sampel (Stefana, et al., 2025:11). Hasilnya menggambarkan mutu pengukuran pada sampel penelitian ini.
+- Y satu butir: tidak diuji dengan Alpha Cronbach; kelayakannya bertumpu pada penilaian ahli (Bergkvist & Rossiter, 2007:176, 178). Penilaian ahli bukan pengganti koefisien reliabilitas; ditulis sebagai keterbatasan.
+- Kalimat "mengikuti redaksi butir Ebbers, et al." diganti: butir Y mengacu pada bentuk pertanyaan kemungkinan memakai kanal dengan lima pilihan pada Ebbers, et al. (2016:510).
+- Alfa 0,903 (Maynard & Hakel, 1997:313) tetap sebagai pembanding dari studi asli.
+- Uji coba, penilaian ahli, dan perhitungan dilakukan sesudah seminar.
+
+Entri daftar pustaka baru:
+- Chaudhary, A. K., & Israel, G. D. (2015). The Savvy Survey #8: Pilot testing and pretesting questionnaires (AEC402). *EDIS, 2015*(1). https://doi.org/10.32473/edis-pd072-2014
+- Stefana, A., Damiani, S., Granziol, U., Provenzani, U., Solmi, M., Youngstrom, E. A., & Fusar-Poli, P. (2025). Psychological, psychiatric, and behavioral sciences measurement scales: Best practice guidelines for their development and validation. *Frontiers in Psychology, 15*, Artikel 1494261. https://doi.org/10.3389/fpsyg.2024.1494261
+
+Tidak dimasukkan ke naskah: hitungan 83 responden dari rumus Bonett (Bujang, et al., 2018). Alasan: bergantung pada asumsi CA0 = 0,50 dan nomor halamannya belum terverifikasi. Disimpan sebagai cadangan.
+
+Cadangan untuk bimbingan: kalau pembimbing meminta "r hitung lebih besar daripada r tabel", batas 0,30 sudah lebih ketat daripada r tabel untuk 100 responden (sekitar 0,197), sehingga kalimat itu dapat ditambahkan tanpa mengubah rencana.
+
 ## Catatan cadangan untuk bimbingan (bukan perubahan naskah)
 
 - Panduan FDK, butir Populasi dan Sampel, menulis "sampel representatif (misal: penentuan ukuran sampel dengan rumus Slovin atau rumus Taro Yamane)". Slovin disebut sebagai contoh, bukan kewajiban. Naskah memakai analisis daya uji (Cohen, 1992:157-158). Kalau pembimbing meminta rumus Slovin, hasilnya dengan N = 46.210 dan e = 10% adalah 99,78 atau 100 responden, sama dengan target penelitian. Rujukan rumus: Machali (2021:82-83), Sukwika (2023:173-174). Catatan: 46.210 adalah total daftar tunggu, bukan jumlah khusus jemaah reguler.
