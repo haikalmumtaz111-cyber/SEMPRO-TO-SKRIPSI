@@ -25,8 +25,8 @@ Menurut transkrip, penelusuran dilakukan "sesuai izin yang diberikan". Tiga sumb
    - hlm. 1: kedalaman prauji disesuaikan dengan intensitas dan sumber daya program.
    - hlm. 2: panel tiga sampai empat ahli lazim dianggap memadai; uji coba menilai keseluruhan kuesioner dalam kondisi survei sebenarnya (alur, waktu, kebingungan); "There is no prescribed sample size for a field test; various researchers suggest sample sizes from 10-25 (Sheatsley, 1983) to 20-50 (Sudman, 1983)".
 3. **Bujang, M. A., Omar, E. D., & Baharum, N. A. (2018).** A review on sample size determination for Cronbach's alpha test: A simple guide for researchers. *Malaysian Journal of Medical Sciences, 25*(6), 85-99. https://doi.org/10.21315/mjms2018.25.6.9. Teks lengkap dibaca Claude lewat Europe PMC; PDF bernomor halaman tidak bisa diunduh, jadi halaman 87-89 yang ditulis ChatGPT **belum terverifikasi**.
-   - Rumus Bonett dan variabelnya sesuai. Tabel artikel memuat k = 3 dan k = 5, tidak memuat k = 4. Angka 83 adalah hitungan ChatGPT sendiri dari rumus itu; hitung ulang Claude: 82,22, dibulatkan 83. Benar secara aritmetika.
-   - Artikel menyatakan CA0 paling lazim ditetapkan 0, dan CA0 di atas 0 jarang dipakai. Dengan CA0 = 0 dan CA1 = 0,70 untuk empat butir, hitungan yang sama memberi sekitar 18 responden. Jadi angka 83 bergantung pada asumsi CA0 = 0,50 yang dipilih ChatGPT.
+   - Rumus Bonett dan variabelnya sesuai. Tabel artikel memuat k = 3 dan k = 5, tidak memuat k = 4. Angka 83 adalah hitungan ChatGPT sendiri dari rumus itu; hitung ulang Claude: 82,21, dibulatkan 83. Benar secara aritmetika.
+   - Artikel menyatakan CA0 paling lazim ditetapkan 0, dan CA0 di atas 0 jarang dipakai. Dengan CA0 = 0 dan CA1 = 0,70 untuk empat butir, hitungan yang sama memberi sekitar 17 responden. Jadi angka 83 bergantung pada asumsi CA0 = 0,50 yang dipilih ChatGPT.
 
 Disebut tetapi tidak dipakai: Bujang, Omar, Foo, dan Hon (2024), *Restorative Dentistry & Endodontics, 49*(1), e3 (keberadaan dicek lewat Crossref).
 
