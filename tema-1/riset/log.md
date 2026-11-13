@@ -262,3 +262,9 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Keputusan user: setuju angka rencana Tahap 14 (tiga ahli; uji coba sepuluh jemaah, lima ditanya ulang) dan hitungan 83 responden tidak dipakai; rujukan Chaudhary dan Israel (2015) dibuang dari proposal. PDF-nya dikeluarkan dari `Sumber/`. Jumlah peserta uji coba dirujuk ke Stefana dkk. (2025:9). Tahap 14 selesai.
 - Dibuat `riset/chatgpt/bekal-sesi-14.md` (FINAL 21; Tahap 1 sampai 14 selesai; Stefana dkk. masuk daftar rujukan terperiksa; bahan Tahap 15) dan prompt versi 14 (Tahap 15, tahap audit terakhir). Prompt laporan tidak berubah.
 - Tugas berikutnya: user menjalankan sesi 14 ChatGPT (rencana analisis data) dan mengirim laporan atau transkrip. Sesudah Tahap 15 ditutup, Claude mengerjakan Tahap 16 (memasukkan semua perbaikan ke naskah dan membangun Word).
+
+## 13 November 2026 (lanjutan 2)
+
+- Transkrip sesi 14 ChatGPT (Tahap 15) diterima (`riset/chatgpt/transkrip-sesi-14-2026-11-13.md`), evaluasi di `riset/chatgpt/evaluasi-transkrip-sesi-14.md`. Sesi bersih, tanpa sumber luar.
+- Keputusan user di ChatGPT: korelasi Rank Spearman untuk hubungan X dan Y (dua arah, taraf 0,05), regresi dan uji asumsinya dikeluarkan; Spearman juga untuk korelasi butir-total terkoreksi.
+- Catatan Claude: keputusan kedua tidak punya rujukan langsung dan harus dihitung manual; alternatifnya memakai kolom "Corrected Item-Total Correlation" dari analisis reliabilitas SPSS. Menunggu keputusan user, lalu Tahap 15 ditutup dan Tahap 16 (penulisan naskah) dimulai.
