@@ -273,3 +273,14 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 
 - Keputusan user: validitas butir X memakai keluaran analisis reliabilitas SPSS (opsi B); Tahap 15 selesai. Audit Tahap 1 sampai 15 lengkap.
 - Tahap 16 dimulai: Claude memasukkan semua butir `riset/perbaikan-naskah.md` ke naskah.
+
+## 13 November 2026 (lanjutan 4)
+
+- Tahap 16 dikerjakan: `proposal/proposal.md` ditulis ulang utuh dari `riset/perbaikan-naskah.md` (komponen A sampai G, daftar pustaka, lampiran kuesioner dari `riset/kuesioner-usulan.md`). Yang keluar dari naskah: Slovin, regresi dan uji asumsinya, kategori rendah/sedang/tinggi, Bisnis.com, detikHikmah, NU Online, UU 14/2025, angka pendaftar dan penanya per hari, bunyi Pasal 65, saran fitur aplikasi, skala X lima poin, kuesioner lama.
+- Daftar pustaka: 19 entri, semuanya dikutip di naskah. Entri baru: Bergkvist dan Rossiter (2007), Cohen (1992), Machali (2021), Sekretariat Kabinet (2026), Stefana dkk. (2025), Tavakol dan Dennick (2011). Budiman dkk. diberi halaman 751-772; nama jurnal Safitra dkk. mengikuti Crossref.
+- Kalimat pembuka latar belakang dirujuk ke Pieterson dan Ebbers (2020:1) sesudah abstraknya dicek. Jumlah vinyet per responden pada Ebbers dkk. tidak disebut (teks sumber memuat dua angka).
+- `sampul.json`: judul diganti ke judul kerja. Skema tetap memakai panah X ke Y sebagai penanda peran variabel; hipotesis tidak berarah.
+- Pemeriksa: `periksa.py` tersisa 2 temuan gaya (kalimat daftar tiga jalur 42 kata; "UIN" di lembar persetujuan kuesioner yang tidak disunting). `metrik.py` preset akademik lulus semua (rerata 18,4 kata per kalimat). Sisa tanda: satu, `[PERLU DATA: nomor kontak peneliti]`.
+- Word dibangun: `output/proposal.docx`, 29 halaman menurut konversi LibreOffice. Lebar kolom matriks operasionalisasi disetel supaya kata tidak terpotong.
+- Tugas berikutnya: user membaca draf dan mengoreksi; isi nomor kontak peneliti; konfirmasi nama resmi aplikasi kalau ada sumber resminya; lalu Tahap 17 (bimbingan).
+

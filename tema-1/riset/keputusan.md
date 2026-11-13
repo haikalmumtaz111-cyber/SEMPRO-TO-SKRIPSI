@@ -1,6 +1,6 @@
 # Status Keputusan Penelitian
 
-Diperbarui: 11 November 2026
+Diperbarui: 13 November 2026
 
 ## Rombak (11 November 2026)
 
@@ -24,10 +24,13 @@ Diperbarui: 11 November 2026
 - 12 November 2026, keputusan user ke Claude: Tahap 1 selesai (bidang Manajemen Haji dan Umrah, tema pemilihan kanal layanan, minat dari pengalaman PPM). Dimuat di bekal berikutnya.
 - Sesi 13 ChatGPT dan keputusan user ke Claude (13 November 2026), Tahap 14: validitas dan reliabilitas dihitung dari data utama; validitas butir X dengan korelasi butir-total terkoreksi, batas 0,30; rencana tiga ahli dan uji coba sepuluh jemaah (lima ditanya ulang); hitungan 83 responden tidak dipakai. Keputusan user: rujukan Chaudhary dan Israel (2015) dibuang dari proposal. Tahap 14 selesai. Bekal dan prompt sesi 14: `riset/chatgpt/bekal-sesi-14.md`, prompt versi 14.
 - Sesi 14 ChatGPT dan keputusan user ke Claude (13 November 2026), Tahap 15: korelasi Rank Spearman dua arah untuk hubungan X dan Y, regresi dibuang; validitas butir X memakai korelasi butir-total terkoreksi dari keluaran analisis reliabilitas SPSS (opsi B). Tahap 15 selesai. Audit Tahap 1 sampai 15 lengkap; Tahap 16 (penulisan naskah) dikerjakan Claude.
+- 13 November 2026, Tahap 16: naskah `proposal/proposal.md` ditulis ulang Claude mengikuti `riset/perbaikan-naskah.md`; judul sampul diganti ke judul kerja ("... Persoalan Mundurnya Estimasi Keberangkatan ..."); Word dibangun. Tidak ada keputusan penelitian baru. Menunggu user membaca draf. Terbuka: nomor kontak peneliti untuk lembar persetujuan; nama resmi aplikasi (Satu Haji) belum dikonfirmasi dari sumber resmi kementerian, di naskah ditulis sebagai sebutan petugas.
 - Bentuk prompt: satu pembuka per sesi, lalu user mengobrol bebas 3 sampai 4 pesan, ditutup prompt laporan.
 - Bekal dan prompt sesi 3: `riset/chatgpt/bekal-sesi-3.md`, `riset/chatgpt/prompt-sesi-baru.md` (versi 3). Bekal dan prompt sesi 2: `riset/chatgpt/bekal-sesi-2.md`, `riset/chatgpt/prompt-sesi-baru.md` (versi 2).
 
 ## Target terdekat
+
+- **Berlaku sekarang (13 November 2026):** user membaca draf rombak, lalu membawanya ke bimbingan (Tahap 17). Butir di bawah ini catatan lama sebelum rombak.
 
 - Proposal harus selesai, diprint, dan ditandatangani dosen pembimbing pada **Kamis, 5 November 2026, siang**. Dosen hanya ada di kampus hari Kamis.
 - Seminar proposal tanggal 14 [konfirmasi bulan ke user]. Kalau tanda tangan Kamis gagal, sempro mundur ke Desember.
