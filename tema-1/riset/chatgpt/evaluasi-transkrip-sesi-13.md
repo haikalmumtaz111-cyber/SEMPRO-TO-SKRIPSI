@@ -47,3 +47,10 @@ Opini Claude:
 ## 5. Vonis
 
 Sesi bersih. Sumber luar dipakai atas izin user dan sudah diverifikasi Claude, kecuali nomor halaman Bujang dkk. (2018). Tahap 14 bisa ditutup sesudah user menyetujui angka rencana.
+
+## 6. Keputusan user sesudah evaluasi (13 November 2026)
+
+- Angka rencana disetujui: tiga ahli; uji coba pada sepuluh jemaah di luar data utama, lima di antaranya ditanya ulang.
+- Hitungan 83 responden (Bujang dkk., 2018) tidak dipakai.
+- Rujukan nomor 2 (Chaudhary dan Israel, 2015) **tidak dipakai** atas keputusan user. PDF-nya dikeluarkan dari `Sumber/`. Jumlah peserta uji coba dirujuk ke Stefana dkk. (2025:9).
+- Tahap 14 selesai.
