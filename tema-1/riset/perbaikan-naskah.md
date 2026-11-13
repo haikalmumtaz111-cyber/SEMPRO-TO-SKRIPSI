@@ -164,6 +164,19 @@ Tidak dimasukkan ke naskah (keputusan user): hitungan 83 responden dari rumus Bo
 
 Cadangan untuk bimbingan: kalau pembimbing meminta "r hitung lebih besar daripada r tabel", batas 0,30 sudah lebih ketat daripada r tabel untuk 100 responden (sekitar 0,197), sehingga kalimat itu dapat ditambahkan tanpa mengubah rencana.
 
+## Dari Tahap 15 (rencana analisis data)
+
+Keputusan user (sesi 14 ChatGPT dan ke Claude, 13 November 2026):
+- Uji hubungan X dan Y: korelasi Rank Spearman, dua arah, taraf 0,05 (Machali, 2021:151). Hipotesis statistik H0: ρs = 0, H1: ρs ≠ 0. Regresi linear sederhana, uji normalitas residual, uji linearitas, uji t, dan R kuadrat dibuang.
+- Skor X: rata-rata empat butir, rentang 1 sampai 7 (Maynard & Hakel, 1997:313). Deskriptif X: rata-rata, simpangan baku, sebaran jawaban tiap butir; rata-rata dibaca terhadap titik tengah skala (4).
+- Y: frekuensi dan persentase tiap pilihan jawaban. Kategori rendah, sedang, tinggi dibuang.
+- Besar hubungan dibaca dengan acuan 0,10 kecil, 0,30 sedang, 0,50 besar (Cohen, 1992:157).
+- Validitas butir X: korelasi butir-total terkoreksi dari keluaran analisis reliabilitas SPSS (opsi B, menggantikan pilihan Spearman manual di ChatGPT); batas 0,30 (Stefana, et al., 2025:14). Jenis koefisien tidak perlu disebut di naskah.
+- Data pendukung (karakteristik, jalur tautan, diisi sendiri atau dibantu, pengalaman estimasi mundur, pernah datang ke kantor, pernah mengecek lewat aplikasi): frekuensi dan persentase; sebaran Y menurut jalur tautan disajikan sebagai gambaran tanpa uji statistik.
+- Ukuran sampel: angka 85 dihitung untuk korelasi product-moment (Cohen, 1992:158) dan dipakai sebagai pendekatan untuk korelasi peringkat; target 100 memberi kelonggaran.
+- Batas tafsir: hubungan pada responden yang berpartisipasi, bukan sebab akibat dan bukan generalisasi ketat; jawaban Y adalah kemungkinan dalam skenario, bukan perilaku nyata; X menilai gabungan dua kondisi skenario.
+- Analisis dengan SPSS.
+
 ## Catatan cadangan untuk bimbingan (bukan perubahan naskah)
 
 - Panduan FDK, butir Populasi dan Sampel, menulis "sampel representatif (misal: penentuan ukuran sampel dengan rumus Slovin atau rumus Taro Yamane)". Slovin disebut sebagai contoh, bukan kewajiban. Naskah memakai analisis daya uji (Cohen, 1992:157-158). Kalau pembimbing meminta rumus Slovin, hasilnya dengan N = 46.210 dan e = 10% adalah 99,78 atau 100 responden, sama dengan target penelitian. Rujukan rumus: Machali (2021:82-83), Sukwika (2023:173-174). Catatan: 46.210 adalah total daftar tunggu, bukan jumlah khusus jemaah reguler.

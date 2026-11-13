@@ -268,3 +268,8 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Transkrip sesi 14 ChatGPT (Tahap 15) diterima (`riset/chatgpt/transkrip-sesi-14-2026-11-13.md`), evaluasi di `riset/chatgpt/evaluasi-transkrip-sesi-14.md`. Sesi bersih, tanpa sumber luar.
 - Keputusan user di ChatGPT: korelasi Rank Spearman untuk hubungan X dan Y (dua arah, taraf 0,05), regresi dan uji asumsinya dikeluarkan; Spearman juga untuk korelasi butir-total terkoreksi.
 - Catatan Claude: keputusan kedua tidak punya rujukan langsung dan harus dihitung manual; alternatifnya memakai kolom "Corrected Item-Total Correlation" dari analisis reliabilitas SPSS. Menunggu keputusan user, lalu Tahap 15 ditutup dan Tahap 16 (penulisan naskah) dimulai.
+
+## 13 November 2026 (lanjutan 3)
+
+- Keputusan user: validitas butir X memakai keluaran analisis reliabilitas SPSS (opsi B); Tahap 15 selesai. Audit Tahap 1 sampai 15 lengkap.
+- Tahap 16 dimulai: Claude memasukkan semua butir `riset/perbaikan-naskah.md` ke naskah.
