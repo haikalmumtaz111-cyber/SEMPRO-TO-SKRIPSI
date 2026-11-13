@@ -333,3 +333,8 @@
 - Rujukan Bisnis.com (2025) soal masa tunggu 26,4 tahun diganti rilis resmi Sekretariat Kabinet (28 September 2026). Isi rilis: formula baru menghasilkan rata-rata antrean nasional 26 tahun; validasi 5,7 juta data jemaah menemukan sekitar 400 ribu data tidak valid; jemaah yang berangkat tahun 2026 rata-rata menjalani masa tunggu 14 tahun (antrean faktual); pemerintah membenahi data agar calon jemaah memperoleh informasi masa tunggu yang lebih akurat.
 - Keputusan user (opsi B): paragraf pertama latar belakang memuat dua angka (26 tahun rata-rata antrean, 14 tahun antrean faktual jemaah berangkat 2026). Kata "seragam" dan angka 26,4 dibuang karena tidak ada di sumber resmi. Klaim "pendaftar baru menunggu 26 tahun" tidak ditulis karena tidak ada sumber yang menyatakannya eksplisit.
 - Word dibangun ulang. Tugas berikutnya: Tahap 17, bimbingan ke pembimbing.
+
+## 13 November 2026 (ringkasan belajar)
+
+- Dikerjakan: `riset/ringkasan-belajar.md`, bahan belajar user berbahasa santai: asal-usul, tahapan, istilah khas tema 2, pemilihan variabel, teori dan batasnya, ringkasan rujukan dan 6 skripsi terdahulu, butir, metode, keterbatasan, 13 perkiraan pertanyaan dosen, daftar yang perlu dicek ulang (termasuk catatan riset yang beda soal penulis Roseman 1996).
+- Tidak ada keputusan penelitian baru. Naskah tidak diubah.

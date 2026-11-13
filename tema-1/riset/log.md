@@ -284,3 +284,10 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Word dibangun: `output/proposal.docx`, 29 halaman menurut konversi LibreOffice. Lebar kolom matriks operasionalisasi disetel supaya kata tidak terpotong.
 - Tugas berikutnya: user membaca draf dan mengoreksi; isi nomor kontak peneliti; konfirmasi nama resmi aplikasi kalau ada sumber resminya; lalu Tahap 17 (bimbingan).
 
+
+## 13 November 2026 (ringkasan belajar)
+
+- Dikerjakan: `riset/ringkasan-belajar.md`, bahan belajar user berbahasa santai: asal-usul proposal, tahapan, kamus istilah berperumpamaan, pemilihan variabel, teori, ringkasan 19 rujukan, butir, metode, keterbatasan, 15 perkiraan pertanyaan dosen. Pasangannya di `tema-2/riset/ringkasan-belajar.md`.
+- Tidak ada keputusan penelitian baru. Naskah tidak diubah.
+- Tugas berikutnya: user membaca ringkasan dan draf rombak, lalu Tahap 17.
+- Keputusan user (13 November 2026): Y tetap satu butir (opsi A), naskah tidak diubah. Dicatat di `keputusan.md`.
