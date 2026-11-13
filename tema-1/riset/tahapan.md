@@ -1,14 +1,45 @@
-# Peta Tahapan: dari Posisi Terakhir sampai File Word
+# Tahapan Tema 1: Acuan 31 Tahap (Roadmap Induk Tema 1)
 
-Dibuat: Kamis, 5 November 2026. Diperbarui setelah eksekusi sekaligus pada hari yang sama.
+Keputusan user, 12 November 2026: acuan tahap memakai Roadmap Induk Skripsi Kuantitatif Versi 1.0
+(`riset/chatgpt/roadmap-induk-tema-1-v1.0-2026-11-12.md`). Proposal sudah punya draf utuh (5
+November 2026), jadi kolom Status di sini adalah **status audit ulang**, bukan status penulisan.
 
-Ini acuan tunggal. Sesi mana pun yang melanjutkan: baca file ini, cari tahap pertama yang belum `[x]`, kerjakan tahap itu saja. Jangan nambah tahap baru tanpa persetujuan user. Ide di luar daftar masuk "Parkir".
+`[x]` audit selesai dan dinyatakan user, `[~]` sedang diaudit, `[ ]` belum diaudit.
 
-> **Rombak, 11 November 2026.** Tabel di bawah adalah riwayat penyusunan sekaligus 5 November.
-> Proposal tema 1 diaudit ulang memakai Roadmap Induk Tema 1 (31 tahap) yang disusun ChatGPT di
-> sesi 1, lihat `riset/pengarah-chatgpt.md` dan `riset/chatgpt/`. Setelah laporan sesi 1 masuk,
-> berkas ini diganti dengan tabel 31 tahap seperti `tema-2/riset/tahapan.md`.
-> Tahap aktif sekarang: **Sesi 1 ChatGPT, menyusun roadmap dan status audit (AMAN/RAGU/SALAH)**.
+| No | Tahap | Status audit | Catatan |
+|---|---|---|---|
+| 1 | Menentukan bidang, tema, minat | [x] | Selesai menurut user, 12 Nov. Bidang: Manajemen Haji dan Umrah, pelayanan informasi jemaah. Tema: pemilihan kanal layanan (mengapa jemaah datang langsung ke kantor). Minat: pengalaman PPM di Kantor Kementerian Haji dan Umrah Kabupaten Bandung |
+| 2 | Mengidentifikasi dan mendokumentasikan fenomena | [x] | Selesai menurut user, 12 Nov (sesi 2). Pendekatan: fenomena lokal PPM sebagai pusat. Angka 30 dan kurang dari 15 per hari dibuang |
+| 3 | Memeriksa kelayakan topik, lokasi, responden | [x] | Selesai menurut user, 12 Nov. N = 46.210 terbukti (dasbor SISKOHAT Gen.2, data 19 Okt 2026, diakses 5 Nov 2026). Nama dan alamat kantor dari user. Izin dan konfirmasi tertulis: sesudah sempro. Catatan Tahap 11: saringan jenis jemaah di dasbor belum pasti reguler saja |
+| 4 | Membatasi fenomena dan menetapkan fokus | [x] | Selesai menurut user, 12 Nov. Fokus: persoalan perubahan estimasi; arah mundur; skenario tanpa penjelasan (hipotetis); responden tidak wajib pernah mengalami, tetapi ditanyakan |
+| 5 | Menetapkan desain dan judul kerja | [x] | Selesai menurut user, 12 Nov. Desain tidak diubah. Judul kerja: "Hubungan Persepsi Kompleksitas Persoalan Mundurnya Estimasi Keberangkatan dengan Kemungkinan Penggunaan Layanan Tatap Muka". Cadangan: "Persoalan Perubahan Estimasi" |
+| 6 | Merumuskan masalah, tujuan, kegunaan | [x] | Selesai, 12 Nov (diputuskan user bersama Claude). Nama variabel sama dengan judul ("persoalan mundurnya estimasi keberangkatan"), skenario dijelaskan dalam satu kalimat; pembuka dari PPM plus Satu Haji; pertanyaan 3 "arah dan besar"; kegunaan dipangkas. Redaksi di `riset/perbaikan-naskah.md` |
+| 7 | Mengumpulkan dan memeriksa penelitian terdahulu | [x] | Selesai menurut user, 12 Nov. Dua belas rujukan diaudit ChatGPT dan dicek Claude: 8 aman, 4 dengan catatan, 0 salah. Halaman Budiman dkk. dan data jurnal Safitra dkk. terbukti. Catatan di `riset/perbaikan-naskah.md` |
+| 8 | Merumuskan research gap | [x] | Selesai, 12 Nov. Rumusan Pilihan A, ditambah satu kalimat "temuan terdahulu belum seragam" (Pieterson & Ebbers, 2020:9; Jabri & Ahmad, 2025:11, keduanya sudah dicek). Klaim dibatasi "di antara penelitian yang ditelaah" |
+| 9 | Menetapkan teori dan kerangka konseptual | [x] | Selesai menurut user, 12 Nov. Hipotesis tidak berarah. Tumpuan langsung literatur pemilihan kanal; teori kekayaan media dasar konsep; sambungan dirujuk ke Ebbers dkk. (2016:506) dan Pieterson dan Ebbers (2020:4). Kompleksitas tidak disamakan dengan ekuivokalitas |
+| 10 | Definisi konseptual, dimensi, indikator, operasionalisasi | [x] | Selesai, 12 Nov. Definisi konseptual X (Campbell 1988:40) dan Y (Ebbers dkk. 2016:510); X empat indikator, tujuh poin, indikator 2 "tuntutan mental"; Y satu butir (Bergkvist dan Rossiter 2007:175-176); gabungan dua kondisi skenario diakui |
+| 11 | Populasi, unit analisis, kriteria, sampel | [x] | Selesai menurut user, 12 Nov. Populasi: jemaah reguler tercatat di daftar tunggu Kab. Bandung, bernomor porsi, belum berangkat; unit analisis individu; 46.210 = total daftar tunggu, bukan N reguler; tiga kriteria; purposive; Slovin dihapus; minimal 85 (Cohen, 1992:157-158), target 100 |
+| 12 | Jenis data, sumber data, teknik pengumpulan | [x] | Selesai menurut user, 12 Nov. Kuesioner daring sepenuhnya; penyaring di awal formulir; tiga jalur lewat WhatsApp, peneliti ikut mengirim ke daftar kontak dari kantor dan KBIHU dengan tiga pengaman (izin tertulis, isi pesan, daftar dihapus); jalur loket mengisi sesudah pulang; buku tamu dikeluarkan; berhenti di 100 kuesioner layak |
+| 13 | Menyusun kuesioner dan kisi-kisi | [x] | Selesai menurut user, 12 Nov. Kuesioner versi koreksi diterima (`riset/kuesioner-usulan.md`): tiga penyaring; cerita, Y, lalu X (Ebbers dkk. 2016:510); X 1 sampai 7 berlabel ujung; data responden di akhir; judul dan tujuan netral |
+| 14 | Validasi isi, uji coba, validitas, reliabilitas | [x] | Selesai menurut user, 13 Nov. Rencana: tiga ahli; uji coba sepuluh jemaah di luar data utama, lima ditanya ulang (Stefana dkk. 2025:9); validitas butir X dengan korelasi butir-total terkoreksi, batas 0,30 (2025:14); Alpha Cronbach 0,70 sampai 0,95 (Tavakol dan Dennick 2011:54); dihitung dari data utama; Y tanpa alfa. Chaudhary dan Israel (2015) serta hitungan Bujang dkk. (2018) tidak dipakai |
+| 15 | Rencana analisis data | [x] | Selesai menurut user, 13 Nov. Korelasi Rank Spearman dua arah, taraf 0,05 (Machali 2021:151); X rata-rata empat butir; Y frekuensi dan persentase; kategori dibuang; validitas butir dari keluaran analisis reliabilitas SPSS, batas 0,30; regresi dibuang |
+| 16 | Menulis dokumen proposal | [~] | **Draf rombak selesai 13 Nov, menunggu dibaca user.** Semua butir `riset/perbaikan-naskah.md` sudah masuk `proposal/proposal.md`; judul di `sampul.json` diganti; Word dibangun (`output/proposal.docx`, 29 halaman). Sisa tanda: `[PERLU DATA: nomor kontak peneliti]` di lembar persetujuan. Belum dikonfirmasi sumber resmi: nama aplikasi Satu Haji (ditulis sebagai sebutan petugas) |
+| 17 sampai 31 | Konsultasi sampai pengarsipan | [ ] | Lihat roadmap |
+
+## Aturan pakai
+
+- Batas kerja (keputusan user, 12 Nov): yang disusun proposal untuk seminar, Tahap 1 sampai 16. Pekerjaan sesudah seminar (izin, konfirmasi tertulis, uji coba, data) tidak jadi syarat menutup tahap.
+- Perbaikan naskah yang terkumpul: `riset/perbaikan-naskah.md`.
+- ChatGPT mengerjakan tahap aktif saja. Tahap berikutnya dibuka sesudah user menyatakan tahap aktif selesai.
+- Naskah `proposal/proposal.md` belum diubah selama audit. Perbaikan naskah dikumpulkan per tahap dan dimasukkan sesudah user menyetujui.
+
+## Parkir
+
+(ide di luar tahap dicatat di sini)
+
+---
+
+# Riwayat: penyusunan sekaligus 5 November 2026
 
 ## Posisi start (sebelum 5 November 2026)
 
