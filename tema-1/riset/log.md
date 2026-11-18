@@ -297,3 +297,5 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Keputusan user: kontak peneliti di lembar persetujuan kuesioner tidak diisi dulu, diganti titik-titik dan diisi saat kuesioner disebar (opsi 3). Panduan FDK tidak mengatur kontak peneliti di kuesioner.
 - `proposal/proposal.md` disunting, Word dibangun ulang. Sisa tanda `[PERLU ...]`: 0.
 - Tugas berikutnya: user membaca draf, konfirmasi nama resmi aplikasi kalau ada sumbernya, lalu Tahap 17 (bimbingan).
+- Lanjutan: Word dikirim ke user lewat kartu file (pratinjau di layar Diff tidak mendukung docx). User membaca draf dan menyatakan aman tanpa koreksi. Tahap 16 selesai.
+- Tugas berikutnya: Tahap 17, cetak dan bawa ke dosen pembimbing, catat coretan.
