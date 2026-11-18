@@ -219,7 +219,7 @@ Bapak/Ibu yang saya hormati, saya Mumtaaz Haekal, mahasiswa Program Studi Manaje
 
 Tidak ada jawaban benar atau salah. Bapak/Ibu tidak diminta menuliskan nama maupun nomor porsi, dan jawaban hanya dipakai untuk keperluan penelitian. Keikutsertaan bersifat sukarela, dan Bapak/Ibu boleh berhenti mengisi kapan saja. Bapak/Ibu boleh dibantu anggota keluarga untuk membaca dan mengisi formulir ini, asalkan jawabannya tetap pendapat Bapak/Ibu sendiri.
 
-Pertanyaan tentang penelitian ini dapat disampaikan kepada peneliti melalui [PERLU DATA: nomor kontak peneliti].
+Pertanyaan tentang penelitian ini dapat disampaikan kepada peneliti melalui .................................
 
 Apakah Bapak/Ibu bersedia menjadi responden?
 

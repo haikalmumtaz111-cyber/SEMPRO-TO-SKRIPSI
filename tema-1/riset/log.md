@@ -291,3 +291,9 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Tidak ada keputusan penelitian baru. Naskah tidak diubah.
 - Tugas berikutnya: user membaca ringkasan dan draf rombak, lalu Tahap 17.
 - Keputusan user (13 November 2026): Y tetap satu butir (opsi A), naskah tidak diubah. Dicatat di `keputusan.md`.
+
+## 18 November 2026
+
+- Keputusan user: kontak peneliti di lembar persetujuan kuesioner tidak diisi dulu, diganti titik-titik dan diisi saat kuesioner disebar (opsi 3). Panduan FDK tidak mengatur kontak peneliti di kuesioner.
+- `proposal/proposal.md` disunting, Word dibangun ulang. Sisa tanda `[PERLU ...]`: 0.
+- Tugas berikutnya: user membaca draf, konfirmasi nama resmi aplikasi kalau ada sumbernya, lalu Tahap 17 (bimbingan).
