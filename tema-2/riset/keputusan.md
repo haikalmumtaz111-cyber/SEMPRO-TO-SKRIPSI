@@ -65,6 +65,8 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 
 - 21 Nov 2026: **seminar proposal Senin, 23 November 2026** (keterangan user). Jadwal persiapan di `riset/roadmap-sempro.md`. Yang belum dikonfirmasi user: judul yang terdaftar, persetujuan pembimbing atas draf tema 2, kewajiban PPT.
 
+- 21 Nov 2026: **angka 14 tahun (antrean faktual) dihapus dari latar belakang** (keputusan user, menggantikan opsi B 11 November). Alasan user: penelitian menyangkut pendaftar baru, masa tunggu yang disampaikan kepada mereka sekitar 26 tahun menurut kepala kantor dan petugas selama PPM, dan dua angka dinilai membingungkan. Claude menyarankan dua angka dipertahankan, user memutuskan menghapus. Naskah tetap merujuk rilis Sekretariat Kabinet untuk angka 26 tahun, dan judul rilis di Daftar Pustaka tetap memuat "14 tahun" karena judul sumber tidak boleh diubah. Jawaban cadangan ada di bank soal 1.3.
+
 ## Keputusan terbuka (urut prioritas)
 
 1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.

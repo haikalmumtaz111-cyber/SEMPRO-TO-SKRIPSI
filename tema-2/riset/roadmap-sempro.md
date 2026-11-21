@@ -48,7 +48,7 @@ Urutan 19 soal ★ kalau waktunya mepet, kerjain dari atas:
 
 Daftar angka yang wajib di luar kepala:
 - PPM: Februari sampai Juni 2026, Kantor Kementerian Haji dan Umrah Kabupaten Bandung (bukan Kementerian Agama).
-- Antrean: rata-rata 26 tahun (formula baru), 14 tahun (masa tunggu jemaah yang berangkat 2026), sumber Sekretariat Kabinet (2026).
+- Antrean: rata-rata 26 tahun (formula baru), sumber Sekretariat Kabinet (2026). Angka 14 tahun (masa tunggu yang sudah dijalani jemaah yang berangkat 2026) tidak ditulis di naskah, cukup lu tau bedanya kalau ditanya.
 - Pendaftar: 3.076 orang dari 1 Januari sampai 11 November 2026, sekitar 297 per bulan.
 - Sampel: Slovin galat 10%, 297 jadi 75 responden, *consecutive sampling*.
 - X: 7 butir (4 *seeking*, 3 *scanning*), rentang 12 bulan sebelum memutuskan mendaftar.

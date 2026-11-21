@@ -30,11 +30,17 @@ Arah jawaban: kagetnya bukan masalah. Yang belum diketahui: kenapa responsnya be
 
 Contoh Pak Budi: Pak Budi udah sering liat berita antrean haji di HP dan pernah nanya ke tetangga yang udah daftar. Bu Siti baru tau soal antrean pas di loket. Dua-duanya denger kalimat petugas yang sama. Pertanyaan penelitian lu: apakah reaksi mereka beda, dan apakah bedanya nyambung sama bekal informasi tadi.
 
-### 1.3 "Naskah lu nyebut 26 tahun dan 14 tahun. Yang bener yang mana?"
+### 1.3 "Di berita antrean haji sudah 14 tahun. Kok naskah lu 26 tahun?"
 
-Sasaran: `proposal.md:6`.
+Sasaran: `proposal.md:6`. Soal cadangan: naskah sejak 21 November 2026 hanya memuat 26 tahun (keputusan user), jadi soal ini baru muncul kalau penguji sendiri yang menyebut 14 tahun.
 
-Arah jawaban: dua-duanya dari rilis Sekretariat Kabinet (2026) dan ngukur hal beda. 26 tahun itu rata-rata antrean nasional hasil formula baru. 14 tahun itu masa tunggu yang beneran dijalani jemaah yang berangkat 2026 (antrean faktual). Angka 26 tahun itu sendiri resmi dari pemerintah (rilis Setkab 28 September 2026; menurut Wamenhaj, secara administrasi antrean tetap 26 tahun dan 14 tahun itu antrean faktual). Bahwa petugas di Kantor Kabupaten Bandung nyampein angka sekitar 26 tahun ke pendaftar itu keterangan langsung yang lu terima dari kepala kantor dan para petugas selama PPM (keterangan user, 21 November 2026), jadi sumbernya orang yang berwenang. Di naskah statusnya tetap "pengamatan awal, bukan data penelitian" karena belum dikumpulkan lewat instrumen penelitian, bukan karena diragukan. Angka 14 tahun itu lihat ke belakang: jemaah yang berangkat 2026 mendaftarnya sudah lama dan rata-rata sudah menunggu 14 tahun. Angka itu bukan perkiraan untuk orang yang baru mendaftar. Latihan: jelasin beda 26 dan 14 tanpa liat naskah. Catatan turun lapangan (bukan buat sempro): kunci soal E1 dicek lagi ke kantor menjelang pengumpulan data, karena angka yang disampaikan petugas bisa berubah.
+Arah jawaban: dua-duanya dari rilis Sekretariat Kabinet (28 September 2026) dan ngukur hal beda. 26 tahun itu rata-rata antrean secara administrasi hasil formula baru, dan itu yang disampaikan ke orang yang baru mendaftar. 14 tahun itu lihat ke belakang: jemaah yang berangkat 2026 mendaftarnya sudah lama dan rata-rata sudah menunggu 14 tahun. Angka itu bukan perkiraan untuk pendaftar baru. Penelitian lu soal pendaftar baru, makanya yang dipakai 26 tahun.
+
+Angka sekitar 26 tahun yang disampaikan petugas Kantor Kabupaten Bandung itu keterangan langsung dari kepala kantor dan para petugas selama PPM (keterangan user, 21 November 2026). Di naskah statusnya tetap "pengamatan awal, bukan data penelitian" karena belum dikumpulkan lewat instrumen penelitian, bukan karena diragukan.
+
+Kalimat ke penguji: "Angka 14 tahun itu masa tunggu yang sudah dijalani jemaah yang berangkat tahun 2026, Pak/Bu. Penelitian saya tentang calon jemaah yang baru mendaftar, dan masa tunggu yang disampaikan kepada mereka sekitar 26 tahun."
+
+Catatan turun lapangan (bukan buat sempro): kunci soal E1 dicek lagi ke kantor menjelang pengumpulan data, karena angka yang disampaikan petugas bisa berubah.
 
 ### 1.4 "Apa hubungannya sama Manajemen Haji dan Umrah? Ini kayak penelitian komunikasi."
 
@@ -363,4 +369,4 @@ Catatan: templat aslinya nganggep teorinya satu. Punya lu beberapa, jadi kalimat
 1. Soal 4.4 dan 4.5: butir Y susunan sendiri dan Cronbach buat X. Bawa ke pembimbing, ini paling mungkin diserang.
 2. Soal 2.2: lu harus lancar bilang "ini dugaan saya, bukan isi teorinya" tanpa gelagapan.
 
-Yang harus lu cek sendiri: beda 26 dan 14 tahun (1.3), tempat dan kata kunci penelusuran (3.2), jenis sumber penelitian terdahulu (3.3), usia minimal (4.11), nama aplikasi dan jeda 3 hari (5.5).
+Yang harus lu cek sendiri: tempat dan kata kunci penelusuran (3.2), jenis sumber penelitian terdahulu (3.3), usia minimal (4.11), nama aplikasi dan jeda 3 hari (5.5).
