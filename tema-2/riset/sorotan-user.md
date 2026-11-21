@@ -67,4 +67,21 @@ Versi yang akhirnya nyantol di user setelah dua kali diulang. Dipakai lagi kalau
 
 **Catatan user: signifikansi 0,05 (sorotan nomor 34) adalah bagian yang paling rumit baginya dan mau dipelajari lagi.** Ulangi bagian ini sebelum seminar 23 November 2026.
 
-Belum dijelaskan: sorotan nomor 1 sampai 16.
+## Penjelasan santai sorotan nomor 1 sampai 16 (21 November 2026)
+
+- **Batas kategorinya ditetapkan peneliti (1)**: pilihan jawaban bagian A adalah tidak pernah, 1 sampai 2 kali, 3 sampai 5 kali, lebih dari 5 kali. Alat ukur asli Kelly, et al. (2009) memakai pilihan lain (ya atau tidak untuk *seeking*, tiga kategori untuk *scanning*). Potongan "1 sampai 2", "3 sampai 5", "lebih dari 5" dibuat peneliti sendiri, bukan dari sumber.
+- **Benar atau salah (2)**: tiga soal kuis E1 sampai E3 tentang isi penjelasan petugas, pelengkap saja.
+- **H01 (3)**: H0 adalah dugaan "tidak ada hubungan" (koin adil), H1 dugaan "ada hubungan". Angka kedua adalah nomor pasangan: 1 kognitif, 2 afektif, 3 konatif. H01 dibaca "H nol satu".
+- **Tanpa arah (4)**: hipotesis hanya menduga ada hubungan, tidak menebak r positif atau negatif, karena tiga teori yang dipakai tidak memuat paparan sebagai variabel.
+- **Paradigma (5)**: kacamata dasar peneliti tentang cara mencari kebenaran.
+- **Positivisme (6)**: kacamata yang menganggap hal yang diteliti dapat diukur dengan angka.
+- **Pendekatan objektif, gejala (7)**: peneliti menjaga jarak, semua responden mendapat pertanyaan yang sama. Gejala berarti kejadian yang diteliti, bukan gejala penyakit.
+- **Potong lintang (8)**: data diambil sekali, seperti foto, bukan video. Karena itu hanya terbaca hubungan, bukan sebab akibat.
+- **Kuesioner berskala bertingkat (9)**: pilihan jawabannya berjenjang, bukan ya atau tidak.
+- **Primer dan sekunder (10, 11)**: primer diambil sendiri dari responden, sekunder sudah ada dan dibuat pihak lain (data SISKOHAT, peraturan).
+- **Rumus Slovin (12, 13)**: rumus penentu jumlah orang yang cukup ditanya, seperti mencicip beberapa sendok dari sepanci kuah. N = 297 (semua pendaftar sebulan), e = 10% = 0,1, e kuadrat = 0,01. Hitungan: 297 x 0,01 = 2,97, ditambah 1 = 3,97, lalu 297 : 3,97 = 74,8, dibulatkan 75.
+- **Terlalu menyederhanakan (14)**: kritik sebagian ahli terhadap Slovin (Sukwika, 2023:173), sehingga 75 diperlakukan sebagai jumlah minimal.
+- ***Consecutive sampling* (15)**: siapa pun yang datang, memenuhi syarat, dan bersedia diambil berurutan sampai 75 orang. Tidak diundi karena daftar nama pendaftar belum ada sebelum mereka datang.
+- **Keterbatasan penelitian (16)**: kelemahan yang diakui sendiri. Di kalimat itu ada dua: hasil hanya berlaku untuk pendaftar pada periode dan kantor itu, dan lansia yang penjelasannya diwakili pendamping kurang terwakili.
+
+Semua sorotan (1 sampai 34) sudah dijelaskan. Naskah tidak diubah.
