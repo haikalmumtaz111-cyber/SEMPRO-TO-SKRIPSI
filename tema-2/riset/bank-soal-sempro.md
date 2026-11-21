@@ -334,6 +334,28 @@ Arah jawaban: gap itu yang belum diteliti, kebaruan itu yang lu bawa. Gap: dari 
 
 ---
 
+## 7. Tiga jawaban ringkas (sekitar 30 detik per jawaban)
+
+Ditambahkan 21 November 2026. Bentuknya ngikutin templat jawaban sempro yang beredar di Threads, isinya dari naskah tema 2. Dipakai kalau penguji minta lu ngejelasin satu bagian secara utuh. Pahamin isinya, jangan dihafal kata per kata.
+
+### 7.1 Pendahuluan: "Kenapa judul ini, masalahnya apa, pentingnya apa?"
+
+"Izin menjawab, Bapak/Ibu. Selama PPM di Kantor Kementerian Haji dan Umrah Kabupaten Bandung, saya mengamati respons calon jemaah yang beragam ketika petugas menyampaikan estimasi keberangkatan, padahal penjelasannya sama. Belum diketahui apakah perbedaan itu berkaitan dengan informasi masa tunggu yang mereka peroleh sebelum mendaftar. Dari penelitian haji yang saya telusuri, kaitan itu belum saya temukan diteliti. Karena itu, penelitian ini bertujuan mengetahui ada tidaknya hubungan antara paparan informasi sebelum mendaftar dan respons kognitif, afektif, serta konatif calon jemaah."
+
+Catatan: templat aslinya minta "alasan/dampak". Lu ga punya data dampak, jadi yang disebut "belum diketahui", bukan akibat buruknya.
+
+### 7.2 Teori: "Pakai teori apa, dari siapa, dan kerangka berpikirnya gimana?"
+
+"Izin menjawab, Bapak/Ibu. Tidak ada satu teori yang memuat paparan informasi dan ketiga jenis respons sekaligus, sehingga saya memakai beberapa konsep secara terbatas. Paparan saya ukur dengan pembedaan *seeking* dan *scanning* dari Niederdeppe dkk. (2007). Respons saya bagi menjadi kognitif, afektif, dan konatif mengikuti Breckler (1984), masing-masing dijelaskan dengan model Eveland (2001), Zeithaml dkk. (1993) bersama Roseman dkk. (1996), dan konsep niat Ajzen (1991). Hubungan paparan dengan tiap respons adalah dugaan saya yang diuji, sehingga hipotesisnya tidak berarah."
+
+Catatan: templat aslinya nganggep teorinya satu. Punya lu beberapa, jadi kalimat pertama itu yang paling penting.
+
+### 7.3 Metode: "Metodenya apa, di mana, siapa, datanya gimana, analisisnya apa?"
+
+"Izin menjawab, Bapak/Ibu. Saya memakai pendekatan kuantitatif dengan survei potong lintang karena tujuan saya mengetahui ada tidaknya hubungan antara dua hal yang dapat diukur. Penelitian dilakukan di Kantor Kementerian Haji dan Umrah Kabupaten Bandung pada calon jemaah haji reguler yang baru selesai mendaftar, sekurang-kurangnya 75 orang, yang diambil dengan *consecutive sampling*. Data dikumpulkan dengan kuesioner Google Form yang diisi di kantor sesaat setelah penjelasan petugas. Hubungan diuji dengan korelasi Pearson apabila data berdistribusi normal dan Rank Spearman apabila tidak, dan hasilnya dibaca sebagai hubungan, bukan sebab akibat."
+
+---
+
 ## Verdik formatif
 
 **SIAP DENGAN PERBAIKAN.** Naskah udah jujur soal batas teorinya (hubungan X dan Y itu dugaan peneliti) dan batas desainnya (hubungan bukan sebab akibat, consecutive, Slovin). Tiga bolong kecil (bias ingatan, rasa sungkan responden, kata "manfaat") sudah diperbaiki di naskah 21 November 2026. Yang harus diberesin sebelum sempro:
