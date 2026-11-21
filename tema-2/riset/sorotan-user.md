@@ -51,3 +51,20 @@ Sumber: PDF kedua yang diunggah user 21 November 2026 (26 halaman, Teknik Pengum
 | 34 | 17 | G.8 Teknik Analisis Data | signifikansi 0,05. |
 
 Yang sudah dijelaskan lewat obrolan 21 November 2026: nomor 17 sampai 34. Nomor 1 sampai 16 menunggu giliran.
+
+## Penjelasan santai yang sudah dibahas (21 November 2026)
+
+Versi yang akhirnya nyantol di user setelah dua kali diulang. Dipakai lagi kalau user minta mengulang, jangan balik ke perumpamaan yang gagal (empat teman ditanya soal Pak Budi, "jawab 5" tanpa pengantar).
+
+- **Butir**: satu pertanyaan di kuesioner. Kuesioner berisi 20 butir.
+- **Skor dan skor total**: jawaban diberi angka (sangat tidak setuju 1 sampai sangat setuju 5). Skor total adalah jumlahnya, seperti nilai ulangan. Contoh Pak Budi di bagian kaget dan khawatir: 4 + 5 + 3 + 4 = 16.
+- **Ordinal dan interval**: ordinal hanya urutan, seperti juara 1, 2, 3 lomba lari yang selisih waktunya tidak diketahui. Interval jaraknya rata, seperti suhu. Jawaban per butir ordinal, skor total diperlakukan sebagai interval.
+- **Pearson dan r**: r adalah nama resmi angka hasil hitungan Pearson, keluar dari SPSS. Untuk pasangan "dapat info" dan "paham": r dekat 1 berarti makin sering dapat info makin paham, r dekat 0 berarti tidak nyambung, r dekat -1 berarti makin sering dapat info makin tidak paham.
+- **Normal dan Rank Spearman**: sekelas 30 orang diurutkan dari pendek ke tinggi, 3 pendek sekali, 24 sedang, 3 tinggi sekali, itu normal. Hampir semua tinggi sekali, itu tidak normal. Ganti tinggi badan dengan skor total. Normal memakai Pearson, tidak normal memakai Spearman.
+- **Alpha Cronbach**: empat butir kaget dan khawatir ibarat empat termometer yang mengukur demam orang yang sama. Kalau tiga menunjuk 39 dan satu menunjuk 35, yang satu rusak. Alfa menunjukkan seberapa sejalan keempatnya, batas lolos 0,70.
+- **Alfa kognitif dapat rendah**: butirnya sengaja tiga karena petugas menjelaskan tiga hal (estimasi keberangkatan, cara mengecek, waktu mulai dapat dicek). Butir boleh ditambah kalau uji coba sesudah seminar menunjukkan alfa rendah. User tidak memutuskan menambah butir.
+- **Signifikansi 0,05**: koin adil dilempar 10 kali wajarnya keluar gambar sekitar 5 kali. Keluar 9 kali itu kejadian yang hanya muncul kira-kira 1 dari 100 ronde (satu ronde = 10 lemparan), jadi lebih masuk akal menyimpulkan koinnya tidak adil. Di penelitian: "koin adil" berarti tidak ada hubungan, "9 kali gambar" berarti nilai r yang keluar. Sig. di bawah 0,05 berarti hasil seperti itu muncul kurang dari 5 dari 100 kali kalau sebenarnya tidak ada hubungan, sehingga hubungan disimpulkan ada.
+
+**Catatan user: signifikansi 0,05 (sorotan nomor 34) adalah bagian yang paling rumit baginya dan mau dipelajari lagi.** Ulangi bagian ini sebelum seminar 23 November 2026.
+
+Belum dijelaskan: sorotan nomor 1 sampai 16.
