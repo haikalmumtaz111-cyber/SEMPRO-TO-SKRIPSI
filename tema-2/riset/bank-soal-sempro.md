@@ -113,7 +113,7 @@ Arah jawaban: naskah ngakuin dua-duanya dari konteks lain, jadi penerapannya ke 
 
 ### 2.6 "Kenapa terkejut sama khawatir dijadiin satu skor? Itu dua emosi beda."
 
-Sasaran: `proposal.md:58`, `proposal.md:77-78`, analisis tambahan `proposal.md:159`.
+Sasaran: `proposal.md:58`, `proposal.md:77-78`, analisis tambahan `proposal.md:161`.
 
 Arah jawaban: skor utamanya kuat lemahnya reaksi emosi. Lu sadar arahnya bisa beda (yang udah tau bisa ga terkejut tapi tetap khawatir), makanya dua emosi itu juga dilaporin terpisah sebagai analisis tambahan. Batasnya: skor rendah ga bisa bedain "lega" dari "ga bereaksi".
 
@@ -157,7 +157,7 @@ Arah jawaban: dipakai sebagai bukti di luar haji bahwa seeking dan scanning bera
 
 ### 4.1 ★ "Bisa lu simpulkan paparan informasi memengaruhi respons jemaah?"
 
-Sasaran: `proposal.md:114`, `proposal.md:159`.
+Sasaran: `proposal.md:114`, `proposal.md:161`.
 
 Arah jawaban: ga bisa. Survei potong lintang, data diambil sekali, ga ada manipulasi variabel. Hasilnya hubungan, makanya judulnya "Hubungan".
 
@@ -193,11 +193,11 @@ Arah jawaban: jujur per variabel.
 - X: diadaptasi dari Kelly, et al. (2009:727-728). Aslinya ya/tidak buat seeking dan tiga kategori buat scanning, lu ubah jadi empat kategori, batasnya lu tetapin sendiri.
 - Y kognitif, afektif, konatif: indikatornya dari konsep di teori plus pengamatan PPM. Butirnya disusun peneliti, bukan terjemahan skala baku.
 
-Ini titik paling rawan di metode. Pembelaannya: kuesioner masih tentatif (panduan FDK ngebolehin), diuji validitas dan reliabilitas sesudah seminar (`proposal.md:151`). Siap nerima kalau penguji minta skala yang udah teruji.
+Ini titik paling rawan di metode. Pembelaannya: kuesioner masih tentatif (panduan FDK ngebolehin), diuji validitas dan reliabilitas sesudah seminar (`proposal.md:153`). Siap nerima kalau penguji minta skala yang udah teruji.
 
 ### 4.5 ★ "Butir X itu sumber informasi yang beda-beda. Orang yang cari di medsos belum tentu nanya tetangga. Cocok diuji Cronbach?"
 
-Sasaran: `proposal.md:151` (paparan 7 butir diuji Alpha Cronbach).
+Sasaran: `proposal.md:153` (paparan 7 butir diuji Alpha Cronbach).
 
 Arah jawaban: `[BOLONG DI NASKAH]`, penilaian Claude. Cronbach ngukur kekompakan butir. Tujuh butir X itu jumlah paparan dari sumber berbeda, jadi wajar kalau ga kompak, dan alfanya bisa rendah tanpa berarti alat ukurnya jelek. Naskah belum ngebahas ini. Jawaban jujur ke penguji: "Itu masukan yang akan saya bawa ke pembimbing, Pak/Bu. Kalau alfa X rendah, saya akan melaporkannya apa adanya beserta alasannya." Bahas ini di bimbingan sebelum sempro.
 
@@ -223,13 +223,13 @@ Arah jawaban: tiap calon jemaah yang memenuhi kriteria dan bersedia diminta ngis
 
 ### 4.9 "Skala Likert itu ordinal. Kok lu perlakuin interval terus pakai Pearson?"
 
-Sasaran: `proposal.md:157`.
+Sasaran: `proposal.md:159`.
 
 Arah jawaban: yang diperlakuin interval itu skor total (jumlah beberapa butir), bukan satu butir. Sebelum Pearson, sebaran data diuji normalitasnya dulu (Machali, 2021:156). Kalau ga normal, pakai Rank Spearman (Machali, 2021:151). Jadi udah ada jalur cadangan.
 
 ### 4.10 "Tiga hipotesis diuji bareng. Ga takut ada yang signifikan cuma kebetulan?"
 
-Sasaran: `proposal.md:157`.
+Sasaran: `proposal.md:159`.
 
 Arah jawaban: risikonya ada dan udah dicatat sebagai keterbatasan. Naskah ga pakai koreksi. Kalau penguji minta koreksi (misal Bonferroni, taraf 0,05 dibagi tiga), itu bisa ditambah. `[PERLU VERIFIKASI]`: pelajari dulu apa itu Bonferroni sebelum nyebut namanya.
 
@@ -291,7 +291,7 @@ Arah jawaban: dua pertanyaan pertama deskriptif (gambaran X dan gambaran Y). Tig
 
 ### 6.3 "Tujuan lu udah ngejawab rumusan masalah?"
 
-Sasaran: `proposal.md:34-38`, `proposal.md:155-157`.
+Sasaran: `proposal.md:34-38`, `proposal.md:157-159`.
 
 Arah jawaban: lima tujuan berpasangan satu-satu dengan lima pertanyaan. Tujuan 1 dan 2 dijawab analisis deskriptif, tujuan 3 sampai 5 dijawab uji korelasi.
 
@@ -307,7 +307,7 @@ Sasaran: `proposal.md:52-54`, matriks `proposal.md:74-80`.
 
 Arah jawaban, hafalin isinya bukan kalimatnya:
 - Paparan: seberapa sering calon jemaah, dalam 12 bulan sebelum memutuskan mendaftar, sengaja mencari dan tanpa sengaja menemukan informasi masa tunggu dari berbagai sumber.
-- Seeking: usaha aktif nyari informasi tertentu di luar kebiasaan sehari-hari. Scanning: informasi yang didapet dalam kebiasaan sehari-hari tanpa sengaja dicari (Niederdeppe, et al., 2007:155).
+- Seeking: usaha aktif nyari informasi tertentu di luar kebiasaan sehari-hari. Scanning: informasi yang didapet dalam kebiasaan sehari-hari tanpa dicari dengan sengaja (Niederdeppe, et al., 2007:155).
 - Respons kognitif: tingkat pemahaman yang dirasakan atas penjelasan petugas. Afektif: kuat lemahnya reaksi emosi (terkejut dan khawatir). Konatif: kuat lemahnya niat menindaklanjuti (nanya petugas, ngecek lewat aplikasi).
 
 Jebakan: paparan di sini soal berapa kali, bukan berapa lama nonton atau seberapa dalam mikirinnya. Nyari info atau nanya sesudah mendaftar itu Y konatif, bukan X.
