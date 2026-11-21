@@ -132,7 +132,7 @@ Ini poin paling penting buat dipahami: **ga ada satu teori pun yang isinya "papa
 ### b. Cognitive Mediation Model / CMM (Eveland, 2001), buat Y kognitif
 - **Isi:** rantainya motivasi, lalu perhatian dan elaborasi, lalu pengetahuan. Elaborasi bikin orang belajar karena info baru disambungin dengan yang udah ada di ingatan (hlm. 577).
 - **Logika lu:** Pak Budi yang udah sering terpapar punya "bahan" di kepala buat disambungin dengan penjelasan petugas, jadi diduga lebih paham.
-- **Batas:** itu **tafsir** lu. CMM ngomongin elaborasi, bukan paparan. Eveland malah nyatat bahwa orang belajar sedikit dari berita walau terpapar (hlm. 572).
+- **Batas:** itu **tafsir** lu. CMM ngomongin elaborasi, bukan paparan. Eveland malah nyatat bahwa yang nyantol di kepala orang dari berita cuma sedikit walau mereka terpapar (hlm. 572).
 - **Jangan bilang:** "menurut CMM, paparan meningkatkan pemahaman".
 
 ### c. Harapan layanan (Zeithaml dkk., 1993) + teori appraisal (Roseman dkk., 1996), buat Y afektif

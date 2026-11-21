@@ -48,7 +48,7 @@ Sasaran: `proposal.md:56-62`.
 
 Arah jawaban: akui dulu bahwa dugaan soal terkejut memang paling dekat dengan akal sehat. Lalu tunjukin empat hal.
 - Yang "jelas" itu cuma satu dari tiga hipotesis. Buat khawatir, arahnya ga ditentuin, karena orang yang udah tau bisa ga terkejut tapi tetap khawatir (`proposal.md:58`). Buat niat nanya atau ngecek, arahnya bisa dua: makin terpapar makin niat, atau malah ngerasa udah cukup (`proposal.md:60`).
-- Buat pemahaman, sumbernya sendiri ga mendukung akal sehat: Eveland (2001:572) nyatet orang belajar sedikit dari berita walaupun terpapar (`proposal.md:56`).
+- Buat pemahaman, sumbernya sendiri ga mendukung akal sehat: Eveland (2001:572) nyatet yang nyantol di kepala orang dari berita cuma sedikit walaupun mereka terpapar (`proposal.md:56`).
 - Akal sehat ga ngasih angka. Penelitian ini ngukur ada tidaknya hubungan dan besarnya.
 - Dari penelitian haji yang ditelusuri, hubungan ini belum ditemukan diuji (`proposal.md:14`).
 
@@ -91,7 +91,7 @@ Sasaran: `proposal.md:56`, `proposal.md:62`.
 
 Arah jawaban: ini titik paling rawan di teori, dan naskah udah nulis terus terang: "tidak satu pun memuat paparan informasi sebagai variabelnya", hubungannya "dugaan peneliti". Dukungan empiris yang paling deket cuma Lewis, et al. (2024:468), meta-analisis 21 penelitian dengan 39.510 responden: seeking dan scanning berasosiasi dengan sikap dan niat berperilaku, tapi di konteks informasi kesehatan. Jangan ngaku teorinya ngedukung langsung. Karena dasarnya dugaan, hipotesisnya ga berarah.
 
-Lanjutan yang mungkin: "Eveland sendiri bilang orang belajar sedikit dari berita walau terpapar, kok dipakai?" Jawab: betul, itu ditulis di naskah (Eveland, 2001:572). Yang lu pakai dari Eveland cuma gagasan bahwa informasi baru lebih gampang dipahami kalau nyambung ke pengetahuan yang udah ada (2001:577). Sisanya tafsir lu.
+Lanjutan yang mungkin: "Eveland sendiri bilang yang nyantol dari berita cuma sedikit walau orang terpapar, kok dipakai?" Jawab: betul, itu ditulis di naskah (Eveland, 2001:572). Yang lu pakai dari Eveland cuma gagasan bahwa informasi baru lebih gampang dipahami kalau nyambung ke pengetahuan yang udah ada (2001:577). Sisanya tafsir lu.
 
 ### 2.3 ★ "Breckler itu teori sikap. Lu ngukur sikap?"
 
