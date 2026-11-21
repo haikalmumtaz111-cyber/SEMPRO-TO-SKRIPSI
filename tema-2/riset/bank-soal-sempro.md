@@ -56,6 +56,16 @@ Kalimat ke penguji: "Untuk rasa terkejut dugaannya memang dekat dengan akal seha
 
 Jangan jawab pakai "membongkar mesin di otak" atau "vaksin mental". Penelitian ini ga ngukur proses di kepala responden.
 
+### 1.6 ★ "Kenapa di Kantor Kabupaten Bandung, bukan kantor lain?"
+
+Sasaran: Lokasi Penelitian `proposal.md:106`, batas generalisasi `proposal.md:143`.
+
+Arah jawaban: naskah nyebut dua alasan. Pertama, gejalanya lu temuin di kantor ini selama PPM Februari sampai Juni 2026. Kedua, kantor ini ngelayanin pendaftaran tiap hari kerja, jadi calon jemaah yang baru denger penjelasan petugas bisa langsung ditemuin. Jumlah pendaftarnya juga cukup buat ngejar 75 responden dalam sebulan (3.076 pendaftar dari 1 Januari sampai 11 November 2026, rata-rata sekitar 297 per bulan).
+
+Jangan jawab "karena dekat" atau "karena kenal orang di sana". Jangan juga ngeklaim Kabupaten Bandung paling banyak pendaftarnya atau paling parah masalahnya, karena naskah ga punya data pembanding antarkantor.
+
+Kalimat ke penguji: "Gejala ini saya amati langsung di kantor tersebut selama PPM, Pak/Bu, dan pendaftaran di sana berlangsung setiap hari kerja sehingga responden dapat ditemui sesaat setelah menerima penjelasan petugas. Hasilnya saya batasi hanya untuk pendaftar di kantor dan periode itu."
+
 ---
 
 ## 2. Kenapa teori ini (teori)
