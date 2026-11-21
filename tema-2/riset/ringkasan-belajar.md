@@ -60,7 +60,7 @@ Di naskah ini ditulis tegas sebagai **pengamatan awal, bukan data penelitian**.
 | 9 | Teori | 6 rujukan teori, masing-masing dipakai terbatas |
 | 10 | Indikator | X 7 butir, Y 13 butir (3 + 4 + 6), plus 3 soal benar-salah |
 | 11 | Populasi dan sampel | Perkiraan N 297, Slovin 10%, n = 75, consecutive sampling |
-| 12 | Cara ambil data | Kuesioner cetak, diisi di kantor langsung setelah penjelasan petugas |
+| 12 | Cara ambil data | Kuesioner formulir daring, diisi lewat HP di kantor langsung setelah penjelasan petugas |
 | 13 | Kuesioner | Versi tentatif |
 | 14 | Validitas, reliabilitas | **Belum diaudit** (cukup rencana buat sempro) |
 | 15 | Analisis | Uji normalitas, lalu Pearson atau Spearman |
@@ -307,7 +307,7 @@ Ga masuk: yang dateng buat urusan lain, yang penjelasannya cuma didenger pendamp
 Kenapa ga acak? Daftar pendaftar belum ada sebelum mereka dateng, jadi ga bisa diundi. Konsekuensinya hasil cuma berlaku buat pendaftar di periode dan kantor itu, dan lansia yang diwakili pendamping kurang terwakili.
 
 ### g. Pengumpulan data
-- Kuesioner **cetak**, tertutup.
+- Kuesioner **formulir daring**, tertutup, dibuka di HP responden lewat kode QR atau tautan, diisi di kantor.
 - Diisi di kantor **langsung setelah** penjelasan petugas.
 - Yang susah baca, butirnya dibacain dengan kalimat sama, jawaban tetep dari responden.
 - Setelah dapet izin kantor, dan persetujuan responden diminta dulu.

@@ -175,7 +175,15 @@ Lanjutan yang mungkin: "Kapan seseorang dianggap 'memutuskan mendaftar'?" Ini su
 
 Sasaran: `proposal.md:147`.
 
-Arah jawaban: diisi langsung biar responsnya masih segar, itu kekuatannya. Kelemahannya: responden bisa sungkan ngaku ga paham di depan kantor yang baru ngelayanin dia, apalagi kalau butirnya dibacain peneliti. Risiko ini sudah ditulis sebagai keterbatasan di Teknik Pengumpulan Data (ditambahkan 21 November 2026). Pengamannya: kuesioner ga minta nama, dan lembar persetujuan nyatain jawaban dirahasiakan serta ga ngaruh ke pendaftaran.
+Arah jawaban: diisi langsung biar responsnya masih segar, itu kekuatannya. Kelemahannya: responden bisa sungkan ngaku ga paham di depan kantor yang baru ngelayanin dia, apalagi kalau butirnya dibacain dan jawabannya dimasukin peneliti. Risiko ini sudah ditulis sebagai keterbatasan di Teknik Pengumpulan Data (ditambahkan 21 November 2026). Pengamannya: kuesioner ga minta nama, dan lembar persetujuan nyatain jawaban dirahasiakan serta ga ngaruh ke pendaftaran.
+
+### 4.3b ★ "Kuesionernya lewat HP. Jemaah yang ga punya HP atau ga bisa pakai formulir gimana?"
+
+Sasaran: Teknik Pengumpulan Data `proposal.md:147`.
+
+Arah jawaban: formulirnya dibuka di HP responden lewat kode QR atau tautan, dan diisi di kantor saat itu juga, bukan di rumah. Alasannya Y ngukur respons sesaat sesudah penjelasan petugas, jadi ga boleh ditunda. Yang kesulitan baca atau pakai formulir dibantu: lu bacain butirnya dengan kalimat yang sama, lalu lu masukin jawaban yang dia sebut. Akui kelemahannya: responden yang dibantu nyebut jawabannya ke lu, jadi rasa sungkannya bisa lebih besar, dan pengisian bergantung pada sinyal di kantor.
+
+Lanjutan yang mungkin: "Kenapa ga dikirim lewat WA aja, diisi di rumah?" Jawab: rasa terkejut dan khawatirnya udah lewat begitu dia sampai rumah, dan pengambilan sampel berurutan jadi ga bisa dijaga.
 
 ### 4.4 ★ "Butir kuesioner lu dari mana? Ada skala bakunya?"
 
