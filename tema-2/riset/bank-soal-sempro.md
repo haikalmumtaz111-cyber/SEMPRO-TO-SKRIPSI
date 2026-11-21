@@ -42,6 +42,20 @@ Sasaran: `proposal.md:16`, Kegunaan Akademis `proposal.md:44`.
 
 Arah jawaban: objeknya pelayanan informasi pada tahap pendaftaran haji, dan itu bagian dari pengelolaan penyelenggaraan haji di kantor kabupaten. Konsep seeking dan scanning memang dipinjam dari ilmu komunikasi, tapi dipakai buat ngejawab persoalan layanan pendaftaran haji. Akui pinjamannya, jangan ditutupin.
 
+### 1.5 ★ "Orang yang udah tau ya jelas ga kaget. Ngapain diteliti?"
+
+Sasaran: `proposal.md:56-62`.
+
+Arah jawaban: akui dulu bahwa dugaan soal terkejut memang paling dekat dengan akal sehat. Lalu tunjukin empat hal.
+- Yang "jelas" itu cuma satu dari tiga hipotesis. Buat khawatir, arahnya ga ditentuin, karena orang yang udah tau bisa ga terkejut tapi tetap khawatir (`proposal.md:58`). Buat niat nanya atau ngecek, arahnya bisa dua: makin terpapar makin niat, atau malah ngerasa udah cukup (`proposal.md:60`).
+- Buat pemahaman, sumbernya sendiri ga mendukung akal sehat: Eveland (2001:572) nyatet orang belajar sedikit dari berita walaupun terpapar (`proposal.md:56`).
+- Akal sehat ga ngasih angka. Penelitian ini ngukur ada tidaknya hubungan dan besarnya.
+- Dari penelitian haji yang ditelusuri, hubungan ini belum ditemukan diuji (`proposal.md:14`).
+
+Kalimat ke penguji: "Untuk rasa terkejut dugaannya memang dekat dengan akal sehat, Pak/Bu. Tetapi untuk rasa khawatir, pemahaman, dan niat menindaklanjuti, arahnya belum jelas, dan pada calon jemaah haji hubungan ini belum saya temukan diuji."
+
+Jangan jawab pakai "membongkar mesin di otak" atau "vaksin mental". Penelitian ini ga ngukur proses di kepala responden.
+
 ---
 
 ## 2. Kenapa teori ini (teori)
