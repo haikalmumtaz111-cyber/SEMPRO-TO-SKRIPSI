@@ -291,3 +291,10 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Tidak ada keputusan penelitian baru. Naskah tidak diubah.
 - Tugas berikutnya: user membaca ringkasan dan draf rombak, lalu Tahap 17.
 - Keputusan user (13 November 2026): Y tetap satu butir (opsi A), naskah tidak diubah. Dicatat di `keputusan.md`.
+
+## 21 November 2026
+
+- Dikerjakan: `riset/bank-soal-sempro.md`, bank soal latihan sempro dari naskah rombak, dibagi empat "kenapa" (urgensi, teori, state of the art, metode) plus soal jebakan, tiap soal dengan sasaran baris naskah dan arah jawaban jujur. Dipicu utas tips sempro di Threads yang dibagikan user. Pelengkap 15 perkiraan pertanyaan di `riset/ringkasan-belajar.md`.
+- Verdik formatif: SIAP DENGAN PERBAIKAN. Titik rawan: kompleksitas vs ambiguitas, asal penelusuran celah, nomor WA jemaah (data pribadi).
+- Tidak ada keputusan penelitian baru. Naskah tidak diubah.
+- Tugas berikutnya: user latihan jawab tertulis, verifikasi tiga butir `[PERLU VERIFIKASI]` di bank soal, lalu Tahap 17.
