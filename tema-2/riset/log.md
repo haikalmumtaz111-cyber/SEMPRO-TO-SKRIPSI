@@ -338,3 +338,9 @@
 
 - Dikerjakan: `riset/ringkasan-belajar.md`, bahan belajar user berbahasa santai: asal-usul, tahapan, istilah khas tema 2, pemilihan variabel, teori dan batasnya, ringkasan rujukan dan 6 skripsi terdahulu, butir, metode, keterbatasan, 13 perkiraan pertanyaan dosen, daftar yang perlu dicek ulang (termasuk catatan riset yang beda soal penulis Roseman 1996).
 - Tidak ada keputusan penelitian baru. Naskah tidak diubah.
+
+## 21 November 2026 (perbaikan kalimat definisi operasional X)
+
+- Dikerjakan: definisi operasional X di matriks operasionalisasi (naskah dan `riset/matriks-operasionalisasi.md`) ditulis ulang karena frasa "menemukan tanpa sengaja mencari informasi" terbaca dua cara. Kalimat baru: "Seberapa sering calon jemaah, dalam 12 bulan sebelum memutuskan mendaftar, memperoleh informasi masa tunggu haji dari berbagai sumber, baik dengan sengaja mencarinya maupun tanpa mencarinya". Indikator *scanning* jadi "Menemukan tanpa mencari dari ...". Makna, butir, dan rujukan tidak berubah.
+- Tidak ada keputusan penelitian baru. Word dibangun ulang.
+- Tugas berikutnya: tetap Tahap 17, bimbingan ke pembimbing.
