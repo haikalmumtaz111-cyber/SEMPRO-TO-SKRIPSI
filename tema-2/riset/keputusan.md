@@ -63,6 +63,8 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 
 - 21 Nov 2026: **kuesioner berbentuk formulir daring, diisi lewat HP responden di kantor segera sesudah penjelasan petugas** (pilihan A user). Lembar cetak tidak dipakai. Pengiriman tautan lewat WhatsApp untuk diisi di rumah ditolak karena respons sesaat tidak terukur. Responden yang kesulitan dibantu peneliti (butir dibacakan, jawaban dimasukkan peneliti). Usul amplop tertutup ditolak user. Platform: Google Form. Sinyal di kantor menurut user aman.
 
+- 21 Nov 2026: **seminar proposal Senin, 23 November 2026** (keterangan user). Jadwal persiapan di `riset/roadmap-sempro.md`. Yang belum dikonfirmasi user: judul yang terdaftar, persetujuan pembimbing atas draf tema 2, kewajiban PPT.
+
 ## Keputusan terbuka (urut prioritas)
 
 1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.
