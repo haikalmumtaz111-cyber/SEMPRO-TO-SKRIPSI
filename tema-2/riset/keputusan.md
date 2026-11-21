@@ -61,7 +61,7 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 
 - 21 Nov 2026: **proposal yang dibawa ke seminar adalah tema 2** (keputusan user). Tema 1 ditunda. Bank soal latihan di `riset/bank-soal-sempro.md`. Lima temuan di bank soal bertanda bolong di naskah belum diputuskan user.
 
-- 21 Nov 2026: **kuesioner berbentuk formulir daring, diisi lewat HP responden di kantor segera sesudah penjelasan petugas** (pilihan A user). Lembar cetak tidak dipakai. Pengiriman tautan lewat WhatsApp untuk diisi di rumah ditolak karena respons sesaat tidak terukur. Responden yang kesulitan dibantu peneliti (butir dibacakan, jawaban dimasukkan peneliti). Usul amplop tertutup ditolak user. Platform formulir belum ditentukan.
+- 21 Nov 2026: **kuesioner berbentuk formulir daring, diisi lewat HP responden di kantor segera sesudah penjelasan petugas** (pilihan A user). Lembar cetak tidak dipakai. Pengiriman tautan lewat WhatsApp untuk diisi di rumah ditolak karena respons sesaat tidak terukur. Responden yang kesulitan dibantu peneliti (butir dibacakan, jawaban dimasukkan peneliti). Usul amplop tertutup ditolak user. Platform: Google Form. Sinyal di kantor menurut user aman.
 
 ## Keputusan terbuka (urut prioritas)
 

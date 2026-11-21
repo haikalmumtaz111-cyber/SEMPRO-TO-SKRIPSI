@@ -181,7 +181,7 @@ Arah jawaban: diisi langsung biar responsnya masih segar, itu kekuatannya. Kelem
 
 Sasaran: Teknik Pengumpulan Data `proposal.md:147`.
 
-Arah jawaban: formulirnya dibuka di HP responden lewat kode QR atau tautan, dan diisi di kantor saat itu juga, bukan di rumah. Alasannya Y ngukur respons sesaat sesudah penjelasan petugas, jadi ga boleh ditunda. Yang kesulitan baca atau pakai formulir dibantu: lu bacain butirnya dengan kalimat yang sama, lalu lu masukin jawaban yang dia sebut. Akui kelemahannya: responden yang dibantu nyebut jawabannya ke lu, jadi rasa sungkannya bisa lebih besar, dan pengisian bergantung pada sinyal di kantor.
+Arah jawaban: formulirnya Google Form, dibuka di HP responden lewat kode QR atau tautan, dan diisi di kantor saat itu juga, bukan di rumah. Alasannya Y ngukur respons sesaat sesudah penjelasan petugas, jadi ga boleh ditunda. Yang kesulitan baca atau pakai formulir dibantu: lu bacain butirnya dengan kalimat yang sama, lalu lu masukin jawaban yang dia sebut. Akui kelemahannya: responden yang dibantu nyebut jawabannya ke lu, jadi rasa sungkannya bisa lebih besar. Soal sinyal, menurut pengalaman PPM lu sinyal di kantor aman.
 
 Lanjutan yang mungkin: "Kenapa ga dikirim lewat WA aja, diisi di rumah?" Jawab: rasa terkejut dan khawatirnya udah lewat begitu dia sampai rumah, dan pengambilan sampel berurutan jadi ga bisa dijaga.
 

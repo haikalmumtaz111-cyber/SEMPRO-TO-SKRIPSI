@@ -44,7 +44,7 @@ Tanda `[PERLU ...]` berarti belum boleh dianggap jadi.
 - **Jenis data**: kuantitatif.
 - **Sumber**: primer dari responden lewat kuesioner. Sekunder dari dokumen kantor (jumlah
   pendaftar) dan peraturan.
-- **Cara pengumpulan**: kuesioner tertutup berbentuk formulir daring, dibuka di HP responden lewat kode QR atau tautan (keputusan user 21 November 2026), diisi di kantor segera sesudah responden menerima
+- **Cara pengumpulan**: kuesioner tertutup berbentuk formulir daring (Google Form), dibuka di HP responden lewat kode QR atau tautan (keputusan user 21 November 2026), diisi di kantor segera sesudah responden menerima
   penjelasan petugas. Untuk responden yang kesulitan membaca, butir dibacakan peneliti dengan
   kalimat yang sama.
 - **Waktu ukur**: Y diukur sesaat sesudah penjelasan petugas. X ditanyakan pada saat yang sama
