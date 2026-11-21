@@ -1,6 +1,6 @@
 # Ringkasan Belajar Proposal Tema 2
 
-Bahan belajar buat lu sendiri, bukan naskah proposal. Bahasanya santai biar nempel. Semua angka, halaman, dan rujukan diambil dari `proposal/proposal.md` (draf 11 November 2026) dan catatan riset tema 2. Kalau mau ngomong di depan dosen, pakai kalimat yang lebih sopan, isinya sama.
+Bahan belajar buat lu sendiri, bukan naskah proposal. Bahasanya santai biar nempel. Semua angka, halaman, dan rujukan diambil dari `proposal/proposal.md` (versi 21 November 2026) dan catatan riset tema 2. Latihan tanya jawab yang lebih lengkap ada di `riset/bank-soal-sempro.md` (41 soal). Kalau mau ngomong di depan dosen, pakai kalimat yang lebih sopan, isinya sama.
 
 Tokoh contoh: **Pak Budi**, baru selesai daftar haji hari ini, terus petugas ngasih tau masa tunggunya.
 
@@ -66,7 +66,7 @@ Di naskah ini ditulis tegas sebagai **pengamatan awal, bukan data penelitian**.
 | 15 | Analisis | Uji normalitas, lalu Pearson atau Spearman |
 | 16 | Naskah | Draf lengkap, Word udah jadi |
 
-Berikutnya: **Tahap 17**, bawa ke dosen pembimbing. Status sekarang: **nunggu**, karena tema aktif lagi tema 1.
+Berikutnya: **Tahap 17**, bawa ke dosen pembimbing. Status sekarang: **tema 2 yang dibawa ke seminar** (keputusan lu 21 November 2026), tema 1 ditunda. Bimbingan belum jalan.
 
 ---
 
@@ -309,7 +309,8 @@ Kenapa ga acak? Daftar pendaftar belum ada sebelum mereka dateng, jadi ga bisa d
 ### g. Pengumpulan data
 - Kuesioner **formulir daring (Google Form)**, tertutup, dibuka di HP responden lewat kode QR atau tautan, diisi di kantor.
 - Diisi di kantor **langsung setelah** penjelasan petugas.
-- Yang susah baca, butirnya dibacain dengan kalimat sama, jawaban tetep dari responden.
+- Yang susah baca atau gagap formulir, butirnya lu bacain dengan kalimat sama, dia jawab, lu yang masukin jawabannya ke formulir.
+- Kenapa ga diisi di rumah: rasa kaget dan khawatirnya udah diolah begitu sampai rumah, info yang dicari sesudah daftar bisa kecampur ke X, soal benar-salah bisa dijawab sambil buka aplikasi, dan yang ngisi cuma yang niat sehingga urutan sampel ga kejaga.
 - Setelah dapet izin kantor, dan persetujuan responden diminta dulu.
 
 ### h. Validitas dan reliabilitas
@@ -336,6 +337,8 @@ Kenapa ga acak? Daftar pendaftar belum ada sebelum mereka dateng, jadi ga bisa d
 5. Uji 3 hipotesis sekaligus nambah peluang hasil kebetulan.
 6. Skor afektif rendah ga bisa bedain "lega" dari "biasa aja".
 7. Semua teori dari konteks lain (kesehatan, politik, layanan komersial, psikologi umum), sambungannya ke haji itu dugaan.
+8. Jawaban X bergantung ingatan soal kejadian yang udah lewat, dan kapan "memutuskan mendaftar" ditentuin responden sendiri (ditulis di naskah 21 November 2026).
+9. Kuesioner diisi di kantor sesaat sesudah dilayani, jadi responden bisa sungkan ngaku belum paham, apalagi kalau dibantu peneliti. Pengamannya: tanpa nama, dan lembar persetujuan nyatain jawaban dirahasiakan serta ga ngaruh ke pendaftaran (ditulis di naskah 21 November 2026).
 
 ---
 
@@ -384,7 +387,7 @@ Kenapa ga acak? Daftar pendaftar belum ada sebelum mereka dateng, jadi ga bisa d
 
 ## 13. Yang masih bolong atau perlu dicek ulang
 
-1. Nama resmi aplikasi (Satu Haji, beberapa media nyebut berganti jadi Haji Pintar) belum dicek ke sumber resmi kementerian. Di naskah ditulis sebagai pengamatan peneliti.
+1. Nama resmi aplikasi belum dicek ke sumber resmi kementerian. Beberapa media nulis Satu Haji sebagai nama baru Haji Pintar. Di naskah ditulis sebagai pengamatan peneliti.
 2. Aturan "baru bisa dicek 3 hari setelah daftar" cuma dari pengalaman lu, ga ketemu di sumber resmi.
 3. Kunci soal E1 sampai E3 dicek ke kantor menjelang turun lapangan.
 4. Naskah lengkap Lewis dkk. (2024) belum dipegang.
@@ -392,3 +395,7 @@ Kenapa ga acak? Daftar pendaftar belum ada sebelum mereka dateng, jadi ga bisa d
 6. Tahap 14 (validitas dan reliabilitas) belum diaudit kayak tema 1.
 7. Skema alur di Word perlu dicek, begitu juga sampul, tabel, dan nomor halaman.
 8. Judul dan draf belum dilihat dosen pembimbing.
+9. Butir Y (kognitif, afektif, konatif) disusun peneliti dari konsep teori dan pengamatan PPM, bukan dari skala baku. Bawa ke pembimbing.
+10. Tujuh butir X itu paparan dari sumber yang beda-beda, jadi wajar kalau ga kompak dan Alpha Cronbach-nya rendah. Naskah belum ngebahas ini. Bawa ke pembimbing.
+11. Orang yang batal daftar sesudah tau lamanya antrean ga masuk sampel. Belum ditulis eksplisit di naskah.
+12. Kegunaan praktis buat calon jemaah udah diganti dari "manfaat mencari informasi" jadi "kaitan antara informasi yang diperoleh sebelum mendaftar dan respons", biar ga jadi klaim sebab akibat.
