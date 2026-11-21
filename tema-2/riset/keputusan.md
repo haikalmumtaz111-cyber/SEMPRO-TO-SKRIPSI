@@ -59,6 +59,8 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 - 11 Nov 2026 (pembaruan): data Siskohat rentang 1 Januari sampai 11 November 2026 diterima: 3.076 pendaftar, rata-rata sekitar 297 per bulan. **Sampel menjadi 75 responden** (Slovin 10%). Angka ini menggantikan 330 per bulan dan 77 responden. Tangkapan layar tidak disimpan di repo.
 - 11 Nov 2026: indikator "sanggup menjelaskan kembali" (butir B4) **dibuang** karena rujukannya tidak ditemukan. Y kognitif menjadi 3 butir, total 20 butir skala ditambah 3 soal faktual. Naskah bersih dari tanda [PERLU ...].
 
+- 21 Nov 2026: **proposal yang dibawa ke seminar adalah tema 2** (keputusan user). Tema 1 ditunda. Bank soal latihan di `riset/bank-soal-sempro.md`. Lima temuan di bank soal bertanda bolong di naskah belum diputuskan user.
+
 ## Keputusan terbuka (urut prioritas)
 
 1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.

@@ -298,3 +298,4 @@ Format tiap entri: tanggal, yang dikerjakan, keputusan user, tugas berikutnya.
 - Verdik formatif: SIAP DENGAN PERBAIKAN. Titik rawan: kompleksitas vs ambiguitas, asal penelusuran celah, nomor WA jemaah (data pribadi).
 - Tidak ada keputusan penelitian baru. Naskah tidak diubah.
 - Tugas berikutnya: user latihan jawab tertulis, verifikasi tiga butir `[PERLU VERIFIKASI]` di bank soal, lalu Tahap 17.
+- Keputusan user (21 November 2026): seminar memakai proposal tema 2. Tema 1 ditunda, tema aktif pindah ke `tema-2`.

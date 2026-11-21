@@ -9,7 +9,7 @@ Repo ini memuat lebih dari satu proposal. Tiap tema punya folder sendiri dan tid
 - `tema-1/` : proposal pertama (persepsi kompleksitas dan layanan tatap muka). Draf jadi 5 November 2026, dirombak mulai 11 November 2026 atas permintaan user dengan metode tema 2: ChatGPT di proyek terpisah sebagai penyusun, Claude sebagai pengarah dan evaluator, lihat `tema-1/riset/pengarah-chatgpt.md`. Bagian yang terbukti benar tidak diubah.
 - `tema-2/` : proposal kedua (paparan informasi pra-pendaftaran dan respons calon jemaah). Riset disusun user bersama ChatGPT dengan Claude sebagai pengarah (`tema-2/riset/pengarah-chatgpt.md`), naskah ditulis Claude. Draf lengkap, menunggu bimbingan (Tahap 17).
 
-**Tema aktif sekarang: `tema-1` (rombak).** Tema 2 menunggu hasil bimbingan. Kalau user tidak menyebut tema, kerjakan tema aktif. Kalau ragu, tanya dulu. Semua path `riset/`, `proposal/`, `output/`, `Sumber/` di bawah ini relatif terhadap folder tema aktif.
+**Tema aktif sekarang: `tema-2`.** Keputusan user 21 November 2026: proposal yang dibawa ke seminar adalah tema 2, tema 1 ditunda. Kalau user tidak menyebut tema, kerjakan tema aktif. Kalau ragu, tanya dulu. Semua path `riset/`, `proposal/`, `output/`, `Sumber/` di bawah ini relatif terhadap folder tema aktif.
 
 ## Baca dulu tiap sesi
 

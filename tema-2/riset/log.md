@@ -338,3 +338,11 @@
 
 - Dikerjakan: `riset/ringkasan-belajar.md`, bahan belajar user berbahasa santai: asal-usul, tahapan, istilah khas tema 2, pemilihan variabel, teori dan batasnya, ringkasan rujukan dan 6 skripsi terdahulu, butir, metode, keterbatasan, 13 perkiraan pertanyaan dosen, daftar yang perlu dicek ulang (termasuk catatan riset yang beda soal penulis Roseman 1996).
 - Tidak ada keputusan penelitian baru. Naskah tidak diubah.
+
+## 21 November 2026
+
+- Keputusan user: proposal yang dibawa ke seminar adalah tema 2. Tema 1 ditunda. `CLAUDE.md` diperbarui, tema aktif `tema-2`.
+- Dikerjakan: `riset/bank-soal-sempro.md`, bank soal latihan sempro dari naskah, dibagi empat "kenapa" (urgensi, teori, state of the art, metode) plus soal jebakan, tiap soal dengan sasaran baris naskah dan arah jawaban.
+- Verdik formatif: SIAP DENGAN PERBAIKAN. Temuan yang belum ada di naskah (penilaian Claude, belum diputuskan user): bias ingatan pada X, rasa sungkan responden saat mengisi di kantor, kecocokan Alpha Cronbach untuk tujuh butir X dari sumber berbeda, kata "manfaat" di kegunaan praktis, pendaftar yang batal tidak terjangkau.
+- Naskah tidak diubah.
+- Tugas berikutnya: user memutuskan apakah temuan di atas dimasukkan ke naskah, latihan jawab tertulis, verifikasi butir `[PERLU VERIFIKASI]`, lalu Tahap 17 (bimbingan).
