@@ -143,7 +143,7 @@ Lanjutan yang mungkin: "Tapi X kan kejadiannya sebelum Y?" Jawab: urutan waktuny
 
 Sasaran: `proposal.md:52`, `proposal.md:74-75`, `proposal.md:147`.
 
-Arah jawaban: rentang 12 bulan ngikutin cara ukur Kelly, et al. (2009:727). Risiko salah ingat ada, makanya pilihannya kategori kasar (tidak pernah, 1 sampai 2 kali, 3 sampai 5 kali, lebih dari 5 kali), bukan angka pasti. `[BOLONG DI NASKAH]`: bias ingatan belum ditulis sebagai keterbatasan. Usul: tambah satu kalimat di Teknik Pengumpulan Data atau Analisis Data.
+Arah jawaban: rentang 12 bulan ngikutin cara ukur Kelly, et al. (2009:727). Risiko salah ingat ada, makanya pilihannya kategori kasar (tidak pernah, 1 sampai 2 kali, 3 sampai 5 kali, lebih dari 5 kali), bukan angka pasti. Bias ingatan sudah ditulis sebagai keterbatasan di Teknik Pengumpulan Data (ditambahkan 21 November 2026).
 
 Lanjutan yang mungkin: "Kapan seseorang dianggap 'memutuskan mendaftar'?" Ini susah. Jawab jujur: titiknya ditentuin responden sendiri, dan itu sumber ketidaktepatan.
 
@@ -151,7 +151,7 @@ Lanjutan yang mungkin: "Kapan seseorang dianggap 'memutuskan mendaftar'?" Ini su
 
 Sasaran: `proposal.md:147`.
 
-Arah jawaban: diisi langsung biar responsnya masih segar, itu kekuatannya. Kelemahannya: responden bisa sungkan ngaku ga paham di depan kantor yang baru ngelayanin dia, apalagi kalau butirnya dibacain peneliti. `[BOLONG DI NASKAH]`: risiko jawaban yang condong ke "paham" belum ditulis. Usul pengaman: bilang ke responden jawabannya ga dilihat petugas, tanpa nama, dan ga ngaruh ke pendaftarannya.
+Arah jawaban: diisi langsung biar responsnya masih segar, itu kekuatannya. Kelemahannya: responden bisa sungkan ngaku ga paham di depan kantor yang baru ngelayanin dia, apalagi kalau butirnya dibacain peneliti. Risiko ini sudah ditulis sebagai keterbatasan di Teknik Pengumpulan Data (ditambahkan 21 November 2026). Pengamannya: kuesioner ga minta nama, dan lembar persetujuan nyatain jawaban dirahasiakan serta ga ngaruh ke pendaftaran.
 
 ### 4.4 ★ "Butir kuesioner lu dari mana? Ada skala bakunya?"
 
@@ -219,11 +219,11 @@ Latih versi 4 kalimat:
 3. Gue ukur bekal itu, terus gue hubungin ke tiga respons: seberapa paham, seberapa terkejut dan khawatir, seberapa niat nanya atau ngecek lagi.
 4. Datanya dari kuesioner ke sekitar 75 pendaftar, diuji korelasi, hasilnya dibaca sebagai hubungan, bukan sebab akibat.
 
-### 5.2 ★ "Kegunaan praktis lu nulis 'manfaat mencari informasi sebelum mendaftar'. Itu kan klaim sebab akibat?"
+### 5.2 "Jadi menurut lu calon jemaah sebaiknya cari informasi dulu sebelum daftar?"
 
 Sasaran: `proposal.md:48`.
 
-Arah jawaban: `[BOLONG DI NASKAH]`, penilaian Claude. Kata "manfaat" ngasih kesan mencari informasi bikin respons lebih baik, padahal penelitian cuma nguji hubungan. Akui ke penguji dan bilang kalimatnya akan diperbaiki. Usul ganti: "penelitian ini dapat menjadi gambaran tentang kaitan antara informasi yang diperoleh sebelum mendaftar dan respons saat menerima penjelasan petugas." Naskah belum diubah, tunggu keputusan lu.
+Arah jawaban: sudah diperbaiki 21 November 2026. Kata "manfaat" diganti jadi "kaitan antara informasi masa tunggu yang diperoleh sebelum mendaftar dan respons mereka ketika menerima penjelasan petugas". Soal ini tetap dilatih: kalau penguji nanya kegunaan buat calon jemaah, jangan kepeleset bilang mencari informasi itu bikin respons lebih baik.
 
 ### 5.3 "Orang yang mundur daftar gara-gara tau antreannya lama kan ga ada di sampel lu?"
 
@@ -243,11 +243,9 @@ Arah jawaban: dua-duanya dari pengamatan lu selama PPM, dan di naskah ditulis se
 
 ## Verdik formatif
 
-**SIAP DENGAN PERBAIKAN.** Naskah udah jujur soal batas teorinya (hubungan X dan Y itu dugaan peneliti) dan batas desainnya (hubungan bukan sebab akibat, consecutive, Slovin). Yang harus diberesin sebelum sempro:
+**SIAP DENGAN PERBAIKAN.** Naskah udah jujur soal batas teorinya (hubungan X dan Y itu dugaan peneliti) dan batas desainnya (hubungan bukan sebab akibat, consecutive, Slovin). Tiga bolong kecil (bias ingatan, rasa sungkan responden, kata "manfaat") sudah diperbaiki di naskah 21 November 2026. Yang harus diberesin sebelum sempro:
 
 1. Soal 4.4 dan 4.5: butir Y susunan sendiri dan Cronbach buat X. Bawa ke pembimbing, ini paling mungkin diserang.
-2. Soal 4.2 dan 4.3: bias ingatan dan rasa sungkan responden belum ditulis sebagai keterbatasan.
-3. Soal 5.2: kata "manfaat" di kegunaan praktis kelewat klaim.
-4. Soal 2.2: lu harus lancar bilang "ini dugaan saya, bukan isi teorinya" tanpa gelagapan.
+2. Soal 2.2: lu harus lancar bilang "ini dugaan saya, bukan isi teorinya" tanpa gelagapan.
 
 Yang harus lu cek sendiri: beda 26 dan 14 tahun (1.3), tempat dan kata kunci penelusuran (3.2), jenis sumber penelitian terdahulu (3.3), usia minimal (4.11), nama aplikasi dan jeda 3 hari (5.5).
