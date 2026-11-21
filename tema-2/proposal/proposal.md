@@ -45,7 +45,7 @@ Penelitian ini diharapkan menambah kajian manajemen haji dan umrah tentang pelay
 
 ## 2. Kegunaan Praktis
 
-Bagi Kantor Kementerian Haji dan Umrah Kabupaten Bandung, hasil penelitian ini dapat menjadi bahan pertimbangan dalam menyampaikan informasi masa tunggu kepada pendaftar, misalnya dengan menanyakan lebih dulu apa yang sudah diketahui calon jemaah. Bagi calon jemaah, penelitian ini dapat menjadi gambaran tentang manfaat mencari informasi masa tunggu sebelum mendaftar.
+Bagi Kantor Kementerian Haji dan Umrah Kabupaten Bandung, hasil penelitian ini dapat menjadi bahan pertimbangan dalam menyampaikan informasi masa tunggu kepada pendaftar, misalnya dengan menanyakan lebih dulu apa yang sudah diketahui calon jemaah. Bagi calon jemaah, penelitian ini dapat menjadi gambaran tentang kaitan antara informasi masa tunggu yang diperoleh sebelum mendaftar dan respons mereka ketika menerima penjelasan petugas.
 
 # E. Kerangka Pemikiran
 
@@ -144,7 +144,9 @@ Calon jemaah yang datang untuk urusan selain pendaftaran baru, yang penjelasanny
 
 ## 6. Teknik Pengumpulan Data
 
-Data dikumpulkan dengan kuesioner (angket) tertutup dalam bentuk lembar cetak. Kuesioner diisi di kantor segera setelah responden menerima penjelasan petugas. Bagi responden yang kesulitan membaca, peneliti membacakan butir dengan kalimat yang sama, dan jawaban tetap diberikan oleh responden. Butir tentang paparan menanyakan pengalaman 12 bulan sebelum responden memutuskan mendaftar, sedangkan butir tentang respons menanyakan keadaan responden setelah mendengar penjelasan petugas. Pengumpulan data dilakukan setelah peneliti memperoleh izin penelitian dari kantor, dan persetujuan responden diminta sebelum pengisian.
+Data dikumpulkan dengan kuesioner (angket) tertutup berbentuk formulir daring yang dibuat dengan Google Form. Responden membuka formulir itu di telepon genggamnya melalui kode QR atau tautan yang disediakan peneliti, lalu mengisinya di kantor segera setelah menerima penjelasan petugas. Bagi responden yang kesulitan membaca atau memakai formulir, peneliti membacakan butir dengan kalimat yang sama dan memasukkan jawaban yang disebutkan responden ke dalam formulir. Butir tentang paparan menanyakan pengalaman 12 bulan sebelum responden memutuskan mendaftar, sedangkan butir tentang respons menanyakan keadaan responden setelah mendengar penjelasan petugas. Pengumpulan data dilakukan setelah peneliti memperoleh izin penelitian dari kantor, dan persetujuan responden diminta sebelum pengisian.
+
+Cara pengumpulan ini mengandung dua kelemahan. Jawaban atas butir paparan bertumpu pada ingatan responden tentang kejadian yang sudah lewat, dan saat "memutuskan mendaftar" ditentukan oleh responden sendiri sehingga jawabannya dapat tidak tepat walaupun pilihannya berupa kategori jumlah. Kuesioner juga diisi di kantor sesaat setelah responden dilayani sehingga responden dapat merasa sungkan menyatakan belum paham, terlebih apabila butir dibacakan oleh peneliti. Untuk mengurangi rasa sungkan tersebut, kuesioner tidak meminta nama, dan lembar persetujuan menyatakan bahwa jawaban dirahasiakan serta tidak memengaruhi proses pendaftaran. Ketidaktepatan ingatan dan kemungkinan jawaban yang condong ke arah yang dianggap pantas dicatat sebagai keterbatasan penelitian.
 
 ## 7. Validitas dan Reliabilitas
 
