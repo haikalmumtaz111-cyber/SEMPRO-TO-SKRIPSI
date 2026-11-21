@@ -76,7 +76,7 @@ Berikutnya: **Tahap 17**, bawa ke dosen pembimbing. Status sekarang: **tema 2 ya
 |---|---|---|
 | **Paparan informasi** | Seberapa sering seseorang ketemu suatu info, baik dicari maupun ga sengaja | Seberapa sering lu kena iklan sebuah lagu sebelum akhirnya lu dengerin full |
 | ***Information seeking*** | Sengaja nyari info | Pak Budi ngetik "berapa lama antre haji Jawa Barat" di Google |
-| ***Information scanning*** | Dapet info tanpa sengaja nyari, di kegiatan sehari-hari | Pak Budi lagi scroll Facebook, lewat postingan soal antrean haji |
+| ***Information scanning*** | Dapet info di kegiatan sehari-hari, padahal lagi ga nyari | Pak Budi lagi scroll Facebook, lewat postingan soal antrean haji |
 | **Respons kognitif** | Respons pikiran: paham atau ga | Pak Budi ngerti ga penjelasan petugas |
 | **Respons afektif** | Respons perasaan | Pak Budi kaget, khawatir |
 | **Respons konatif** | Respons kecenderungan bertindak, di sini berupa **niat** | Pak Budi niat ngecek aplikasi tiap bulan |
