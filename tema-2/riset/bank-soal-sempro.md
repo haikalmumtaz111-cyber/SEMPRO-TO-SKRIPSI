@@ -34,7 +34,7 @@ Contoh Pak Budi: Pak Budi udah sering liat berita antrean haji di HP dan pernah 
 
 Sasaran: `proposal.md:6`.
 
-Arah jawaban: dua-duanya dari rilis Sekretariat Kabinet (2026) dan ngukur hal beda. 26 tahun itu rata-rata antrean nasional hasil formula baru. 14 tahun itu masa tunggu yang beneran dijalani jemaah yang berangkat 2026 (antrean faktual). Angka 26 tahun yang disampaikan petugas di loket itu pengamatan lu, bukan ketentuan resmi. `[PERLU VERIFIKASI]`: baca ulang rilis Setkab sampai lu bisa jelasin bedanya tanpa liat naskah, dan cek ulang ke kantor angka yang sekarang disampaikan petugas.
+Arah jawaban: dua-duanya dari rilis Sekretariat Kabinet (2026) dan ngukur hal beda. 26 tahun itu rata-rata antrean nasional hasil formula baru. 14 tahun itu masa tunggu yang beneran dijalani jemaah yang berangkat 2026 (antrean faktual). Angka 26 tahun itu sendiri resmi dari pemerintah (rilis Setkab 28 September 2026; menurut Wamenhaj, secara administrasi antrean tetap 26 tahun dan 14 tahun itu antrean faktual). Yang statusnya pengamatan lu cuma satu: bahwa petugas di loket Kabupaten Bandung nyampein angka sekitar 26 tahun ke pendaftar selama PPM, karena itu ga ada dokumennya. Dicek ulang lewat penelusuran web 21 November 2026. `[PERLU VERIFIKASI]`: baca ulang rilis Setkab sampai lu bisa jelasin bedanya tanpa liat naskah, dan cek ulang ke kantor angka yang sekarang disampaikan petugas.
 
 ### 1.4 "Apa hubungannya sama Manajemen Haji dan Umrah? Ini kayak penelitian komunikasi."
 
