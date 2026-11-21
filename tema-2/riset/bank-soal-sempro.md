@@ -265,6 +265,67 @@ Arah jawaban: dua-duanya dari pengamatan lu selama PPM, dan di naskah ditulis se
 
 ---
 
+## 6. Tambahan dari daftar pertanyaan sempro yang beredar
+
+Ditambahkan 21 November 2026 sesudah dicocokkan dengan dua daftar pertanyaan sempro di Threads yang dibagikan user. Yang sudah ada di bagian 1 sampai 5 tidak diulang. Catatan: daftar itu nyebut "bab 1" dan "bab 2", sedangkan proposal kuantitatif FDK ga pakai bab. Jawabannya ada di komponen A sampai G.
+
+### 6.1 "Kenapa fenomena ini, bukan fenomena lain di kantor itu?"
+
+Sasaran: `proposal.md:6`, `proposal.md:10`.
+
+Arah jawaban: tiga alasan dari naskah. Lu ngamatin langsung dan berulang selama PPM. Masa tunggu termasuk informasi pertama yang diterima orang waktu mendaftar, dan semua pendaftar nerima penjelasan itu pas penyerahan SPPH. Responsnya bisa diukur segera sesudah kejadian. Jangan bilang ini fenomena paling penting di kantor, karena lu ga punya pembandingnya.
+
+### 6.2 "Kenapa rumusan masalahnya jadi lima pertanyaan?"
+
+Sasaran: `proposal.md:20-28`.
+
+Arah jawaban: dua pertanyaan pertama deskriptif (gambaran X dan gambaran Y). Tiga sisanya hubungan, satu per jenis respons, karena Y dianalisis per dimensi dan ga ada skor gabungan. Bentuknya "apakah terdapat hubungan" karena hipotesisnya ga berarah.
+
+### 6.3 "Tujuan lu udah ngejawab rumusan masalah?"
+
+Sasaran: `proposal.md:34-38`, `proposal.md:155-157`.
+
+Arah jawaban: lima tujuan berpasangan satu-satu dengan lima pertanyaan. Tujuan 1 dan 2 dijawab analisis deskriptif, tujuan 3 sampai 5 dijawab uji korelasi.
+
+### 6.4 "Manfaat teoretis dan praktisnya apa?"
+
+Sasaran: `proposal.md:44`, `proposal.md:48`.
+
+Arah jawaban: akademis, nambah kajian Manajemen Haji dan Umrah soal pelayanan informasi di tahap pendaftaran, dengan pembedaan seeking dan scanning, dan jadi bahan penelitian berikutnya yang rancangannya lebih kuat. Praktis, buat kantor jadi bahan pertimbangan cara nyampein masa tunggu, misalnya nanya dulu apa yang udah diketahui calon jemaah. Buat calon jemaah, gambaran kaitan antara informasi sebelum daftar dan respons waktu dijelasin petugas. Jangan janji hasilnya bakal memperbaiki layanan.
+
+### 6.5 ★ "Definisi paparan informasi menurut lu apa? Respons itu apa?"
+
+Sasaran: `proposal.md:52-54`, matriks `proposal.md:74-80`.
+
+Arah jawaban, hafalin isinya bukan kalimatnya:
+- Paparan: seberapa sering calon jemaah, dalam 12 bulan sebelum memutuskan mendaftar, sengaja mencari dan tanpa sengaja menemukan informasi masa tunggu dari berbagai sumber.
+- Seeking: usaha aktif nyari informasi tertentu di luar kebiasaan sehari-hari. Scanning: informasi yang didapet dalam kebiasaan sehari-hari tanpa sengaja dicari (Niederdeppe, et al., 2007:155).
+- Respons kognitif: tingkat pemahaman yang dirasakan atas penjelasan petugas. Afektif: kuat lemahnya reaksi emosi (terkejut dan khawatir). Konatif: kuat lemahnya niat menindaklanjuti (nanya petugas, ngecek lewat aplikasi).
+
+Jebakan: paparan di sini soal berapa kali, bukan berapa lama nonton atau seberapa dalam mikirinnya. Nyari info atau nanya sesudah mendaftar itu Y konatif, bukan X.
+
+### 6.6 ★ "Posisi penelitian lu apa: memperluas teori atau memvalidasi teori?"
+
+Sasaran: `proposal.md:56-62`.
+
+Arah jawaban: bukan dua-duanya. Naskah nulis TPB ga diuji, dan CMM dipakai sebagai tafsir. Penelitian ini minjem konsep dari teori-teori itu buat nyusun dugaan, lalu nguji dugaan itu di konteks pendaftaran haji. Kalau ngaku "memvalidasi teori", lu bakal ditanya kenapa variabel teorinya ga diukur.
+
+Kalimat ke penguji: "Penelitian ini tidak menguji teorinya, Pak/Bu. Saya memakai konsepnya untuk menyusun dugaan hubungan, lalu menguji dugaan itu pada calon jemaah haji."
+
+### 6.7 ★ "Kenapa kuantitatif, bukan kualitatif?"
+
+Sasaran: `proposal.md:110-114`, `proposal.md:54`.
+
+Arah jawaban: pertanyaan lu ada tidaknya hubungan antara dua hal yang bisa diukur pada banyak pendaftar, dan itu dijawab pakai angka. Respons jemaah terhadap kebijakan masa tunggu udah dikaji kualitatif oleh Ardiansyah (2026:33). Kualitatif lebih cocok buat ngegali alasan di balik respons, dan itu memang ga dijawab penelitian ini.
+
+### 6.8 "Kebaruan penelitian lu apa? Bedanya sama research gap?"
+
+Sasaran: `proposal.md:14`.
+
+Arah jawaban: gap itu yang belum diteliti, kebaruan itu yang lu bawa. Gap: dari yang ditelusuri, belum ditemukan penelitian yang ngukur informasi masa tunggu sebelum memutuskan daftar lalu ngehubunginnya ke respons sesudah penjelasan petugas. Kebaruan: X diukur dengan seeking dan scanning, dan urutan waktunya (sebelum daftar ke sesudah penjelasan). Tetap pakai batas "dari yang ditelusuri".
+
+---
+
 ## Verdik formatif
 
 **SIAP DENGAN PERBAIKAN.** Naskah udah jujur soal batas teorinya (hubungan X dan Y itu dugaan peneliti) dan batas desainnya (hubungan bukan sebab akibat, consecutive, Slovin). Tiga bolong kecil (bias ingatan, rasa sungkan responden, kata "manfaat") sudah diperbaiki di naskah 21 November 2026. Yang harus diberesin sebelum sempro:
