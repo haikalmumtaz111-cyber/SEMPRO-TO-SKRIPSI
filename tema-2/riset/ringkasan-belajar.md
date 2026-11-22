@@ -337,8 +337,8 @@ Kenapa ga acak? Daftar pendaftar belum ada sebelum mereka dateng, jadi ga bisa d
 3. Lansia yang diwakili pendamping kurang terwakili.
 4. Y kognitif cuma 3 butir.
 5. Uji 3 hipotesis sekaligus nambah peluang hasil kebetulan.
-6. Skor afektif rendah ga bisa bedain "lega" dari "biasa aja".
-7. Semua teori dari konteks lain (kesehatan, politik, layanan komersial, psikologi umum), sambungannya ke haji itu dugaan.
+6. Skor afektif rendah ga bisa bedain "lega" dari "biasa aja". (Ada di catatan riset, belum ditulis di naskah.)
+7. Semua teori dari konteks lain (kesehatan, politik, layanan komersial, psikologi umum), sambungannya ke haji itu dugaan. (Di naskah ini ditulis buat Zeithaml, Roseman, dan Lewis. Buat Eveland naskah nulisnya beda: modelnya ga ngebahas paparan.)
 8. Jawaban X bergantung ingatan soal kejadian yang udah lewat, dan kapan "memutuskan mendaftar" ditentuin responden sendiri (ditulis di naskah 21 November 2026).
 9. Kuesioner diisi di kantor sesaat sesudah dilayani, jadi responden bisa sungkan ngaku belum paham, apalagi kalau dibantu peneliti. Pengamannya: tanpa nama, dan lembar persetujuan nyatain jawaban dirahasiakan serta ga ngaruh ke pendaftaran (ditulis di naskah 21 November 2026).
 
@@ -362,7 +362,7 @@ Kenapa ga acak? Daftar pendaftar belum ada sebelum mereka dateng, jadi ga bisa d
    Daftar pendaftar belum ada sebelum mereka dateng, jadi ga bisa diundi.
 
 6. **"Orang disuruh inget 12 bulan sebelum daftar, akurat ga?"**
-   Ini titik lemah yang wajib lu akui: jawaban bergantung ingatan. Jangka 12 bulan diambil dari Kelly dkk. (2009:727), dan pilihan jawabannya rentang (1-2, 3-5 kali), bukan angka persis, biar lebih gampang dijawab.
+   Ini titik lemah yang wajib lu akui: jawaban bergantung ingatan. Jangka 12 bulan diambil dari Kelly dkk. (2009:727), dan pilihan jawabannya rentang (1-2, 3-5 kali), bukan angka persis. Naskah ngaku jawabannya tetap bisa ga tepat walaupun pilihannya rentang.
 
 7. **"Ngisi di kantor setelah dijelasin petugas, ga bias?"**
    Bisa ada kecenderungan jawab yang "enak didengar". Penangkalnya: jawaban dirahasiakan dan ditegaskan ga ngaruh ke pendaftaran. Kalau ditanya lagi, akui sebagai keterbatasan.
