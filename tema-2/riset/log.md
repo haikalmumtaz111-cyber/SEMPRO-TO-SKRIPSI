@@ -400,3 +400,11 @@
 - Ringkasan belajar: keterbatasan nomor 6 dan 7 diberi keterangan mana yang belum atau hanya sebagian tertulis di naskah, jawaban nomor 6 di bagian 12 disamakan dengan naskah.
 - Naskah proposal tidak diubah. Naskah benar di semua titik itu; yang keliru bahan belajarnya.
 - Tugas berikutnya: latihan bank soal untuk seminar 23 November 2026.
+
+## 22 November 2026 (uraian penelitian Ardiansyah dibetulkan)
+
+- Temuan dari latihan user menjawab soal 3.1: kalimat naskah "Masa tunggu diteliti sebagai dampak kebijakan (Ardiansyah, 2026:5)" terbaca terbalik. Judul skripsinya "Dampak kebijakan masa tunggu jemaah ...", jadi yang diteliti dampak dari kebijakan masa tunggu. Bank soal dan ringkasan belajar ikut memakai versi terbalik itu.
+- Keputusan user: kalimat naskah diganti menjadi "Dampak kebijakan masa tunggu terhadap jemaah diteliti Ardiansyah (2026:5), sedangkan masa tunggu sebagai faktor minat masyarakat untuk mendaftar atau berhaji diteliti Budiarti (2025:7) dan Al-Anwari (2026:10)." Angka halaman tidak berubah. Word dibangun ulang.
+- Dicek langsung dari berkas skripsi Ardiansyah yang dikirim user: di halaman 33 ia membedakan respons kognitif, afektif, konatif tanpa sitasi, Breckler tidak ada di daftar pustakanya, ia memakai empat indikator (ditambah partisipasi), dan konatifnya berupa tindakan nyata. Dicatat di `riset/penelitian-terdahulu.md` dan bank soal 2.3.
+- Bank soal ditambah jawaban untuk pertanyaan lanjutan tentang tafsir peneliti (2.2, 2.5) dan teori penghubung X dengan Y (2.2).
+- Tugas berikutnya: seminar 23 November 2026.
