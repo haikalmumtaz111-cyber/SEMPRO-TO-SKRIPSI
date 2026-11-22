@@ -202,13 +202,23 @@ Tiga kata yang harus dijaga waktu ngomong: Lewis "menemukan", bukan "membuktikan
 
 Kalimat ke penguji: "Betul, Pak/Bu, penelitian Lewis tentang informasi kesehatan. Relevansinya ada pada konsepnya. Lewis menemukan bahwa *seeking* dan *scanning* berhubungan dengan sikap dan niat berperilaku, dan saya memakai konsep yang sama. Untuk calon jemaah haji, penelitian seperti itu belum saya temukan. Karena itu saya tidak menganggap temuan Lewis berlaku untuk jemaah. Hubungan itu yang akan saya uji."
 
-Status naskah Lewis, dikoreksi 22 November 2026: naskah lengkapnya SUDAH lu terima. Lu mengirim email ke penulisnya, Nehama Lewis, tanggal 11 November 2026, dan dia membalas hari itu juga dengan melampirkan PDF-nya (tangkapan layar email dikirim user). Catatan riset sebelumnya yang bilang "belum dipegang" itu basi. Tapi sudah diterima belum berarti sudah dibaca: yang dipakai di naskah tetap baru isi abstrak (halaman 468), dan isi PDF-nya belum dibaca Claude. Jangan nyebut angka hubungan seeking atau scanning dengan niat sebelum lu baca sendiri bagian hasilnya.
+Status naskah Lewis (22 November 2026): naskah lengkapnya sudah lu terima dari penulisnya, Nehama Lewis, lewat email 11 November 2026, dan sudah dibaca Claude 22 November 2026. Isi naskah lu cocok dengan artikelnya: 21 penelitian, 39.510 responden, dan halaman 468 itu halaman abstrak.
 
-Kalimat ke penguji kalau ditanya angkanya, selama lu belum baca bagian hasilnya: "Naskah lengkapnya sudah saya terima langsung dari penulisnya, Pak/Bu, tetapi yang saya pakai di proposal baru isi abstraknya. Angka rincinya akan saya masukkan setelah saya baca seluruhnya."
+Angka hasilnya (hlm. 473). Semua angka di bawah itu r, jadi makin dekat 1 makin kuat:
+- Seeking dengan niat: r = 0,24.
+- Scanning dengan niat: r = 0,11.
+- Seeking dengan sikap: r = 0,11.
+- Scanning dengan sikap: r = 0,10.
 
----
+Empat-empatnya plus (searah) dan signifikan, tapi kecil. Lewis sendiri nyebut hubungannya "modest", artinya ga besar (hlm. 475). Angka niat dihitung dari 9 penelitian dan angka sikap dari 6 penelitian, bukan dari 21.
 
-## 4. Kenapa metode ini (metode)
+Sebelum lu berani nyebut angka ini ke penguji, baca sendiri paragrafnya di halaman 473, yang diawali "The results showcased much more parity". Kalau belum sempat baca, pakai kalimat tanpa angka.
+
+Kalimat ke penguji kalau ditanya angkanya (sesudah lu baca hlm. 473): "Hubungannya positif tetapi kecil, Pak/Bu. Untuk niat, r-nya 0,24 pada *seeking* dan 0,11 pada *scanning*. Lewis sendiri menyebut hubungan itu tidak besar."
+
+Kalimat ke penguji kalau belum sempat baca: "Naskah lengkapnya sudah saya terima langsung dari penulisnya, Pak/Bu, tetapi yang saya pakai di proposal baru isi abstraknya."
+
+Catatan Claude, bukan isi naskah: hubungan yang ditemukan Lewis kecil, jadi dengan 75 responden hubungan sekecil itu bisa saja ga ketangkap. Dengan 75 orang, r baru dibilang signifikan kalau kira-kira 0,23 ke atas. Kalau penguji nanya "75 orang cukup?", jawab jujur: 75 itu jumlah minimal dari Slovin, dan kalau hubungannya kecil, hasilnya bisa ga signifikan. Bawa ini ke pembimbing sesudah seminar.
 
 ### 4.1 ★ "Bisa lu simpulkan paparan informasi memengaruhi respons jemaah?"
 

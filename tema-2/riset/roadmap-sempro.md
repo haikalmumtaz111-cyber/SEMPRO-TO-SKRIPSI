@@ -67,7 +67,7 @@ Daftar angka yang wajib di luar kepala:
 | Selama sempro | Bawa kertas dan pulpen. Catet **semua** masukan penguji, termasuk yang lu ga setuju. Kalau ga tau jawabannya, bilang "itu belum saya kaji, Pak/Bu, akan saya perbaiki", jangan ngarang. |
 | Sesudah sempro | Foto catatan masukan, kirim ke Claude hari itu juga buat disusun jadi daftar revisi. |
 | Sesudah sempro | Unduh dan baca dua artikel jurnal dari OpenAlex (Nandavita dan Islahuddin 2022; Husna dan Illahi 2023). Rinciannya di `riset/keputusan.md` bagian pengingat. |
-| Sesudah sempro | Baca naskah lengkap Lewis, et al. (2024) yang sudah dikirim penulisnya lewat email 11 November 2026, lalu kirim PDF-nya ke Claude untuk dicatat. Rinciannya di `riset/keputusan.md` bagian pengingat. |
+| Sesudah sempro | Tiga hal dari naskah lengkap Lewis, et al. (2024): angka masuk naskah atau tidak, ukuran sampel dibahas dengan pembimbing, dan dua calon teori penghubung dicek. Rinciannya di `riset/keputusan.md` bagian pengingat. |
 
 ---
 

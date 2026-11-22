@@ -163,7 +163,7 @@ Ini poin paling penting buat dipahami: **ga ada satu teori pun yang isinya "papa
 | Y afektif | Zeithaml dkk. (1993), Roseman dkk. (1996) | perkiraan dan kaget | menguji teori appraisal |
 | Y konatif | Ajzen (1991) | konsep niat | menguji TPB |
 | Struktur Y | Breckler (1984) | Y tiga komponen | tiga dimensi pasti kepisah bersih |
-| X ke Y | Lewis dkk. (2024) | seeking/scanning berhubungan dengan sikap dan niat | angka korelasinya |
+| X ke Y | Lewis dkk. (2024) | seeking/scanning berhubungan dengan sikap dan niat | temuan itu berlaku buat jemaah, atau hubungannya kuat (aslinya kecil) |
 
 ---
 
@@ -192,7 +192,8 @@ Ini poin paling penting buat dipahami: **ga ada satu teori pun yang isinya "papa
 
 **8. Lewis, Andrews, Keefe, & Walter (2024).** *Human Communication Research* 50(4).
 - **Isi:** meta-analisis 21 studi, 39.510 responden, konteks kesehatan. Seeking dan scanning berkorelasi r = 0,35. Keduanya berhubungan dengan sikap dan niat berperilaku (hlm. 468).
-- **Batas:** yang dibaca baru **abstrak dan tabel tambahan**, naskah lengkap belum dipegang. Angka korelasi ke niat ga ada di abstrak, jadi jangan disebut. Niatnya niat perilaku sehat.
+- **Angka hasil (hlm. 473, naskah lengkap dibaca Claude 22 November 2026):** seeking dengan niat r = 0,24, scanning dengan niat r = 0,11, seeking dengan sikap r = 0,11, scanning dengan sikap r = 0,10. Semuanya plus dan signifikan, tapi kecil. Lewis sendiri nyebutnya "modest" (hlm. 475).
+- **Batas:** niatnya niat perilaku sehat, bukan niat nanya atau ngecek. Naskah proposal lu baru make isi abstraknya (hlm. 468). Baca sendiri hlm. 473 sebelum nyebut angka.
 
 ### Penelitian terdahulu (6 skripsi prodi lu, UIN SGD)
 
@@ -380,7 +381,7 @@ Kenapa ga acak? Daftar pendaftar belum ada sebelum mereka dateng, jadi ga bisa d
     Ardiansyah kualitatif, soal dampak kebijakan masa tunggu. Lu kuantitatif, nyambungin info **sebelum** daftar dengan respons **sesudah** penjelasan petugas.
 
 12. **"Ada rujukan yang ngehubungin X langsung ke Y?"**
-    Lewis dkk. (2024): seeking dan scanning berhubungan dengan sikap dan niat, tapi itu soal kesehatan. Naskah lengkapnya belum lu pegang, jadi jangan ngutip angka yang ga ada di abstrak.
+    Lewis dkk. (2024): seeking dan scanning berhubungan dengan sikap dan niat, tapi itu soal kesehatan. Hubungannya plus tapi kecil: buat niat, r = 0,24 (seeking) dan r = 0,11 (scanning), ada di hlm. 473.
 
 13. **"Kenapa skor afektif gabungin kaget dan khawatir?"**
     Dua-duanya reaksi emosi kuat terhadap info masa tunggu. Biar aman, keduanya juga dilaporkan terpisah sebagai analisis tambahan.
@@ -392,7 +393,7 @@ Kenapa ga acak? Daftar pendaftar belum ada sebelum mereka dateng, jadi ga bisa d
 1. Nama resmi aplikasi belum dicek ke sumber resmi kementerian. Beberapa media nulis Satu Haji sebagai nama baru Haji Pintar. Di naskah ditulis sebagai pengamatan peneliti.
 2. Aturan "baru bisa dicek 3 hari setelah daftar" cuma dari pengalaman lu, ga ketemu di sumber resmi.
 3. Kunci soal E1 sampai E3 dicek ke kantor menjelang turun lapangan.
-4. Naskah lengkap Lewis dkk. (2024) belum dipegang.
+4. Naskah lengkap Lewis dkk. (2024) sudah diterima dari penulisnya (email 11 November 2026) dan sudah dibaca Claude 22 November 2026. Yang belum: lu baca sendiri hlm. 473 dan 475, dan putusin apakah angkanya dimasukin ke naskah.
 5. Catatan riset sempat beda soal penulis Roseman (1996): satu catatan bilang tunggal, catatan lain dan naskah bilang tiga penulis (Roseman, Antoniou, & Jose). Cek halaman pertama PDF-nya biar ga ditegur.
 6. Tahap 14 (validitas dan reliabilitas) belum dicek ulang kayak tema 1.
 7. Skema alur di Word perlu dicek, begitu juga sampul, tabel, dan nomor halaman.
