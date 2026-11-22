@@ -224,9 +224,17 @@ Catatan Claude, bukan isi naskah: hubungan yang ditemukan Lewis kecil, jadi deng
 
 Sasaran: `proposal.md:114`, `proposal.md:161`.
 
-Arah jawaban: ga bisa. Ini survei potong lintang: data diambil sekali, dan lu ga ngatur siapa dapet info berapa banyak (istilahnya ga ada manipulasi variabel). Hasilnya hubungan, makanya judulnya "Hubungan".
+Arah jawaban: ga bisa. "Memengaruhi" itu artinya menyebabkan, dan survei lu ga bisa nunjukin sebab. Alasannya dua.
+- Data diambil sekali doang (potong lintang). Ibarat foto, bukan video.
+- Lu cuma nanya. Lu ga nentuin siapa yang dikasih info dan siapa yang engga. Istilah kampusnya: ga ada manipulasi variabel.
 
-Lanjutan yang mungkin: "Tapi X kan kejadiannya sebelum Y?" Jawab: urutan waktunya memang X dulu, tapi dua-duanya ditanya di hari yang sama dan X dari ingatan. Faktor lain (pendidikan, usia, pernah daftarin keluarga) bisa bikin orang rajin cari info sekaligus lebih paham. Survei ini ga misahin itu.
+Biar kebayang bedanya: kalau mau nunjukin sebab, peneliti harus ngatur sendiri. Misalnya 40 orang dikasih video soal antrean haji sebelum daftar, 40 orang lagi ga dikasih, terus responsnya dibandingin. Itu namanya eksperimen. Lu ga begitu. Calon jemaah udah dapet info sendiri-sendiri jauh sebelum ketemu lu, dan lu tinggal nanya "dulu berapa kali?".
+
+Hasilnya hubungan, makanya judulnya "Hubungan".
+
+Kalimat ke penguji: "Tidak bisa, Pak/Bu. Data saya ambil satu kali, dan saya hanya menanyakan pengalaman responden, tidak mengatur siapa yang menerima informasi. Karena itu hasilnya saya baca sebagai hubungan, bukan pengaruh."
+
+Lanjutan yang mungkin: "Tapi X kan kejadiannya sebelum Y?" Jawab: urutan waktunya memang X dulu, tapi dua-duanya ditanya di hari yang sama dan X dari ingatan. Ada kemungkinan hal lain yang jadi penyebab dua-duanya. Contoh: Pak Budi seorang guru. Karena pendidikannya, dia rajin baca berita soal haji, dan karena pendidikannya juga dia gampang paham penjelasan petugas. Jadi yang bikin dia paham bisa aja pendidikannya, bukan beritanya. Hal lain yang mirip: usia, atau pernah daftarin keluarga. Survei lu ga bisa misahin itu. Contoh ini penjelasan Claude, bukan isi naskah.
 
 ### 4.2 ★ "X nanya kejadian 12 bulan sebelum memutuskan mendaftar. Jemaah inget?"
 
