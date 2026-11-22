@@ -168,10 +168,13 @@ Pembeda lu ada di X dan urutan waktunya: informasi yang didapat sebelum memutusk
 Sasaran: kalimat terakhir `proposal.md:14`.
 
 Arah jawaban: naskah udah jujur: penelusuran cuma di repositori satu perguruan tinggi dan satu basis data, jadi "tidak berarti penelitian serupa tidak ada". Lu wajib bisa nyebut tempat dan kata kuncinya. Dari `riset/penelitian-terdahulu.md`:
-- Tempat pertama: repositori skripsi UIN Sunan Gunung Djati Bandung (digilib.uinsgd.ac.id). Dari situ dapet enam skripsi.
-- Tempat kedua: OpenAlex (mesin pencari karya ilmiah), 11 November 2026.
-- Kata kunci di OpenAlex: "informasi masa tunggu haji calon jemaah", "masa tunggu haji calon jemaah", "hajj waiting list Indonesia pilgrims".
-- Batasnya: cuma tiga kata kunci, cuma hasil teratas yang dilihat, dan sebagian pencarian gagal. Jadi ini penelusuran awal.
+- Tempat pertama: repositori skripsi UIN Sunan Gunung Djati Bandung (digilib.uinsgd.ac.id). Dari situ enam skripsi yang lu pakai. Jangan bilang "cuma ada enam", karena jumlah seluruh hasil pencariannya ga dicatat.
+- Tempat kedua: OpenAlex (openalex.org), mesin pencari karya ilmiah gratis, mirip Google Scholar. Pertama dijalankan 11 November 2026, lalu lu ulang sendiri 22 November 2026.
+- Tiga kata kunci dan jumlah hasil waktu lu ulang 22 November 2026: "informasi masa tunggu haji calon jemaah" (2 hasil), "masa tunggu haji calon jemaah" (9 hasil), "hajj waiting list Indonesia pilgrims" (36 hasil).
+- Isi hasilnya, dilihat dari judul: SISKOHAT dan pelayanan pendaftaran, aturan dan masalah daftar tunggu, biaya haji, kesehatan jemaah, dan pengaruh antrean terhadap minat berhaji. Dari judul yang lu lihat, ga ada yang ngehubungin informasi sebelum mendaftar dengan respons calon jemaah.
+- Batasnya: cuma dua tempat, cuma tiga kata kunci, dan yang dinilai baru judulnya. Dari 36 hasil kata kunci ketiga, yang lu lihat baru halaman pertama (10 judul). Lihat juga halaman 2 sampai 4 sebelum sempro supaya lu bisa bilang semua judul sudah lu lihat.
+
+Kalimat ke penguji: "Betul, Pak/Bu, dan itu saya tulis di naskah sebagai keterbatasan. Saya menelusuri di dua tempat. Pertama, repositori skripsi UIN Sunan Gunung Djati Bandung, dan dari sana saya memakai enam skripsi. Kedua, OpenAlex, dengan tiga kata kunci tentang masa tunggu haji dan calon jemaah. Karena hanya dua tempat itu, saya tidak menyatakan penelitian serupa belum ada. Saya hanya menyatakan belum saya temukan."
 
 Penguji bisa minta lu nambah penelusuran, dan itu permintaan yang wajar.
 
@@ -181,7 +184,11 @@ Sasaran: `proposal.md:14`, Daftar Pustaka.
 
 Arah jawaban: iya, keenamnya skripsi UIN Sunan Gunung Djati Bandung (keliatan di Daftar Pustaka). Akui aja. Rujukan jurnal lu ada di bagian teori dan alat ukur (Niederdeppe, Kelly, Eveland, Roseman, Ajzen, Breckler, Lewis). Bilang lu siap nambah penelitian haji dari jurnal.
 
-Kalimat ke penguji: "Penelitian haji yang saya temukan memang skripsi, Pak/Bu. Rujukan jurnal saya ada di bagian teori dan alat ukur. Saya siap menambah penelitian terdahulu dari jurnal."
+Penelitian terdahulu ga harus skripsi. Panduan FDK nyebutnya "penelitian dan karya ilmiah yang sejenis dan terdahulu", jadi artikel jurnal boleh.
+
+Kalimat ke penguji: "Penelitian haji yang saya pakai memang skripsi, Pak/Bu. Rujukan jurnal saya ada di bagian teori dan alat ukur. Dari penelusuran di OpenAlex saya sudah mencatat beberapa artikel jurnal yang dekat dengan topik saya, tetapi belum saya baca. Itu akan saya tambahkan."
+
+Artikel jurnal yang sudah dicatat dan belum dibaca: Rizqiyah dan Chonyta (2024) tentang SISKOHAT dalam pelayanan pendaftaran, Kurniawan (2024) di jurnal *Mabrur* tentang korelasi Spearman pada daftar tunggu haji, Huda dan Haeba (2021) tentang aturan daftar tunggu. Jangan ceritain isinya, karena lu belum baca.
 
 ### 3.4 "Lewis itu soal kesehatan. Apa relevansinya?"
 
