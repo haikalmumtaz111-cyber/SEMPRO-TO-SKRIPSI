@@ -340,7 +340,13 @@ Bolongnya: naskah nulis X diuji Alpha Cronbach dan dinyatakan reliabel kalau alf
 
 Jangan ngarang pembelaan, karena ini memang belum ada di naskah.
 
-Kalimat ke penguji: "Itu masukan yang akan saya bawa ke pembimbing, Pak/Bu. Tujuh butir paparan memang menanyakan sumber yang berbeda-beda, jadi alfanya bisa rendah. Kalau itu terjadi, saya akan melaporkannya apa adanya beserta alasannya."
+Cara jawabnya tiga langkah: tunjukin lu paham masalahnya, bilang apa yang bakal lu lakuin, lalu terima sebagai masukan. Jangan jawab "cocok" dan jangan jawab "ga cocok".
+
+Kalimat ke penguji: "Tujuh butir paparan memang menanyakan sumber yang berbeda-beda, Pak/Bu, jadi alfanya bisa rendah. Kalau itu terjadi, saya akan melaporkannya apa adanya beserta alasannya. Cocok tidaknya uji itu untuk paparan akan saya bahas dengan pembimbing."
+
+Dua hal yang jangan diucapin: "saya belum punya jawaban", karena kedengarannya lu ga ngerti soalnya, padahal lu ngerti kenapa alfanya bisa rendah. Dan "mungkin dari Ibu ada masukan?", karena pertanyaan penguji itu sudah masukannya.
+
+Arti "masukan yang saya bawa ke pembimbing": pertanyaan penguji lu anggap saran perbaikan, dan lu beresin bareng dosen pembimbing sesudah seminar. Di seminar proposal itu wajar.
 
 Bawa ini ke pembimbing sesudah seminar.
 
