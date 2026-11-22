@@ -282,7 +282,15 @@ Sasaran: Teknik Pengumpulan Data `proposal.md:147`.
 
 Arah jawaban: formulirnya Google Form, dibuka di HP responden lewat kode QR atau tautan, dan diisi di kantor saat itu juga, bukan di rumah. Alasannya Y ngukur respons sesaat sesudah penjelasan petugas, jadi ga boleh ditunda. Yang kesulitan baca atau pakai formulir dibantu: lu bacain butirnya dengan kalimat yang sama, lalu lu masukin jawaban yang dia sebut. Akui kelemahannya: responden yang dibantu nyebut jawabannya ke lu, jadi rasa sungkannya bisa lebih besar. Soal sinyal, menurut pengalaman PPM lu sinyal di kantor aman.
 
+Awas, jangan kebalik: jemaah yang ga bisa pakai HP atau formulir TETAP jadi responden dan lu bantu. Jangan jawab "mereka bukan sasaran responden saya", karena naskah nulis sebaliknya (`proposal.md:147`). Yang ga jadi responden menurut naskah cuma tiga: yang dateng buat urusan selain pendaftaran baru, yang penjelasannya cuma didenger pendamping, dan yang tetap ga sanggup jawab walaupun butirnya dibacain (`proposal.md:143`). Soal pendamping itu urusan lain, jangan dicampur ke jawaban ini.
+
+Kalimat ke penguji: "Mereka tetap menjadi responden, Pak/Bu, dan saya bantu. Saya membacakan butirnya dengan kalimat yang sama, lalu memasukkan jawaban yang mereka sebutkan ke dalam formulir. Kelemahannya, responden yang dibantu menyebutkan jawabannya kepada saya, sehingga rasa sungkannya dapat lebih besar. Itu saya tulis sebagai keterbatasan."
+
+Kalau ditanya khusus soal yang ga punya HP: naskah nulis "kesulitan membaca atau memakai formulir" dan ga nyebut terang "tidak punya HP". Dalam praktik itu termasuk yang dibantu, dan lu masukin jawabannya dari HP lu sendiri.
+
 Lanjutan yang mungkin: "Kenapa ga dikirim lewat WA aja, diisi di rumah?" Jawab: rasa terkejut dan khawatirnya udah lewat begitu dia sampai rumah, dan urutan orang yang ngisi jadi ga bisa dijaga.
+
+Kalimat ke penguji (versi lu sendiri, sudah dirapikan): "Tidak bisa, Pak/Bu, karena yang saya ukur respons sesaat setelah penjelasan petugas. Kalau ditunda sampai di rumah, rasa terkejut dan khawatirnya sudah berubah." Simpan jawaban ini. Keluarin cuma kalau penguji benar-benar nanya, jangan nebak sarannya duluan.
 
 ### 4.4 ★ "Butir kuesioner lu dari mana? Ada skala bakunya?"
 
