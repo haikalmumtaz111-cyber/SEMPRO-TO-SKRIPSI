@@ -131,6 +131,16 @@ Sasaran: `proposal.md:12`, `proposal.md:58`.
 
 Arah jawaban: naskah ngakuin dua-duanya dari konteks lain, jadi penerapannya ke calon jemaah masih dugaan. Logikanya dua langkah: informasi dari luar ngebentuk perkiraan (Zeithaml), dan kejadian yang dinilai ga terduga munculin terkejut (Roseman). Roseman ga ngomongin "perkiraan". Yang nyambungin langkah satu ke langkah dua itu lu: orang yang udah punya perkiraan diduga ga terlalu terkejut. Rasa khawatir dianggap mirip *fear* (takut) di Roseman (1996:258), dan itu tafsir lu.
 
+Kenapa khawatir dicocokin ke *fear*: di daftar emosi Roseman ada *fear*, "khawatir" ga ada. Menurut catatan riset, *fear* muncul kalau ada hal yang ga diinginkan dan belum pasti kejadian. Khawatir soal usia dan khawatir ga berangkat sesuai estimasi punya ciri yang sama. Terkejut ga perlu ditafsirin karena Roseman nyebutnya langsung (1996:257), jadi dasar buat terkejut lebih kuat daripada buat khawatir.
+
+Lanjutan yang mungkin, berlaku buat tafsir mana pun (Eveland, Roseman, Zeithaml): "Boleh memangnya menafsirkan sendiri?" Polanya: boleh, asal ngaku itu tafsir lu, ada pijakannya, dan diuji.
+
+Kalimat ke penguji (versi umum): "Boleh, Pak/Bu, selama saya menyebutnya sebagai tafsir saya dan tidak mengatasnamakan penulis yang saya rujuk. Tafsir itu juga saya uji dengan data."
+
+Kalimat ke penguji (versi lu sendiri, sudah dirapikan): "Itu tafsir saya, Bu. Saya tidak menyatakan tafsir itu sudah terbukti benar. Saya akan mengujinya dengan data yang saya kumpulkan nanti." Awas satu hal: jangan bilang "data yang sudah saya kumpulkan", karena datanya belum ada.
+
+Kalau dikejar "dasar menafsirkan begitu apa?", sebut pijakannya. Buat khawatir: "Dasarnya ciri emosinya, Pak/Bu. Menurut Roseman, *fear* muncul ketika ada hal yang tidak diinginkan dan belum pasti terjadi. Rasa khawatir calon jemaah tentang usia dan keberangkatan punya ciri yang sama." Buat pemahaman, lihat soal 2.2.
+
 ### 2.6 "Kenapa terkejut sama khawatir dijadiin satu skor? Itu dua emosi beda."
 
 Sasaran: `proposal.md:58`, `proposal.md:77-78`, analisis tambahan `proposal.md:161`.
