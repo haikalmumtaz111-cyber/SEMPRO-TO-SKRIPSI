@@ -58,7 +58,7 @@ Arah jawaban: akui dulu bahwa dugaan soal terkejut memang paling dekat dengan ak
 - Akal sehat ga ngasih angka. Penelitian ini ngukur ada tidaknya hubungan dan besarnya.
 - Dari penelitian haji yang ditelusuri, hubungan ini belum ditemukan diuji (`proposal.md:14`).
 
-Kalimat ke penguji: "Untuk rasa terkejut dugaannya memang dekat dengan akal sehat, Pak/Bu. Tetapi untuk rasa khawatir, pemahaman, dan niat menindaklanjuti, arahnya belum jelas, dan pada calon jemaah haji hubungan ini belum saya temukan diuji."
+Kalimat ke penguji: "Untuk rasa terkejut, hasilnya memang mudah ditebak, Pak/Bu. Tetapi untuk rasa khawatir, pemahaman, dan niat menindaklanjuti, arahnya belum jelas. Saya juga belum menemukan penelitian yang menguji hubungan ini pada calon jemaah haji, dan seberapa kuat hubungannya baru dapat diketahui dari data."
 
 Jangan jawab pakai "membongkar mesin di otak" atau "vaksin mental". Penelitian ini ga ngukur proses di kepala responden.
 
