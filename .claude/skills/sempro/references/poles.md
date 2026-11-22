@@ -102,6 +102,15 @@ kalimat 10 kata ke bawah, gabungkan 2 sampai 3 kalimat dengan *karena*, *sehingg
 *sedangkan*, *meskipun*, *apabila*. Sisakan satu kalimat pendek penutup paragraf berisi
 fakta atau pengakuan batas, bukan punchline. Hitung gagasan sebelum dan sesudah.
 
+**e. Satu cara baca.** Baca tiap kalimat seolah belum tahu maksudnya. Kalau bisa
+dibaca dua cara, tulis ulang. Sumber yang sering: kata kerja yang muncul dua kali dengan
+tugas berbeda (*mencari dengan sengaja dan menemukan tanpa sengaja mencari informasi*),
+keterangan yang menempel ke kata yang salah (*tanpa sengaja dicari* jadi *tanpa dicari
+dengan sengaja*), kata yang punya arti lain (*pendeknya skala itu*, *belajar sedikit*),
+dan frasa kiasan padahal ada kata biasa (*paling dekat dengan akal sehat* jadi *paling
+mudah ditebak*). Penulis sudah tahu maksudnya, jadi kalimat yang paling rawan ditunjukkan
+ke user.
+
 ### 5. Periksa bukti
 
 ```bash
