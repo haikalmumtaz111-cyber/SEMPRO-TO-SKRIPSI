@@ -26,9 +26,9 @@ Kalimat ke penguji: "Datanya belum ada, Pak/Bu. Yang saya punya pengamatan selam
 
 Sasaran: `proposal.md:12`, `proposal.md:16`, `proposal.md:20`.
 
-Arah jawaban: kagetnya bukan masalah. Yang belum diketahui: kenapa responsnya beda-beda padahal penjelasan petugasnya sama. Dugaan lu, bedanya ada di bekal informasi yang dibawa sebelum mendaftar. Kalau terbukti berhubungan, kantor punya bahan buat nimbang cara nyampein masa tunggu ke pendaftar yang bekalnya beda.
+Arah jawaban: kagetnya bukan masalah. Yang belum diketahui: apakah beda respons itu ada kaitannya dengan bekal informasi yang dibawa sebelum mendaftar (`proposal.md:20`). Naskah nanya "ada kaitannya atau ga", bukan "kenapa". Naskah juga ga nulis bahwa penjelasan petugas ke tiap orang itu sama persis, jadi jangan diklaim. Kalau terbukti berhubungan, kantor punya bahan buat nimbang cara nyampein masa tunggu ke pendaftar yang bekalnya beda.
 
-Contoh Pak Budi: Pak Budi udah sering liat berita antrean haji di HP dan pernah nanya ke tetangga yang udah daftar. Bu Siti baru tau soal antrean pas di loket. Dua-duanya denger kalimat petugas yang sama. Pertanyaan penelitian lu: apakah reaksi mereka beda, dan apakah bedanya nyambung sama bekal informasi tadi.
+Contoh Pak Budi: Pak Budi udah sering liat berita antrean haji di HP dan pernah nanya ke tetangga yang udah daftar. Bu Siti baru tau soal antrean pas di loket. Dua-duanya dijelasin petugas soal masa tunggu. Pertanyaan penelitian lu: apakah reaksi mereka beda, dan apakah bedanya nyambung sama bekal informasi tadi.
 
 ### 1.3 "Di berita antrean haji sudah 14 tahun. Kok naskah lu 26 tahun?"
 
@@ -53,7 +53,7 @@ Arah jawaban: yang diteliti itu pelayanan informasi waktu pendaftaran haji, dan 
 Sasaran: `proposal.md:56-62`.
 
 Arah jawaban: akui dulu bahwa dugaan soal terkejut memang paling gampang ditebak. Lalu tunjukin empat hal.
-- Yang "jelas" itu cuma satu dari tiga hipotesis. Buat khawatir, arahnya ga ditentuin, karena orang yang udah tau bisa ga terkejut tapi tetap khawatir (`proposal.md:58`). Buat niat nanya atau ngecek, arahnya bisa dua: makin terpapar makin niat, atau malah ngerasa udah cukup (`proposal.md:60`).
+- Yang gampang ditebak itu cuma soal terkejut. Terkejut baru separuh dari satu hipotesis, karena respons afektif isinya terkejut dan khawatir. Buat khawatir, arahnya ga ditentuin, karena orang yang udah tau bisa ga terkejut tapi tetap khawatir (`proposal.md:58`). Buat niat nanya atau ngecek, arahnya bisa dua: makin terpapar makin niat, atau malah ngerasa udah cukup (`proposal.md:60`).
 - Buat pemahaman, sumbernya sendiri bilang hasilnya belum tentu sesuai tebakan: Eveland (2001:572) nyatet yang nyantol di kepala orang dari berita cuma sedikit walaupun mereka terpapar (`proposal.md:56`).
 - Tebakan ga ngasih angka. Penelitian ini ngukur dua hal: hubungannya ada atau ga (liat Sig.), dan seberapa kuat hubungannya (liat angka r).
 - Dari penelitian haji yang lu telusuri, belum ketemu satu pun yang nguji hubungan ini (`proposal.md:14`).
@@ -66,7 +66,7 @@ Jangan jawab pakai "membongkar mesin di otak" atau "vaksin mental" (dua istilah 
 
 Sasaran: Lokasi Penelitian `proposal.md:106`, batas berlakunya hasil `proposal.md:143`.
 
-Arah jawaban: naskah nyebut dua alasan. Pertama, gejalanya lu temuin di kantor ini selama PPM Februari sampai Juni 2026. Kedua, kantor ini ngelayanin pendaftaran tiap hari kerja, jadi calon jemaah yang baru denger penjelasan petugas bisa langsung ditemuin. Jumlah pendaftarnya juga cukup buat ngejar 75 responden dalam sebulan (3.076 pendaftar dari 1 Januari sampai 11 November 2026, rata-rata sekitar 297 per bulan).
+Arah jawaban: naskah nyebut dua alasan. Pertama, gejalanya lu temuin di kantor ini selama PPM Februari sampai Juni 2026. Kedua, kantor ini ngelayanin pendaftaran tiap hari kerja, jadi calon jemaah yang baru denger penjelasan petugas bisa langsung ditemuin. Tambahan dari bagian Populasi, bukan alasan yang ditulis di bagian Lokasi: jumlah pendaftarnya cukup buat ngejar 75 responden dalam sebulan (3.076 pendaftar dari 1 Januari sampai 11 November 2026, rata-rata sekitar 297 per bulan).
 
 Jangan jawab "karena dekat" atau "karena kenal orang di sana". Jangan juga ngeklaim Kabupaten Bandung paling banyak pendaftarnya atau paling parah masalahnya, karena naskah ga punya data pembanding antarkantor.
 
@@ -80,7 +80,7 @@ Kalimat ke penguji: "Gejala ini saya amati langsung di kantor tersebut selama PP
 
 Sasaran: Kerangka Pemikiran `proposal.md:52-62`.
 
-Arah jawaban: ga ada satu grand theory, dan naskah ngakuin itu (`proposal.md:62`). Tiap bagian punya dasar sendiri:
+Arah jawaban: ga ada satu grand theory. Naskah ga pakai kata "grand theory", tapi ngaku bahwa teori buat tiap respons ga ngebahas paparan informasi, jadi hubungannya dugaan lu (`proposal.md:62`). Tiap bagian punya dasar sendiri:
 - X (paparan): seeking dan scanning dari Niederdeppe, et al. (2007:155), cara ukur dari Kelly, et al. (2009:727).
 - Pembagian Y jadi tiga: Breckler (1984:1191).
 - Y kognitif: Cognitive Mediation Model, Eveland (2001:577).
@@ -105,7 +105,7 @@ Kalimat ke penguji: "Betul, Pak/Bu, dan itu saya tulis di naskah. Dari Eveland s
 
 Sasaran: `proposal.md:54`.
 
-Arah jawaban: ga. Breckler (1984:1191) ngebahas kognitif, afektif, konatif sebagai komponen sikap. Lu cuma minjem pembagiannya buat ngelompokin respons, dan ga ngukur sikap sebagai satu kesatuan. Makanya ga ada skor gabungan Y. Pembagian yang sama dipakai Ardiansyah (2026:33) buat respons jemaah terhadap kebijakan masa tunggu.
+Arah jawaban: ga. Breckler (1984:1191) ngebahas kognitif, afektif, konatif sebagai komponen sikap. Lu cuma minjem pembagiannya buat ngelompokin respons, dan ga ngukur sikap sebagai satu kesatuan. Tiga respons dihitung sendiri-sendiri, dan alasan yang ditulis naskah: tiap respons dijelaskan teori yang berbeda dan arah hubungannya belum tentu sama. Pembagian yang sama dipakai Ardiansyah (2026:33) buat respons jemaah terhadap kebijakan masa tunggu.
 
 ### 2.4 "Pakai TPB tapi sikap, norma subjektif, sama kontrol perilaku ga diukur. Itu bukan TPB namanya."
 
@@ -117,13 +117,13 @@ Arah jawaban: setuju sama pengujinya. Naskah nulis lu cuma pakai konsep niat dar
 
 Sasaran: `proposal.md:12`, `proposal.md:58`.
 
-Arah jawaban: naskah ngakuin dua-duanya dari konteks lain, jadi penerapannya ke calon jemaah masih dugaan. Logikanya dua langkah: informasi dari luar ngebentuk perkiraan (Zeithaml), kejadian yang ga sesuai perkiraan munculin terkejut (Roseman). Rasa khawatir dianggap mirip *fear* (takut) di Roseman (1996:258), dan itu tafsir lu.
+Arah jawaban: naskah ngakuin dua-duanya dari konteks lain, jadi penerapannya ke calon jemaah masih dugaan. Logikanya dua langkah: informasi dari luar ngebentuk perkiraan (Zeithaml), dan kejadian yang dinilai ga terduga munculin terkejut (Roseman). Roseman ga ngomongin "perkiraan". Yang nyambungin langkah satu ke langkah dua itu lu: orang yang udah punya perkiraan diduga ga terlalu terkejut. Rasa khawatir dianggap mirip *fear* (takut) di Roseman (1996:258), dan itu tafsir lu.
 
 ### 2.6 "Kenapa terkejut sama khawatir dijadiin satu skor? Itu dua emosi beda."
 
 Sasaran: `proposal.md:58`, `proposal.md:77-78`, analisis tambahan `proposal.md:161`.
 
-Arah jawaban: skor utamanya kuat lemahnya reaksi emosi. Lu sadar arahnya bisa beda (yang udah tau bisa ga terkejut tapi tetap khawatir), makanya dua emosi itu juga dilaporin terpisah sebagai analisis tambahan. Batasnya: skor rendah ga bisa bedain "lega" dari "ga bereaksi".
+Arah jawaban: skor utamanya kuat lemahnya reaksi emosi. Lu sadar arahnya bisa beda (yang udah tau bisa ga terkejut tapi tetap khawatir), makanya dua emosi itu juga dilaporin terpisah sebagai analisis tambahan. Batasnya: skor rendah ga bisa bedain "lega" dari "ga bereaksi". Batas ini ada di catatan riset, belum ditulis di naskah.
 
 ---
 
@@ -183,7 +183,7 @@ Lanjutan yang mungkin: "Tapi X kan kejadiannya sebelum Y?" Jawab: urutan waktuny
 
 Sasaran: `proposal.md:52`, `proposal.md:74-75`, `proposal.md:147`.
 
-Arah jawaban: rentang 12 bulan ngikutin cara ukur Kelly, et al. (2009:727). Risiko salah ingat ada, makanya pilihannya kategori kasar (tidak pernah, 1 sampai 2 kali, 3 sampai 5 kali, lebih dari 5 kali), bukan angka pasti. Risiko salah ingat itu sudah ditulis sebagai keterbatasan di Teknik Pengumpulan Data (ditambahkan 21 November 2026).
+Arah jawaban: rentang 12 bulan ngikutin cara ukur Kelly, et al. (2009:727). Pilihan jawabannya kategori jumlah (tidak pernah, 1 sampai 2 kali, 3 sampai 5 kali, lebih dari 5 kali), bukan angka pasti. Jangan bilang kategori itu dipilih buat ngatasin lupa. Alasan yang ditulis naskah: empat kategori dipakai supaya skor seeking dan scanning bisa digabung (`proposal.md:82`). Naskah malah ngaku jawabannya tetap bisa ga tepat walaupun pilihannya kategori (`proposal.md:149`). Risiko salah ingat itu sudah ditulis sebagai keterbatasan di Teknik Pengumpulan Data (ditambahkan 21 November 2026).
 
 Lanjutan yang mungkin: "Kapan seseorang dianggap 'memutuskan mendaftar'?" Ini susah. Jawab jujur: waktunya ditentuin responden sendiri, jadi jawabannya bisa ga tepat.
 
@@ -262,7 +262,7 @@ Arah jawaban: di catatan keputusan, batas 17 tahun statusnya masih usulan. `[PER
 ### 5.1 "Coba jelasin kerangka pemikiran lu tanpa liat naskah."
 
 Latih versi 4 kalimat:
-1. Di PPM gue liat respons calon jemaah beda-beda pas petugas nyampein estimasi keberangkatan, padahal penjelasannya sama.
+1. Di PPM gue liat respons calon jemaah beda-beda pas petugas nyampein estimasi keberangkatan.
 2. Gue duga bedanya nyambung sama bekal informasi masa tunggu yang mereka dapet sebelum daftar, baik yang sengaja dicari (seeking) maupun yang ketemu ga sengaja (scanning).
 3. Gue ukur bekal itu, terus gue hubungin ke tiga respons: seberapa paham, seberapa terkejut dan khawatir, seberapa niat nanya atau ngecek lagi.
 4. Datanya dari kuesioner ke sekitar 75 pendaftar, diuji korelasi, hasilnya dibaca sebagai hubungan, bukan sebab akibat.
@@ -279,7 +279,7 @@ Arah jawaban: betul. Sampel lu cuma orang yang tetap daftar. Orang yang batal da
 
 ### 5.4 "Kalau hasilnya ga ada hubungan, gimana?"
 
-Arah jawaban: tetap temuan. Hipotesisnya ga berarah dan dasarnya dugaan, jadi H0 diterima itu hasil yang sah. Artinya bekal informasi sebelum daftar ga berkaitan dengan respons, dan penjelasan petugas mungkin lebih menentukan.
+Arah jawaban: tetap temuan. Hipotesisnya tanpa arah dan dasarnya dugaan, jadi H0 diterima itu hasil yang sah. Artinya dari data ini hubungannya ga terbukti. Jangan bilang "terbukti ga ada hubungan", dan jangan nebak penyebabnya, karena naskah ga punya dasar buat itu.
 
 ### 5.5 "Aplikasi Satu Haji itu nama resminya? Aturan cek 3 hari itu dari mana?"
 
@@ -297,7 +297,7 @@ Ditambahkan 21 November 2026 sesudah dicocokkan dengan dua daftar pertanyaan sem
 
 Sasaran: `proposal.md:6`, `proposal.md:10`.
 
-Arah jawaban: tiga alasan dari naskah. Lu ngamatin langsung dan berulang selama PPM. Masa tunggu termasuk informasi pertama yang diterima orang waktu mendaftar, dan semua pendaftar nerima penjelasan itu pas penyerahan SPPH. Responsnya bisa diukur segera sesudah kejadian. Jangan bilang ini fenomena paling penting di kantor, karena lu ga punya pembandingnya.
+Arah jawaban: naskah ga nulis alasannya sebagai daftar, jadi lu nyusun dari tiga hal yang ada di naskah. Lu ngamatin gejala ini langsung selama PPM (`proposal.md:10`). Masa tunggu termasuk informasi pertama yang diterima orang waktu mendaftar (`proposal.md:6`), dan petugas nyampeinnya pas penyerahan SPPH. Kuesionernya diisi segera sesudah penjelasan petugas (`proposal.md:147`). Jangan bilang "semua pendaftar" denger penjelasan itu, karena ada yang penjelasannya cuma didenger pendamping. Jangan bilang ini fenomena paling penting di kantor, karena lu ga punya pembandingnya.
 
 ### 6.2 "Kenapa rumusan masalahnya jadi lima pertanyaan?"
 
@@ -356,7 +356,7 @@ Ditambahkan 21 November 2026. Bentuknya ngikutin templat jawaban sempro yang ber
 
 ### 7.1 Pendahuluan: "Kenapa judul ini, masalahnya apa, pentingnya apa?"
 
-"Izin menjawab, Bapak/Ibu. Selama PPM di Kantor Kementerian Haji dan Umrah Kabupaten Bandung, saya mengamati respons calon jemaah yang beragam ketika petugas menyampaikan estimasi keberangkatan, padahal penjelasannya sama. Belum diketahui apakah perbedaan itu berkaitan dengan informasi masa tunggu yang mereka peroleh sebelum mendaftar. Dari penelitian haji yang saya telusuri, saya belum menemukan penelitian yang mengkaji kaitan itu. Karena itu, penelitian ini bertujuan mengetahui ada tidaknya hubungan antara paparan informasi sebelum mendaftar dan respons kognitif, afektif, serta konatif calon jemaah."
+"Izin menjawab, Bapak/Ibu. Selama PPM di Kantor Kementerian Haji dan Umrah Kabupaten Bandung, saya mengamati respons calon jemaah yang beragam ketika petugas menyampaikan estimasi keberangkatan. Belum diketahui apakah perbedaan itu berkaitan dengan informasi masa tunggu yang mereka peroleh sebelum mendaftar. Dari penelitian haji yang saya telusuri, saya belum menemukan penelitian yang mengkaji kaitan itu. Karena itu, penelitian ini bertujuan mengetahui ada tidaknya hubungan antara paparan informasi sebelum mendaftar dan respons kognitif, afektif, serta konatif calon jemaah."
 
 Catatan: templat aslinya minta "alasan/dampak". Lu ga punya data dampak, jadi yang disebut "belum diketahui", bukan akibat buruknya.
 

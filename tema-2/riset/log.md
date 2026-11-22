@@ -392,3 +392,11 @@
 - Dibetulkan sekalian: rujukan baris soal 4.6 (151 jadi 153), jumlah soal di ringkasan (41 jadi 44), asal sumber informasi X di ringkasan bagian 5a disamakan dengan `keputusan.md`, kunci E1 ditulis berasal dari keterangan kepala kantor dan petugas.
 - Pemeriksa pembanding: tidak ada angka atau sitasi sumber yang hilang selain yang sengaja diganti. Naskah proposal tidak diubah.
 - Tugas berikutnya: latihan bank soal untuk seminar 23 November 2026.
+
+## 22 November 2026 (bank soal dicocokkan dengan naskah)
+
+- Pemicu: user menemukan soal 2.2 menyebut "teori-teori itu tidak membahas paparan", padahal naskah menulis "ketiga teori di atas" (teori untuk Y). Bank soal memotong kalimat naskah, dan penjelasan Claude di obrolan ikut mengulang versi terpotong itu.
+- Dikerjakan atas perintah user: semua soal di `riset/bank-soal-sempro.md` dicocokkan dengan kalimat naskah. Dua belas titik dibetulkan. Yang menambah isi di luar naskah: "padahal penjelasan petugasnya sama" (soal 1.2, 5.1, 7.1, tidak ada di naskah maupun catatan riset), "semua pendaftar menerima penjelasan" dan "berulang" (6.1), "penjelasan petugas mungkin lebih menentukan" (5.4). Yang menggeser alasan: kategori jawaban disebut dipilih untuk mengatasi lupa, padahal naskah menulis supaya skor dapat digabung (4.2); tidak adanya skor gabungan Y dikaitkan dengan Breckler, padahal alasan naskah teori berbeda dan arah belum tentu sama (2.3). Yang kurang tepat: "satu dari tiga hipotesis" untuk rasa terkejut (1.5), "kejadian yang tidak sesuai perkiraan" dinisbatkan ke Roseman (2.5), "H0 diterima berarti tidak berkaitan" (5.4), "naskah mengakui tidak ada grand theory" (2.1). Yang diberi keterangan sumber: alasan jumlah pendaftar di soal 1.6, batas "lega" di soal 2.6.
+- Ringkasan belajar: keterbatasan nomor 6 dan 7 diberi keterangan mana yang belum atau hanya sebagian tertulis di naskah, jawaban nomor 6 di bagian 12 disamakan dengan naskah.
+- Naskah proposal tidak diubah. Naskah benar di semua titik itu; yang keliru bahan belajarnya.
+- Tugas berikutnya: latihan bank soal untuk seminar 23 November 2026.
