@@ -220,7 +220,9 @@ Kalimat ke penguji kalau belum sempat baca: "Naskah lengkapnya sudah saya terima
 
 Catatan Claude, bukan isi naskah: hubungan yang ditemukan Lewis kecil, jadi dengan 75 responden hubungan sekecil itu bisa saja ga ketangkap. Dengan 75 orang, r baru dibilang signifikan kalau kira-kira 0,23 ke atas. Kalau penguji nanya "75 orang cukup?", jawab jujur: 75 itu jumlah minimal dari Slovin, dan kalau hubungannya kecil, hasilnya bisa ga signifikan. Bawa ini ke pembimbing sesudah seminar.
 
-### 4.1 ★ "Bisa lu simpulkan paparan informasi memengaruhi respons jemaah?"
+### 4.1 ★ "Apakah lu bisa menyimpulkan bahwa paparan informasi memengaruhi respons jemaah?"
+
+Bentuk lain pertanyaan yang sama: "Jadi paparan informasi berpengaruh ke respons, ya?", "Kesimpulanmu nanti informasi memengaruhi respons?", "Ini pengaruh atau hubungan?". Kuncinya kata "pengaruh" atau "memengaruhi". Begitu kata itu keluar, jawabannya: bukan pengaruh, hubungan.
 
 Sasaran: `proposal.md:114`, `proposal.md:161`.
 
@@ -232,7 +234,9 @@ Biar kebayang bedanya: kalau mau nunjukin sebab, peneliti harus ngatur sendiri. 
 
 Hasilnya hubungan, makanya judulnya "Hubungan".
 
-Kalimat ke penguji: "Tidak bisa, Pak/Bu. Data saya ambil satu kali, dan saya hanya menanyakan pengalaman responden, tidak mengatur siapa yang menerima informasi. Karena itu hasilnya saya baca sebagai hubungan, bukan pengaruh."
+Kalimat ke penguji (versi lu sendiri, sudah dirapikan): "Bukan pengaruh, Pak/Bu, tetapi hubungan. Metode saya survei potong lintang, jadi datanya diambil satu kali. Saya juga tidak mengatur jemaah mana yang diberi informasi dan mana yang tidak. Karena itu saya tidak menyatakan informasi berpengaruh terhadap respons. Yang saya uji adalah ada tidaknya hubungan antara keduanya."
+
+Dua catatan waktu ngomong: perumpamaan "foto" itu buat lu belajar, jangan dipakai ke penguji. Dan cukup sekali bilang "bukan pengaruh tetapi hubungan", jangan diulang-ulang.
 
 Lanjutan yang mungkin: "Tapi X kan kejadiannya sebelum Y?" Jawab: urutan waktunya memang X dulu, tapi dua-duanya ditanya di hari yang sama dan X dari ingatan. Ada kemungkinan hal lain yang jadi penyebab dua-duanya. Contoh: Pak Budi seorang guru. Karena pendidikannya, dia rajin baca berita soal haji, dan karena pendidikannya juga dia gampang paham penjelasan petugas. Jadi yang bikin dia paham bisa aja pendidikannya, bukan beritanya. Hal lain yang mirip: usia, atau pernah daftarin keluarga. Survei lu ga bisa misahin itu. Contoh ini penjelasan Claude, bukan isi naskah.
 
