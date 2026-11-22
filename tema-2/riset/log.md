@@ -377,3 +377,10 @@
 - Keputusan user: angka 14 tahun dihapus dari paragraf pertama latar belakang (menggantikan opsi B 11 November). Claude menyarankan dipertahankan, user memutuskan menghapus. Dua kalimat diganti satu: "Kementerian juga memvalidasi 5,7 juta data jemaah dan menemukan sekitar 400 ribu data tidak valid." Pemeriksa pembanding: yang hilang hanya angka 14 dan satu penyebutan 2026, sesuai maksud. Judul rilis di Daftar Pustaka tetap memuat "14 tahun".
 - Bank soal 1.3 dijadikan soal cadangan, ringkasan belajar dan roadmap disesuaikan. Word dibangun ulang.
 - Tugas berikutnya: latihan bank soal untuk seminar 23 November 2026.
+
+## 22 November 2026 (aturan bahasa penjelasan)
+
+- Keputusan user: bahasa penjelasan, bahan belajar, dan kalimat jawaban untuk penguji harus memakai kata sehari-hari dan hanya punya satu cara baca. Pemicunya frasa "paling dekat dengan akal sehat" di bank soal 1.5, yang menurut user tidak akan dipahami orang awam. Usul user: "terkejut memang paling gampang ditebak".
+- Dikerjakan: aturan ditulis di `CLAUDE.md` (bagian "Bahasa penjelasan dan bahan belajar", 9 butir beserta contoh gagal dan berhasil dari sesi 21 November), dan uji "satu cara baca" ditambahkan ke `references/poles.md` skill sempro serta `skill-claude/naskah-natural/SKILL.md` supaya keduanya tetap sama.
+- Bank soal 1.5: tiga pemakaian "akal sehat" diganti, kalimat jawaban untuk penguji ditulis ulang.
+- Tugas berikutnya: latihan bank soal untuk seminar 23 November 2026.

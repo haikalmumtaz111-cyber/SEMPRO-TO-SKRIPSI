@@ -196,6 +196,15 @@ dan *dan* berderet. Sisakan satu kalimat pendek sebagai penutup paragraf, dan is
 temuan, atau pengakuan batas, bukan aforisme atau punchline. Hitung gagasan sebelum dan
 sesudah: jumlahnya harus sama.
 
+**5e. Satu cara baca.** Baca tiap kalimat seolah belum tahu maksudnya. Kalau bisa
+dibaca dua cara, tulis ulang. Sumber yang sering: kata kerja yang muncul dua kali dengan
+tugas berbeda (*mencari dengan sengaja dan menemukan tanpa sengaja mencari informasi*),
+keterangan yang menempel ke kata yang salah (*tanpa sengaja dicari* jadi *tanpa dicari
+dengan sengaja*), kata yang punya arti lain (*pendeknya skala itu*, *belajar sedikit*),
+dan frasa kiasan padahal ada kata biasa (*paling dekat dengan akal sehat* jadi *paling
+mudah ditebak*). Penulis sudah tahu maksudnya, jadi kalimat yang paling rawan ditunjukkan
+ke user.
+
 ### 6. Periksa bukti
 
 Bandingkan draf dengan asli memakai kontrak `references/evidence-preservation.md`:

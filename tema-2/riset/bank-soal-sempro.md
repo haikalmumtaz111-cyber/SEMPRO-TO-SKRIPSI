@@ -52,10 +52,10 @@ Arah jawaban: objeknya pelayanan informasi pada tahap pendaftaran haji, dan itu 
 
 Sasaran: `proposal.md:56-62`.
 
-Arah jawaban: akui dulu bahwa dugaan soal terkejut memang paling dekat dengan akal sehat. Lalu tunjukin empat hal.
+Arah jawaban: akui dulu bahwa dugaan soal terkejut memang paling gampang ditebak. Lalu tunjukin empat hal.
 - Yang "jelas" itu cuma satu dari tiga hipotesis. Buat khawatir, arahnya ga ditentuin, karena orang yang udah tau bisa ga terkejut tapi tetap khawatir (`proposal.md:58`). Buat niat nanya atau ngecek, arahnya bisa dua: makin terpapar makin niat, atau malah ngerasa udah cukup (`proposal.md:60`).
-- Buat pemahaman, sumbernya sendiri ga mendukung akal sehat: Eveland (2001:572) nyatet yang nyantol di kepala orang dari berita cuma sedikit walaupun mereka terpapar (`proposal.md:56`).
-- Akal sehat ga ngasih angka. Penelitian ini ngukur ada tidaknya hubungan dan besarnya.
+- Buat pemahaman, sumbernya sendiri bilang hasilnya belum tentu sesuai tebakan: Eveland (2001:572) nyatet yang nyantol di kepala orang dari berita cuma sedikit walaupun mereka terpapar (`proposal.md:56`).
+- Tebakan ga ngasih angka. Penelitian ini ngukur dua hal: hubungannya ada atau ga (liat Sig.), dan seberapa kuat hubungannya (liat angka r).
 - Dari penelitian haji yang ditelusuri, hubungan ini belum ditemukan diuji (`proposal.md:14`).
 
 Kalimat ke penguji: "Untuk rasa terkejut, hasilnya memang mudah ditebak, Pak/Bu. Tetapi untuk rasa khawatir, pemahaman, dan niat menindaklanjuti, arahnya belum jelas. Saya juga belum menemukan penelitian yang menguji hubungan ini pada calon jemaah haji, dan seberapa kuat hubungannya baru dapat diketahui dari data."

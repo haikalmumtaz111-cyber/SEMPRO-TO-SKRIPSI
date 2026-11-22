@@ -29,6 +29,22 @@ Semua pekerjaan proposal jalan lewat skill `sempro` di `.claude/skills/sempro/SK
 - Naskah proposal tetap ditulis pakai bahasa akademik baku.
 - User pakai paket Claude Pro. Hemat kuota: jangan spawn subagen (Agent/Workflow), baca file seperlunya pakai grep, jangan baca ulang handoff utuh.
 
+## Bahasa penjelasan dan bahan belajar
+
+Aturan user, 22 November 2026. Asalnya revisi user sepanjang sesi 21 November: banyak penjelasan dan kalimat harus diulang karena memakai frasa yang tidak dipakai orang sehari-hari. Berlaku untuk obrolan, `riset/ringkasan-belajar.md`, `riset/bank-soal-sempro.md`, `riset/sorotan-user.md`, dan kalimat jawaban untuk penguji. Naskah proposal tetap akademik baku, tetapi butir 1 dan 2 berlaku juga untuk naskah.
+
+1. Pakai kata yang dipakai user sehari-hari. Kalau ada kata biasa, jangan pakai frasa kiasan atau abstrak. Contoh dari user: "terkejut memang paling gampang ditebak", bukan "terkejut memang paling dekat dengan akal sehat". "Pemikiran orang biasa", bukan "akal sehat" atau "logika". "Yang nyantol di kepala cuma sedikit", bukan "belajar sedikit".
+2. Satu kalimat hanya boleh punya satu cara baca. Kata kerja jangan muncul dua kali dengan tugas berbeda, dan objek ditaruh dekat kata kerjanya. Contoh yang gagal: "mencari dengan sengaja dan menemukan tanpa sengaja mencari informasi", "tanpa sengaja dicari", "belum saya temukan diuji".
+3. Tiap istilah dijelaskan dari nol: artinya dalam satu kalimat, lalu contoh dengan angka kecil. Jangan menjelaskan satu istilah memakai istilah lain yang belum dijelaskan (butir, skor, r, Sig.).
+4. Perumpamaan memakai benda sehari-hari yang perannya jelas, dan perannya disebut terang ("empat pertanyaan itu empat termometer"). Yang sudah berhasil: koin dilempar, termometer, tinggi badan sekelas, antre bakso, nilai ulangan melawan KKM, mencicip kuah sepanci. Yang gagal: "empat pertanyaan itu empat teman yang ditanya soal Pak Budi".
+5. Satu perumpamaan dipakai sampai selesai. Kalau pindah dari perumpamaan ke penelitian, katakan terang, misalnya "sekarang ganti tinggi badan dengan skor total". Jangan mengganti pasangan yang dicontohkan (paham, kaget, niat) di tengah penjelasan tanpa memberi tahu.
+6. Urutkan dari kecil ke besar atau dari awal ke akhir: "pendek, sedang, tinggi", bukan "kebanyakan sedang, sedikit yang pendek atau tinggi".
+7. Angka yang muncul di penjelasan disebut asalnya. Contoh: "100 ronde" hanya cara menjelaskan persen, bukan angka penelitian.
+8. Kalimat jawaban untuk penguji harus enak diucapkan di depan dosen dan hadirin: baku, pendek, satu gagasan per kalimat, tanpa kiasan. Baca dalam hati seolah diucapkan. Kalau tersendat, tulis ulang.
+9. Sebelum menyerahkan penjelasan atau kalimat baru, tanya: orang awam yang tidak ikut menyusun akan salah baca di mana? Kalimat yang paling rawan ditunjukkan ke user, dan user yang memutuskan lolos atau tidak. Penulis sudah tahu maksudnya sehingga jarang melihat ambiguitasnya sendiri.
+
+User sering memakai masukan suara, jadi istilah asing bisa salah tertranskrip ("Breckler" pernah menjadi "backglare", "Likert" menjadi "recurred"). Tebak dari konteks dan sebut tebakannya.
+
 ## Aturan mati
 
 1. Jangan ngarang fenomena, angka, kutipan, rujukan, DOI, atau hasil penelitian. Yang belum dicek diberi tanda `[PERLU VERIFIKASI]`, `[PERLU RUJUKAN]`, atau `[PERLU DATA]`.
