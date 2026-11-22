@@ -99,7 +99,19 @@ Arah jawaban: ini titik paling rawan di teori, dan naskah udah ngaku terus teran
 
 Lanjutan yang mungkin: "Eveland sendiri bilang yang nyantol dari berita cuma sedikit walau orang terpapar, kok dipakai?" Jawab: betul, itu ditulis di naskah (Eveland, 2001:572). Eveland bilang dua hal. Satu, kena info doang ga cukup (2001:572). Dua, orang jadi paham kalau info baru disambungin ke pengetahuan yang udah ada di kepalanya, dan itu namanya elaborasi (2001:577). Yang lu pakai yang kedua. Dugaan bahwa orang yang sering dapet info punya lebih banyak bahan buat disambungin itu tafsir lu, bukan kata Eveland.
 
-Kalimat ke penguji: "Betul, Pak/Bu, dan itu saya tulis di naskah. Dari Eveland saya hanya memakai gagasan bahwa informasi baru lebih mudah dipahami kalau terhubung dengan pengetahuan yang sudah dimiliki. Dugaan bahwa paparan menambah pengetahuan itu tafsir saya, sehingga hipotesisnya tanpa arah."
+Kalimat ke penguji: "Betul, Pak/Bu, Eveland mencatat hal itu, dan saya tulis di naskah. Yang saya pakai dari Eveland adalah gagasan bahwa informasi baru lebih mudah dipahami kalau terhubung dengan pengetahuan yang sudah dimiliki. Dugaan bahwa orang yang sering terpapar lebih mudah paham itu tafsir saya, dan itu yang saya uji."
+
+Lanjutan yang mungkin: "Boleh memangnya menafsirkan sendiri?" Jawab: boleh, dan tafsir lu bukan tanpa rujukan. Pisahin dua baris:
+- Kata Eveland (2001:577): info baru lebih gampang dipahami kalau nyambung ke pengetahuan yang udah ada di kepala.
+- Kata lu (tafsir): orang yang sering dapet info punya lebih banyak pengetahuan di kepala, jadi diduga lebih gampang paham.
+
+Tafsir itu sah kalau tiga syarat ini kepenuhi, dan naskah lu memenuhi ketiganya: dibilang terang bahwa itu tafsir lu (`proposal.md:56`), ada pijakannya (Eveland), dan ditaruh sebagai dugaan yang mau diuji, bukan fakta. Yang ga boleh: nulis tafsir lu seolah-olah itu kata Eveland, atau seolah-olah udah terbukti.
+
+Kalimat ke penguji: "Boleh, Pak/Bu, selama saya menyatakannya sebagai tafsir saya, bukan sebagai pernyataan Eveland, dan saya uji dengan data."
+
+Lanjutan yang mungkin: "Cari teori yang langsung menghubungkan X dengan Y." Jawab: ini masukan yang wajar. Di kebanyakan skripsi memang ada satu teori yang udah nyambungin X ke Y, dan punya lu ga begitu. Jangan ngeles.
+
+Kalimat ke penguji: "Betul, Pak/Bu, itu kelemahan kerangka saya, dan saya tulis terus terang di naskah. Saya belum menemukan teori yang menghubungkan keduanya secara langsung. Kalau Bapak/Ibu punya saran teori, saya siap menambahkannya."
 
 ### 2.3 ★ "Breckler itu teori sikap. Lu ngukur sikap?"
 
