@@ -379,6 +379,14 @@ Sasaran: `proposal.md:128-134`.
 
 Arah jawaban: populasinya pendaftar selama periode pengumpulan data (sekitar sebulan). Jumlahnya diperkirakan dari data SISKOHAT: 3.076 pendaftar dari 1 Januari sampai 11 November 2026, rata-rata sekitar 297 per bulan. Jadi 297 itu perkiraan, bukan jumlah pasti. Slovin dengan batas meleset 10% (istilah lainnya galat): 297 / (1 + 297 × 0,01) = 74,8, dibulatin jadi 75. Naskah juga ngakuin Slovin dinilai terlalu menyederhanakan (Sukwika, 2023:173), makanya 75 jadi jumlah minimal.
 
+Dua kata kunci yang harus keluar: "perkiraan" dan "sebulan". Urutan logikanya tiga langkah: data SISKOHAT mencatat 3.076 pendaftar dari 1 Januari sampai 11 November 2026, dirata-rata jadi sekitar 297 per bulan, dan karena data dikumpulkan sekitar sebulan, populasinya diperkirakan 297 orang.
+
+Kalimat ke penguji (versi lu sendiri, sudah dirapikan): "Betul, Pak/Bu, orangnya belum mendaftar, jadi 297 itu perkiraan. Populasi saya adalah calon jemaah yang mendaftar selama periode pengumpulan data, sekitar satu bulan. Menurut data SISKOHAT kantor, ada 3.076 pendaftar dari 1 Januari sampai 11 November 2026, atau rata-rata sekitar 297 per bulan. Dari situ populasinya saya perkirakan 297 orang."
+
+Tiga hal yang dijaga waktu ngomong: bilang "diperkirakan 297", bukan "berjumlah 297". Sebut angka 3.076 dan kata SISKOHAT, karena itu yang nunjukin angkanya ada sumbernya. Jangan bawa *consecutive sampling* ke jawaban ini, itu jawaban buat soal 4.8.
+
+Kalimat ke penguji kalau dilanjutin "75 dari mana?": "Dari rumus Slovin, Pak/Bu. Dengan populasi 297 dan batas kesalahan 10%, hasilnya 74,8, lalu saya bulatkan menjadi 75. Angka itu saya perlakukan sebagai jumlah minimal."
+
 Lanjutan yang mungkin: "Kenapa galatnya 10%, bukan 5%?" Jawab: waktu dan tenaga. Dengan 5% sampelnya sekitar 171 dari 297, ga realistis buat satu peneliti dalam sebulan.
 
 ### 4.8 "Consecutive sampling itu apa? Kenapa ga acak?"
