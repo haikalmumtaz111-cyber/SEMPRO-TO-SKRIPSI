@@ -308,7 +308,15 @@ Empat istilah yang sering ketukar di soal ini:
 - Konsep dari teori itu pengertian tiap respons yang diambil dari teorinya: terkejut dari Roseman, niat dari Ajzen, pembagian jadi tiga dari Breckler. Isi konkretnya (petugas ngejelasin apa, jemaah khawatir soal apa, jemaah nanya apa) dari pengamatan lu selama PPM.
 - Skala baku itu kuesioner jadi buatan peneliti lain yang udah diuji berkali-kali. Ibarat baju jadi di toko. Butir Y lu ibarat baju jahit sendiri: kalimatnya lu yang nulis, jadi belum teruji. Butir X bukan jahit dari nol, tapi baju jadi punya Kelly yang lu sesuaiin (adaptasi).
 
-Kalimat ke penguji: "Untuk paparan informasi, butirnya saya adaptasi dari Kelly dan kawan-kawan, Pak/Bu. Untuk tiga respons, butirnya saya susun sendiri. Konsepnya dari teori, dan isinya dari pengamatan saya selama PPM. Karena belum teruji, kuesionernya masih tentatif dan akan saya uji validitas dan reliabilitasnya setelah seminar."
+Asal tiap indikator Y menurut tabel matriks di naskah (`proposal.md:76-80`), biar ga salah nyebut nama:
+- Paham (kognitif): Breckler (1984:1191) plus isi penjelasan petugas menurut pengamatan lu. Ga ada teori khusus soal "paham". Paham itu isi laci pikiran dari Breckler, dan tanda-tandanya (estimasi, cara ngecek, kapan bisa dicek) dari pengamatan PPM. Eveland BUKAN sumber indikator paham. Eveland dipakai buat ngejelasin hubungan paparan dengan paham.
+- Terkejut: Roseman (1996:257).
+- Khawatir: pengamatan lu, yang dicocokin ke *fear* di Roseman (1996:258).
+- Niat: Ajzen (1991:181) plus pengamatan lu.
+
+Kalimat ke penguji (versi lu sendiri, sudah dirapikan): "Untuk paparan informasi, butirnya saya adaptasi dari Kelly, Pak/Bu. Aslinya ya atau tidak untuk *seeking* dan tiga kategori untuk *scanning*, lalu saya samakan menjadi empat kategori. Untuk tiga respons, butirnya saya susun sendiri, bukan dari skala baku. Pembagian tiga responsnya mengikuti Breckler, konsep terkejut saya ambil dari Roseman, dan konsep niat dari Ajzen, sedangkan isinya dari pengamatan saya selama PPM. Saya menyusunnya sendiri karena butirnya harus sesuai dengan isi penjelasan petugas di kantor tersebut. Kuesionernya masih tentatif dan akan saya uji validitas dan reliabilitasnya setelah seminar."
+
+Tiga hal yang dijaga waktu ngomong: jangan bilang "paham dari Eveland". Jangan bilang "belum ada skala bakunya", karena belum nemu itu beda dengan belum ada. Dan jangan lupa kalimat penutup soal uji validitas dan reliabilitas.
 
 Lanjutan yang mungkin: "Boleh memangnya menyusun sendiri? Kenapa tidak pakai skala yang sudah ada?" Jawab: boleh. Panduan FDK ga mewajibkan skala baku. Yang diminta panduan: kuesioner diuji validitas dan reliabilitasnya, dan draf kuesioner di proposal boleh tentatif. Posisi lu lebih lemah daripada kalau pakai skala baku, dan itu diakui aja. Alasan nyusun sendiri: butirnya harus sesuai dengan isi penjelasan petugas di kantor itu (estimasi keberangkatan, cara mengecek lewat aplikasi, kapan mulai bisa dicek), dan itu ga bakal ada di kuesioner jadi mana pun.
 
