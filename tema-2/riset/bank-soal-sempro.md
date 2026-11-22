@@ -302,6 +302,20 @@ Arah jawaban: jujur per variabel.
 
 Ini titik paling rawan di metode. Pembelaannya: kuesioner masih tentatif alias sementara (panduan FDK ngebolehin), diuji validitas dan reliabilitas sesudah seminar (`proposal.md:153`). Siap nerima kalau penguji minta skala yang udah teruji.
 
+Empat istilah yang sering ketukar di soal ini:
+- Butir itu jumlah pertanyaan. Kategori itu jumlah pilihan jawaban di tiap pertanyaan. Punya lu: seeking 4 butir, scanning 3 butir, total 7 butir, dan tiap butir punya 4 kategori. "Tiga kategori buat scanning" itu cerita punya Kelly soal pilihan jawabannya, bukan jumlah pertanyaan lu.
+- Indikator itu tanda-tanda konkret dari sesuatu yang abstrak. "Paham" itu abstrak. Tandanya tiga: paham perkiraan tahun berangkat, paham cara ngecek estimasi, paham kapan estimasi mulai bisa dicek. Urutannya: variabel, lalu indikator, lalu butir.
+- Konsep dari teori itu pengertian tiap respons yang diambil dari teorinya: terkejut dari Roseman, niat dari Ajzen, pembagian jadi tiga dari Breckler. Isi konkretnya (petugas ngejelasin apa, jemaah khawatir soal apa, jemaah nanya apa) dari pengamatan lu selama PPM.
+- Skala baku itu kuesioner jadi buatan peneliti lain yang udah diuji berkali-kali. Ibarat baju jadi di toko. Butir Y lu ibarat baju jahit sendiri: kalimatnya lu yang nulis, jadi belum teruji. Butir X bukan jahit dari nol, tapi baju jadi punya Kelly yang lu sesuaiin (adaptasi).
+
+Kalimat ke penguji: "Untuk paparan informasi, butirnya saya adaptasi dari Kelly dan kawan-kawan, Pak/Bu. Untuk tiga respons, butirnya saya susun sendiri. Konsepnya dari teori, dan isinya dari pengamatan saya selama PPM. Karena belum teruji, kuesionernya masih tentatif dan akan saya uji validitas dan reliabilitasnya setelah seminar."
+
+Lanjutan yang mungkin: "Boleh memangnya menyusun sendiri? Kenapa tidak pakai skala yang sudah ada?" Jawab: boleh. Panduan FDK ga mewajibkan skala baku. Yang diminta panduan: kuesioner diuji validitas dan reliabilitasnya, dan draf kuesioner di proposal boleh tentatif. Posisi lu lebih lemah daripada kalau pakai skala baku, dan itu diakui aja. Alasan nyusun sendiri: butirnya harus sesuai dengan isi penjelasan petugas di kantor itu (estimasi keberangkatan, cara mengecek lewat aplikasi, kapan mulai bisa dicek), dan itu ga bakal ada di kuesioner jadi mana pun.
+
+Kalimat ke penguji: "Boleh, Pak/Bu, selama butirnya saya uji validitas dan reliabilitasnya. Saya menyusunnya sendiri karena butirnya harus sesuai dengan isi penjelasan petugas di kantor tersebut. Saya mengakui posisinya lebih lemah daripada skala yang sudah teruji. Kalau Bapak/Ibu menyarankan skala tertentu, saya siap memakainya."
+
+Usul Claude buat dibawa ke pembimbing sesudah seminar, belum ada di naskah: sebelum uji coba, minta pembimbing atau satu dosen lain menilai kalimat tiap butir (cocok atau ga dengan indikatornya). Itu memperkuat butir yang disusun sendiri.
+
 ### 4.5 ★ "Butir X itu sumber informasi yang beda-beda. Orang yang cari di medsos belum tentu nanya tetangga. Cocok diuji Cronbach?"
 
 Sasaran: `proposal.md:153` (paparan 7 butir diuji Alpha Cronbach).
