@@ -221,7 +221,7 @@ model tiga komponen sikap yang diuji Breckler (1984)."
 
 A meta-analytical review of the relationship, antecedents, and consequences of information
 seeking and information scanning. *Human Communication Research, 50*(4), 468-479.
-**Naskah lengkap belum dipegang.** Yang dibaca: abstrak dan Tabel 3 data tambahan.
+**Naskah lengkap sudah dipegang** (dikirim penulisnya, Nehama Lewis, lewat email ke user 11 November 2026) dan dibaca Claude 22 November 2026. Rincian hasilnya ada di bagian "Tambahan dari naskah lengkap" di bawah.
 
 **Isi inti (fakta, dari abstrak dan Tabel 3).**
 - Gabungan 21 penelitian, N = 39.510, konteks informasi kesehatan.
@@ -232,7 +232,16 @@ seeking and information scanning. *Human Communication Research, 50*(4), 468-479
 **Buat penelitian lu.** Satu-satunya rujukan yang menghubungkan X langsung dengan sikap dan niat.
 Ini calon dasar hipotesis.
 
-**Batas.** Angka korelasi dengan sikap dan niat tidak ada di abstrak, jadi tidak boleh disebut.
+**Tambahan dari naskah lengkap (dibaca 22 November 2026).**
+- Hlm. 472: korelasi seeking dengan scanning r = 0,35 dari 21 penelitian.
+- Hlm. 473: scanning dan seeking sama-sama berhubungan positif dan signifikan dengan sikap terkait topik (scanning r = 0,10, IK 95% [0,05, 0,15], k = 6; seeking r = 0,11, IK 95% [0,08, 0,13], k = 6) dan dengan niat berperilaku (scanning r = 0,11, IK 95% [0,09, 0,21], p = 0,033, k = 9; seeking r = 0,24, IK 95% [0,14, 0,32], k = 9).
+- Hlm. 473: efikasi diri tidak berhubungan signifikan dengan keduanya. Persepsi risiko dan norma sosial yang dipersepsi hanya berhubungan signifikan dengan seeking.
+- Hlm. 475: penulis menyebut hubungan scanning dengan niat "modest" (r = 0,11) dan seeking dengan niat lebih besar (r = 0,24), serta mengingatkan bahwa besar hubungannya kecil dan ada faktor lain yang ikut menentukan.
+- Hlm. 476: keterbatasan yang diakui penulis: dari 48 penelitian yang terpilih, hanya 21 yang datanya diperoleh, dan cara ukur antarpenelitian sangat beragam.
+- Kelly, et al. (2009), rujukan alat ukur X tema 2, termasuk salah satu dari 21 penelitian itu.
+- Petunjuk untuk dicek sesudah seminar, belum dibaca: Lewis merujuk Communication-Persuasion Matrix (McGuire, 1989) untuk gagasan bahwa memperoleh dan mengolah informasi baru ikut membentuk sikap, dan Hornik, dkk. (2013) untuk cara seeking dan scanning memengaruhi sikap dan niat. Keduanya calon teori penghubung X dengan Y.
+
+**Batas.** Angka korelasi dengan sikap dan niat tidak ada di abstrak. Naskah proposal baru memakai isi abstrak (hlm. 468).
 "Niat berperilaku" di sana adalah niat berperilaku sehat, bukan niat mencari informasi. Konteks
 kesehatan.
 

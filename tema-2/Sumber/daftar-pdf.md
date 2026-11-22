@@ -70,4 +70,8 @@ Halaman pertama ketiganya cocok dengan Crossref.
     jadi tidak boleh disebut.
 - Roseman (1984), bab buku. Tidak dipakai selama naskahnya belum ada.
 
-Total PDF dipegang: 18.
+## Tambahan PDF (22 November 2026)
+
+- Lewis, Andrews, Keefe, & Walter (2024), Human Communication Research 50(4), 468-479, DOI 10.1093/hcr/hqae012. Naskah lengkap, 12 halaman. Dikirim penulis korespondensi lewat email ke user 11 November 2026 atas permintaan user, baru dikirim ke Claude 22 November 2026. Halaman pertama cocok dengan rujukan di naskah. Berkas tidak disimpan di repo karena artikelnya berakses tertutup dan dikirim penulis untuk keperluan belajar user.
+
+Total PDF dipegang: 19.

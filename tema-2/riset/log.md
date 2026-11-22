@@ -408,3 +408,11 @@
 - Dicek langsung dari berkas skripsi Ardiansyah yang dikirim user: di halaman 33 ia membedakan respons kognitif, afektif, konatif tanpa sitasi, Breckler tidak ada di daftar pustakanya, ia memakai empat indikator (ditambah partisipasi), dan konatifnya berupa tindakan nyata. Dicatat di `riset/penelitian-terdahulu.md` dan bank soal 2.3.
 - Bank soal ditambah jawaban untuk pertanyaan lanjutan tentang tafsir peneliti (2.2, 2.5) dan teori penghubung X dengan Y (2.2).
 - Tugas berikutnya: seminar 23 November 2026.
+
+## 22 November 2026 (naskah lengkap Lewis dibaca)
+
+- Koreksi catatan: user ternyata sudah mengirim email ke Nehama Lewis pada 11 November 2026 dan dibalas hari itu juga dengan lampiran PDF. Catatan log 11 November yang menyebut semua jalur akses tertutup tidak pernah diperbarui, sehingga Claude sempat menyebut naskah itu belum dipegang.
+- User mengirim PDF-nya. Dibaca Claude: halaman 468 memang halaman abstrak, 21 penelitian dan 39.510 responden cocok dengan naskah proposal. Hasil di halaman 473: seeking dengan niat r = 0,24, scanning dengan niat r = 0,11, seeking dengan sikap r = 0,11, scanning dengan sikap r = 0,10, semuanya positif dan signifikan. Penulis menyebut besar hubungannya kecil (hlm. 475).
+- Dicatat di `riset/ringkasan-jurnal.md` bagian 7, `Sumber/daftar-pdf.md`, bank soal 3.4, dan ringkasan belajar. Naskah proposal tidak diubah. PDF tidak disimpan di repo.
+- Penilaian Claude yang belum ada di naskah: dengan 75 responden, r baru signifikan pada kira-kira 0,23 ke atas, sedangkan hubungan yang ditemukan Lewis 0,11 sampai 0,24. Dicatat sebagai bahan bimbingan sesudah seminar.
+- Tiga hal terbuka untuk sesudah seminar ada di `riset/keputusan.md` bagian pengingat.
