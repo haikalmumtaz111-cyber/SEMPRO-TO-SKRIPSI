@@ -90,6 +90,8 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 
 Status keduanya: baru dilihat judulnya di tangkapan layar OpenAlex kiriman user. Nama penulis, tahun, dan nama jurnal diambil dari tangkapan layar itu dan belum dicek. Sebelum masuk naskah: cek lewat `openalex.py cek`, baca isinya, simpan PDF di `tema-2/Sumber/`. Tiga artikel lain yang lebih dulu dicatat dan juga belum dibaca ada di `riset/penelitian-terdahulu.md` (Rizqiyah dan Chonyta 2024, Kurniawan 2024, Huda dan Haeba 2021).
 
+**Naskah lengkap Lewis, et al. (2024) belum dipegang.** Dicek di OpenAlex 22 November 2026: statusnya tertutup dan tidak ada salinan di repositori mana pun. Yang dipegang hanya abstrak dan data tambahan (Tabel 3). Jalan yang sah untuk memperolehnya, urut dari yang paling mungkin berhasil: (1) mengirim email ke penulis korespondensi, Nehama Lewis (University of Haifa), alamatnya ada di halaman artikel di situs penerbit, dan draf emailnya sudah diberikan ke user di obrolan 22 November; (2) tombol "Request full-text" di ResearchGate; (3) bertanya ke perpustakaan UIN Sunan Gunung Djati Bandung; (4) mencoba e-resources Perpusnas. Tanyakan ke user: emailnya sudah dikirim atau belum, dan sudah dibalas atau belum. Naskah lengkap dibutuhkan saat menyusun skripsi, karena angka hubungan *seeking* dan *scanning* dengan niat tidak ada di abstrak.
+
 Pengingat lain yang sudah ada: masukan penguji difoto dan dikirim hari itu juga (`riset/roadmap-sempro.md`), dan penjelasan signifikansi 0,05 masih ditunda (`riset/sorotan-user.md`).
 
 ## Tugas Claude
