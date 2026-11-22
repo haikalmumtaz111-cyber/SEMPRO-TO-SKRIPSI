@@ -76,7 +76,7 @@ Kalimat ke penguji: "Gejala ini saya amati langsung di kantor tersebut selama PP
 
 ## 2. Kenapa teori ini (teori)
 
-### 2.1 ★ "Teori utamanya apa? Kok ada empat lima teori?"
+### 2.1 ★ "Teori utamanya apa? Kok teorinya banyak?"
 
 Sasaran: Kerangka Pemikiran `proposal.md:52-62`.
 
@@ -87,7 +87,7 @@ Arah jawaban: ga ada satu grand theory, dan naskah ngakuin itu (`proposal.md:62`
 - Y afektif: Zeithaml, et al. (1993:9) untuk perkiraan, Roseman, et al. (1996:257) untuk terkejut.
 - Y konatif: konsep niat Ajzen (1991:181).
 
-Alasan Y dipisah tiga: masing-masing dijelasin teori beda dan arah hubungannya belum tentu sama.
+Alasan Y dipisah tiga: tiap jenis respons dijelaskan dengan teori yang berbeda, dan arah hubungannya belum tentu sama.
 
 Kalimat ke penguji: "Tidak ada satu teori yang memuat paparan informasi dan ketiga respons sekaligus, Pak/Bu. Karena itu tiap jenis respons saya jelaskan dengan teorinya sendiri, dan hubungannya dengan paparan saya nyatakan sebagai dugaan yang diuji."
 
