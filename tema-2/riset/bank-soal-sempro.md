@@ -328,7 +328,21 @@ Usul Claude buat dibawa ke pembimbing sesudah seminar, belum ada di naskah: sebe
 
 Sasaran: `proposal.md:153` (paparan 7 butir diuji Alpha Cronbach).
 
-Arah jawaban: `[BOLONG DI NASKAH]`, penilaian Claude. Cronbach ngecek butir-butirnya sejalan atau ga (kayak empat termometer tadi). Tujuh butir X itu jumlah paparan dari sumber berbeda, jadi wajar kalau ga kompak, dan alfanya bisa rendah tanpa berarti alat ukurnya jelek. Naskah belum ngebahas ini. Jawaban jujur ke penguji: "Itu masukan yang akan saya bawa ke pembimbing, Pak/Bu. Kalau alfa X rendah, saya akan melaporkannya apa adanya beserta alasannya." Bahas ini di bimbingan sebelum sempro.
+Arah jawaban: `[BOLONG DI NASKAH]`, penilaian Claude. Tanda itu punya dua arti. Naskah lu ga ngebahas hal ini, jadi lu ga bisa nunjuk halaman. Dan yang nemuin masalahnya Claude, bukan buku atau rujukan, jadi ini pendapat.
+
+Ulang dulu Alpha Cronbach: empat termometer ngukur demam orang yang sama. Empat-empatnya ngukur hal yang sama, jadi angkanya harus mirip. Kalau mirip, alfanya tinggi. Cronbach cocok buat pertanyaan-pertanyaan yang ngukur hal yang sama.
+
+Masalahnya di X: tujuh pertanyaan X nanya sumber yang beda-beda (media sosial, internet, keluarga atau tetangga, kantor). Contoh Pak Budi: sering nyari di media sosial (skor 4), ga pernah nanya tetangga (skor 1), ga pernah ke kantor (skor 1). Itu wajar, karena orang punya sumber andalan masing-masing, dan pertanyaannya ga ada yang salah. Tapi Cronbach cuma lihat angkanya ga sejalan, lalu alfanya keluar rendah.
+
+Bedanya, pakai perumpamaan kedua: pertanyaan paham, kaget, dan niat itu ibarat termometer (beberapa alat ngukur satu hal, harus sejalan). Pertanyaan X ibarat keranjang belanja (beras, minyak, gula). Orang yang beli banyak beras belum tentu beli banyak gula, tapi total belanjanya tetap berarti. Jadi alfa X bisa rendah tanpa berarti pertanyaannya jelek.
+
+Bolongnya: naskah nulis X diuji Alpha Cronbach dan dinyatakan reliabel kalau alfanya minimal 0,70 (`proposal.md:153`). Kalau nanti alfa X di bawah itu, menurut aturan yang lu tulis sendiri X "tidak reliabel", padahal itu wajar. Naskah belum ngomongin kemungkinan ini.
+
+Jangan ngarang pembelaan, karena ini memang belum ada di naskah.
+
+Kalimat ke penguji: "Itu masukan yang akan saya bawa ke pembimbing, Pak/Bu. Tujuh butir paparan memang menanyakan sumber yang berbeda-beda, jadi alfanya bisa rendah. Kalau itu terjadi, saya akan melaporkannya apa adanya beserta alasannya."
+
+Bawa ini ke pembimbing sesudah seminar.
 
 ### 4.6 "Y kognitif lu itu merasa paham, bukan beneran paham."
 
