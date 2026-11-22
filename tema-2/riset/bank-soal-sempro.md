@@ -95,9 +95,11 @@ Kalimat ke penguji: "Tidak ada satu teori yang memuat paparan informasi dan keti
 
 Sasaran: `proposal.md:56`, `proposal.md:62`.
 
-Arah jawaban: ini titik paling rawan di teori, dan naskah udah nulis terus terang: "tidak satu pun memuat paparan informasi sebagai variabelnya", hubungannya "dugaan peneliti". Bukti dari penelitian lain yang paling deket cuma Lewis, et al. (2024:468), meta-analisis (satu penelitian yang ngerangkum banyak penelitian) atas 21 penelitian dengan 39.510 responden: seeking dan scanning berhubungan dengan sikap dan niat berperilaku, tapi itu soal informasi kesehatan. Jangan ngaku teorinya ngedukung langsung. Karena dasarnya dugaan, hipotesisnya tanpa arah.
+Arah jawaban: ini titik paling rawan di teori, dan naskah udah ngaku terus terang soal dua hal. Pertama, dari teori-teori yang lu pakai, ga ada satu pun yang ngebahas paparan informasi (seberapa sering orang dapet info). Kedua, karena itu hubungan paparan dengan tiap respons adalah dugaan lu sendiri, bukan isi teorinya. Bukti dari penelitian lain yang paling deket cuma Lewis, et al. (2024:468), meta-analisis (satu penelitian yang ngerangkum banyak penelitian) atas 21 penelitian dengan 39.510 responden: seeking dan scanning berhubungan dengan sikap dan niat berperilaku, tapi itu soal informasi kesehatan. Jangan ngaku teorinya ngedukung langsung. Karena dasarnya dugaan, hipotesisnya tanpa arah.
 
-Lanjutan yang mungkin: "Eveland sendiri bilang yang nyantol dari berita cuma sedikit walau orang terpapar, kok dipakai?" Jawab: betul, itu ditulis di naskah (Eveland, 2001:572). Yang lu pakai dari Eveland cuma gagasan bahwa informasi baru lebih gampang dipahami kalau nyambung ke pengetahuan yang udah ada (2001:577). Sisanya tafsir lu.
+Lanjutan yang mungkin: "Eveland sendiri bilang yang nyantol dari berita cuma sedikit walau orang terpapar, kok dipakai?" Jawab: betul, itu ditulis di naskah (Eveland, 2001:572). Eveland bilang dua hal. Satu, kena info doang ga cukup (2001:572). Dua, orang jadi paham kalau info baru disambungin ke pengetahuan yang udah ada di kepalanya, dan itu namanya elaborasi (2001:577). Yang lu pakai yang kedua. Dugaan bahwa orang yang sering dapet info punya lebih banyak bahan buat disambungin itu tafsir lu, bukan kata Eveland.
+
+Kalimat ke penguji: "Betul, Pak/Bu, dan itu saya tulis di naskah. Dari Eveland saya hanya memakai gagasan bahwa informasi baru lebih mudah dipahami kalau terhubung dengan pengetahuan yang sudah dimiliki. Dugaan bahwa paparan menambah pengetahuan itu tafsir saya, sehingga hipotesisnya tanpa arah."
 
 ### 2.3 ★ "Breckler itu teori sikap. Lu ngukur sikap?"
 
