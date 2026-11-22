@@ -395,6 +395,16 @@ Sasaran: `proposal.md:136-143`.
 
 Arah jawaban: tiap calon jemaah yang memenuhi kriteria dan bersedia diminta ngisi sesuai urutan datang, sampai jumlahnya cukup (Sembiring, et al., 2024:213). Ga bisa acak karena daftar pendaftar ga ada sebelum mereka datang. Konsekuensinya udah ditulis: hasil cuma berlaku buat pendaftar di periode dan kantor itu, dan lansia yang penjelasannya diwakilin pendamping kurang terwakili.
 
+Awas satu hal: syaratnya "mendengar sendiri penjelasan petugas", bukan "tidak didampingi". Jemaah yang datang bareng keluarganya tetap boleh jadi responden, asal dia sendiri yang dengerin petugas. Yang ga jadi responden itu yang penjelasannya cuma didenger pendamping. Kuesioner lu sendiri nanya "datang sendiri atau didampingi keluarga".
+
+Yang belum ada itu daftar nama pendaftarnya, bukan sampelnya. Buat ngundi butuh daftar nama dulu, dan daftar itu baru ada sesudah orangnya datang.
+
+Susunan jawabannya empat kalimat, satu isi tiap kalimat: artinya apa, syaratnya, kenapa ga acak, akibatnya.
+
+Kalimat ke penguji (versi lu sendiri, sudah dirapikan): "*Consecutive sampling* itu mengambil responden sesuai urutan kedatangan sampai jumlahnya terpenuhi, Pak/Bu. Di penelitian saya, yang diambil adalah calon jemaah yang baru selesai mendaftar, mendengar sendiri penjelasan petugas, dan bersedia mengisi. Saya tidak mengacak karena daftar pendaftar belum ada sebelum mereka datang, sehingga tidak bisa diundi. Akibatnya, hasilnya hanya berlaku untuk pendaftar di kantor dan periode itu, dan itu saya tulis sebagai keterbatasan."
+
+Cara ngebuka jawaban, berlaku buat semua soal: kalau penguji bertanya ("itu apa?", "kenapa?"), buka dengan "Baik, Pak/Bu." Kalau penguji mengkritik atau menyatakan sesuatu yang benar ("ini kan cuma merasa paham"), buka dengan "Betul, Pak/Bu."
+
 ### 4.9 "Skala Likert itu ordinal. Kok lu perlakuin interval terus pakai Pearson?"
 
 Sasaran: `proposal.md:159`.
