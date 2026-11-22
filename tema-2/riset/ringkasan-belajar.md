@@ -206,7 +206,7 @@ Ini poin paling penting buat dipahami: **ga ada satu teori pun yang isinya "papa
 | **Al-Anwari (2026)** | Masa tunggu ke minat berhaji, Aceh Tamiang, 98 responden | t hitung 7,168 | Pakai TPB **lengkap**, subjek masyarakat umum |
 
 ### Celah penelitian dalam satu kalimat
-Masa tunggu udah diteliti sebagai dampak kebijakan dan faktor minat, info haji udah dihubungkan dengan pemahaman jemaah yang udah berangkat, dan pelayanan pendaftaran dengan kepuasan. Dari yang ditelusuri, **belum ditemukan** yang ngukur info masa tunggu **sebelum** daftar lalu nyambunginnya ke respons **sesudah** penjelasan petugas. Pembedanya ada di **X dan urutan waktunya**, bukan di tiga dimensi respons (Ardiansyah juga pakai) dan bukan di Y pemahaman (Ginting dan Fitriyani udah). Penelusuran terbatas di repositori satu kampus dan satu basis data.
+Dampak kebijakan masa tunggu udah diteliti (Ardiansyah), masa tunggu sebagai faktor minat juga udah (Budiarti, Al-Anwari), info haji udah dihubungkan dengan pemahaman jemaah yang udah berangkat, dan pelayanan pendaftaran dengan kepuasan. Dari yang ditelusuri, **belum ditemukan** yang ngukur info masa tunggu **sebelum** daftar lalu nyambunginnya ke respons **sesudah** penjelasan petugas. Pembedanya ada di **X dan urutan waktunya**, bukan di tiga dimensi respons (Ardiansyah juga pakai) dan bukan di Y pemahaman (Ginting dan Fitriyani udah). Penelusuran terbatas di repositori satu kampus dan satu basis data.
 
 ### Rujukan metode
 - **Machali (2021):** rumus Slovin (hlm. 82), Pearson butuh data normal (hlm. 156), Spearman buat ordinal (hlm. 151).

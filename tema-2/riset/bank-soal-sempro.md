@@ -156,7 +156,7 @@ Arah jawaban: skor utamanya kuat lemahnya reaksi emosi. Lu sadar arahnya bisa be
 Sasaran: `proposal.md:14`.
 
 Arah jawaban, satu kalimat per kelompok:
-- Ardiansyah (2026): masa tunggu sebagai dampak kebijakan, kualitatif.
+- Ardiansyah (2026): dampak kebijakan masa tunggu terhadap jemaah, kualitatif. Yang diteliti dampak dari kebijakannya. Jangan kebalik jadi "masa tunggu sebagai dampak kebijakan".
 - Budiarti (2025) dan Al-Anwari (2026): masa tunggu sebagai faktor minat mendaftar atau berhaji.
 - Ginting (2025) dan Fitriyani (2025): informasi dan komunikasi haji dengan pemahaman jemaah yang udah berangkat.
 - Sukmawijaya (2024): pelayanan pendaftaran dengan kepuasan calon jemaah.
