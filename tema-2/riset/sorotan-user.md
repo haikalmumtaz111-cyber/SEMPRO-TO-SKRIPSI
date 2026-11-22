@@ -102,3 +102,16 @@ User menanyakan istilah di `riset/ringkasan-belajar.md` yang belum ia pahami. Ve
 - **26 tahun dan 14 tahun**: seperti antre bakso. Orang yang baru dapat mangkok bilang "tadi saya menunggu 14 menit" (sudah dijalani), orang yang baru masuk barisan diberi tahu "kira-kira 26 menit" (perkiraan ke depan). Naskah hanya memakai 26 tahun, lihat `keputusan.md` 21 November 2026.
 
 Perumpamaan yang gagal dan jangan diulang: mengganti pasangan variabel di tengah contoh (dari "paham" ke "kaget" atau "niat") tanpa memberi tahu.
+
+## Belum nyantol: signifikansi 0,05 (catatan 22 November 2026)
+
+User minta dijelaskan ulang, penjelasan kedua juga belum masuk, lalu user minta ditunda dan dicatat. **Jangan dilanjut sebelum user yang minta.**
+
+Yang berhasil: bagian koin (lempar 10 kali, gambar keluar 9 kali, koinnya dicurigai tidak normal) dan cara baca Sig. di SPSS.
+
+Yang gagal, menurut user sendiri:
+- "Hasil kayak punya lu" tidak jelas. User bertanya "punya gue itu yang mana". Hasil yang dimaksud harus disebut pakai angka, jangan pakai kata ganti.
+- "Jarang banget muncul" tidak jelas apa yang muncul dan muncul di mana.
+- Lompatan dari "aslinya ga nyambung" ke "berarti nyambung beneran" membingungkan. User menangkapnya sebagai dua pernyataan yang bertentangan. Cara pikir "andaikan tidak ada hubungan, lalu tunjukkan andaian itu tidak masuk akal" belum masuk.
+
+Saran untuk percobaan berikutnya (usul Claude, belum dicoba): jangan pakai andaian sama sekali. Mulai dari aturan pakai saja: SPSS mengeluarkan angka Sig., kalau di bawah 0,05 tulis "ada hubungan", kalau 0,05 atau lebih tulis "tidak terbukti ada hubungan". Arti di baliknya baru dijelaskan kalau user bertanya, satu langkah per pesan, dan tiap langkah ditanya dulu sudah masuk atau belum.
