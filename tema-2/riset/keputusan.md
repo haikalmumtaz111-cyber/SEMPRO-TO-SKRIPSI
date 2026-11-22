@@ -81,6 +81,17 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 - Menggambar ulang skema di Word dan memeriksa sampul, tabel, nomor halaman.
 - Menunjukkan judul dan draf ke pembimbing.
 
+## Pengingat sesudah seminar (diminta user 22 November 2026)
+
+**Begitu user bilang seminar selesai, ingatkan hal ini di awal sesi.** Dua artikel jurnal dari penelusuran OpenAlex perlu diunduh, dibaca, dan disimpan untuk menambah penelitian terdahulu dari jurnal:
+
+1. Nandavita, A. Y., & Islahuddin, A. N. (2022). Pengaruh antrian haji terhadap minat masyarakat melaksanakan ibadah haji di Kota Metro. *Multazam: Jurnal Manajemen Haji dan Umrah*. Sejenis dengan Budiarti (2025) dan Al-Anwari (2026).
+2. Husna, N. L. A., & Illahi, I. (2023). Analysis of waiting list and registration cancellations for Hajj. *Transforma Jurnal Manajemen*. Menyangkut orang yang batal mendaftar (bank soal 5.3).
+
+Status keduanya: baru dilihat judulnya di tangkapan layar OpenAlex kiriman user. Nama penulis, tahun, dan nama jurnal diambil dari tangkapan layar itu dan belum dicek. Sebelum masuk naskah: cek lewat `openalex.py cek`, baca isinya, simpan PDF di `tema-2/Sumber/`. Tiga artikel lain yang lebih dulu dicatat dan juga belum dibaca ada di `riset/penelitian-terdahulu.md` (Rizqiyah dan Chonyta 2024, Kurniawan 2024, Huda dan Haeba 2021).
+
+Pengingat lain yang sudah ada: masukan penguji difoto dan dikirim hari itu juga (`riset/roadmap-sempro.md`), dan penjelasan signifikansi 0,05 masih ditunda (`riset/sorotan-user.md`).
+
 ## Tugas Claude
 
 - Cek nama aplikasi (penelusuran web 11 Nov 2026, sumber media, belum sumber resmi): beberapa media menulis aplikasi "Satu Haji" sebagai nama baru "Haji Pintar", dengan menu Estimasi Keberangkatan dan isian nomor porsi, serta situs haji.go.id/estimasi-keberangkatan. Sumber: selular.id (Mei 2026), detik.com, metrotvnews.com, akurat.co. Status: [PERLU VERIFIKASI] ke kantor atau laman resmi kementerian sebelum ditulis di naskah. Aturan jeda 3 hari tidak ditemukan di hasil penelusuran, hanya dari keterangan user.

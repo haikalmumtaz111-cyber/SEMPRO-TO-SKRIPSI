@@ -66,6 +66,7 @@ Daftar angka yang wajib di luar kepala:
 | 30 menit sebelum mulai | Udah di ruangan. Tes laptop dan proyektor. |
 | Selama sempro | Bawa kertas dan pulpen. Catet **semua** masukan penguji, termasuk yang lu ga setuju. Kalau ga tau jawabannya, bilang "itu belum saya kaji, Pak/Bu, akan saya perbaiki", jangan ngarang. |
 | Sesudah sempro | Foto catatan masukan, kirim ke Claude hari itu juga buat disusun jadi daftar revisi. |
+| Sesudah sempro | Unduh dan baca dua artikel jurnal dari OpenAlex (Nandavita dan Islahuddin 2022; Husna dan Illahi 2023). Rinciannya di `riset/keputusan.md` bagian pengingat. |
 
 ---
 
