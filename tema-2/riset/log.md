@@ -426,3 +426,10 @@
 - Empat bahan untuk pembimbing dicatat di `keputusan.md` bagian pengingat.
 - Signifikansi 0,05 dibuka lagi oleh user lewat soal 4.10. Penjelasan dengan perumpamaan alarm motor belum dikonfirmasi masuk atau tidak (lihat `sorotan-user.md`).
 - Tugas berikutnya: seminar 23 November 2026. Kalau user sempat sebelum seminar, lanjut bagian 5 bank soal.
+
+## 22 November 2026 (slide presentasi seminar)
+
+- Dikerjakan atas permintaan user: `output/presentasi-sempro.pptx`, 14 slide untuk seminar proposal, isinya diambil dari `proposal/proposal.md`. Urutan: judul, latar belakang, celah penelitian, rumusan masalah, kegunaan, kerangka pemikiran, operasionalisasi variabel, hipotesis, metode, populasi dan sampel, pengumpulan data dan instrumen, teknik analisis data, keterbatasan, penutup. Tiap slide punya catatan pembicara berbahasa baku untuk latihan.
+- Tidak dimuat karena datanya tidak ada di repo: nama dosen pembimbing dan logo kampus. Angka 14 tahun dan klaim "penjelasan petugas sama" tidak dimuat, mengikuti keputusan user.
+- Script pembuatnya disimpan di `proposal/presentasi/buat.js`. Kalau naskah berubah, isi script ikut diubah lalu dibangun ulang.
+- Belum dikonfirmasi user: apakah presentasi memang diwajibkan dan berapa menit waktunya.
