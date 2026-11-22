@@ -75,10 +75,7 @@ function nomor(s, n, x, y, d, nama) {
   s.addText(String(n), { isTextBox: true, x, y, w: d, h: d, margin: 0, align: "center", valign: "middle", fontSize: Math.round(d * 30), bold: true, color: C.background1, objectName: nama + " angka" });
 }
 
-// ================= 1. JUDUL =================
-seksi = "Pembuka";
-pres.addSection({ title: seksi });
-{
+function slide1() {
   const s = pres.addSlide({ masterName: "JUDUL", sectionTitle: seksi });
   teks(s, "SEMINAR USULAN PROPOSAL SKRIPSI", { x: 0.6, y: 0.7, w: 8.8, h: 0.35, fontSize: 13, bold: true, color: C.accent2, charSpacing: 3, objectName: "Label seminar" });
   s.addText("Hubungan Paparan Informasi Sebelum Pendaftaran dengan Respons Calon Jemaah Haji terhadap Informasi Masa Tunggu Keberangkatan", { placeholder: "title" });
@@ -93,10 +90,7 @@ pres.addSection({ title: seksi });
   s.addNotes("Assalamu'alaikum warahmatullahi wabarakatuh. Perkenalkan, saya Mumtaaz Haekal dari Program Studi Manajemen Haji dan Umrah. Izinkan saya memaparkan usulan penelitian saya. Judulnya: Hubungan Paparan Informasi Sebelum Pendaftaran dengan Respons Calon Jemaah Haji terhadap Informasi Masa Tunggu Keberangkatan.");
 }
 
-// ================= 2. LATAR BELAKANG =================
-seksi = "Pendahuluan";
-pres.addSection({ title: seksi });
-{
+function slide2() {
   const s = slideIsi("Latar Belakang Masalah");
   kartu(s, 0.5, 1.25, 3.0, 3.55, "Kartu angka");
   teks(s, "26", { x: 0.5, y: 1.45, w: 3.0, h: 1.2, fontSize: 80, bold: true, color: C.accent1, align: "center", valign: "middle", fontFace: "Cambria", objectName: "Angka 26" });
@@ -119,8 +113,7 @@ pres.addSection({ title: seksi });
   s.addNotes("Calon jemaah haji reguler menunggu sangat lama. Menurut rilis Sekretariat Kabinet, rata-rata antrean haji nasional mencapai 26 tahun. Informasi masa tunggu itu tidak hanya ada di kantor. Sebagian calon jemaah sudah memperolehnya dari media sosial, berita, atau keluarga sebelum mendaftar. Selama PPM, saya mengamati respons calon jemaah yang beragam ketika petugas menyampaikan estimasi keberangkatan. Ini pengamatan awal saya, belum data penelitian.");
 }
 
-// ================= 3. CELAH PENELITIAN =================
-{
+function slide3() {
   const s = slideIsi("Celah Penelitian");
   const k = [
     ["Dampak kebijakan masa tunggu", "Ardiansyah (2026)"],
@@ -140,8 +133,7 @@ pres.addSection({ title: seksi });
   s.addNotes("Penelitian haji yang saya telusuri membahas empat hal ini. Ardiansyah meneliti dampak kebijakan masa tunggu. Budiarti dan Al-Anwari meneliti masa tunggu sebagai faktor minat. Ginting dan Fitriyani meneliti informasi haji pada jemaah yang sudah berangkat. Sukmawijaya meneliti pelayanan pendaftaran dan kepuasan. Yang belum saya temukan adalah penelitian yang mengukur informasi sebelum mendaftar, lalu menghubungkannya dengan respons setelah penjelasan petugas. Penelusuran saya terbatas, jadi saya tidak menyatakan penelitian serupa tidak ada.");
 }
 
-// ================= 4. RUMUSAN MASALAH =================
-{
+function slide4() {
   const s = slideIsi("Rumusan Masalah");
   const q = [
     "Bagaimana paparan informasi masa tunggu yang diperoleh calon jemaah haji sebelum memutuskan mendaftar?",
@@ -163,8 +155,7 @@ pres.addSection({ title: seksi });
   s.addNotes("Rumusan masalah saya dirinci menjadi lima pertanyaan. Dua yang pertama bersifat gambaran: bagaimana paparan informasinya, dan bagaimana ketiga responsnya. Tiga berikutnya tentang hubungan: apakah paparan informasi berhubungan dengan respons kognitif, afektif, dan konatif. Tujuan penelitian mengikuti kelima pertanyaan itu.");
 }
 
-// ================= 5. KEGUNAAN =================
-{
+function slide5() {
   const s = slideIsi("Kegunaan Penelitian");
   const k = [
     ["Akademis", "Menambah kajian manajemen haji dan umrah tentang pelayanan informasi pada tahap pendaftaran.", "Memakai pembedaan seeking dan scanning untuk mengukur pengalaman calon jemaah memperoleh informasi."],
@@ -182,10 +173,7 @@ pres.addSection({ title: seksi });
   s.addNotes("Secara akademis, penelitian ini diharapkan menambah kajian manajemen haji dan umrah tentang pelayanan informasi pada tahap pendaftaran. Secara praktis, hasilnya dapat menjadi bahan pertimbangan bagi kantor dalam menyampaikan informasi masa tunggu, misalnya dengan menanyakan lebih dulu apa yang sudah diketahui calon jemaah.");
 }
 
-// ================= 6. KERANGKA PEMIKIRAN =================
-seksi = "Kerangka dan Hipotesis";
-pres.addSection({ title: seksi });
-{
+function slide6() {
   const s = slideIsi("Kerangka Pemikiran");
   // kotak X
   kartu(s, 0.5, 2.0, 3.1, 1.7, "Kotak X", C.text2);
@@ -214,8 +202,7 @@ pres.addSection({ title: seksi });
   s.addNotes("Variabel bebasnya paparan informasi masa tunggu sebelum memutuskan mendaftar. Paparan itu terdiri atas seeking, yaitu sengaja mencari, dan scanning, yaitu memperoleh informasi tanpa mencarinya. Konsepnya dari Niederdeppe dan cara ukurnya dari Kelly. Variabel terikatnya respons calon jemaah, yang saya bagi tiga mengikuti pembagian Breckler: kognitif, afektif, dan konatif. Tiap respons saya jelaskan dengan teorinya sendiri. Tidak ada satu teori yang menghubungkan paparan dengan ketiga respons itu, sehingga hubungannya saya nyatakan sebagai dugaan yang diuji.");
 }
 
-// ================= 7. OPERASIONALISASI =================
-{
+function slide7() {
   const s = slideIsi("Operasionalisasi Variabel");
   const kepala = (t) => ({ text: t, options: { bold: true, color: C.background1, fill: { color: C.text2 }, fontSize: 13, valign: "middle" } });
   const sel = (t, o) => ({ text: t, options: Object.assign({ color: C.text1, fontSize: 13, valign: "middle" }, o || {}) });
@@ -235,8 +222,7 @@ pres.addSection({ title: seksi });
   s.addNotes("Ini ringkasan operasionalisasi variabelnya. Paparan informasi diukur dengan tujuh butir: empat butir seeking dan tiga butir scanning, dengan empat kategori jumlah. Respons kognitif diukur dengan tiga butir, respons afektif empat butir, dan respons konatif enam butir, semuanya memakai skala Likert lima pilihan. Totalnya dua puluh butir, ditambah tiga soal benar atau salah sebagai pelengkap. Butir paparan saya adaptasi dari Kelly. Butir respons saya susun sendiri dari konsep teori dan pengamatan selama PPM.");
 }
 
-// ================= 8. HIPOTESIS =================
-{
+function slide8() {
   const s = slideIsi("Hipotesis");
   const h = [["1", "Respons kognitif"], ["2", "Respons afektif"], ["3", "Respons konatif"]];
   h.forEach((b, i) => {
@@ -263,10 +249,7 @@ pres.addSection({ title: seksi });
   s.addNotes("Hipotesisnya ada tiga pasang, satu untuk tiap respons. Hipotesis nolnya: tidak terdapat hubungan yang signifikan antara paparan informasi dan respons tersebut. Hipotesis alternatifnya: terdapat hubungan yang signifikan. Ketiga hipotesis saya rumuskan tanpa arah, karena hubungan paparan dengan tiap respons merupakan dugaan saya, bukan pernyataan teorinya. Semuanya diuji dua sisi pada taraf signifikansi 0,05.");
 }
 
-// ================= 9. METODE =================
-seksi = "Langkah Penelitian";
-pres.addSection({ title: seksi });
-{
+function slide9() {
   const s = slideIsi("Metode Penelitian");
   const k = [
     ["Lokasi", "Kantor Kementerian Haji dan Umrah Kabupaten Bandung, Baleendah."],
@@ -284,8 +267,7 @@ pres.addSection({ title: seksi });
   s.addNotes("Penelitian dilakukan di Kantor Kementerian Haji dan Umrah Kabupaten Bandung, tempat saya mengamati gejala ini selama PPM. Paradigmanya positivisme dengan pendekatan kuantitatif. Metodenya survei potong lintang, artinya data dikumpulkan satu kali. Karena itu, hasilnya saya baca sebagai hubungan, bukan bukti sebab akibat.");
 }
 
-// ================= 10. POPULASI DAN SAMPEL =================
-{
+function slide10() {
   const s = slideIsi("Populasi dan Sampel");
   const st = [
     ["3.076", "pendaftar", "1 Januari sampai 11 November 2026, data SISKOHAT kantor"],
@@ -312,8 +294,7 @@ pres.addSection({ title: seksi });
   s.addNotes("Populasinya calon jemaah haji reguler yang menyelesaikan pendaftaran selama periode pengumpulan data, yaitu sekitar satu bulan. Menurut data SISKOHAT kantor, ada 3.076 pendaftar dari 1 Januari sampai 11 November 2026, atau rata-rata sekitar 297 per bulan. Jadi populasinya saya perkirakan 297 orang. Dengan rumus Slovin dan batas kesalahan 10 persen, diperoleh 75 responden, yang saya perlakukan sebagai jumlah minimal. Sampel diambil dengan consecutive sampling, yaitu sesuai urutan kedatangan, karena daftar pendaftar belum tersedia sebelum mereka datang.");
 }
 
-// ================= 11. PENGUMPULAN DATA DAN INSTRUMEN =================
-{
+function slide11() {
   const s = slideIsi("Pengumpulan Data dan Instrumen");
   teks(s, "Pengumpulan data", { x: 0.5, y: 1.2, w: 4.5, h: 0.32, fontSize: 15, bold: true, color: C.accent1, objectName: "Judul pengumpulan" });
   const l = [
@@ -341,8 +322,7 @@ pres.addSection({ title: seksi });
   s.addNotes("Data dikumpulkan dengan kuesioner tertutup berbentuk Google Form, yang dibuka responden lewat kode QR atau tautan. Kuesioner diisi di kantor segera setelah penjelasan petugas, supaya respons yang diukur masih baru. Responden yang kesulitan membaca atau memakai formulir tetap saya bantu: butirnya saya bacakan, lalu jawabannya saya masukkan. Validitas diuji dengan korelasi Pearson, dan reliabilitas dengan Alpha Cronbach dengan batas 0,70. Kuesionernya masih tentatif dan akan diuji coba setelah seminar.");
 }
 
-// ================= 12. ANALISIS DATA =================
-{
+function slide12() {
   const s = slideIsi("Teknik Analisis Data");
   // tahap 1
   kartu(s, 0.5, 1.3, 2.6, 2.3, "Tahap deskriptif");
@@ -368,10 +348,7 @@ pres.addSection({ title: seksi });
   s.addNotes("Pertanyaan pertama dan kedua dijawab dengan analisis deskriptif, yaitu frekuensi, persentase, rata-rata, dan simpangan baku. Pertanyaan ketiga sampai kelima dijawab dengan uji korelasi. Sebelum itu, sebaran datanya saya uji normalitasnya. Kalau normal, saya memakai korelasi Pearson. Kalau tidak normal, saya memakai Rank Spearman. Tiap hipotesis diuji pada taraf signifikansi 0,05.");
 }
 
-// ================= 13. KETERBATASAN =================
-seksi = "Penutup";
-pres.addSection({ title: seksi });
-{
+function slide13() {
   const s = slideIsi("Keterbatasan Penelitian");
   const k = [
     "Hasil dibaca sebagai hubungan, bukan sebab akibat.",
@@ -393,14 +370,50 @@ pres.addSection({ title: seksi });
   s.addNotes("Penelitian ini punya beberapa keterbatasan yang saya nyatakan terbuka di naskah. Hasilnya dibaca sebagai hubungan, bukan sebab akibat. Hasilnya juga hanya berlaku bagi pendaftar pada periode dan kantor tersebut. Skala respons kognitif hanya tiga butir. Jawaban tentang paparan bertumpu pada ingatan, dan responden dapat merasa sungkan karena mengisi di kantor.");
 }
 
-// ================= 14. PENUTUP =================
-{
+function slide14() {
   const s = pres.addSlide({ masterName: "PENUTUP", sectionTitle: seksi });
   s.addText("Terima kasih", { placeholder: "title" });
   s.addText("Mohon masukan dan arahan Bapak dan Ibu penguji.", { placeholder: "body" });
   teks(s, "Mumtaaz Haekal  |  NIM 1234070111  |  Manajemen Haji dan Umrah, UIN Sunan Gunung Djati Bandung", { x: 0.6, y: 4.7, w: 8.8, h: 0.3, fontSize: 11, color: C.accent3, objectName: "Identitas penutup" });
   s.addNotes("Demikian pemaparan usulan penelitian saya. Saya mohon masukan dan arahan dari Bapak dan Ibu penguji. Terima kasih. Wassalamu'alaikum warahmatullahi wabarakatuh.");
 }
+
+function slideGabung() {
+  const s = slideIsi("Pengumpulan dan Analisis Data");
+  teks(s, "Pengumpulan data", { x: 0.5, y: 1.2, w: 4.3, h: 0.32, fontSize: 15, bold: true, color: C.accent1, objectName: "Judul pengumpulan" });
+  const l = [
+    ["Kuesioner tertutup, Google Form", "Dibuka lewat kode QR atau tautan."],
+    ["Diisi di kantor", "Segera setelah penjelasan petugas."],
+    ["Responden yang kesulitan dibantu", "Butir dibacakan, jawaban dimasukkan peneliti."],
+  ];
+  l.forEach((b, i) => {
+    const y = 1.65 + i * 0.86;
+    nomor(s, i + 1, 0.5, y, 0.4, "Langkah " + (i + 1));
+    teks(s, b[0], { x: 1.05, y: y - 0.03, w: 3.7, h: 0.3, fontSize: 14, bold: true, color: C.text2, objectName: "Langkah " + (i + 1) + " judul" });
+    teks(s, b[1], { x: 1.05, y: y + 0.28, w: 3.7, h: 0.3, fontSize: 13, color: C.text1, objectName: "Langkah " + (i + 1) + " isi" });
+  });
+  teks(s, "Analisis data", { x: 5.2, y: 1.2, w: 4.3, h: 0.32, fontSize: 15, bold: true, color: C.accent1, objectName: "Judul analisis" });
+  kartu(s, 5.2, 1.62, 4.3, 0.62, "Kartu normalitas", C.text2);
+  teks(s, "Uji normalitas", { x: 5.4, y: 1.62, w: 3.9, h: 0.62, fontSize: 16, bold: true, color: C.background1, valign: "middle", objectName: "Normalitas" });
+  kartu(s, 5.2, 2.38, 2.08, 1.15, "Kartu Pearson");
+  teks(s, "Sebaran normal", { x: 5.35, y: 2.46, w: 1.8, h: 0.26, fontSize: 11, italic: true, color: C.accent4, objectName: "Syarat Pearson" });
+  teks(s, "Korelasi Pearson", { x: 5.35, y: 2.74, w: 1.8, h: 0.7, fontSize: 16, bold: true, color: C.accent1, valign: "middle", objectName: "Uji Pearson" });
+  kartu(s, 7.42, 2.38, 2.08, 1.15, "Kartu Spearman");
+  teks(s, "Sebaran tidak normal", { x: 7.57, y: 2.46, w: 1.8, h: 0.26, fontSize: 11, italic: true, color: C.accent4, objectName: "Syarat Spearman" });
+  teks(s, "Korelasi Rank Spearman", { x: 7.57, y: 2.74, w: 1.8, h: 0.7, fontSize: 16, bold: true, color: C.accent1, valign: "middle", objectName: "Uji Spearman" });
+  teks(s, "Tiap hipotesis diuji pada taraf signifikansi 0,05.", { x: 5.2, y: 3.68, w: 4.3, h: 0.3, fontSize: 13, bold: true, color: C.text2, objectName: "Taraf" });
+  kartu(s, 0.5, 4.25, 9.0, 0.62, "Kartu uji coba");
+  teks(s, "Validitas dan reliabilitas kuesioner diuji setelah seminar. Hasil dibaca sebagai hubungan, bukan sebab akibat.", { x: 0.7, y: 4.25, w: 8.6, h: 0.62, fontSize: 13, color: C.text2, valign: "middle", objectName: "Catatan uji coba" });
+  s.addNotes("Data dikumpulkan dengan kuesioner Google Form yang dibuka lewat kode QR atau tautan, dan diisi di kantor segera setelah penjelasan petugas. Responden yang kesulitan tetap saya bantu. Untuk analisisnya, sebaran data saya uji normalitasnya dulu. Kalau normal, saya memakai korelasi Pearson. Kalau tidak normal, saya memakai Rank Spearman. Tiap hipotesis diuji pada taraf signifikansi 0,05. Validitas dan reliabilitas kuesioner diuji setelah seminar.");
+}
+
+// ---------- urutan: 10 slide utama (sekitar 7 menit), lalu slide cadangan ----------
+seksi = "Presentasi utama";
+pres.addSection({ title: seksi });
+slide1(); slide2(); slide3(); slide4(); slide6(); slide8(); slide9(); slide10(); slideGabung(); slide14();
+seksi = "Slide cadangan";
+pres.addSection({ title: seksi });
+slide5(); slide7(); slide11(); slide12(); slide13();
 
 (async () => {
   await pres.writeFile({ fileName: OUT });

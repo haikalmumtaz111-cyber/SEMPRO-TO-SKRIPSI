@@ -433,3 +433,4 @@
 - Tidak dimuat karena datanya tidak ada di repo: nama dosen pembimbing dan logo kampus. Angka 14 tahun dan klaim "penjelasan petugas sama" tidak dimuat, mengikuti keputusan user.
 - Script pembuatnya disimpan di `proposal/presentasi/buat.js`. Kalau naskah berubah, isi script ikut diubah lalu dibangun ulang.
 - Belum dikonfirmasi user: apakah presentasi memang diwajibkan dan berapa menit waktunya.
+- Lanjutan: user menyebut waktu presentasi sekitar 7 menit. Deck disusun ulang menjadi 10 slide utama (judul, latar belakang, celah penelitian, rumusan masalah, kerangka pemikiran, hipotesis, metode, populasi dan sampel, pengumpulan dan analisis data, penutup) dan 5 slide cadangan di belakang penutup (kegunaan, operasionalisasi variabel, pengumpulan data dan instrumen, teknik analisis data, keterbatasan). Catatan pembicara 10 slide utama berjumlah sekitar 530 kata.
