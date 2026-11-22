@@ -1,10 +1,10 @@
 # Ringkasan Belajar Proposal Tema 2
 
-Bahan belajar buat lu sendiri, bukan naskah proposal. Bahasanya santai biar nempel. Semua angka, halaman, dan rujukan diambil dari `proposal/proposal.md` (versi 21 November 2026) dan catatan riset tema 2. Latihan tanya jawab yang lebih lengkap ada di `riset/bank-soal-sempro.md` (41 soal). Kalau mau ngomong di depan dosen, pakai kalimat yang lebih sopan, isinya sama.
+Bahan belajar buat lu sendiri, bukan naskah proposal. Bahasanya santai biar nempel. Semua angka, halaman, dan rujukan diambil dari `proposal/proposal.md` (versi 21 November 2026) dan catatan riset tema 2. Latihan tanya jawab yang lebih lengkap ada di `riset/bank-soal-sempro.md` (44 soal). Kalau mau ngomong di depan dosen, pakai kalimat yang lebih sopan, isinya sama.
 
 Tokoh contoh: **Pak Budi**, baru selesai daftar haji hari ini, terus petugas ngasih tau masa tunggunya.
 
-Istilah umum (variabel, X, Y, hubungan, populasi, sampel, hipotesis, signifikan, validitas, reliabilitas, Alpha Cronbach, Spearman, potong lintang, dll.) udah dijelasin pakai perumpamaan di `tema-1/riset/ringkasan-belajar.md` bagian 4. Di sini cuma ditambah istilah yang khas tema 2.
+Istilah umum (variabel, X, Y, hubungan, populasi, sampel, hipotesis, signifikan, validitas, reliabilitas, Alpha Cronbach, Spearman, potong lintang, dll.) udah dijelasin pakai perumpamaan di `tema-1/riset/ringkasan-belajar.md` bagian 4. Di sini cuma ditambah istilah yang khas tema 2. Penjelasan paling sederhana buat istilah statistik (butir, skor total, ordinal dan interval, Pearson dan r, Rank Spearman, Alpha Cronbach, signifikansi 0,05) ada di `riset/sorotan-user.md`. Kalau ada yang masih burem, baca yang itu dulu.
 
 ---
 
@@ -62,7 +62,7 @@ Di naskah ini ditulis tegas sebagai **pengamatan awal, bukan data penelitian**.
 | 11 | Populasi dan sampel | Perkiraan N 297, Slovin 10%, n = 75, consecutive sampling |
 | 12 | Cara ambil data | Kuesioner Google Form, diisi lewat HP di kantor langsung setelah penjelasan petugas |
 | 13 | Kuesioner | Versi tentatif |
-| 14 | Validitas, reliabilitas | **Belum diaudit** (cukup rencana buat sempro) |
+| 14 | Validitas, reliabilitas | **Belum dicek ulang** (cukup rencana buat sempro) |
 | 15 | Analisis | Uji normalitas, lalu Pearson atau Spearman |
 | 16 | Naskah | Draf lengkap, Word udah jadi |
 
@@ -79,17 +79,19 @@ Berikutnya: **Tahap 17**, bawa ke dosen pembimbing. Status sekarang: **tema 2 ya
 | ***Information scanning*** | Dapet info di kegiatan sehari-hari, padahal lagi ga nyari | Pak Budi lagi scroll Facebook, lewat postingan soal antrean haji |
 | **Respons kognitif** | Respons pikiran: paham atau ga | Pak Budi ngerti ga penjelasan petugas |
 | **Respons afektif** | Respons perasaan | Pak Budi kaget, khawatir |
-| **Respons konatif** | Respons kecenderungan bertindak, di sini berupa **niat** | Pak Budi niat ngecek aplikasi tiap bulan |
+| **Respons konatif** | Respons soal mau ngapain, di sini berupa **niat** | Pak Budi niat ngecek aplikasi tiap bulan |
 | **Elaborasi** | Nyambungin info baru dengan yang udah ada di kepala | Lu gampang paham resep baru karena udah biasa masak |
 | **Appraisal** | Cara orang menilai suatu kejadian, dan penilaian itu yang munculin emosi | Ujan deres: buat petani "syukur", buat yang mau nikahan "panik" |
 | ***Unexpectedness*** | Kejadian dinilai ga terduga, munculin kaget | Kaget karena angka 26 tahun ga pernah kebayang |
 | **Niat (intention)** | Seberapa keras orang mau berusaha ngelakuin sesuatu | "Gue niat banget nge-gym besok" |
 | **Consecutive sampling** | Ambil responden sesuai urutan dateng yang memenuhi kriteria, sampai jumlahnya cukup | Ngambil nomor antrean: yang dateng duluan dan memenuhi syarat ditanya duluan |
 | **Rumus Slovin** | Rumus cepat buat nentuin jumlah sampel dari jumlah populasi dan batas salah | Mau nyicip sop sepanci, Slovin bilang berapa sendok cukup |
-| **Batas kesalahan (e) 10%** | Toleransi meleset hasil sampel dibanding populasi | Tembakan boleh meleset 10 cm dari titik tengah |
-| **Uji normalitas** | Ngecek sebaran data bentuknya kayak lonceng (normal) atau ga | Tinggi badan satu kelas biasanya numpuk di tengah, sedikit yang pendek banget atau tinggi banget |
-| **Pearson product moment** | Uji hubungan buat data angka yang sebarannya normal | Bandingin tinggi dan berat badan beneran (cm dan kg) |
+| **Batas kesalahan (e) 10%** | Seberapa jauh hasil dari 75 orang boleh meleset dari keadaan semua pendaftar | Hitung cepat pemilu: hasilnya boleh beda sedikit dari hitungan resmi |
+| **Uji normalitas** | Ngecek skor orang-orang nyebarnya normal atau ga. Normal itu: sedikit yang rendah, kebanyakan di tengah, sedikit yang tinggi | Tinggi badan sekelas diurutin: sedikit yang pendek banget, kebanyakan sedang, sedikit yang tinggi banget |
+| **Pearson product moment** | Rumus buat ngecek dua deret angka naik-turunnya bareng atau ga. Hasilnya angka r, dari -1 sampai 1. Dipakai kalau datanya normal | Makin tinggi badan orang, biasanya makin berat. Pearson ngitung seberapa kompak dua hal itu |
+| **Rank Spearman** | Sodaranya Pearson, kerjanya sama, tapi yang dihitung peringkatnya, bukan angka aslinya. Dipakai kalau datanya ga normal | Yang dibandingin urutan juara, bukan nilai rapornya |
 | **r hitung vs r tabel** | r hitung dari data lu, r tabel batas minimal dari tabel statistik. Kalau r hitung lebih gede, butir dianggap valid | Nilai ujian lu dibandingin KKM |
+| **Data ordinal** | Angka yang cuma nunjukin urutan | Juara 1, 2, 3 lomba lari: tau urutannya, ga tau selisih waktunya |
 | **Data interval** | Angka yang jarak antarnya dianggap sama | Suhu 20, 21, 22 derajat |
 | **Uji berganda** | Nguji beberapa hipotesis sekaligus, peluang kebetulan "signifikan" jadi lebih gede | Beli 3 tiket undian, peluang menang kebetulan lebih gede daripada 1 tiket |
 | **Mengingat ulang (recall)** | Responden disuruh inget kejadian yang udah lewat | "Setahun lalu lu makan apa aja?" susah inget persis |
@@ -102,21 +104,21 @@ Berikutnya: **Tahap 17**, bawa ke dosen pembimbing. Status sekarang: **tema 2 ya
 
 - Dari fenomena: calon jemaah dateng dengan **bekal info yang beda-beda**. Ada yang udah tau, ada yang belum.
 - Konsepnya dipinjam dari pembedaan seeking dan scanning (Niederdeppe dkk., 2007).
-- Diukur sebagai **satu skor gabungan** (7 butir). Seeking dan scanning dipisah cuma buat analisis tambahan tanpa hipotesis.
-- Sumber info yang ditanya: media sosial, internet atau berita, keluarga/teman/tetangga, kantor atau petugas. Tiga yang pertama dari keterangan lapangan lu, keluarga/teman/tetangga dari literatur. Kantor cuma masuk seeking (dateng ke kantor ga mungkin "ga sengaja").
+- Diukur sebagai **satu skor gabungan**: jawaban 7 butir dijumlah jadi satu angka. Seeking dan scanning dipisah cuma buat analisis tambahan tanpa hipotesis.
+- Sumber info yang ditanya: media sosial, internet atau berita, keluarga/teman/tetangga, kantor atau petugas. Media sosial, internet atau berita, dan kantor itu dari keterangan lapangan lu. Keluarga/teman/tetangga ditambah dari literatur. Kantor cuma masuk seeking (dateng ke kantor ga mungkin "ga sengaja").
 - **Aturan penting:** nyari info **sesudah** daftar itu bukan X, itu masuk Y konatif. X cuma pengalaman **12 bulan sebelum memutuskan daftar**.
 
 ### b. Y: respons, dipecah tiga
 
 - Dari fenomena: reaksi beragam, ada yang soal paham, soal perasaan, soal mau ngapain.
 - Pembagian tiga mengikuti Breckler (1984).
-- **Dianalisis per dimensi** (keputusan 11 November): 3 skor Y, 3 hipotesis, ga ada skor gabungan Y. Alasannya tiap dimensi dijelasin teori beda dan arah hubungannya belum tentu sama.
+- **Dianalisis per dimensi**, artinya dihitung sendiri-sendiri (keputusan 11 November): 3 skor Y, 3 hipotesis, ga ada skor gabungan Y. Alasannya tiap dimensi dijelasin teori beda dan arah hubungannya belum tentu sama.
 
 | Dimensi | Isinya | Keputusan penting |
 |---|---|---|
 | Y1 kognitif | Pemahaman yang **dirasakan** (skala Likert) | Soal benar-salah cuma pelengkap. Indikator "sanggup menjelaskan kembali" dibuang karena ga ada rujukannya |
 | Y2 afektif | **Kaget** dan **khawatir**, satu skor | "Tenang" dan "merasa terbantu" ga dijadikan indikator. Jemaah yang tenang bakal kecatat skor rendah |
-| Y3 konatif | **Niat** bertanya ke petugas dan niat ngecek lewat aplikasi | Awalnya 3 indikator, "niat mencari informasi resmi" dilebur karena tumpang tindih |
+| Y3 konatif | **Niat** bertanya ke petugas dan niat ngecek lewat aplikasi | Awalnya 3 indikator, "niat mencari informasi resmi" digabung karena isinya mirip |
 
 ---
 
@@ -139,18 +141,18 @@ Ini poin paling penting buat dipahami: **ga ada satu teori pun yang isinya "papa
 - **Langkah 1:** info dari luar, dicari maupun ga, termasuk cerita orang, membentuk perkiraan orang soal layanan yang bakal dia terima (Zeithaml dkk., 1993:9).
 - **Langkah 2:** kejadian yang dinilai ga terduga munculin kaget (Roseman dkk., 1996:257).
 - **Logika lu:** Pak Budi yang udah punya perkiraan "antre 20-an tahun" ga terlalu kaget denger 26 tahun.
-- **Khawatir:** didekatkan ke *fear* di model Roseman (hlm. 258). Ini tafsir. Arah buat khawatir **ga ditentukan**, karena orang bisa ga kaget tapi tetep khawatir.
-- **Batas:** Zeithaml itu proposisi dari wawancara kelompok, konteks layanan komersial (hotel, asuransi, bengkel), bukan haji. Appraisal ga lu ukur, jadi jangan bilang "menguji teori appraisal".
+- **Khawatir:** dianggap mirip *fear* (takut) di model Roseman (hlm. 258). Ini tafsir. Arah buat khawatir **ga ditentukan**, karena orang bisa ga kaget tapi tetep khawatir.
+- **Batas:** Zeithaml itu dugaan yang disusun dari wawancara kelompok (istilahnya proposisi), soal layanan komersial (hotel, asuransi, bengkel), bukan haji. Appraisal (cara orang menilai kejadian) ga lu ukur, jadi jangan bilang "menguji teori appraisal".
 
 ### d. Konsep niat dari Theory of Planned Behavior (Ajzen, 1991), buat Y konatif
-- **Isi:** niat itu tanda seberapa keras orang mau berusaha ngelakuin sesuatu (hlm. 181). Di TPB, niat ditentukan sikap, norma subjektif, dan persepsi kontrol.
+- **Isi:** niat itu tanda seberapa keras orang mau berusaha ngelakuin sesuatu (hlm. 181). Di TPB, niat ditentukan tiga hal: sikap, norma subjektif (pendapat orang sekitar), dan persepsi kontrol (ngerasa sanggup atau ga).
 - **Dipakai cuma konsep niatnya.** Tiga penentu niat ga diukur, jadi **TPB ga diuji**.
-- Dukungan empiris X ke niat: meta-analisis Lewis dkk. (2024).
+- Bukti dari penelitian lain soal X dan niat: meta-analisis Lewis dkk. (2024).
 - **Arah:** diduga makin terpapar makin berniat, tapi bisa kebalik kalau orangnya ngerasa infonya udah cukup.
 
-### e. Payung tiga dimensi (Breckler, 1984)
-- **Isi:** sikap punya tiga komponen (perasaan, perilaku, pikiran) yang beda tapi saling berkorelasi sedang.
-- **Batas:** Breckler ngomongin **sikap**. Lu cuma pinjam pembagiannya buat ngelompokin respons, ga ngukur sikap. Studi 2 Breckler ngasih peringatan: kalau semua diukur lewat laporan verbal, komponen bisa berkorelasi tinggi dan susah dipisah.
+### e. Tiga laci respons (Breckler, 1984)
+- **Isi:** sikap punya tiga komponen (perasaan, perilaku, pikiran). Tiga-tiganya beda, tapi masih saling nyambung dengan kekuatan sedang.
+- **Batas:** Breckler ngomongin **sikap**. Lu cuma pinjam pembagiannya buat ngelompokin respons, ga ngukur sikap. Studi 2 Breckler ngasih peringatan: kalau semuanya diukur lewat jawaban orangnya sendiri (kayak kuesioner), tiga komponen itu bisa nempel banget dan susah dipisah.
 
 ### Peta teori dalam satu tabel
 
@@ -161,7 +163,7 @@ Ini poin paling penting buat dipahami: **ga ada satu teori pun yang isinya "papa
 | Y afektif | Zeithaml dkk. (1993), Roseman dkk. (1996) | perkiraan dan kaget | menguji teori appraisal |
 | Y konatif | Ajzen (1991) | konsep niat | menguji TPB |
 | Struktur Y | Breckler (1984) | Y tiga komponen | tiga dimensi pasti kepisah bersih |
-| X ke Y | Lewis dkk. (2024) | seeking/scanning berasosiasi dengan sikap dan niat | angka korelasinya |
+| X ke Y | Lewis dkk. (2024) | seeking/scanning berhubungan dengan sikap dan niat | angka korelasinya |
 
 ---
 
@@ -174,7 +176,7 @@ Ini poin paling penting buat dipahami: **ga ada satu teori pun yang isinya "papa
 - **Batas:** wawancara, ga ada angka hubungan. Dipakai buat **definisi**.
 
 **2. Kelly, Niederdeppe, & Hornik (2009).** *Journal of Health Communication* 14(8).
-- **Isi:** survei nasional Amerika, usia 40 sampai 70, n = 2.489, buat nguji cara ngukur scanning. Seeking ditanya ya/tidak, scanning ditanya berapa kali per sumber (ga pernah, 1-2 kali, 3 kali atau lebih) (hlm. 727-728). Scanning berasosiasi dengan 5 dari 6 perilaku pencegahan (hlm. 721).
+- **Isi:** survei nasional Amerika, usia 40 sampai 70, n = 2.489, buat nguji cara ngukur scanning. Seeking ditanya ya/tidak, scanning ditanya berapa kali per sumber (ga pernah, 1-2 kali, 3 kali atau lebih) (hlm. 727-728). Scanning berhubungan dengan 5 dari 6 perilaku pencegahan (hlm. 721).
 - **Dipakai buat:** bentuk butir X dan jangka 12 bulan. Lu ubah jadi **4 kategori** buat dua-duanya (ga pernah, 1-2, 3-5, lebih dari 5) supaya skornya bisa digabung. Batas kategori ditetapkan sendiri.
 - **Batas:** divalidasi buat topik kanker dan orang Amerika.
 
@@ -189,7 +191,7 @@ Ini poin paling penting buat dipahami: **ga ada satu teori pun yang isinya "papa
 **7. Breckler (1984).** *Journal of Personality and Social Psychology* 47(6). Dua studi, studi 1 soal sikap ke ular pada 138 mahasiswa. Tiga komponen beda tapi berkorelasi sedang (0,38 < r < 0,71). Lihat bagian 6e.
 
 **8. Lewis, Andrews, Keefe, & Walter (2024).** *Human Communication Research* 50(4).
-- **Isi:** meta-analisis 21 studi, 39.510 responden, konteks kesehatan. Seeking dan scanning berkorelasi r = 0,35. Keduanya berasosiasi dengan sikap dan niat berperilaku (hlm. 468).
+- **Isi:** meta-analisis 21 studi, 39.510 responden, konteks kesehatan. Seeking dan scanning berkorelasi r = 0,35. Keduanya berhubungan dengan sikap dan niat berperilaku (hlm. 468).
 - **Batas:** yang dibaca baru **abstrak dan tabel tambahan**, naskah lengkap belum dipegang. Angka korelasi ke niat ga ada di abstrak, jadi jangan disebut. Niatnya niat perilaku sehat.
 
 ### Penelitian terdahulu (6 skripsi prodi lu, UIN SGD)
@@ -253,7 +255,7 @@ Pilihan jawaban: **tidak pernah (1), 1-2 kali (2), 3-5 kali (3), lebih dari 5 ka
 - D6 niat mantau pembaruan lewat Satu Haji
 
 ### Pelengkap: 3 soal benar/salah/tidak tahu (Bagian E)
-- E1 masa tunggu yang disampaikan sekitar 26 tahun (kunci: benar, menurut pengamatan lu)
+- E1 masa tunggu yang disampaikan sekitar 26 tahun (kunci: benar, menurut keterangan kepala kantor dan petugas selama PPM)
 - E2 estimasi bisa dicek di Satu Haji pakai nomor porsi (benar)
 - E3 estimasi bisa dicek di hari yang sama dengan daftar (salah, karena baru 3 hari kemudian)
 
@@ -310,7 +312,7 @@ Kenapa ga acak? Daftar pendaftar belum ada sebelum mereka dateng, jadi ga bisa d
 - Kuesioner **formulir daring (Google Form)**, tertutup, dibuka di HP responden lewat kode QR atau tautan, diisi di kantor.
 - Diisi di kantor **langsung setelah** penjelasan petugas.
 - Yang susah baca atau gagap formulir, butirnya lu bacain dengan kalimat sama, dia jawab, lu yang masukin jawabannya ke formulir.
-- Kenapa ga diisi di rumah: rasa kaget dan khawatirnya udah diolah begitu sampai rumah, info yang dicari sesudah daftar bisa kecampur ke X, soal benar-salah bisa dijawab sambil buka aplikasi, dan yang ngisi cuma yang niat sehingga urutan sampel ga kejaga.
+- Kenapa ga diisi di rumah: rasa kaget dan khawatirnya udah reda atau berubah begitu sampai rumah, info yang dicari sesudah daftar bisa kecampur ke X, soal benar-salah bisa dijawab sambil buka aplikasi, dan yang ngisi cuma yang niat sehingga urutan sampel ga kejaga.
 - Setelah dapet izin kantor, dan persetujuan responden diminta dulu.
 
 ### h. Validitas dan reliabilitas
@@ -378,7 +380,7 @@ Kenapa ga acak? Daftar pendaftar belum ada sebelum mereka dateng, jadi ga bisa d
     Ardiansyah kualitatif, soal dampak kebijakan masa tunggu. Lu kuantitatif, nyambungin info **sebelum** daftar dengan respons **sesudah** penjelasan petugas.
 
 12. **"Ada rujukan yang ngehubungin X langsung ke Y?"**
-    Lewis dkk. (2024): seeking dan scanning berasosiasi dengan sikap dan niat, tapi konteks kesehatan. Naskah lengkapnya belum lu pegang, jadi jangan ngutip angka yang ga ada di abstrak.
+    Lewis dkk. (2024): seeking dan scanning berhubungan dengan sikap dan niat, tapi itu soal kesehatan. Naskah lengkapnya belum lu pegang, jadi jangan ngutip angka yang ga ada di abstrak.
 
 13. **"Kenapa skor afektif gabungin kaget dan khawatir?"**
     Dua-duanya reaksi emosi kuat terhadap info masa tunggu. Biar aman, keduanya juga dilaporkan terpisah sebagai analisis tambahan.
@@ -392,7 +394,7 @@ Kenapa ga acak? Daftar pendaftar belum ada sebelum mereka dateng, jadi ga bisa d
 3. Kunci soal E1 sampai E3 dicek ke kantor menjelang turun lapangan.
 4. Naskah lengkap Lewis dkk. (2024) belum dipegang.
 5. Catatan riset sempat beda soal penulis Roseman (1996): satu catatan bilang tunggal, catatan lain dan naskah bilang tiga penulis (Roseman, Antoniou, & Jose). Cek halaman pertama PDF-nya biar ga ditegur.
-6. Tahap 14 (validitas dan reliabilitas) belum diaudit kayak tema 1.
+6. Tahap 14 (validitas dan reliabilitas) belum dicek ulang kayak tema 1.
 7. Skema alur di Word perlu dicek, begitu juga sampul, tabel, dan nomor halaman.
 8. Judul dan draf belum dilihat dosen pembimbing.
 9. Butir Y (kognitif, afektif, konatif) disusun peneliti dari konsep teori dan pengamatan PPM, bukan dari skala baku. Bawa ke pembimbing.

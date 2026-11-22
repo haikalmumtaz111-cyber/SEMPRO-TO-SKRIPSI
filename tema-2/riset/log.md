@@ -384,3 +384,11 @@
 - Dikerjakan: aturan ditulis di `CLAUDE.md` (bagian "Bahasa penjelasan dan bahan belajar", 9 butir beserta contoh gagal dan berhasil dari sesi 21 November), dan uji "satu cara baca" ditambahkan ke `references/poles.md` skill sempro serta `skill-claude/naskah-natural/SKILL.md` supaya keduanya tetap sama.
 - Bank soal 1.5: tiga pemakaian "akal sehat" diganti, kalimat jawaban untuk penguji ditulis ulang.
 - Tugas berikutnya: latihan bank soal untuk seminar 23 November 2026.
+
+## 22 November 2026 (bank soal dan ringkasan belajar disisir dengan aturan bahasa baru)
+
+- Dikerjakan atas perintah user: `riset/bank-soal-sempro.md` (30 perbaikan) dan `riset/ringkasan-belajar.md` (23 perbaikan) disisir dengan aturan "Bahasa penjelasan dan bahan belajar" di `CLAUDE.md`. Jenis perbaikan: istilah kampus diganti kata biasa atau diberi arti di tempat ("berasosiasi" jadi "berhubungan", "galat" jadi "batas meleset", "didekatkan ke fear" jadi "dianggap mirip fear (takut)", "skala baku", "proposisi", "manipulasi variabel", "persepsi kontrol"), kalimat yang terbaca dua cara ditulis ulang ("belum ditemukan diuji", "masa tunggu ga terjangkau"), urutan perumpamaan tinggi badan dibetulkan, dan tiga kalimat jawaban untuk penguji dipecah supaya enak diucapkan (1.6, 7.1, 7.2).
+- Isi yang ditambah dari catatan riset, bukan karangan: soal 3.2 diisi tempat dan kata kunci penelusuran dari `riset/penelitian-terdahulu.md`; soal 3.3 diisi fakta bahwa keenam penelitian terdahulu adalah skripsi UIN Sunan Gunung Djati Bandung beserta kalimat jawabannya; soal 4.10 diberi penjelasan koreksi Bonferroni (0,05 dibagi 3, sekitar 0,017). Dua tanda `[PERLU VERIFIKASI]` karena itu dicabut. Yang tersisa: usia minimal 17 tahun (4.11), nama aplikasi dan jeda 3 hari (5.5).
+- Dibetulkan sekalian: rujukan baris soal 4.6 (151 jadi 153), jumlah soal di ringkasan (41 jadi 44), asal sumber informasi X di ringkasan bagian 5a disamakan dengan `keputusan.md`, kunci E1 ditulis berasal dari keterangan kepala kantor dan petugas.
+- Pemeriksa pembanding: tidak ada angka atau sitasi sumber yang hilang selain yang sengaja diganti. Naskah proposal tidak diubah.
+- Tugas berikutnya: latihan bank soal untuk seminar 23 November 2026.
