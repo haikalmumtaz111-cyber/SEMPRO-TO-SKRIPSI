@@ -354,7 +354,24 @@ Bawa ini ke pembimbing sesudah seminar.
 
 Sasaran: `proposal.md:76`, `proposal.md:82`.
 
-Arah jawaban: betul, skor utamanya "pemahaman yang dirasakan". Makanya ada tiga soal benar atau salah sebagai pelengkap, dilaporin tapi ga dipakai nguji hipotesis. Skalanya cuma tiga butir, alfanya bisa rendah, dan itu udah dicatat sebagai keterbatasan (`proposal.md:153`).
+Ini kritik, bukan pertanyaan. Penguji nunjuk kelemahan, dan lu tetap harus nanggepin.
+
+Maksud kritiknya: pertanyaan paham di kuesioner lu bunyinya "Saya memahami ...", lalu orang jawab setuju atau ga setuju. Jadi orangnya yang ngaku paham, lu ga ngetes dia. Ibarat di kelas: murid bilang "ngerti, Bu", tapi pas ulangan salah. Merasa ngerti dan beneran ngerti itu beda.
+
+Arah jawaban: kritiknya betul, dan naskah sudah ngaku. Di tabel matriks namanya "pemahaman yang dirasakan". Cara lu nutupnya: ada tiga soal benar atau salah yang ngetes beneran tau atau ga. Jadi ada dua ukuran: merasa paham dari tiga butir setuju atau ga setuju (skor utama), dan beneran tau dari tiga soal benar atau salah (pelengkap, dilaporin tapi ga dipakai nguji hipotesis). Skala paham cuma tiga butir, alfanya bisa rendah, dan itu sudah dicatat sebagai keterbatasan (`proposal.md:153`).
+
+Kalimat ke penguji: "Betul, Pak/Bu. Yang saya ukur pemahaman yang dirasakan, dan itu saya tulis di naskah. Untuk melihat pemahaman yang sebenarnya, saya menambahkan tiga soal benar atau salah tentang isi penjelasan petugas. Skornya saya laporkan sebagai pelengkap dan tidak dipakai untuk menguji hipotesis."
+
+Lanjutan yang mungkin: "Kenapa skor utamanya merasa paham, bukan soal benar atau salahnya?" Alasan aslinya ga tercatat. Catatan riset cuma nyimpen keputusan lu 11 November 2026. Tiga hal ini benar secara fakta dari kuesioner lu dan boleh lu pakai, tapi jangan diaku sebagai alasan waktu itu kalau lu ga inget:
+- Soal benar atau salahnya cuma tiga, jadi skornya cuma 0 sampai 3. Rentangnya sempit, susah ngebedain orang satu dengan yang lain. Tiga butir setuju atau ga setuju skornya 3 sampai 15.
+- Kunci jawaban tiga soal itu masih harus dipastiin ke kantor.
+- Yang lu teliti itu respons, yaitu tanggapan dari sisi jemaah. Merasa paham itu tanggapan dia, sedangkan benar atau salah jawab soal lebih mirip ujian.
+
+Kalimat ke penguji: "Soal benar atau salahnya hanya tiga dan kuncinya masih harus saya pastikan ke kantor, Pak/Bu, jadi saya jadikan pelengkap. Yang saya teliti juga respons jemaah, sehingga yang saya ukur pemahaman menurut jemaah sendiri."
+
+Titik lemah yang harus lu tau, dari catatan riset lu sendiri (`riset/ringkasan-jurnal.md`): model Eveland ujungnya pengetahuan, jadi lebih pas buat soal benar atau salah daripada buat "merasa paham". Penguji bisa ngejar: "Teorimu soal pengetahuan, kok yang kamu ukur perasaan paham?" Itu kritik yang kena. Pakai tiga langkah: tunjukin lu paham, bilang yang lu lakuin, terima sebagai masukan.
+
+Kalimat ke penguji: "Saya paham maksud Bapak/Ibu, soal benar atau salah lebih menunjukkan pemahaman yang sebenarnya. Saat ini skor utamanya pemahaman yang dirasakan, dan tiga soal itu saya jadikan pelengkap. Keduanya tetap saya laporkan. Mana yang lebih tepat menjadi skor utama akan saya bahas dengan pembimbing."
 
 ### 4.7 ★ "Populasinya 297 dari mana? Orangnya aja belum daftar."
 
