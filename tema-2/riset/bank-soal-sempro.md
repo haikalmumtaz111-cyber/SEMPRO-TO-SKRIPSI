@@ -202,9 +202,9 @@ Tiga kata yang harus dijaga waktu ngomong: Lewis "menemukan", bukan "membuktikan
 
 Kalimat ke penguji: "Betul, Pak/Bu, penelitian Lewis tentang informasi kesehatan. Relevansinya ada pada konsepnya. Lewis menemukan bahwa *seeking* dan *scanning* berhubungan dengan sikap dan niat berperilaku, dan saya memakai konsep yang sama. Untuk calon jemaah haji, penelitian seperti itu belum saya temukan. Karena itu saya tidak menganggap temuan Lewis berlaku untuk jemaah. Hubungan itu yang akan saya uji."
 
-Status naskah Lewis (dari catatan riset): naskah lengkapnya belum dipegang karena aksesnya tertutup. Yang dipegang cuma abstrak dan data tambahan resmi (Tabel 3). Halaman 468 yang dikutip di naskah itu halaman abstraknya. Jangan nyebut angka hubungan seeking atau scanning dengan niat, karena angka itu ga ada di abstrak.
+Status naskah Lewis, dikoreksi 22 November 2026: naskah lengkapnya SUDAH lu terima. Lu mengirim email ke penulisnya, Nehama Lewis, tanggal 11 November 2026, dan dia membalas hari itu juga dengan melampirkan PDF-nya (tangkapan layar email dikirim user). Catatan riset sebelumnya yang bilang "belum dipegang" itu basi. Tapi sudah diterima belum berarti sudah dibaca: yang dipakai di naskah tetap baru isi abstrak (halaman 468), dan isi PDF-nya belum dibaca Claude. Jangan nyebut angka hubungan seeking atau scanning dengan niat sebelum lu baca sendiri bagian hasilnya.
 
-Kalimat ke penguji kalau ditanya angkanya: "Saya baru membaca abstraknya, Pak/Bu. Naskah lengkapnya belum saya peroleh."
+Kalimat ke penguji kalau ditanya angkanya, selama lu belum baca bagian hasilnya: "Naskah lengkapnya sudah saya terima langsung dari penulisnya, Pak/Bu, tetapi yang saya pakai di proposal baru isi abstraknya. Angka rincinya akan saya masukkan setelah saya baca seluruhnya."
 
 ---
 
