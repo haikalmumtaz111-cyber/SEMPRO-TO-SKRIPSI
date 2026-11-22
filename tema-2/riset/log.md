@@ -369,3 +369,11 @@
 - Dibiarkan: "terlalu menyederhanakan" (Sukwika, 2023:173), karena catatan riset tidak memuat bunyi sumbernya sehingga objek yang disederhanakan tidak dapat ditulis tanpa mengarang. Singkatan QR dibiarkan atas keputusan user.
 - Jawaban user atas tiga kekhawatiran dicek ke Panduan FDK: kata "grand theory" tidak ada di panduan, Slovin dicontohkan panduan, dan definisi hipotesis di panduan tidak mewajibkan arah.
 - Tugas berikutnya: user mengulang signifikansi 0,05, lalu latihan bank soal untuk seminar 23 November 2026.
+
+## 21 November 2026 (angka 14 tahun dihapus dari latar belakang)
+
+- Dicek lewat penelusuran web: rilis Sekretariat Kabinet 28 September 2026 memang memuat rata-rata antrean 26 tahun dan antrean faktual 14 tahun. Menurut liputan media, Wamenhaj menyebut antrean secara administrasi tetap 26 tahun. Kalimat "bukan ketentuan resmi" di bank soal 1.3 keliru tulis dan sudah diluruskan.
+- Keterangan user: angka sekitar 26 tahun ia terima langsung dari kepala kantor dan para petugas selama PPM. Tanda `[PERLU VERIFIKASI]` di bank soal 1.3 dicabut atas permintaan user. Status "pengamatan awal, bukan data penelitian" di naskah tidak diubah.
+- Keputusan user: angka 14 tahun dihapus dari paragraf pertama latar belakang (menggantikan opsi B 11 November). Claude menyarankan dipertahankan, user memutuskan menghapus. Dua kalimat diganti satu: "Kementerian juga memvalidasi 5,7 juta data jemaah dan menemukan sekitar 400 ribu data tidak valid." Pemeriksa pembanding: yang hilang hanya angka 14 dan satu penyebutan 2026, sesuai maksud. Judul rilis di Daftar Pustaka tetap memuat "14 tahun".
+- Bank soal 1.3 dijadikan soal cadangan, ringkasan belajar dan roadmap disesuaikan. Word dibangun ulang.
+- Tugas berikutnya: latihan bank soal untuk seminar 23 November 2026.

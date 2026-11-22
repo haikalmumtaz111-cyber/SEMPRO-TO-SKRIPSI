@@ -37,7 +37,7 @@ Di naskah ini ditulis tegas sebagai **pengamatan awal, bukan data penelitian**.
 
 ### b. Konteks besar
 - Perpres Nomor 92 Tahun 2025, lahir Kementerian Haji dan Umrah.
-- Formula antrean baru: rata-rata nasional 26 tahun. Setelah validasi 5,7 juta data dan ketemu sekitar 400 ribu data ga valid, antrean faktual jemaah yang berangkat 2026 rata-rata 14 tahun (Setkab, 2026).
+- Formula antrean baru: rata-rata nasional 26 tahun. Kementerian juga memvalidasi 5,7 juta data dan ketemu sekitar 400 ribu data ga valid (Setkab, 2026). Naskah cuma nyebut 26 tahun (keputusan lu 21 November 2026). Angka 14 tahun di rilis yang sama itu masa tunggu yang udah dijalani jemaah yang berangkat 2026, bukan perkiraan buat pendaftar baru, jadi ga ditulis.
 
 ### c. Cara nyusunnya
 - Tema ini awalnya digodok lu sama ChatGPT sampai **Backup Master Versi 4** (10 November 2026).
@@ -214,7 +214,7 @@ Masa tunggu udah diteliti sebagai dampak kebijakan dan faktor minat, info haji u
 
 ### Sumber resmi
 - Perpres Nomor 92 Tahun 2025.
-- Setkab (28 September 2026): antrean nasional 26 tahun, antrean faktual 14 tahun.
+- Setkab (28 September 2026): antrean nasional 26 tahun. Rilis yang sama juga nyebut antrean faktual 14 tahun, tapi itu ga dipakai di naskah.
 
 ---
 
@@ -368,8 +368,8 @@ Kenapa ga acak? Daftar pendaftar belum ada sebelum mereka dateng, jadi ga bisa d
 8. **"Kenapa Y dipecah tiga, bukan satu skor?"**
    Tiap dimensi dijelasin teori beda dan arahnya belum tentu sama. Kalau digabung, kaget yang turun bisa nutupin niat yang naik.
 
-9. **"Masa tunggu 26 tahun, padahal Setkab bilang antrean faktual 14 tahun?"**
-   26 tahun itu rata-rata antrean nasional menurut formula baru dan yang disampaikan petugas selama PPM. 14 tahun itu rata-rata masa tunggu jemaah yang **berangkat** 2026. Dua angka beda maksud. Kunci soal E1 tetep dicek ulang ke kantor.
+9. **"Masa tunggu 26 tahun, padahal Setkab bilang antrean faktual 14 tahun?"** (cadangan, naskah ga nyebut 14)
+   26 tahun itu rata-rata antrean nasional menurut formula baru dan yang disampaikan petugas ke pendaftar baru. 14 tahun itu masa tunggu yang udah dijalani jemaah yang **berangkat** 2026, mereka daftarnya udah lama. Penelitian lu soal pendaftar baru, jadi yang dipakai 26. Kunci soal E1 dicek ulang ke kantor menjelang turun lapangan.
 
 10. **"Kenapa validitas pakai r hitung vs r tabel?"**
     Itu cara yang umum dipakai di SPSS. Catatan buat lu: di tema 1 dipakai korelasi butir-total **terkoreksi** (butir dibandingin sama butir lain tanpa dirinya sendiri), yang lebih ketat. Kalau dosen nanya, siap ganti ke cara itu.
