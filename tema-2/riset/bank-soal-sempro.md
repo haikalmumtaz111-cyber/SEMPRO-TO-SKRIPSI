@@ -248,6 +248,22 @@ Arah jawaban: rentang 12 bulan ngikutin cara ukur Kelly, et al. (2009:727). Pili
 
 Lanjutan yang mungkin: "Kapan seseorang dianggap 'memutuskan mendaftar'?" Ini susah. Jawab jujur: waktunya ditentuin responden sendiri, jadi jawabannya bisa ga tepat.
 
+Kalimat ke penguji buat soal utamanya: "Ada risiko salah ingat, Pak/Bu, dan itu saya tulis sebagai keterbatasan. Rentang 12 bulan saya ambil dari cara ukur Kelly dan kawan-kawan. Pilihan jawabannya berupa kategori jumlah, bukan angka pasti, tetapi jawabannya tetap dapat tidak tepat."
+
+Kalimat ke penguji kalau ditanya kapan "memutuskan mendaftar": "Waktunya ditentukan responden sendiri, Pak/Bu. Itu juga saya tulis sebagai sumber ketidaktepatan."
+
+Kenapa bentuk jawabannya disamain jadi empat kategori. Di Kelly, pertanyaan seeking dijawab ya atau tidak, sedangkan pertanyaan scanning dijawab dengan tiga kategori (tidak pernah, 1 sampai 2 kali, 3 kali atau lebih). Dua bentuk yang beda ga bisa dijumlah dengan adil. Ibarat rapor: satu pelajaran nilainya "lulus atau ga lulus", pelajaran lain nilainya angka. Kalau "ya" dikasih 1 dan "tidak" dikasih 0, satu pertanyaan seeking paling banyak nyumbang 1, padahal satu pertanyaan scanning bisa nyumbang lebih, jadi skor gabungannya berat ke scanning. Dengan empat kategori yang sama, tiap pertanyaan nyumbang setara, 1 sampai 4, dan tujuh pertanyaan bisa dijumlah jadi satu skor paparan.
+
+Lanjutan yang mungkin: "Kenapa skala Kelly kamu ubah?"
+
+Kalimat ke penguji: "Kelly memakai jawaban ya atau tidak untuk *seeking* dan tiga kategori untuk *scanning*, Pak/Bu. Saya menyamakannya menjadi empat kategori supaya skor keduanya dapat dijumlahkan. Batas kategorinya saya tetapkan sendiri."
+
+Lanjutan yang mungkin: "Batasnya kamu tetapkan sendiri? Boleh memangnya? Dasarnya apa?" Jawab: boleh, karena ini adaptasi dan lu ngaku terus terang. Dasarnya juga ada: dua kategori pertama lu sama persis dengan Kelly (tidak pernah, 1 sampai 2 kali). Kategori ketiga Kelly, "3 kali atau lebih", lu pecah jadi dua: "3 sampai 5 kali" dan "lebih dari 5 kali". Akibat pemecahan itu, orang yang sangat sering dapet info bisa dibedain dari yang cuma beberapa kali. Catatan riset ga nyimpen alasan kenapa batasnya di angka 5, jadi jangan ngarang alasan teoretis. Akui bahwa batas itu belum diuji.
+
+Kalimat ke penguji: "Boleh, Pak/Bu, karena ini adaptasi dan saya menyatakannya terus terang. Dua kategori pertama saya ambil dari Kelly, yaitu tidak pernah dan 1 sampai 2 kali. Kategori ketiga Kelly, yaitu 3 kali atau lebih, saya pecah menjadi 3 sampai 5 kali dan lebih dari 5 kali, supaya responden yang sangat sering memperoleh informasi dapat dibedakan. Kuesionernya masih tentatif dan akan saya uji coba setelah seminar."
+
+Kalau dikejar "kenapa batasnya 5?": "Batas itu pilihan saya dan belum diuji, Pak/Bu. Kalau Bapak/Ibu punya saran batas yang lebih tepat, saya siap menyesuaikannya sebelum uji coba."
+
 ### 4.3 ★ "Y diukur langsung sesudah penjelasan petugas, di kantor, sama lu yang pernah PPM di situ. Jawabannya jujur?"
 
 Sasaran: `proposal.md:147`.
