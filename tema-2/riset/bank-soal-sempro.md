@@ -18,7 +18,7 @@ Tanda `[PERLU VERIFIKASI]` artinya lu harus cek sendiri dulu sebelum berani jawa
 
 Sasaran: Latar Belakang paragraf 3 (`proposal.md:10`).
 
-Arah jawaban: fenomenanya ragam respons calon jemaah waktu petugas nyampein estimasi keberangkatan. Ada yang terkejut, khawatir karena usia, tenang, biasa aja, nanya bisa dipercepat atau ga. Ini pengamatan lu selama PPM Februari sampai Juni 2026, dan naskah sendiri nulis "pengamatan awal peneliti, bukan data penelitian". Ga ada hitungan berapa persen yang terkejut. Jangan ngarang angka.
+Arah jawaban: fenomenanya respons calon jemaah yang beda-beda waktu petugas nyampein estimasi keberangkatan. Ada yang terkejut, khawatir karena usia, tenang, biasa aja, nanya bisa dipercepat atau ga. Ini pengamatan lu selama PPM Februari sampai Juni 2026, dan naskah sendiri nulis "pengamatan awal peneliti, bukan data penelitian". Ga ada hitungan berapa persen yang terkejut. Jangan ngarang angka.
 
 Kalimat ke penguji: "Datanya belum ada, Pak/Bu. Yang saya punya pengamatan selama PPM, dan di naskah saya tulis sebagai pengamatan awal. Justru penelitian ini yang akan mengukurnya."
 
@@ -34,9 +34,9 @@ Contoh Pak Budi: Pak Budi udah sering liat berita antrean haji di HP dan pernah 
 
 Sasaran: `proposal.md:6`. Soal cadangan: naskah sejak 21 November 2026 hanya memuat 26 tahun (keputusan user), jadi soal ini baru muncul kalau penguji sendiri yang menyebut 14 tahun.
 
-Arah jawaban: dua-duanya dari rilis Sekretariat Kabinet (28 September 2026) dan ngukur hal beda. 26 tahun itu rata-rata antrean secara administrasi hasil formula baru, dan itu yang disampaikan ke orang yang baru mendaftar. 14 tahun itu lihat ke belakang: jemaah yang berangkat 2026 mendaftarnya sudah lama dan rata-rata sudah menunggu 14 tahun. Angka itu bukan perkiraan untuk pendaftar baru. Penelitian lu soal pendaftar baru, makanya yang dipakai 26 tahun.
+Arah jawaban: dua-duanya dari rilis Sekretariat Kabinet (28 September 2026) dan ngukur hal beda. 26 tahun itu rata-rata antrean menurut hitungan pemerintah (formula baru), dan itu yang disampaikan ke orang yang baru mendaftar. 14 tahun itu lihat ke belakang: jemaah yang berangkat 2026 mendaftarnya sudah lama dan rata-rata sudah menunggu 14 tahun. Angka itu bukan perkiraan untuk pendaftar baru. Penelitian lu soal pendaftar baru, makanya yang dipakai 26 tahun.
 
-Angka sekitar 26 tahun yang disampaikan petugas Kantor Kabupaten Bandung itu keterangan langsung dari kepala kantor dan para petugas selama PPM (keterangan user, 21 November 2026). Di naskah statusnya tetap "pengamatan awal, bukan data penelitian" karena belum dikumpulkan lewat instrumen penelitian, bukan karena diragukan.
+Angka sekitar 26 tahun yang disampaikan petugas Kantor Kabupaten Bandung itu keterangan langsung dari kepala kantor dan para petugas selama PPM (keterangan user, 21 November 2026). Di naskah statusnya tetap "pengamatan awal, bukan data penelitian" karena belum dikumpulkan lewat kuesioner, bukan karena diragukan.
 
 Kalimat ke penguji: "Angka 14 tahun itu masa tunggu yang sudah dijalani jemaah yang berangkat tahun 2026, Pak/Bu. Penelitian saya tentang calon jemaah yang baru mendaftar, dan masa tunggu yang disampaikan kepada mereka sekitar 26 tahun."
 
@@ -46,7 +46,7 @@ Catatan turun lapangan (bukan buat sempro): kunci soal E1 dicek lagi ke kantor m
 
 Sasaran: `proposal.md:16`, Kegunaan Akademis `proposal.md:44`.
 
-Arah jawaban: objeknya pelayanan informasi pada tahap pendaftaran haji, dan itu bagian dari pengelolaan penyelenggaraan haji di kantor kabupaten. Konsep seeking dan scanning memang dipinjam dari ilmu komunikasi, tapi dipakai buat ngejawab persoalan layanan pendaftaran haji. Akui pinjamannya, jangan ditutupin.
+Arah jawaban: yang diteliti itu pelayanan informasi waktu pendaftaran haji, dan itu bagian dari kerja kantor kabupaten dalam ngelola haji. Konsep seeking dan scanning memang dipinjam dari ilmu komunikasi, tapi dipakai buat ngejawab persoalan layanan pendaftaran haji. Akui pinjamannya, jangan ditutupin.
 
 ### 1.5 ★ "Orang yang udah tau ya jelas ga kaget. Ngapain diteliti?"
 
@@ -56,21 +56,21 @@ Arah jawaban: akui dulu bahwa dugaan soal terkejut memang paling gampang ditebak
 - Yang "jelas" itu cuma satu dari tiga hipotesis. Buat khawatir, arahnya ga ditentuin, karena orang yang udah tau bisa ga terkejut tapi tetap khawatir (`proposal.md:58`). Buat niat nanya atau ngecek, arahnya bisa dua: makin terpapar makin niat, atau malah ngerasa udah cukup (`proposal.md:60`).
 - Buat pemahaman, sumbernya sendiri bilang hasilnya belum tentu sesuai tebakan: Eveland (2001:572) nyatet yang nyantol di kepala orang dari berita cuma sedikit walaupun mereka terpapar (`proposal.md:56`).
 - Tebakan ga ngasih angka. Penelitian ini ngukur dua hal: hubungannya ada atau ga (liat Sig.), dan seberapa kuat hubungannya (liat angka r).
-- Dari penelitian haji yang ditelusuri, hubungan ini belum ditemukan diuji (`proposal.md:14`).
+- Dari penelitian haji yang lu telusuri, belum ketemu satu pun yang nguji hubungan ini (`proposal.md:14`).
 
 Kalimat ke penguji: "Untuk rasa terkejut, hasilnya memang mudah ditebak, Pak/Bu. Tetapi untuk rasa khawatir, pemahaman, dan niat menindaklanjuti, arahnya belum jelas. Saya juga belum menemukan penelitian yang menguji hubungan ini pada calon jemaah haji, dan seberapa kuat hubungannya baru dapat diketahui dari data."
 
-Jangan jawab pakai "membongkar mesin di otak" atau "vaksin mental". Penelitian ini ga ngukur proses di kepala responden.
+Jangan jawab pakai "membongkar mesin di otak" atau "vaksin mental" (dua istilah itu dari audio NotebookLM lama). Penelitian ini ga ngukur apa yang terjadi di kepala responden.
 
 ### 1.6 ★ "Kenapa di Kantor Kabupaten Bandung, bukan kantor lain?"
 
-Sasaran: Lokasi Penelitian `proposal.md:106`, batas generalisasi `proposal.md:143`.
+Sasaran: Lokasi Penelitian `proposal.md:106`, batas berlakunya hasil `proposal.md:143`.
 
 Arah jawaban: naskah nyebut dua alasan. Pertama, gejalanya lu temuin di kantor ini selama PPM Februari sampai Juni 2026. Kedua, kantor ini ngelayanin pendaftaran tiap hari kerja, jadi calon jemaah yang baru denger penjelasan petugas bisa langsung ditemuin. Jumlah pendaftarnya juga cukup buat ngejar 75 responden dalam sebulan (3.076 pendaftar dari 1 Januari sampai 11 November 2026, rata-rata sekitar 297 per bulan).
 
 Jangan jawab "karena dekat" atau "karena kenal orang di sana". Jangan juga ngeklaim Kabupaten Bandung paling banyak pendaftarnya atau paling parah masalahnya, karena naskah ga punya data pembanding antarkantor.
 
-Kalimat ke penguji: "Gejala ini saya amati langsung di kantor tersebut selama PPM, Pak/Bu, dan pendaftaran di sana berlangsung setiap hari kerja sehingga responden dapat ditemui sesaat setelah menerima penjelasan petugas. Hasilnya saya batasi hanya untuk pendaftar di kantor dan periode itu."
+Kalimat ke penguji: "Gejala ini saya amati langsung di kantor tersebut selama PPM, Pak/Bu. Pendaftaran di sana berlangsung setiap hari kerja, sehingga responden dapat ditemui sesaat setelah menerima penjelasan petugas. Hasilnya saya batasi hanya untuk pendaftar di kantor dan periode itu."
 
 ---
 
@@ -95,7 +95,7 @@ Kalimat ke penguji: "Tidak ada satu teori yang memuat paparan informasi dan keti
 
 Sasaran: `proposal.md:56`, `proposal.md:62`.
 
-Arah jawaban: ini titik paling rawan di teori, dan naskah udah nulis terus terang: "tidak satu pun memuat paparan informasi sebagai variabelnya", hubungannya "dugaan peneliti". Dukungan empiris yang paling deket cuma Lewis, et al. (2024:468), meta-analisis 21 penelitian dengan 39.510 responden: seeking dan scanning berasosiasi dengan sikap dan niat berperilaku, tapi di konteks informasi kesehatan. Jangan ngaku teorinya ngedukung langsung. Karena dasarnya dugaan, hipotesisnya ga berarah.
+Arah jawaban: ini titik paling rawan di teori, dan naskah udah nulis terus terang: "tidak satu pun memuat paparan informasi sebagai variabelnya", hubungannya "dugaan peneliti". Bukti dari penelitian lain yang paling deket cuma Lewis, et al. (2024:468), meta-analisis (satu penelitian yang ngerangkum banyak penelitian) atas 21 penelitian dengan 39.510 responden: seeking dan scanning berhubungan dengan sikap dan niat berperilaku, tapi itu soal informasi kesehatan. Jangan ngaku teorinya ngedukung langsung. Karena dasarnya dugaan, hipotesisnya tanpa arah.
 
 Lanjutan yang mungkin: "Eveland sendiri bilang yang nyantol dari berita cuma sedikit walau orang terpapar, kok dipakai?" Jawab: betul, itu ditulis di naskah (Eveland, 2001:572). Yang lu pakai dari Eveland cuma gagasan bahwa informasi baru lebih gampang dipahami kalau nyambung ke pengetahuan yang udah ada (2001:577). Sisanya tafsir lu.
 
@@ -115,7 +115,7 @@ Arah jawaban: setuju sama pengujinya. Naskah nulis lu cuma pakai konsep niat dar
 
 Sasaran: `proposal.md:12`, `proposal.md:58`.
 
-Arah jawaban: naskah ngakuin dua-duanya dari konteks lain, jadi penerapannya ke calon jemaah masih dugaan. Logikanya dua langkah: informasi dari luar ngebentuk perkiraan (Zeithaml), kejadian yang ga sesuai perkiraan munculin terkejut (Roseman). Rasa khawatir didekatin ke *fear* di Roseman (1996:258), dan itu tafsir lu.
+Arah jawaban: naskah ngakuin dua-duanya dari konteks lain, jadi penerapannya ke calon jemaah masih dugaan. Logikanya dua langkah: informasi dari luar ngebentuk perkiraan (Zeithaml), kejadian yang ga sesuai perkiraan munculin terkejut (Roseman). Rasa khawatir dianggap mirip *fear* (takut) di Roseman (1996:258), dan itu tafsir lu.
 
 ### 2.6 "Kenapa terkejut sama khawatir dijadiin satu skor? Itu dua emosi beda."
 
@@ -143,19 +143,27 @@ Pembeda lu ada di X dan urutan waktunya: informasi yang didapat sebelum memutusk
 
 Sasaran: kalimat terakhir `proposal.md:14`.
 
-Arah jawaban: naskah udah jujur: penelusuran cuma di repositori satu perguruan tinggi dan satu basis data, jadi "tidak berarti penelitian serupa tidak ada". Lu wajib bisa nyebut repositori mana, basis data mana, dan kata kunci yang dipakai. `[PERLU VERIFIKASI]`: liat `riset/penelitian-terdahulu.md` dan hafalin. Penguji bisa minta lu nambah penelusuran, dan itu permintaan yang wajar.
+Arah jawaban: naskah udah jujur: penelusuran cuma di repositori satu perguruan tinggi dan satu basis data, jadi "tidak berarti penelitian serupa tidak ada". Lu wajib bisa nyebut tempat dan kata kuncinya. Dari `riset/penelitian-terdahulu.md`:
+- Tempat pertama: repositori skripsi UIN Sunan Gunung Djati Bandung (digilib.uinsgd.ac.id). Dari situ dapet enam skripsi.
+- Tempat kedua: OpenAlex (mesin pencari karya ilmiah), 11 November 2026.
+- Kata kunci di OpenAlex: "informasi masa tunggu haji calon jemaah", "masa tunggu haji calon jemaah", "hajj waiting list Indonesia pilgrims".
+- Batasnya: cuma tiga kata kunci, cuma hasil teratas yang dilihat, dan sebagian pencarian gagal. Jadi ini penelusuran awal.
+
+Penguji bisa minta lu nambah penelusuran, dan itu permintaan yang wajar.
 
 ### 3.3 "Enam penelitian terdahulu lu skripsi semua? Jurnalnya mana?"
 
 Sasaran: `proposal.md:14`, Daftar Pustaka.
 
-Arah jawaban: `[PERLU VERIFIKASI]` cek jenis tiap sumber di `riset/penelitian-terdahulu.md` sebelum jawab. Rujukan jurnal lu ada di sisi teori dan alat ukur (Niederdeppe, Kelly, Eveland, Roseman, Ajzen, Breckler, Lewis). Kalau penelitian haji terdahulunya memang skripsi semua, akui dan bilang siap nambah dari jurnal.
+Arah jawaban: iya, keenamnya skripsi UIN Sunan Gunung Djati Bandung (keliatan di Daftar Pustaka). Akui aja. Rujukan jurnal lu ada di bagian teori dan alat ukur (Niederdeppe, Kelly, Eveland, Roseman, Ajzen, Breckler, Lewis). Bilang lu siap nambah penelitian haji dari jurnal.
+
+Kalimat ke penguji: "Penelitian haji yang saya temukan memang skripsi, Pak/Bu. Rujukan jurnal saya ada di bagian teori dan alat ukur. Saya siap menambah penelitian terdahulu dari jurnal."
 
 ### 3.4 "Lewis itu soal kesehatan. Apa relevansinya?"
 
 Sasaran: `proposal.md:12`, `proposal.md:60`.
 
-Arah jawaban: dipakai sebagai bukti di luar haji bahwa seeking dan scanning berasosiasi dengan sikap dan niat. Belum ada bukti di konteks haji, dan itu celah yang lu isi. Jangan klaim temuan Lewis berlaku buat jemaah.
+Arah jawaban: dipakai sebagai bukti di luar haji bahwa seeking dan scanning berhubungan dengan sikap dan niat. Buat haji, lu belum nemu buktinya, dan itu yang mau lu isi. Jangan klaim temuan Lewis berlaku buat jemaah.
 
 ---
 
@@ -165,7 +173,7 @@ Arah jawaban: dipakai sebagai bukti di luar haji bahwa seeking dan scanning bera
 
 Sasaran: `proposal.md:114`, `proposal.md:161`.
 
-Arah jawaban: ga bisa. Survei potong lintang, data diambil sekali, ga ada manipulasi variabel. Hasilnya hubungan, makanya judulnya "Hubungan".
+Arah jawaban: ga bisa. Ini survei potong lintang: data diambil sekali, dan lu ga ngatur siapa dapet info berapa banyak (istilahnya ga ada manipulasi variabel). Hasilnya hubungan, makanya judulnya "Hubungan".
 
 Lanjutan yang mungkin: "Tapi X kan kejadiannya sebelum Y?" Jawab: urutan waktunya memang X dulu, tapi dua-duanya ditanya di hari yang sama dan X dari ingatan. Faktor lain (pendidikan, usia, pernah daftarin keluarga) bisa bikin orang rajin cari info sekaligus lebih paham. Survei ini ga misahin itu.
 
@@ -173,9 +181,9 @@ Lanjutan yang mungkin: "Tapi X kan kejadiannya sebelum Y?" Jawab: urutan waktuny
 
 Sasaran: `proposal.md:52`, `proposal.md:74-75`, `proposal.md:147`.
 
-Arah jawaban: rentang 12 bulan ngikutin cara ukur Kelly, et al. (2009:727). Risiko salah ingat ada, makanya pilihannya kategori kasar (tidak pernah, 1 sampai 2 kali, 3 sampai 5 kali, lebih dari 5 kali), bukan angka pasti. Bias ingatan sudah ditulis sebagai keterbatasan di Teknik Pengumpulan Data (ditambahkan 21 November 2026).
+Arah jawaban: rentang 12 bulan ngikutin cara ukur Kelly, et al. (2009:727). Risiko salah ingat ada, makanya pilihannya kategori kasar (tidak pernah, 1 sampai 2 kali, 3 sampai 5 kali, lebih dari 5 kali), bukan angka pasti. Risiko salah ingat itu sudah ditulis sebagai keterbatasan di Teknik Pengumpulan Data (ditambahkan 21 November 2026).
 
-Lanjutan yang mungkin: "Kapan seseorang dianggap 'memutuskan mendaftar'?" Ini susah. Jawab jujur: titiknya ditentuin responden sendiri, dan itu sumber ketidaktepatan.
+Lanjutan yang mungkin: "Kapan seseorang dianggap 'memutuskan mendaftar'?" Ini susah. Jawab jujur: waktunya ditentuin responden sendiri, jadi jawabannya bisa ga tepat.
 
 ### 4.3 ★ "Y diukur langsung sesudah penjelasan petugas, di kantor, sama lu yang pernah PPM di situ. Jawabannya jujur?"
 
@@ -189,7 +197,7 @@ Sasaran: Teknik Pengumpulan Data `proposal.md:147`.
 
 Arah jawaban: formulirnya Google Form, dibuka di HP responden lewat kode QR atau tautan, dan diisi di kantor saat itu juga, bukan di rumah. Alasannya Y ngukur respons sesaat sesudah penjelasan petugas, jadi ga boleh ditunda. Yang kesulitan baca atau pakai formulir dibantu: lu bacain butirnya dengan kalimat yang sama, lalu lu masukin jawaban yang dia sebut. Akui kelemahannya: responden yang dibantu nyebut jawabannya ke lu, jadi rasa sungkannya bisa lebih besar. Soal sinyal, menurut pengalaman PPM lu sinyal di kantor aman.
 
-Lanjutan yang mungkin: "Kenapa ga dikirim lewat WA aja, diisi di rumah?" Jawab: rasa terkejut dan khawatirnya udah lewat begitu dia sampai rumah, dan pengambilan sampel berurutan jadi ga bisa dijaga.
+Lanjutan yang mungkin: "Kenapa ga dikirim lewat WA aja, diisi di rumah?" Jawab: rasa terkejut dan khawatirnya udah lewat begitu dia sampai rumah, dan urutan orang yang ngisi jadi ga bisa dijaga.
 
 ### 4.4 ★ "Butir kuesioner lu dari mana? Ada skala bakunya?"
 
@@ -197,29 +205,29 @@ Sasaran: matriks `proposal.md:72-82`.
 
 Arah jawaban: jujur per variabel.
 - X: diadaptasi dari Kelly, et al. (2009:727-728). Aslinya ya/tidak buat seeking dan tiga kategori buat scanning, lu ubah jadi empat kategori, batasnya lu tetapin sendiri.
-- Y kognitif, afektif, konatif: indikatornya dari konsep di teori plus pengamatan PPM. Butirnya disusun peneliti, bukan terjemahan skala baku.
+- Y kognitif, afektif, konatif: indikatornya dari konsep di teori plus pengamatan PPM. Butirnya lu susun sendiri, bukan terjemahan dari kuesioner jadi yang udah teruji (skala baku).
 
-Ini titik paling rawan di metode. Pembelaannya: kuesioner masih tentatif (panduan FDK ngebolehin), diuji validitas dan reliabilitas sesudah seminar (`proposal.md:153`). Siap nerima kalau penguji minta skala yang udah teruji.
+Ini titik paling rawan di metode. Pembelaannya: kuesioner masih tentatif alias sementara (panduan FDK ngebolehin), diuji validitas dan reliabilitas sesudah seminar (`proposal.md:153`). Siap nerima kalau penguji minta skala yang udah teruji.
 
 ### 4.5 ★ "Butir X itu sumber informasi yang beda-beda. Orang yang cari di medsos belum tentu nanya tetangga. Cocok diuji Cronbach?"
 
 Sasaran: `proposal.md:153` (paparan 7 butir diuji Alpha Cronbach).
 
-Arah jawaban: `[BOLONG DI NASKAH]`, penilaian Claude. Cronbach ngukur kekompakan butir. Tujuh butir X itu jumlah paparan dari sumber berbeda, jadi wajar kalau ga kompak, dan alfanya bisa rendah tanpa berarti alat ukurnya jelek. Naskah belum ngebahas ini. Jawaban jujur ke penguji: "Itu masukan yang akan saya bawa ke pembimbing, Pak/Bu. Kalau alfa X rendah, saya akan melaporkannya apa adanya beserta alasannya." Bahas ini di bimbingan sebelum sempro.
+Arah jawaban: `[BOLONG DI NASKAH]`, penilaian Claude. Cronbach ngecek butir-butirnya sejalan atau ga (kayak empat termometer tadi). Tujuh butir X itu jumlah paparan dari sumber berbeda, jadi wajar kalau ga kompak, dan alfanya bisa rendah tanpa berarti alat ukurnya jelek. Naskah belum ngebahas ini. Jawaban jujur ke penguji: "Itu masukan yang akan saya bawa ke pembimbing, Pak/Bu. Kalau alfa X rendah, saya akan melaporkannya apa adanya beserta alasannya." Bahas ini di bimbingan sebelum sempro.
 
 ### 4.6 "Y kognitif lu itu merasa paham, bukan beneran paham."
 
 Sasaran: `proposal.md:76`, `proposal.md:82`.
 
-Arah jawaban: betul, skor utamanya "pemahaman yang dirasakan". Makanya ada tiga soal benar atau salah sebagai pelengkap, dilaporin tapi ga dipakai nguji hipotesis. Skalanya cuma tiga butir, alfanya bisa rendah, dan itu udah dicatat sebagai keterbatasan (`proposal.md:151`).
+Arah jawaban: betul, skor utamanya "pemahaman yang dirasakan". Makanya ada tiga soal benar atau salah sebagai pelengkap, dilaporin tapi ga dipakai nguji hipotesis. Skalanya cuma tiga butir, alfanya bisa rendah, dan itu udah dicatat sebagai keterbatasan (`proposal.md:153`).
 
 ### 4.7 ★ "Populasinya 297 dari mana? Orangnya aja belum daftar."
 
 Sasaran: `proposal.md:128-134`.
 
-Arah jawaban: populasinya pendaftar selama periode pengumpulan data (sekitar sebulan). Jumlahnya diperkirakan dari data SISKOHAT: 3.076 pendaftar dari 1 Januari sampai 11 November 2026, rata-rata sekitar 297 per bulan. Jadi 297 itu perkiraan, bukan jumlah pasti. Slovin galat 10%: 297 / (1 + 297 × 0,01) = 74,8, dibulatin jadi 75. Naskah juga ngakuin Slovin dinilai terlalu menyederhanakan (Sukwika, 2023:173), makanya 75 jadi jumlah minimal.
+Arah jawaban: populasinya pendaftar selama periode pengumpulan data (sekitar sebulan). Jumlahnya diperkirakan dari data SISKOHAT: 3.076 pendaftar dari 1 Januari sampai 11 November 2026, rata-rata sekitar 297 per bulan. Jadi 297 itu perkiraan, bukan jumlah pasti. Slovin dengan batas meleset 10% (istilah lainnya galat): 297 / (1 + 297 × 0,01) = 74,8, dibulatin jadi 75. Naskah juga ngakuin Slovin dinilai terlalu menyederhanakan (Sukwika, 2023:173), makanya 75 jadi jumlah minimal.
 
-Lanjutan yang mungkin: "Kenapa galat 10%, bukan 5%?" Jawab: waktu dan sumber daya. Dengan 5% sampelnya sekitar 171 dari 297, ga realistis buat satu peneliti dalam sebulan.
+Lanjutan yang mungkin: "Kenapa galatnya 10%, bukan 5%?" Jawab: waktu dan tenaga. Dengan 5% sampelnya sekitar 171 dari 297, ga realistis buat satu peneliti dalam sebulan.
 
 ### 4.8 "Consecutive sampling itu apa? Kenapa ga acak?"
 
@@ -231,13 +239,13 @@ Arah jawaban: tiap calon jemaah yang memenuhi kriteria dan bersedia diminta ngis
 
 Sasaran: `proposal.md:159`.
 
-Arah jawaban: yang diperlakuin interval itu skor total (jumlah beberapa butir), bukan satu butir. Sebelum Pearson, sebaran data diuji normalitasnya dulu (Machali, 2021:156). Kalau ga normal, pakai Rank Spearman (Machali, 2021:151). Jadi udah ada jalur cadangan.
+Arah jawaban: yang diperlakuin interval itu skor total (jumlah beberapa butir), bukan satu butir. Sebelum Pearson, sebaran data diuji normalitasnya dulu (Machali, 2021:156). Kalau ga normal, pakai Rank Spearman (Machali, 2021:151). Jadi udah ada rencana cadangan.
 
 ### 4.10 "Tiga hipotesis diuji bareng. Ga takut ada yang signifikan cuma kebetulan?"
 
 Sasaran: `proposal.md:159`.
 
-Arah jawaban: risikonya ada dan udah dicatat sebagai keterbatasan. Naskah ga pakai koreksi. Kalau penguji minta koreksi (misal Bonferroni, taraf 0,05 dibagi tiga), itu bisa ditambah. `[PERLU VERIFIKASI]`: pelajari dulu apa itu Bonferroni sebelum nyebut namanya.
+Arah jawaban: risikonya ada dan udah dicatat sebagai keterbatasan. Naskah ga nambahin pengaman apa-apa buat itu. Kalau penguji minta pengaman, yang paling umum namanya koreksi Bonferroni: batas 0,05 dibagi jumlah uji. Uji lu tiga, jadi batasnya 0,05 : 3 = sekitar 0,017. Hasil baru dibilang signifikan kalau Sig. di bawah 0,017. Gunanya biar peluang ketipu kebetulan dari tiga uji itu tetap sekitar 5%. Jangan nyebut nama Bonferroni duluan. Sebut kalau penguji yang nanya.
 
 ### 4.11 "Kenapa minimal 17 tahun?"
 
@@ -265,7 +273,7 @@ Arah jawaban: sudah diperbaiki 21 November 2026. Kata "manfaat" diganti jadi "ka
 
 ### 5.3 "Orang yang mundur daftar gara-gara tau antreannya lama kan ga ada di sampel lu?"
 
-Arah jawaban: betul. Sampel lu cuma orang yang tetap daftar. Yang batal daftar sesudah tau masa tunggu ga terjangkau, jadi hasilnya cuma berlaku buat pendaftar. `[BOLONG DI NASKAH]`: belum ditulis eksplisit, walau sejalan dengan batas generalisasi di `proposal.md:143`.
+Arah jawaban: betul. Sampel lu cuma orang yang tetap daftar. Orang yang batal daftar sesudah tau masa tunggu ga ikut disurvei, jadi hasilnya cuma berlaku buat pendaftar. `[BOLONG DI NASKAH]`: belum ditulis terang di naskah, walau sejalan dengan batas berlakunya hasil di `proposal.md:143`.
 
 ### 5.4 "Kalau hasilnya ga ada hubungan, gimana?"
 
@@ -312,7 +320,7 @@ Arah jawaban: akademis, nambah kajian Manajemen Haji dan Umrah soal pelayanan in
 Sasaran: `proposal.md:52-54`, matriks `proposal.md:74-80`.
 
 Arah jawaban, hafalin isinya bukan kalimatnya:
-- Paparan: seberapa sering calon jemaah, dalam 12 bulan sebelum memutuskan mendaftar, sengaja mencari dan tanpa sengaja menemukan informasi masa tunggu dari berbagai sumber.
+- Paparan: seberapa sering calon jemaah, dalam 12 bulan sebelum memutuskan mendaftar, memperoleh informasi masa tunggu haji dari berbagai sumber, baik dengan sengaja mencarinya maupun tanpa mencarinya.
 - Seeking: usaha aktif nyari informasi tertentu di luar kebiasaan sehari-hari. Scanning: informasi yang didapet dalam kebiasaan sehari-hari tanpa dicari dengan sengaja (Niederdeppe, et al., 2007:155).
 - Respons kognitif: tingkat pemahaman yang dirasakan atas penjelasan petugas. Afektif: kuat lemahnya reaksi emosi (terkejut dan khawatir). Konatif: kuat lemahnya niat menindaklanjuti (nanya petugas, ngecek lewat aplikasi).
 
@@ -346,13 +354,13 @@ Ditambahkan 21 November 2026. Bentuknya ngikutin templat jawaban sempro yang ber
 
 ### 7.1 Pendahuluan: "Kenapa judul ini, masalahnya apa, pentingnya apa?"
 
-"Izin menjawab, Bapak/Ibu. Selama PPM di Kantor Kementerian Haji dan Umrah Kabupaten Bandung, saya mengamati respons calon jemaah yang beragam ketika petugas menyampaikan estimasi keberangkatan, padahal penjelasannya sama. Belum diketahui apakah perbedaan itu berkaitan dengan informasi masa tunggu yang mereka peroleh sebelum mendaftar. Dari penelitian haji yang saya telusuri, kaitan itu belum saya temukan diteliti. Karena itu, penelitian ini bertujuan mengetahui ada tidaknya hubungan antara paparan informasi sebelum mendaftar dan respons kognitif, afektif, serta konatif calon jemaah."
+"Izin menjawab, Bapak/Ibu. Selama PPM di Kantor Kementerian Haji dan Umrah Kabupaten Bandung, saya mengamati respons calon jemaah yang beragam ketika petugas menyampaikan estimasi keberangkatan, padahal penjelasannya sama. Belum diketahui apakah perbedaan itu berkaitan dengan informasi masa tunggu yang mereka peroleh sebelum mendaftar. Dari penelitian haji yang saya telusuri, saya belum menemukan penelitian yang mengkaji kaitan itu. Karena itu, penelitian ini bertujuan mengetahui ada tidaknya hubungan antara paparan informasi sebelum mendaftar dan respons kognitif, afektif, serta konatif calon jemaah."
 
 Catatan: templat aslinya minta "alasan/dampak". Lu ga punya data dampak, jadi yang disebut "belum diketahui", bukan akibat buruknya.
 
 ### 7.2 Teori: "Pakai teori apa, dari siapa, dan kerangka berpikirnya gimana?"
 
-"Izin menjawab, Bapak/Ibu. Tidak ada satu teori yang memuat paparan informasi dan ketiga jenis respons sekaligus, sehingga saya memakai beberapa konsep secara terbatas. Paparan saya ukur dengan pembedaan *seeking* dan *scanning* dari Niederdeppe dkk. (2007). Respons saya bagi menjadi kognitif, afektif, dan konatif mengikuti Breckler (1984), masing-masing dijelaskan dengan model Eveland (2001), Zeithaml dkk. (1993) bersama Roseman dkk. (1996), dan konsep niat Ajzen (1991). Hubungan paparan dengan tiap respons adalah dugaan saya yang diuji, sehingga hipotesisnya tidak berarah."
+"Izin menjawab, Bapak/Ibu. Tidak ada satu teori yang memuat paparan informasi dan ketiga jenis respons sekaligus, sehingga saya memakai beberapa konsep secara terbatas. Paparan saya ukur dengan pembedaan *seeking* dan *scanning* dari Niederdeppe dkk. (2007). Respons saya bagi menjadi kognitif, afektif, dan konatif mengikuti Breckler (1984). Respons kognitif saya jelaskan dengan model Eveland (2001). Respons afektif saya jelaskan dengan Zeithaml dkk. (1993) dan Roseman dkk. (1996). Respons konatif saya jelaskan dengan konsep niat Ajzen (1991). Hubungan paparan dengan tiap respons adalah dugaan saya yang diuji, sehingga hipotesisnya tanpa arah."
 
 Catatan: templat aslinya nganggep teorinya satu. Punya lu beberapa, jadi kalimat pertama itu yang paling penting.
 
@@ -362,11 +370,11 @@ Catatan: templat aslinya nganggep teorinya satu. Punya lu beberapa, jadi kalimat
 
 ---
 
-## Verdik formatif
+## Penilaian sementara
 
 **SIAP DENGAN PERBAIKAN.** Naskah udah jujur soal batas teorinya (hubungan X dan Y itu dugaan peneliti) dan batas desainnya (hubungan bukan sebab akibat, consecutive, Slovin). Tiga bolong kecil (bias ingatan, rasa sungkan responden, kata "manfaat") sudah diperbaiki di naskah 21 November 2026. Yang harus diberesin sebelum sempro:
 
 1. Soal 4.4 dan 4.5: butir Y susunan sendiri dan Cronbach buat X. Bawa ke pembimbing, ini paling mungkin diserang.
 2. Soal 2.2: lu harus lancar bilang "ini dugaan saya, bukan isi teorinya" tanpa gelagapan.
 
-Yang harus lu cek sendiri: tempat dan kata kunci penelusuran (3.2), jenis sumber penelitian terdahulu (3.3), usia minimal (4.11), nama aplikasi dan jeda 3 hari (5.5).
+Yang harus lu cek sendiri: usia minimal (4.11), nama aplikasi dan jeda 3 hari (5.5). Tempat dan kata kunci penelusuran (3.2) serta jenis sumber penelitian terdahulu (3.3) sudah diisi 22 November 2026, tinggal dihafal.
