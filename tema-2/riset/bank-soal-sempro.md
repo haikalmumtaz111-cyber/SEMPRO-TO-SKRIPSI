@@ -428,13 +428,30 @@ Kalimat ke penguji: "Baik, Pak/Bu. Yang saya perlakukan sebagai interval adalah 
 
 Sasaran: `proposal.md:159`.
 
-Arah jawaban: risikonya ada dan udah dicatat sebagai keterbatasan. Naskah ga nambahin pengaman apa-apa buat itu. Kalau penguji minta pengaman, yang paling umum namanya koreksi Bonferroni: batas 0,05 dibagi jumlah uji. Uji lu tiga, jadi batasnya 0,05 : 3 = sekitar 0,017. Hasil baru dibilang signifikan kalau Sig. di bawah 0,017. Gunanya biar peluang ketipu kebetulan dari tiga uji itu tetap sekitar 5%. Jangan nyebut nama Bonferroni duluan. Sebut kalau penguji yang nanya.
+Modal buat soal ini cuma tiga kalimat:
+1. Sesudah data dimasukkan, SPSS ngeluarin satu angka namanya Sig.
+2. Sig. di bawah 0,05: lu tulis "ada hubungan". Itu yang disebut hasilnya signifikan. Sig. 0,05 atau lebih: lu tulis "tidak terbukti ada hubungan".
+3. 0,05 itu 5%. Tiap satu kali ngetes, ada kemungkinan 5% lu ketipu: SPSS bilang ada hubungan, padahal aslinya ga ada.
+
+"Signifikan cuma kebetulan" itu ya ketipu tadi: Sig.-nya di bawah 0,05, padahal aslinya ga ada hubungan.
+
+Maksud soalnya: lu ngetes tiga kali (paham, kaget dan khawatir, niat). Tiga kali ngetes berarti tiga kali kesempatan ketipu, jadi kemungkinan minimal satu dari tiga itu ketipu lebih besar, sekitar 14%. Angka 14 itu hasil menggabungkan tiga kali 5%, bukan angka dari naskah.
+
+Arah jawaban: risikonya ada dan sudah dicatat sebagai keterbatasan. Naskah ga nambahin pengaman apa-apa buat itu.
+
+Kalimat ke penguji: "Betul, Pak/Bu, risikonya ada. Karena tiga hipotesis diuji sekaligus, peluang saya salah menyimpulkan ada hubungan menjadi lebih besar. Itu saya tulis sebagai keterbatasan."
+
+Kalau penguji minta pengaman, yang paling umum namanya koreksi Bonferroni: batas 0,05 dibagi jumlah uji. Uji lu tiga, jadi batasnya 0,05 : 3 = sekitar 0,017. Hasil baru dibilang signifikan kalau Sig. di bawah 0,017. Jangan nyebut nama Bonferroni duluan. Kalau penguji yang nyebut, jawab: "Baik, Pak/Bu, itu bisa saya tambahkan."
 
 ### 4.11 "Kenapa minimal 17 tahun?"
 
 Sasaran: kriteria `proposal.md:140`.
 
-Arah jawaban: di catatan keputusan, batas 17 tahun statusnya masih usulan. `[PERLU VERIFIKASI]`: cek syarat usia minimal pendaftar haji di aturan resmi, lalu putusin alasannya (misal kemampuan ngisi kuesioner sendiri). Jangan jawab tanpa dasar.
+Arah jawaban: batas 17 tahun itu pilihan lu, bukan aturan pendaftaran haji. Keputusan lu 22 November 2026: alasannya, usia 17 tahun itu usia orang sudah punya KTP, jadi dianggap sudah bisa mengisi kuesioner sendiri dan memberi persetujuan sendiri. Naskah belum memuat alasan ini.
+
+Kalimat ke penguji: "Batas 17 tahun itu pilihan saya, Pak/Bu, bukan aturan pendaftaran haji. Saya memilihnya supaya responden sudah dapat mengisi kuesioner dan memberi persetujuan sendiri."
+
+Soal usia minimal mendaftar haji menurut aturan: penelusuran web 22 November 2026 hasilnya ga seragam. Sebagian media menulis batas usia jemaah sekarang 13 tahun menurut UU Nomor 14 Tahun 2025, ada yang menulis syarat daftar haji reguler minimal 12 tahun, dan teks aturan resminya ga ketemu. Jadi jangan nyebut angka aturannya. `[PERLU VERIFIKASI]`: tanya ke kantor. Kalau ditanya angkanya: "Angka pastinya belum saya cek ke aturan terbaru, Pak/Bu. Akan saya pastikan ke kantor."
 
 ---
 
