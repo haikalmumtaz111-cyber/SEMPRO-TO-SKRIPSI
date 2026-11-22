@@ -435,6 +435,10 @@ Modal buat soal ini cuma tiga kalimat:
 
 "Signifikan cuma kebetulan" itu ya ketipu tadi: Sig.-nya di bawah 0,05, padahal aslinya ga ada hubungan.
 
+Ketipu itu bukan berarti Sig. di bawah 0,05 pasti salah. Ibarat alarm motor: alarm bunyi biasanya karena ada maling, tapi sekali-sekali bunyi gara-gara kucing loncat ke jok. Alarm bunyi itu Sig. di bawah 0,05, maling itu hubungan yang benar-benar ada, kucing itu kebetulan. Kebanyakan memang maling, tapi lu ga bisa 100% yakin. Tiga hipotesis itu ibarat tiga motor dengan tiga alarm: kemungkinan salah satunya bunyi gara-gara kucing lebih besar.
+
+Satu lagi: Sig. 0,05 atau lebih itu "tidak terbukti ada hubungan", bukan "tidak ada hubungan". Alarm ga bunyi bukan berarti pasti ga ada maling.
+
 Maksud soalnya: lu ngetes tiga kali (paham, kaget dan khawatir, niat). Tiga kali ngetes berarti tiga kali kesempatan ketipu, jadi kemungkinan minimal satu dari tiga itu ketipu lebih besar, sekitar 14%. Angka 14 itu hasil menggabungkan tiga kali 5%, bukan angka dari naskah.
 
 Arah jawaban: risikonya ada dan sudah dicatat sebagai keterbatasan. Naskah ga nambahin pengaman apa-apa buat itu.

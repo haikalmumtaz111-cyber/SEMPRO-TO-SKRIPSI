@@ -115,3 +115,11 @@ Yang gagal, menurut user sendiri:
 - Lompatan dari "aslinya ga nyambung" ke "berarti nyambung beneran" membingungkan. User menangkapnya sebagai dua pernyataan yang bertentangan. Cara pikir "andaikan tidak ada hubungan, lalu tunjukkan andaian itu tidak masuk akal" belum masuk.
 
 Saran untuk percobaan berikutnya (usul Claude, belum dicoba): jangan pakai andaian sama sekali. Mulai dari aturan pakai saja: SPSS mengeluarkan angka Sig., kalau di bawah 0,05 tulis "ada hubungan", kalau 0,05 atau lebih tulis "tidak terbukti ada hubungan". Arti di baliknya baru dijelaskan kalau user bertanya, satu langkah per pesan, dan tiap langkah ditanya dulu sudah masuk atau belum.
+
+## Signifikansi 0,05, percobaan ketiga (22 November 2026 malam)
+
+User sendiri yang membuka lagi topik ini lewat bank soal 4.10. Yang dipakai kali ini: aturan pakai tiga kalimat (SPSS mengeluarkan Sig., di bawah 0,05 ditulis "ada hubungan", 0,05 itu kemungkinan 5% tertipu), tanpa cerita andaian.
+
+Yang sempat salah tangkap: user mengira Sig. di bawah 0,05 berarti pasti tertipu. Diluruskan dengan perumpamaan alarm motor: alarm bunyi biasanya karena maling, sekali-sekali karena kucing loncat ke jok. Alarm bunyi adalah Sig. di bawah 0,05, maling adalah hubungan yang benar ada, kucing adalah kebetulan. Tiga hipotesis ibarat tiga alarm. Diluruskan juga bahwa Sig. 0,05 atau lebih berarti "tidak terbukti ada hubungan", bukan "tidak ada hubungan".
+
+User belum mengonfirmasi apakah penjelasan alarm ini sudah masuk, karena sesi ditutup untuk tidur. Tanyakan dulu sebelum melanjutkan.
