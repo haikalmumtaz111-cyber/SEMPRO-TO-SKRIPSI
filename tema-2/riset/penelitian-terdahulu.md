@@ -78,3 +78,9 @@ Ada di repositori UIN, judul sudah dicek, abstrak belum dibaca: Aqiila (2026) ht
 Gymnastiar (2026) https://digilib.uinsgd.ac.id/138322/ , Akbar (2026) https://digilib.uinsgd.ac.id/139493/ .
 Tidak ditemukan atau belum dicari: Budiman (2014), Khoirunnisak (2026), MAARIF Institute (2026),
 Yavetz & Aharony (2022), Ernungtyas & Boer (2023), Wahyuni dkk. (2026).
+
+## Cek rujukan Ardiansyah untuk tiga jenis respons (22 November 2026)
+
+Dibaca Claude dari berkas BAB II dan Daftar Pustaka yang dikirim user. Di halaman 33, Ardiansyah menulis bahwa respons dapat dibedakan menjadi respons kognitif (pengetahuan dan informasi), afektif (perasaan atau emosi), dan konatif (kecenderungan bertindak). Paragraf itu tidak memuat sitasi. Nama Breckler tidak ada di Daftar Pustakanya. Paragraf berikutnya memakai empat indikator: kognitif, afektif, konatif, dan partisipasi, dengan konatif diartikan sebagai tindakan nyata (memilih umrah, mengundurkan diri dari pelunasan, mempertahankan nomor porsi).
+
+Akibatnya untuk tema 2: kalimat naskah "Pembedaan respons kognitif, afektif, dan konatif juga dipakai Ardiansyah (2026:33)" benar dan halamannya cocok. Yang tidak boleh diklaim: Ardiansyah merujuk Breckler.

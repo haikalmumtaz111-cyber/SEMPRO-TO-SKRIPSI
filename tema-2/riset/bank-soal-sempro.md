@@ -117,7 +117,7 @@ Kalimat ke penguji: "Betul, Pak/Bu, itu kelemahan kerangka saya, dan saya tulis 
 
 Sasaran: `proposal.md:54`.
 
-Arah jawaban: ga. Breckler (1984:1191) ngebahas kognitif, afektif, konatif sebagai komponen sikap. Lu cuma minjem pembagiannya buat ngelompokin respons, dan ga ngukur sikap sebagai satu kesatuan. Tiga respons dihitung sendiri-sendiri, dan alasan yang ditulis naskah: tiap respons dijelaskan teori yang berbeda dan arah hubungannya belum tentu sama. Pembagian yang sama dipakai Ardiansyah (2026:33) buat respons jemaah terhadap kebijakan masa tunggu.
+Arah jawaban: ga. Breckler (1984:1191) ngebahas kognitif, afektif, konatif sebagai komponen sikap. Lu cuma minjem pembagiannya buat ngelompokin respons, dan ga ngukur sikap sebagai satu kesatuan. Tiga respons dihitung sendiri-sendiri, dan alasan yang ditulis naskah: tiap respons dijelaskan teori yang berbeda dan arah hubungannya belum tentu sama. Ardiansyah (2026:33) juga ngebagi respons jemaah terhadap kebijakan masa tunggu jadi tiga jenis yang sama: kognitif, afektif, konatif. Sudah dicek ke BAB II dan Daftar Pustaka skripsinya (22 November 2026): di paragraf itu Ardiansyah ga ngutip siapa pun, dan nama Breckler ga ada di daftar pustakanya. Jadi jangan bilang Ardiansyah juga pakai Breckler. Yang boleh lu bilang cuma: pembagian tiga itu pernah dipakai buat jemaah haji. Dua beda yang perlu lu tau kalau ditanya: Ardiansyah nambah satu jenis lagi, yaitu partisipasi, dan konatif versi dia itu tindakan nyata (misalnya milih umrah atau mundur dari pelunasan), sedangkan konatif versi lu itu niat.
 
 ### 2.4 "Pakai TPB tapi sikap, norma subjektif, sama kontrol perilaku ga diukur. Itu bukan TPB namanya."
 
