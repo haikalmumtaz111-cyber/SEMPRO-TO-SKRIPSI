@@ -196,6 +196,16 @@ Sasaran: `proposal.md:12`, `proposal.md:60`.
 
 Arah jawaban: dipakai sebagai bukti di luar haji bahwa seeking dan scanning berhubungan dengan sikap dan niat. Buat haji, lu belum nemu buktinya, dan itu yang mau lu isi. Jangan klaim temuan Lewis berlaku buat jemaah.
 
+Relevansinya ada di konsepnya: Lewis ngukur seeking dan scanning dan ngehubunginnya ke sikap dan niat, lu juga pakai konsep yang sama.
+
+Tiga kata yang harus dijaga waktu ngomong: Lewis "menemukan", bukan "membuktikan". Di haji "belum saya temukan penelitiannya", bukan "belum terbukti". Hubungan itu "akan saya uji", bukan "akan saya buktikan", karena hasilnya bisa aja ga ada hubungan.
+
+Kalimat ke penguji: "Betul, Pak/Bu, penelitian Lewis tentang informasi kesehatan. Relevansinya ada pada konsepnya. Lewis menemukan bahwa *seeking* dan *scanning* berhubungan dengan sikap dan niat berperilaku, dan saya memakai konsep yang sama. Untuk calon jemaah haji, penelitian seperti itu belum saya temukan. Karena itu saya tidak menganggap temuan Lewis berlaku untuk jemaah. Hubungan itu yang akan saya uji."
+
+Status naskah Lewis (dari catatan riset): naskah lengkapnya belum dipegang karena aksesnya tertutup. Yang dipegang cuma abstrak dan data tambahan resmi (Tabel 3). Halaman 468 yang dikutip di naskah itu halaman abstraknya. Jangan nyebut angka hubungan seeking atau scanning dengan niat, karena angka itu ga ada di abstrak.
+
+Kalimat ke penguji kalau ditanya angkanya: "Saya baru membaca abstraknya, Pak/Bu. Naskah lengkapnya belum saya peroleh."
+
 ---
 
 ## 4. Kenapa metode ini (metode)
