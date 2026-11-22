@@ -270,6 +270,12 @@ Sasaran: `proposal.md:147`.
 
 Arah jawaban: diisi langsung biar responsnya masih segar, itu kekuatannya. Kelemahannya: responden bisa sungkan ngaku ga paham di depan kantor yang baru ngelayanin dia, apalagi kalau butirnya dibacain dan jawabannya dimasukin peneliti. Risiko ini sudah ditulis sebagai keterbatasan di Teknik Pengumpulan Data (ditambahkan 21 November 2026). Pengamannya: kuesioner ga minta nama, dan lembar persetujuan nyatain jawaban dirahasiakan serta ga ngaruh ke pendaftaran.
 
+Maksud pertanyaannya: apakah jemaah menjawab dengan jujur. Kelemahan yang dimaksud: orang yang aslinya belum paham bisa nulis "paham" karena ga enak sama petugas yang baru ngelayanin dia.
+
+Kalimat ke penguji (versi lu sendiri, sudah dirapikan): "Saya tidak dapat menjamin sepenuhnya, Pak/Bu. Kuesioner diisi langsung sesudah penjelasan petugas supaya respons jemaah masih baru. Kalau diisi di rumah, rasa terkejut dan khawatirnya sudah berubah. Kelemahannya, responden dapat merasa sungkan menyatakan belum paham karena masih berada di kantor, terlebih kalau butirnya saya bacakan. Risiko itu saya tulis sebagai keterbatasan. Untuk menguranginya, kuesioner tidak meminta nama, dan jawaban dinyatakan dirahasiakan serta tidak memengaruhi proses pendaftaran."
+
+Tiga hal yang dijaga waktu ngomong: jawab dulu pertanyaannya ("tidak dapat menjamin sepenuhnya") sebelum cerita alasan. Bilang "untuk menguranginya", bukan "untuk mengatasinya", karena tanpa nama dan dirahasiakan cuma ngurangin rasa sungkan. Jangan nambah "atau masa tunggu", karena naskah cuma nulis "tidak memengaruhi proses pendaftaran".
+
 ### 4.3b ★ "Kuesionernya lewat HP. Jemaah yang ga punya HP atau ga bisa pakai formulir gimana?"
 
 Sasaran: Teknik Pengumpulan Data `proposal.md:147`.
