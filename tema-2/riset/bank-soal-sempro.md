@@ -411,6 +411,19 @@ Sasaran: `proposal.md:159`.
 
 Arah jawaban: yang diperlakuin interval itu skor total (jumlah beberapa butir), bukan satu butir. Sebelum Pearson, sebaran data diuji normalitasnya dulu (Machali, 2021:156). Kalau ga normal, pakai Rank Spearman (Machali, 2021:151). Jadi udah ada rencana cadangan.
 
+Tiga istilah di soal ini:
+- Ordinal: angka yang cuma nunjukin urutan. Juara 1, 2, 3 lomba lari: tau siapa lebih cepat, ga tau selisih waktunya.
+- Interval: urut, dan jarak antarangkanya sama. Dari 21 ke 22 sama jauhnya dengan dari 41 ke 42.
+- Likert itu ordinal, karena jarak dari "ragu-ragu" ke "setuju" belum tentu sama dengan jarak dari "setuju" ke "sangat setuju".
+
+Maksud serangan penguji: Pearson butuh angka interval, sedangkan jawaban Likert itu ordinal.
+
+Jawabannya dua lapis.
+- Lapis 1: yang dipakai skor total, bukan satu butir. Satu butir cuma punya 5 kemungkinan angka (1 sampai 5). Bagian kaget dan khawatir punya 4 butir, jadi totalnya bisa 4 sampai 20, yaitu 17 kemungkinan angka. Skor total seperti itu oleh banyak peneliti diperlakukan sebagai interval. "Diperlakukan" artinya dianggap, dan ada ahli yang ga setuju.
+- Lapis 2: ada rencana cadangan. Datanya dicek normal atau ga. Kalau normal pakai Pearson, kalau ga normal pakai Rank Spearman, yang memang buat data ordinal. Lapis 2 ini yang bikin lu aman.
+
+Kalimat ke penguji: "Baik, Pak/Bu. Yang saya perlakukan sebagai interval adalah skor total dari beberapa butir, bukan satu butir. Sebelum memakai Pearson, sebaran datanya saya uji normalitasnya dulu. Kalau tidak normal, saya memakai Rank Spearman, yang memang untuk data ordinal."
+
 ### 4.10 "Tiga hipotesis diuji bareng. Ga takut ada yang signifikan cuma kebetulan?"
 
 Sasaran: `proposal.md:159`.
