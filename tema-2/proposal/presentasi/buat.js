@@ -6,6 +6,7 @@ const pptxgen = require("pptxgenjs");
 const { applyTheme } = require(process.env.SKILL_PPTX + "/scripts/apply_theme.js");
 
 const OUT = process.argv[2];
+const LOGO = require("path").join(__dirname, "logo-uin.png");
 
 const THEME = {
   name: "Sempro Haji",
@@ -33,8 +34,8 @@ pres.defineSlideMaster({
   title: "JUDUL",
   background: { color: C.text2 },
   objects: [
-    { placeholder: { options: { name: "title", type: "title", x: 0.6, y: 1.35, w: 8.8, h: 1.75, fontSize: 25, bold: true, color: C.background1, align: "left", valign: "top", margin: 0 }, text: "" } },
-    { placeholder: { options: { name: "body", type: "body", x: 0.6, y: 3.15, w: 8.8, h: 0.6, fontSize: 15, color: C.accent3, align: "left", valign: "top", margin: 0 }, text: "" } },
+    { placeholder: { options: { name: "title", type: "title", x: 0.6, y: 1.9, w: 8.8, h: 1.3, fontSize: 23, bold: true, color: C.background1, align: "left", valign: "top", margin: 0 }, text: "" } },
+    { placeholder: { options: { name: "body", type: "body", x: 0.6, y: 3.25, w: 8.8, h: 0.35, fontSize: 14, color: C.accent3, align: "left", valign: "top", margin: 0 }, text: "" } },
   ],
 });
 
@@ -77,16 +78,19 @@ function nomor(s, n, x, y, d, nama) {
 
 function slide1() {
   const s = pres.addSlide({ masterName: "JUDUL", sectionTitle: seksi });
-  teks(s, "SEMINAR USULAN PROPOSAL SKRIPSI", { x: 0.6, y: 0.7, w: 8.8, h: 0.35, fontSize: 13, bold: true, color: C.accent2, charSpacing: 3, objectName: "Label seminar" });
+  // logo di atas kartu putih, karena tulisan logonya hitam
+  s.addShape(S.ROUNDED_RECTANGLE, { x: 0.6, y: 0.4, w: 0.98, h: 1.28, rectRadius: 0.08, fill: { color: C.background1 }, line: { color: C.background1, width: 0.5 }, objectName: "Alas logo" });
+  s.addImage({ path: LOGO, x: 0.715, y: 0.49, w: 0.75, h: 1.075, altText: "Logo UIN Sunan Gunung Djati Bandung", objectName: "Logo UIN" });
+  teks(s, "SEMINAR USULAN PROPOSAL SKRIPSI", { x: 1.85, y: 0.72, w: 7.5, h: 0.32, fontSize: 13, bold: true, color: C.accent2, charSpacing: 3, objectName: "Label seminar" });
+  teks(s, "Program Studi Manajemen Haji dan Umrah, Fakultas Dakwah dan Komunikasi", { x: 1.85, y: 1.06, w: 7.5, h: 0.28, fontSize: 12, color: C.accent3, objectName: "Prodi" });
   s.addText("Hubungan Paparan Informasi Sebelum Pendaftaran dengan Respons Calon Jemaah Haji terhadap Informasi Masa Tunggu Keberangkatan", { placeholder: "title" });
   s.addText("Survei pada Calon Jemaah Haji di Kantor Kementerian Haji dan Umrah Kabupaten Bandung", { placeholder: "body" });
-  teks(s, "Mumtaaz Haekal", { x: 0.6, y: 4.1, w: 5, h: 0.35, fontSize: 18, bold: true, color: C.background1, objectName: "Nama" });
-  teks(s, "NIM 1234070111", { x: 0.6, y: 4.45, w: 5, h: 0.3, fontSize: 13, color: C.accent3, objectName: "NIM" });
-  teks(s, [
-    { text: "Program Studi Manajemen Haji dan Umrah", options: { breakLine: true } },
-    { text: "Fakultas Dakwah dan Komunikasi", options: { breakLine: true } },
-    { text: "UIN Sunan Gunung Djati Bandung, 2026" },
-  ], { x: 5.2, y: 4.1, w: 4.2, h: 0.95, fontSize: 12, color: C.accent3, align: "right", objectName: "Lembaga" });
+  teks(s, "DISUSUN OLEH", { x: 0.6, y: 3.95, w: 4.2, h: 0.24, fontSize: 10, bold: true, color: C.accent2, charSpacing: 2, objectName: "Label penyusun" });
+  teks(s, "Mumtaaz Haekal", { x: 0.6, y: 4.2, w: 4.2, h: 0.36, fontSize: 18, bold: true, color: C.background1, objectName: "Nama" });
+  teks(s, "NIM 1234070111", { x: 0.6, y: 4.57, w: 4.2, h: 0.28, fontSize: 13, color: C.accent3, objectName: "NIM" });
+  teks(s, "DOSEN PEMBIMBING", { x: 5.2, y: 3.95, w: 4.2, h: 0.24, fontSize: 10, bold: true, color: C.accent2, charSpacing: 2, objectName: "Label pembimbing" });
+  teks(s, "H. Khoirizi M. Dasir, M.M.", { x: 5.2, y: 4.2, w: 4.2, h: 0.36, fontSize: 18, bold: true, color: C.background1, objectName: "Nama pembimbing" });
+  teks(s, "UIN Sunan Gunung Djati Bandung, 2026", { x: 5.2, y: 4.57, w: 4.2, h: 0.28, fontSize: 13, color: C.accent3, objectName: "Lembaga" });
   s.addNotes("Assalamu'alaikum warahmatullahi wabarakatuh. Perkenalkan, saya Mumtaaz Haekal dari Program Studi Manajemen Haji dan Umrah. Izinkan saya memaparkan usulan penelitian saya. Judulnya: Hubungan Paparan Informasi Sebelum Pendaftaran dengan Respons Calon Jemaah Haji terhadap Informasi Masa Tunggu Keberangkatan.");
 }
 

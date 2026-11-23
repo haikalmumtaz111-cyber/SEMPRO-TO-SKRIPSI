@@ -434,3 +434,4 @@
 - Script pembuatnya disimpan di `proposal/presentasi/buat.js`. Kalau naskah berubah, isi script ikut diubah lalu dibangun ulang.
 - Belum dikonfirmasi user: apakah presentasi memang diwajibkan dan berapa menit waktunya.
 - Lanjutan: user menyebut waktu presentasi sekitar 7 menit. Deck disusun ulang menjadi 10 slide utama (judul, latar belakang, celah penelitian, rumusan masalah, kerangka pemikiran, hipotesis, metode, populasi dan sampel, pengumpulan dan analisis data, penutup) dan 5 slide cadangan di belakang penutup (kegunaan, operasionalisasi variabel, pengumpulan data dan instrumen, teknik analisis data, keterbatasan). Catatan pembicara 10 slide utama berjumlah sekitar 530 kata.
+- Lanjutan 23 November 2026: slide judul diberi logo UIN Sunan Gunung Djati Bandung (berkas kiriman user, disimpan di `proposal/presentasi/logo-uin.png`) dan nama dosen pembimbing menurut keterangan user: H. Khoirizi M. Dasir, M.M.
