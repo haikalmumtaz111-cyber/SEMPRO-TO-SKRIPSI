@@ -457,6 +457,44 @@ Kalimat ke penguji: "Batas 17 tahun itu pilihan saya, Pak/Bu, bukan aturan penda
 
 Soal usia minimal mendaftar haji menurut aturan: penelusuran web 22 November 2026 hasilnya ga seragam. Sebagian media menulis batas usia jemaah sekarang 13 tahun menurut UU Nomor 14 Tahun 2025, ada yang menulis syarat daftar haji reguler minimal 12 tahun, dan teks aturan resminya ga ketemu. Jadi jangan nyebut angka aturannya. `[PERLU VERIFIKASI]`: tanya ke kantor. Kalau ditanya angkanya: "Angka pastinya belum saya cek ke aturan terbaru, Pak/Bu. Akan saya pastikan ke kantor."
 
+### 4.12 "Cara mengecek datanya normal atau tidak bagaimana?"
+
+Sasaran: `proposal.md:159`. Ditambahkan 23 November 2026 dari pertanyaan user.
+
+Arah jawaban: pakai SPSS, lewat menu uji normalitas. SPSS mengeluarkan angka Sig. lagi, tapi di uji ini aturannya kebalik dari uji hubungan. Sig. lebih besar dari 0,05 berarti datanya normal, lalu dipakai Pearson. Sig. 0,05 atau lebih kecil berarti datanya ga normal, lalu dipakai Rank Spearman.
+
+Kapan dikerjakan: sesudah data terkumpul. Urutannya uji coba kuesioner, ambil data ke sekurang-kurangnya 75 orang, uji normalitas, baru pilih Pearson atau Spearman.
+
+Naskah cuma menulis "diuji normalitasnya" dan ga menyebut nama ujinya. Uji yang umum dipakai di SPSS namanya Kolmogorov-Smirnov. Itu pengetahuan umum, bukan isi naskah.
+
+Kalimat ke penguji: "Dengan uji normalitas di SPSS, Pak/Bu, misalnya Kolmogorov-Smirnov. Data dianggap normal kalau nilai Sig.-nya lebih besar dari 0,05. Nama ujinya belum saya tulis di naskah, akan saya tambahkan."
+
+### 4.13 "Diuji dua sisi itu maksudnya apa?"
+
+Sasaran: `proposal.md:100`. Ditambahkan 23 November 2026 dari pertanyaan user.
+
+Jangan ketukar dua hal ini:
+- H0 lawan H1 itu soal ada hubungan atau ga ada.
+- Dua sisi itu soal arahnya. Kalau ternyata ada hubungan, arahnya boleh plus atau minus, dan dua-duanya diterima.
+
+Lanjutan perumpamaan alarm: H0 lawan H1 itu "ada maling atau ga". Dua sisi itu pintu depan (plus) dan pintu belakang (minus) dua-duanya dipasangi alarm. Satu sisi dipakai kalau peneliti sudah menebak arah, jadi cuma satu pintu yang dijaga. Istilahnya "dua sisi", bukan "dua arah". Di hasil SPSS kolomnya bertuliskan "Sig. (2-tailed)".
+
+Plus dan minusnya dilihat di angka r. Ada tanda minus di depannya berarti minus (satu naik, satu turun), ga ada berarti plus (naik bareng). Jadi dari satu uji dibaca dua angka: Sig. buat tau ada hubungan atau ga, dan r buat tau arah dan kuatnya.
+
+Di slide hipotesis, "tanpa arah, diuji dua sisi, taraf signifikansi 0,05" itu berlaku buat ketiga hipotesis, bukan satu syarat untuk tiap hipotesis.
+
+Kalimat ke penguji: "Karena hipotesis saya tanpa arah, Pak/Bu. Saya tidak menduga hubungannya positif atau negatif, jadi kedua kemungkinan itu saya uji."
+
+### 4.14 "Angka 26 tahun itu menurut siapa?"
+
+Sasaran: `proposal.md:6`, `proposal.md:10`. Ditambahkan 23 November 2026 dari pertanyaan user.
+
+Arah jawaban: dua lapis. Sumber resminya rilis Sekretariat Kabinet Republik Indonesia tanggal 28 September 2026: formula baru Kementerian Haji dan Umrah menghasilkan rata-rata antrean haji nasional 26 tahun. Dari lapangan, angka sekitar 26 tahun juga disampaikan petugas kepada pendaftar selama PPM, dan itu pengamatan lu.
+
+Kalimat ke penguji: "Menurut rilis Sekretariat Kabinet tanggal 28 September 2026, Pak/Bu. Di situ disebutkan bahwa formula baru Kementerian Haji dan Umrah menghasilkan rata-rata antrean haji nasional 26 tahun. Angka itu juga yang disampaikan petugas kepada pendaftar selama saya PPM."
+
+Tiga hal yang dijaga: bilang "rata-rata antrean", bukan "masa tunggu tiap orang". Jangan menyebut judul rilisnya, karena judulnya memuat "14 tahun". Kalau penguji menyebut 14 tahun, pakai jawaban soal 1.3.
+
 ---
 
 ## 5. Soal jebakan
