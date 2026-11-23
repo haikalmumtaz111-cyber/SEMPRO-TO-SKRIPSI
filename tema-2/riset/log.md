@@ -416,3 +416,22 @@
 - Dicatat di `riset/ringkasan-jurnal.md` bagian 7, `Sumber/daftar-pdf.md`, bank soal 3.4, dan ringkasan belajar. Naskah proposal tidak diubah. PDF tidak disimpan di repo.
 - Penilaian Claude yang belum ada di naskah: dengan 75 responden, r baru signifikan pada kira-kira 0,23 ke atas, sedangkan hubungan yang ditemukan Lewis 0,11 sampai 0,24. Dicatat sebagai bahan bimbingan sesudah seminar.
 - Tiga hal terbuka untuk sesudah seminar ada di `riset/keputusan.md` bagian pengingat.
+
+## 22 November 2026 (latihan bank soal sampai 4.11)
+
+- User berlatih menjawab bank soal satu per satu, sebagian besar dengan menjawab dulu sebelum melihat arah jawaban. Selesai: bagian 1 sampai 3 dan bagian 4 sampai soal 4.11. Belum: bagian 5 (soal jebakan), bagian 6, dan bagian 7.
+- Jawaban user yang berlawanan dengan naskah dan sudah diluruskan di bank soal: calon jemaah yang kesulitan memakai formulir tetap dibantu, bukan dikeluarkan (4.3b); syarat responden adalah mendengar sendiri penjelasan petugas, bukan datang tanpa pendamping (4.8); metode bukan pembeda dari penelitian terdahulu (3.1).
+- Kalimat jawaban versi user yang masuk bank soal: tafsir peneliti (2.5), pengaruh atau hubungan (4.1), kejujuran responden (4.3), pengisian di rumah (4.3b), asal butir (4.4), asal angka 297 (4.7), *consecutive sampling* (4.8).
+- Keputusan user: alasan batas usia 17 tahun (lihat `keputusan.md`). Usia minimal mendaftar haji menurut aturan terbaru belum terverifikasi.
+- Empat bahan untuk pembimbing dicatat di `keputusan.md` bagian pengingat.
+- Signifikansi 0,05 dibuka lagi oleh user lewat soal 4.10. Penjelasan dengan perumpamaan alarm motor belum dikonfirmasi masuk atau tidak (lihat `sorotan-user.md`).
+- Tugas berikutnya: seminar 23 November 2026. Kalau user sempat sebelum seminar, lanjut bagian 5 bank soal.
+
+## 22 November 2026 (slide presentasi seminar)
+
+- Dikerjakan atas permintaan user: `output/presentasi-sempro.pptx`, 14 slide untuk seminar proposal, isinya diambil dari `proposal/proposal.md`. Urutan: judul, latar belakang, celah penelitian, rumusan masalah, kegunaan, kerangka pemikiran, operasionalisasi variabel, hipotesis, metode, populasi dan sampel, pengumpulan data dan instrumen, teknik analisis data, keterbatasan, penutup. Tiap slide punya catatan pembicara berbahasa baku untuk latihan.
+- Tidak dimuat karena datanya tidak ada di repo: nama dosen pembimbing dan logo kampus. Angka 14 tahun dan klaim "penjelasan petugas sama" tidak dimuat, mengikuti keputusan user.
+- Script pembuatnya disimpan di `proposal/presentasi/buat.js`. Kalau naskah berubah, isi script ikut diubah lalu dibangun ulang.
+- Belum dikonfirmasi user: apakah presentasi memang diwajibkan dan berapa menit waktunya.
+- Lanjutan: user menyebut waktu presentasi sekitar 7 menit. Deck disusun ulang menjadi 10 slide utama (judul, latar belakang, celah penelitian, rumusan masalah, kerangka pemikiran, hipotesis, metode, populasi dan sampel, pengumpulan dan analisis data, penutup) dan 5 slide cadangan di belakang penutup (kegunaan, operasionalisasi variabel, pengumpulan data dan instrumen, teknik analisis data, keterbatasan). Catatan pembicara 10 slide utama berjumlah sekitar 530 kata.
+- Lanjutan 23 November 2026: slide judul diberi logo UIN Sunan Gunung Djati Bandung (berkas kiriman user, disimpan di `proposal/presentasi/logo-uin.png`) dan nama dosen pembimbing menurut keterangan user: H. Khoirizi M. Dasir, M.M.

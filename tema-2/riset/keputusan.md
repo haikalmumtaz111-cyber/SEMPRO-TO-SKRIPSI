@@ -69,6 +69,8 @@ Proposal selesai ditulis dan jadi berkas Word siap cetak (sampai Tahap 16). Semi
 
 - 22 Nov 2026: **klaim "penjelasan petugas ke tiap pendaftar itu sama" tidak dipakai** (pilihan 1 user). Klaim itu tidak ada di naskah maupun catatan riset, sebelumnya muncul di bank soal 1.2, 5.1, dan 7.1, dan sudah dicabut. Jawaban user cukup menyebut respons calon jemaah yang beragam.
 
+- 22 Nov 2026: **alasan batas usia minimal 17 tahun** (keputusan user): usia itu usia orang sudah memiliki KTP, sehingga responden dianggap sudah dapat mengisi kuesioner dan memberi persetujuan sendiri. Batas itu pilihan peneliti, bukan aturan pendaftaran haji. Alasan ini belum ditulis di naskah. Usia minimal mendaftar haji menurut aturan terbaru belum terverifikasi (sumber media menyebut 12 dan 13 tahun), perlu ditanyakan ke kantor.
+
 ## Keputusan terbuka (urut prioritas)
 
 1. Jembatan X ke Y. Kandidat: Lewis dkk. (2024), meta-analisis seeking dan scanning dengan sikap dan niat berperilaku (baru abstrak, naskah lengkap [PERLU DATA]). Lalu appraisal yang dipakai dari Roseman dkk. (1996), tiga niat satu konstruk atau dipisah, payung Y (Breckler, 1984), dan arah hipotesis. Rincian di `riset/chatgpt/evaluasi-laporan-sesi-4.md`.
