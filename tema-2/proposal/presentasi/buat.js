@@ -247,12 +247,9 @@ function slide8() {
       { text: "Terdapat hubungan yang signifikan." },
     ], { x: x + 0.2, y: 2.95, w: 2.5, h: 0.7, fontSize: 13, color: C.text1, objectName: "Hipotesis " + b[0] + " satu" });
   });
-  const c = ["Tanpa arah", "Uji dua sisi", "Taraf signifikansi 0,05"];
-  c.forEach((t, i) => {
-    const x = 0.5 + i * 3.07;
-    s.addShape(S.ROUNDED_RECTANGLE, { x, y: 4.05, w: 2.87, h: 0.6, rectRadius: 0.3, fill: { color: C.text2 }, line: { color: C.text2, width: 0.5 }, objectName: "Pil " + (i + 1) });
-    teks(s, t, { x, y: 4.05, w: 2.87, h: 0.6, fontSize: 15, bold: true, color: C.background1, align: "center", valign: "middle", objectName: "Pil " + (i + 1) + " teks" });
-  });
+  // satu batang untuk ketiga hipotesis, supaya tidak terbaca satu syarat per hipotesis
+  s.addShape(S.ROUNDED_RECTANGLE, { x: 0.5, y: 4.05, w: 9.01, h: 0.6, rectRadius: 0.3, fill: { color: C.text2 }, line: { color: C.text2, width: 0.5 }, objectName: "Batang syarat" });
+  teks(s, "Berlaku untuk ketiganya: tanpa arah, diuji dua sisi, taraf signifikansi 0,05", { x: 0.5, y: 4.05, w: 9.01, h: 0.6, fontSize: 15, bold: true, color: C.background1, align: "center", valign: "middle", objectName: "Batang syarat teks" });
   s.addNotes("Hipotesisnya ada tiga pasang, satu untuk tiap respons. Hipotesis nolnya: tidak terdapat hubungan yang signifikan antara paparan informasi dan respons tersebut. Hipotesis alternatifnya: terdapat hubungan yang signifikan. Ketiga hipotesis saya rumuskan tanpa arah, karena hubungan paparan dengan tiap respons merupakan dugaan saya, bukan pernyataan teorinya. Semuanya diuji dua sisi pada taraf signifikansi 0,05.");
 }
 
