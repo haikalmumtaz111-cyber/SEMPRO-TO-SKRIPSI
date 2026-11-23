@@ -63,6 +63,9 @@ let seksi = "";
 function slideIsi(judul) {
   const s = pres.addSlide({ masterName: "ISI", sectionTitle: seksi });
   s.addText(judul, { placeholder: "title" });
+  if (seksi === "Slide cadangan") {
+    s.addText("LAMPIRAN", { isTextBox: true, x: 7.9, y: 0.5, w: 1.6, h: 0.36, margin: 0, fontSize: 11, bold: true, color: C.accent2, align: "right", valign: "middle", charSpacing: 3, objectName: "Tanda lampiran" });
+  }
   return s;
 }
 function teks(s, t, o) {
