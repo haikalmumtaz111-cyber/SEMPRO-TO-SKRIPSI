@@ -96,6 +96,8 @@ Status keduanya: baru dilihat judulnya di tangkapan layar OpenAlex kiriman user.
 
 **Bahan untuk pembimbing yang muncul dari latihan bank soal 22 November 2026** (penilaian Claude, belum ada di naskah, user belum memutuskan apa pun): (1) skor utama Y kognitif adalah pemahaman yang dirasakan, padahal model Eveland berujung pada pengetahuan, sehingga perlu dibahas mana yang jadi skor utama, dan alasan keputusan 11 November tidak tercatat; (2) tujuh butir paparan menanyakan sumber yang berbeda sehingga Alpha Cronbach-nya bisa rendah (bank soal 4.5); (3) butir Y disusun sendiri, usul agar kalimat tiap butir dinilai pembimbing sebelum uji coba (bank soal 4.4); (4) alasan batas kategori di angka 5 tidak tercatat (bank soal 4.2). (5) nama uji normalitas belum ditulis di naskah (bank soal 4.12).
 
+**Keterbatasan yang belum ditulis di naskah (dicatat atas permintaan user, 24 November 2026, dari latihan soal 5.3):** orang yang tidak jadi mendaftar sesudah mengetahui masa tunggu tidak termasuk responden. Fakta: hasil hanya berlaku bagi calon jemaah yang tetap mendaftar. Dugaan Claude: orang yang paling terkejut bisa saja justru tidak jadi mendaftar sehingga ragam respons yang tertangkap lebih sempit dan hubungan yang ditemukan bisa lebih lemah daripada keadaan sebenarnya. Usul tempat: bagian populasi dan sampel, satu sampai dua kalimat, dikerjakan saat revisi sesudah seminar. User belum memutuskan isi kalimatnya.
+
 Pengingat lain yang sudah ada: masukan penguji difoto dan dikirim hari itu juga (`riset/roadmap-sempro.md`), dan penjelasan signifikansi 0,05 masih ditunda (`riset/sorotan-user.md`).
 
 ## Tugas Claude

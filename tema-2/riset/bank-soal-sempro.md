@@ -517,6 +517,8 @@ Arah jawaban: sudah diperbaiki 21 November 2026. Kata "manfaat" diganti jadi "ka
 
 Arah jawaban: betul. Sampel lu cuma orang yang tetap daftar. Orang yang batal daftar sesudah tau masa tunggu ga ikut disurvei, jadi hasilnya cuma berlaku buat pendaftar. `[BOLONG DI NASKAH]`: belum ditulis terang di naskah, walau sejalan dengan batas berlakunya hasil di `proposal.md:143`.
 
+Kalimat ke penguji (dilatih user 24 November 2026): "Betul, Bu. Responden saya adalah calon jemaah yang baru menyelesaikan pendaftaran, sehingga orang yang tidak jadi mendaftar tidak termasuk. Itu keterbatasan penelitian saya. Akibatnya, hasil penelitian ini hanya berlaku bagi calon jemaah yang tetap mendaftar. Ada kemungkinan orang yang paling terkejut justru tidak jadi mendaftar, sehingga hubungan yang ditemukan bisa lebih lemah daripada keadaan sebenarnya." Yang perlu dijaga: jangan bilang "bukan ranah saya", dan sebut alasan kenapa hubungannya bisa lebih lemah. Status naskah: dicatat sebagai keterbatasan yang belum ditulis di `keputusan.md`.
+
 ### 5.4 "Kalau hasilnya ga ada hubungan, gimana?"
 
 Arah jawaban: tetap temuan. Hipotesisnya tanpa arah dan dasarnya dugaan, jadi H0 diterima itu hasil yang sah. Artinya dari data ini hubungannya ga terbukti. Jangan bilang "terbukti ga ada hubungan", dan jangan nebak penyebabnya, karena naskah ga punya dasar buat itu.
@@ -526,6 +528,8 @@ Arah jawaban: tetap temuan. Hipotesisnya tanpa arah dan dasarnya dugaan, jadi H0
 Sasaran: `proposal.md:10`.
 
 Arah jawaban: dua-duanya dari pengamatan lu selama PPM, dan di naskah ditulis sebagai pengamatan. Penelusuran 11 November cuma nemu sumber media yang nyebut Satu Haji sebagai nama baru Haji Pintar, belum sumber resmi kementerian. Jeda 3 hari ga ketemu di sumber mana pun. `[PERLU VERIFIKASI]` ke kantor sebelum sempro, karena dua hal ini juga jadi kunci jawaban soal benar atau salah.
+
+Catatan latihan 24 November 2026: user sempat menjawab "memang nama resminya" dan menambahkan alasan jeda tiga hari (data dikirim ke pusat). Alasan itu dugaan user sendiri, bukan penjelasan petugas, jadi tidak boleh diucapkan. Kalimat ke penguji: "Keduanya saya peroleh dari pengamatan selama PPM, Bu. Aplikasi yang digunakan petugas dan calon jemaah saat itu bernama Satu Haji. Sumber resmi tertulis tentang nama aplikasi itu belum saya temukan, baru pemberitaan media yang menyebutnya sebagai nama baru Haji Pintar. Jeda tiga hari juga saya ketahui dari penjelasan petugas kepada calon jemaah, dan aturan tertulisnya belum saya temukan. Keduanya akan saya pastikan ke kantor sebelum pengumpulan data." Usul cek cepat: nama pengembang aplikasi di Play Store.
 
 ---
 
