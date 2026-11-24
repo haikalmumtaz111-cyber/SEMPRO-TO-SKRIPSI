@@ -204,7 +204,7 @@ Ini poin paling penting buat dipahami: **ga ada satu teori pun yang isinya "papa
 | **Fitriyani (2025)** | Alat bantu komunikasi digital ke pemahaman, KBIHU Maqdis, 54 jemaah, regresi sederhana | r = 0,696, R² = 0,484 | X alat komunikasi di tanah suci, bukan info sebelum daftar |
 | **Sukmawijaya (2024)** | Kualitas pelayanan pendaftaran ke kepuasan, Kemenag Kab. Bandung | R-Square 85,3% | Lokasi dan subjek mirip, tapi ga ada paparan info dan masa tunggu |
 | **Budiarti (2025)** | Waiting list dan kondisi finansial ke minat daftar, 120 warga Cianjur | Waiting list sig. 0,014 | Subjek belum daftar, masa tunggu jadi X |
-| **Al-Anwari (2026)** | Masa tunggu ke minat berhaji, Aceh Tamiang, 98 responden | t hitung 7,168 | Pakai TPB **lengkap**, subjek masyarakat umum |
+| **Al-Anwari (2026)** | Masa tunggu ke minat berhaji, Aceh Tamiang, 98 responden | t hitung 7,168 | Pakai TPB **lengkap**, yang diukur persepsi soal masa tunggu, respondennya warga yang sudah daftar haji minimal 1 tahun |
 
 ### Celah penelitian dalam satu kalimat
 Dampak kebijakan masa tunggu udah diteliti (Ardiansyah), masa tunggu sebagai faktor minat juga udah (Budiarti, Al-Anwari), info haji udah dihubungkan dengan pemahaman jemaah yang udah berangkat, dan pelayanan pendaftaran dengan kepuasan. Dari yang ditelusuri, **belum ditemukan** yang ngukur info masa tunggu **sebelum** daftar lalu nyambunginnya ke respons **sesudah** penjelasan petugas. Pembedanya ada di **X dan urutan waktunya**, bukan di tiga dimensi respons (Ardiansyah juga pakai) dan bukan di Y pemahaman (Ginting dan Fitriyani udah). Penelusuran terbatas di repositori satu kampus dan satu basis data.
