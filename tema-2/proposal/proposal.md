@@ -47,7 +47,30 @@ Penelitian ini diharapkan menambah kajian manajemen haji dan umrah tentang pelay
 
 Bagi Kantor Kementerian Haji dan Umrah Kabupaten Bandung, hasil penelitian ini dapat menjadi bahan pertimbangan dalam menyampaikan informasi masa tunggu kepada pendaftar, misalnya dengan menanyakan lebih dulu apa yang sudah diketahui calon jemaah. Bagi calon jemaah, penelitian ini dapat menjadi gambaran tentang kaitan antara informasi masa tunggu yang diperoleh sebelum mendaftar dan respons mereka ketika menerima penjelasan petugas.
 
-# E. Kerangka Pemikiran
+# E. Hasil Penelitian Sebelumnya
+
+Penelitian sebelumnya yang ditinjau berjumlah enam, semuanya skripsi Program Studi Manajemen Haji dan Umrah Universitas Islam Negeri (UIN) Sunan Gunung Djati Bandung yang selesai pada 2024 sampai 2026. Keenamnya dipilih karena membahas masa tunggu haji, informasi haji, atau pelayanan pendaftaran haji, yaitu tiga pokok bahasan yang bertemu dalam penelitian ini. Tinjauan berikut disusun menurut ketiga pokok bahasan itu, lalu persamaan dan perbedaannya dengan penelitian ini diringkas dalam tabel.
+
+Masa tunggu haji dibahas dalam tiga penelitian. Ardiansyah (2026:ii) meneliti dampak kebijakan penyamarataan masa tunggu menjadi 26 tahun terhadap jemaah di Kabupaten Bandung melalui studi kasus kualitatif dengan lima informan. Ia menemukan bahwa pandangan jemaah tentang adil tidaknya kebijakan itu berbeda-beda menurut posisi mereka dalam daftar tunggu dan bahwa harapan jangka panjang jemaah terganggu. Tanggapan jemaah pun terbagi antara yang menyesuaikan diri dan yang bereaksi dengan cara yang merugikan dirinya sendiri. Budiarti (2025:ii) menyurvei 120 warga Kabupaten Cianjur dan melaporkan bahwa *waiting list* berpengaruh signifikan terhadap minat mendaftar haji reguler (t hitung 2,497 > t tabel 1,658; signifikansi 0,014). Al-Anwari (2026) meneliti 98 warga usia produktif di Kabupaten Aceh Tamiang dan juga melaporkan bahwa masa tunggu berpengaruh signifikan terhadap minat melaksanakan ibadah haji (t hitung 7,168 > t tabel 1,984). Yang dikaji dalam ketiga penelitian tersebut adalah masa tunggu atau kebijakannya, sedangkan informasi tentang masa tunggu yang diperoleh calon jemaah tidak diukur.
+
+Informasi haji dibahas dalam dua penelitian, dan keduanya menghubungkannya dengan pemahaman jemaah. Ginting (2025:i) meneliti 67 jemaah haji Kelompok Bimbingan Ibadah Haji dan Umrah (KBIHU) Thuba Kabupaten Bandung dan melaporkan bahwa pelayanan informasi dan edukasi prosedur haji memengaruhi pemahaman jemaah sebesar 28,3%. Fitriyani (2025:i) meneliti 54 jemaah haji KBIHU Maqdis Bandung dan melaporkan bahwa penggunaan alat bantu komunikasi digital selama ibadah di tanah suci berpengaruh signifikan terhadap pemahaman jemaah (r = 0,696; R² = 0,484). Informasi dalam kedua penelitian itu berasal dari pembimbing KBIHU, dan respondennya jemaah yang sudah berangkat. Calon jemaah yang baru mendaftar tidak termasuk di dalamnya.
+
+Pelayanan pendaftaran haji diteliti Sukmawijaya (2024:i) pada calon jemaah yang mendaftar di Kantor Kementerian Agama Kabupaten Bandung. Ia melaporkan bahwa kualitas pelayanan pendaftaran berpengaruh terhadap kepuasan calon jemaah, dengan koefisien determinasi 85,3%. Dari keenam penelitian, subjek dan tahap layanan dalam penelitian Sukmawijaya paling dekat dengan penelitian ini karena sama-sama menyangkut calon jemaah pada saat pendaftaran di Kabupaten Bandung. Akan tetapi, yang diukur adalah penilaian calon jemaah atas pelayanan dan kepuasannya, bukan informasi masa tunggu yang mereka peroleh sebelum datang dan bukan respons mereka terhadap penjelasan petugas.
+
+Persamaan dan perbedaan keenam penelitian tersebut dengan penelitian ini disajikan pada tabel berikut.
+
+| No. | Peneliti dan judul | Persamaan | Perbedaan |
+|----|--------------------|----------------|----------------|
+| 1 | Ardiansyah (2026), *Dampak kebijakan masa tunggu jemaah di Kementerian Haji dan Umrah Kabupaten Bandung* | Membahas masa tunggu haji dan tanggapan jemaah di Kabupaten Bandung. Membedakan respons kognitif, afektif, dan konatif | Penelitian kualitatif tentang dampak kebijakan. Tidak mengukur informasi yang diperoleh calon jemaah sebelum mendaftar |
+| 2 | Budiarti (2025), *Pengaruh waiting list dan kondisi finansial terhadap minat masyarakat Kabupaten Cianjur untuk mendaftar sebagai calon jemaah haji reguler* | Membahas masa tunggu haji. Penelitian kuantitatif dengan kuesioner | Masa tunggu menjadi variabel bebas, bukan informasi tentang masa tunggu. Respondennya masyarakat yang belum mendaftar. Variabel terikatnya minat mendaftar |
+| 3 | Al-Anwari (2026), *Pengaruh masa tunggu terhadap minat masyarakat usia produktif dalam melaksanakan ibadah haji di Kabupaten Aceh Tamiang* | Membahas masa tunggu haji. Penelitian kuantitatif. Merujuk Ajzen (1991) | Respondennya masyarakat umum. *Theory of Planned Behavior* dipakai utuh dengan tiga dimensinya untuk mengukur minat, sedangkan penelitian ini hanya memakai konsep niat |
+| 4 | Ginting (2025), *Pengaruh pelayanan informasi dan edukasi prosedur haji terhadap pemahaman haji di KBIHU Thuba Kabupaten Bandung* | Menghubungkan informasi haji dengan pemahaman. Penelitian kuantitatif di Kabupaten Bandung | Informasi berasal dari pembimbing KBIHU, bukan diperoleh sebelum mendaftar. Respondennya jemaah yang sudah berangkat. Tidak mengukur reaksi emosi dan niat |
+| 5 | Fitriyani (2025), *Pengaruh penggunaan alat bantu komunikasi digital terhadap tingkat pemahaman jemaah dalam pelaksanaan ibadah haji* | Variabel terikatnya pemahaman jemaah. Penelitian kuantitatif | Variabel bebasnya alat bantu komunikasi selama ibadah di tanah suci. Respondennya jemaah yang sudah berangkat |
+| 6 | Sukmawijaya (2024), *Pengaruh kualitas pelayanan pendaftaran haji terhadap kepuasan calon jamaah tahun 2024* | Respondennya calon jemaah pada saat pendaftaran haji di Kabupaten Bandung. Penelitian kuantitatif | Variabelnya kualitas pelayanan dan kepuasan. Tidak mengukur informasi masa tunggu yang diperoleh sebelum mendaftar |
+
+Dari tinjauan tersebut terlihat bahwa masa tunggu sudah diteliti sebagai kebijakan dan sebagai faktor minat, informasi haji sudah dihubungkan dengan pemahaman jemaah, dan pelayanan pendaftaran sudah dihubungkan dengan kepuasan calon jemaah. Yang belum ditemukan dalam keenamnya adalah penelitian yang mengukur informasi masa tunggu yang diperoleh calon jemaah sebelum memutuskan mendaftar, lalu menghubungkannya dengan respons kognitif, afektif, dan konatif mereka setelah menerima penjelasan petugas. Hal itulah yang dikaji penelitian ini. Pembedanya terletak pada variabel bebas dan pada waktu pengukurannya. Pemahaman sebagai variabel terikat bukan hal baru karena sudah diteliti Ginting (2025:i) dan Fitriyani (2025:i), begitu pula pembagian tiga jenis respons, yang juga dipakai Ardiansyah (2026:33). Tinjauan ini terbatas pada enam skripsi dari satu perguruan tinggi sehingga belum dapat disimpulkan bahwa penelitian serupa tidak ada di tempat lain.
+
+# F. Kerangka Pemikiran
 
 Variabel bebas penelitian ini adalah paparan informasi masa tunggu sebelum memutuskan mendaftar. Paparan dipahami sebagai pengalaman memperoleh informasi melalui dua cara yang dibedakan Niederdeppe, et al. (2007:155), yaitu mencari dengan sengaja (*seeking*) dan memperoleh informasi dalam kebiasaan sehari-hari tanpa mencarinya dengan sengaja (*scanning*). Informasi yang diperoleh lewat *scanning* tetap memerlukan perhatian yang cukup agar tersimpan dalam ingatan dan dapat diingat kembali (Kelly, et al., 2009:722). Kelly, et al. (2009:727) mengukur keduanya dengan menanyakan pengalaman responden selama 12 bulan terakhir dari tiap sumber informasi, dan cara itu diadaptasi dalam penelitian ini.
 
@@ -81,7 +104,7 @@ Matriks operasionalisasi variabel disajikan pada tabel berikut.
 
 Skala paparan diadaptasi dari Kelly, et al. (2009:727), yang memakai jawaban ya atau tidak untuk *seeking* dan tiga kategori jumlah untuk *scanning*. Penelitian ini memakai empat kategori jumlah untuk keduanya supaya skornya dapat digabungkan, dan batas kategorinya ditetapkan peneliti. Selain butir pada tabel, kuesioner memuat tiga soal benar atau salah tentang isi penjelasan petugas. Skor soal itu dilaporkan sebagai pelengkap respons kognitif dan tidak dipakai untuk menguji hipotesis.
 
-# F. Hipotesis
+# G. Hipotesis
 
 Berdasarkan kerangka pemikiran, hipotesis penelitian ini dirumuskan sebagai berikut.
 
@@ -99,7 +122,7 @@ H~13~: Terdapat hubungan yang signifikan antara paparan informasi masa tunggu se
 
 Ketiga hipotesis dirumuskan tanpa arah dan diuji dua sisi pada taraf signifikansi 0,05.
 
-# G. Langkah-langkah Penelitian
+# H. Langkah-langkah Penelitian
 
 ## 1. Lokasi Penelitian
 
