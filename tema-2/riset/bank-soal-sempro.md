@@ -529,6 +529,8 @@ Sasaran: `proposal.md:10`.
 
 Arah jawaban: dua-duanya dari pengamatan lu selama PPM, dan di naskah ditulis sebagai pengamatan. Penelusuran 11 November cuma nemu sumber media yang nyebut Satu Haji sebagai nama baru Haji Pintar, belum sumber resmi kementerian. Jeda 3 hari ga ketemu di sumber mana pun. `[PERLU VERIFIKASI]` ke kantor sebelum sempro, karena dua hal ini juga jadi kunci jawaban soal benar atau salah.
 
+Catatan latihan 24 November 2026: user sempat menjawab "memang nama resminya" dan menambahkan alasan jeda tiga hari (data dikirim ke pusat). Alasan itu dugaan user sendiri, bukan penjelasan petugas, jadi tidak boleh diucapkan. Kalimat ke penguji: "Keduanya saya peroleh dari pengamatan selama PPM, Bu. Aplikasi yang digunakan petugas dan calon jemaah saat itu bernama Satu Haji. Sumber resmi tertulis tentang nama aplikasi itu belum saya temukan, baru pemberitaan media yang menyebutnya sebagai nama baru Haji Pintar. Jeda tiga hari juga saya ketahui dari penjelasan petugas kepada calon jemaah, dan aturan tertulisnya belum saya temukan. Keduanya akan saya pastikan ke kantor sebelum pengumpulan data." Usul cek cepat: nama pengembang aplikasi di Play Store.
+
 ---
 
 ## 6. Tambahan dari daftar pertanyaan sempro yang beredar
