@@ -1,7 +1,7 @@
 // Deck seminar proposal tema 2. Isi diambil dari tema-2/proposal/proposal.md.
 const pptxgen = require("pptxgenjs");
 // Cara pakai: pasang pptxgenjs di folder kerja sementara (npm install pptxgenjs), lalu
-//   SKILL_PPTX=<folder skill pptx> NODE_PATH=<node_modules> node buat.js <keluaran.pptx>
+//   SKILL_PPTX=<folder skill pptx> NODE_PATH=<node_modules> node buat.js <keluaran.pptx> [--cadangan]
 // Hasilnya disalin ke tema-2/output/presentasi-sempro.pptx. Kalau naskah berubah, ubah isi di sini juga.
 const { applyTheme } = require(process.env.SKILL_PPTX + "/scripts/apply_theme.js");
 
@@ -411,13 +411,17 @@ function slideGabung() {
   s.addNotes("Data dikumpulkan dengan kuesioner Google Form yang dibuka lewat kode QR atau tautan, dan diisi di kantor segera setelah penjelasan petugas. Responden yang kesulitan tetap saya bantu. Untuk analisisnya, sebaran data saya uji normalitasnya dulu. Kalau normal, saya memakai korelasi Pearson. Kalau tidak normal, saya memakai Rank Spearman. Tiap hipotesis diuji pada taraf signifikansi 0,05. Validitas dan reliabilitas kuesioner diuji setelah seminar.");
 }
 
-// ---------- urutan: 10 slide utama (sekitar 7 menit), lalu slide cadangan ----------
+// ---------- urutan: 10 slide utama (sekitar 7 menit), berhenti di slide "Terima kasih" ----------
+// Keputusan user 23 November 2026: deck berhenti di slide penutup.
+// Lima slide cadangan hanya ikut dibuat kalau script dijalankan dengan argumen --cadangan.
 seksi = "Presentasi utama";
 pres.addSection({ title: seksi });
 slide1(); slide2(); slide3(); slide4(); slide6(); slide8(); slide9(); slide10(); slideGabung(); slide14();
-seksi = "Slide cadangan";
-pres.addSection({ title: seksi });
-slide5(); slide7(); slide11(); slide12(); slide13();
+if (process.argv.includes("--cadangan")) {
+  seksi = "Slide cadangan";
+  pres.addSection({ title: seksi });
+  slide5(); slide7(); slide11(); slide12(); slide13();
+}
 
 (async () => {
   await pres.writeFile({ fileName: OUT });

@@ -123,3 +123,9 @@ User sendiri yang membuka lagi topik ini lewat bank soal 4.10. Yang dipakai kali
 Yang sempat salah tangkap: user mengira Sig. di bawah 0,05 berarti pasti tertipu. Diluruskan dengan perumpamaan alarm motor: alarm bunyi biasanya karena maling, sekali-sekali karena kucing loncat ke jok. Alarm bunyi adalah Sig. di bawah 0,05, maling adalah hubungan yang benar ada, kucing adalah kebetulan. Tiga hipotesis ibarat tiga alarm. Diluruskan juga bahwa Sig. 0,05 atau lebih berarti "tidak terbukti ada hubungan", bukan "tidak ada hubungan".
 
 User belum mengonfirmasi apakah penjelasan alarm ini sudah masuk, karena sesi ditutup untuk tidur. Tanyakan dulu sebelum melanjutkan.
+
+## Signifikansi 0,05, percobaan keempat (23 November 2026, hari seminar)
+
+User membuka lagi lewat kalimat teks presentasi "Semuanya diuji dua sisi pada taraf signifikansi 0,05". Claude menjelaskan tiga potong sekaligus (semuanya, taraf signifikansi, dua sisi) memakai alarm motor. Jawaban user: masih ngambang, belum nyantol. Jadi perumpamaan alarm motor **belum masuk**, dan menjelaskan tiga potong dalam satu pesan mengulang kesalahan yang sudah dicatat di atas.
+
+Cara yang dicoba sesudahnya: satu langkah per pesan, tiap langkah ditutup dua soal kecil yang dijawab user. Langkah 1 hanya aturan pakai, dengan Sig. dibaca sebagai persen (0,05 = 5%, 0,02 = 2%, 0,30 = 30%) supaya membandingkannya gampang. Arti 5% dan "dua sisi" baru dibuka kalau langkah 1 lolos.
