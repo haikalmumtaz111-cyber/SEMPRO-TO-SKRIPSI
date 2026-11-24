@@ -517,6 +517,8 @@ Arah jawaban: sudah diperbaiki 21 November 2026. Kata "manfaat" diganti jadi "ka
 
 Arah jawaban: betul. Sampel lu cuma orang yang tetap daftar. Orang yang batal daftar sesudah tau masa tunggu ga ikut disurvei, jadi hasilnya cuma berlaku buat pendaftar. `[BOLONG DI NASKAH]`: belum ditulis terang di naskah, walau sejalan dengan batas berlakunya hasil di `proposal.md:143`.
 
+Kalimat ke penguji (dilatih user 24 November 2026): "Betul, Bu. Responden saya adalah calon jemaah yang baru menyelesaikan pendaftaran, sehingga orang yang tidak jadi mendaftar tidak termasuk. Itu keterbatasan penelitian saya. Akibatnya, hasil penelitian ini hanya berlaku bagi calon jemaah yang tetap mendaftar. Ada kemungkinan orang yang paling terkejut justru tidak jadi mendaftar, sehingga hubungan yang ditemukan bisa lebih lemah daripada keadaan sebenarnya." Yang perlu dijaga: jangan bilang "bukan ranah saya", dan sebut alasan kenapa hubungannya bisa lebih lemah. Status naskah: dicatat sebagai keterbatasan yang belum ditulis di `keputusan.md`.
+
 ### 5.4 "Kalau hasilnya ga ada hubungan, gimana?"
 
 Arah jawaban: tetap temuan. Hipotesisnya tanpa arah dan dasarnya dugaan, jadi H0 diterima itu hasil yang sah. Artinya dari data ini hubungannya ga terbukti. Jangan bilang "terbukti ga ada hubungan", dan jangan nebak penyebabnya, karena naskah ga punya dasar buat itu.
